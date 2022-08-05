@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Egypt - Finland BIT (1980)</name>
+    <code>T1980-6</code>
+    <partyisocode n="0">EGY</partyisocode>
+    <partyisocode n="1">FIN</partyisocode>
+    <date_signed>1980-05-05</date_signed>
+    <date_into_force>1982-01-22</date_into_force>
+    <date_terminated>2005-02-05</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>1341</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{EGY,FIN}_1980-05-05.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T2004-53">Egypt - Finland BIT (2004)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE REPUBLIC OF FINLAND AND THE ARAB REPUBLIC OF EGYPT ON MUTUAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Finland and the Government of the Arab Republic of Egypt,</p>
+      <p>Desiring to expand and deepen their mutual relations in the field of economic, industrial and technical cooperation on a lasting and long term basis,</p>
+      <p>Desiring to maintain fair and equitable treatment of investments of nationals and companies of one Contracting State in the territory of the other Contracting State,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The term "investment" means every kind of asset and more particularly, though not exclusively.</p>
+        <p>a) Movable and immovable property as well as other rights, such as mortgage, lien, pledge, usufruct and similar rights;</p>
+        <p>b) Shares or other kinds of interest in companies;</p>
+        <p>c) Title to money or pecuniary claim or right to any performance having an economic value;</p>
+        <p>d) Copyrights, industrial property rights, technical processes, trade names and goodwill; and</p>
+        <p>e) Such business concessions under public law, including concessions regarding the prospecting for or the extraction or winning of natural resources, which entitle the holder to a legal position of some duration;</p>
+        <p>Provided that the investment has been made in accordance with the laws and regulations in the host country, but irrespective of whether the investment was made before or after the entry into force of this Agreement. 2. The term "national" means:</p>
+        <p>a) In respect of Finland, an individual who is a citizen of Finland according to Finnish law,</p>
+        <p>b) In respect of Egypt, an individual who is a citizen of Egypt according to Egyptian law.</p>
+        <p>3. The term "company" means:</p>
+        <p>a) In respect of Finland, any legal person with its seat in Finland or with an important Finnish interest,</p>
+        <p>b) In respect of Egypt, any legal person with its seat in Egypt or with an important Egyptian interest.</p>
+        <p>4. The meaning of the terra "important interest" is to be determined case by case by the representatives of the two Contracting States.</p>
+      </div>
+      <div type="article" num="2">
+        <p>1. Each Contracting State shall, subject to its laws and regulations, at all times ensure fair and equitable treatment to the investments of nationals and companies of the other Contracting State.</p>
+        <p>2. Investments by nationals of either Contracting State in the territory of the other Contracting State shall not be subjected to a treatment less favourable than that accorded to investments by nationals or companies of third States.</p>
+        <p>3. Notwithstanding the provisions of paragraph 2 of this Article, a Contracting State which has concluded with one or more other States an agreement regarding the formation of a customs union or a free-trade area shall be free to grant a more favourable treatment to investments by nationals and companies of the State or States which are also parties to such an agreement, or by nationals and companies of these States. A Contracting State shall also be free to grant a more favourable treatment to investments by nationals and companies of other States, if this is stipulated under bilateral agreements concluded with such States before the date of signature of this Agreement.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1. Neither Contracting State shall take any measure of expropriation, nationalization or any other dispossession directly or indirectly against the investment of a national or a company of the other Contracting State except under the following conditions:</p>
+        <p>a) The measures are taken in the public interest and under due process of law;</p>
+        <p>b) The measures are not discriminatory; and</p>
+        <p>c) The measures are accompanied by provisions for the payment of prompt, adequate and effective compensation, which shall be freely transferable in convertible currencies from the Contracting State, and the transfer is made within such a period as normally required for the completion of transfer formalities.</p>
+        <p>2. The provisions of paragraph 1 shall also apply to the current income from an investment as well as, in the event of liquidation, to the proceeds from the liquidation.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1. Each Contracting State shall, subject to its laws and regulations, allow without undue delay the transfer in any convertible currency of:</p>
+        <p>a) The net profits, dividends, royalties, technical assistance and other technical fees, interest and other current income accruing from any investment of the nationals or companies of the other Contracting State;</p>
+        <p>b) The proceeds of the total or partial liquidation of any investment made by nationals or companies of the other Contracting State;</p>
+        <p>c) Funds in repayment of borrowings by nationals or companies of one Contracting State from the nationals or companies of the other Contracting State which both Contracting States have recognized as investments; and</p>
+        <p>d) The earnings of nationals of the other Contracting State who are allowed to work in connection with an investment in its territory.</p>
+        <p>2. The Contracting States undertake to accord to transfers referred to in paragraph 1 of this Article treatment as favourable as that accorded to transfers originating from investments made by nationals of any third country.</p>
+      </div>
+      <div type="article" num="5">
+        <p>If a Contracting State makes a payment to any of its nationals or companies under a guarantee it has granted in respect of an investment, the other Contracting State shall recognize the transfer of any right or title of such national or company to that Contracting State and the subrogation of that Contracting State to any right or title.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The representatives of the Contracting States shall, whenever needed, hold meetings in order to review the complementation of this Agreement. These meetings shall be held on the proposal of one of the Contracting States at a place and at a time agreed upon through diplomatic channels.</p>
+      </div>
+      <div type="article" num="7">
+        <p>1. Any dispute which may arise between a national or a company of one Contracting State and the other Contracting State in connection with an investment on the territory of that other Contracting State or between the Contracting States with respect to the interpretation or application of this Agreement shall be subject to negotiations between the parties in dispute.</p>
+        <p>2. If the dispute cannot be resolved in accordance with the provisions of the preceeding paragraph, any of the parties concerned may demand that the dispute be submitted to arbitration in accordance with the following procedure:</p>
+        <p>a) An arbitration panel consisting of three arbitrators shall be established. Each disputing party shall designate one arbitrator and the two thus designated arbitrators shall appoint the third arbitrator, who shall be chairman. The chairman shall not be a national of a Contracting State.</p>
+        <p>b) Each party shall designate its arbitrator within two months after notice has been given by one disputing party to the other that it wishes to submit the dispute to arbitration. The Chairman is to be agreed upon within three months after such notice. If the time limits have not been adhered to, and the parties to the dispute have not agreed on another designation procedure, any disputing party may request the International Centre for Settlement of Investment Disputes, established under the Washington Convention on the Settlement of Investment Disputes between States and Nationals of other States, dated 18 March 1965,(1) to effect the necessary designations.</p>
+        <p>c) The arbitration panel shall take its decision by simple majority. The decision of the arbitration panel shall be binding on the parties to the dispute.</p>
+        <p>d) The arbitration panel may decide on its place of assembly. It shall adopt its own rules of procedure. The costs of the arbitration shall be shared equally between the parties to the dispute. The arbitration is conducted in the English language.</p>
+      </div>
+      <div type="article" num="8">
+        <p>A dispute between a company or a national and a Contracting State concerning an investment under this Agreement may be submitted to the abitration referred to in Article 7, only if a definite solution has not been reached by means of the local remedies within three months from the date when recourse has been taken to such remedies.</p>
+      </div>
+      <div type="article" num="9">
+        <p>1. This Agreement shall enter into force thirty days after the date on which the Governments of the Contracting States have notified each other that the constitutional requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>2. This Agreement shall remain in force twenty years and shall continue to be in force thereafter unless, after the expiry of the initial period of nineteen years, either Contracting State notifies the other Contracting State in writing of its decision to terminate the Agreement. The termination shall become effective one year after the notification has been received by the other Contracting State.</p>
+        <p>3. In respect of investments made prior to the date when the termination of this Agreement becomes effective, the provisions of Articles 1 to 8 shall remain in force for a further period of twenty years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Helsinki on 5 May 1980 in two originals in the English language.</p>
+      <p>For the Government of the Republic of Finland: MATH TUOVINEN</p>
+      <p>For the Government of the Arab Republic of Egypt: MAHMOUD ZAHWY</p>
+    </conclusion>
+  </main>
+</treaty>

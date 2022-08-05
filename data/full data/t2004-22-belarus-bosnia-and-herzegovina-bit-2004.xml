@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Belarus - Bosnia and Herzegovina BIT (2004)</name>
+    <code>T2004-22</code>
+    <partyisocode n="0">BIH</partyisocode>
+    <partyisocode n="1">BLR</partyisocode>
+    <date_signed>2004-11-29</date_signed>
+    <date_into_force>2006-01-22</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ru</orig_language>
+    <termination_type/>
+    <docreference>405</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{BIH,BLR}_2004-11-29.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>ru</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement of 29 November 2004 "Agreement between the Republic of Belarus and Bosnia and Herzegovina on promotion and protection of investments "</p>
+    </title>
+    <preamble>
+      <p>Belarus and Bosnia and Herzegovina, hereinafter referred to as the Contracting Parties,</p>
+      <p>Desiring to expand and strengthen economic cooperation between the two countries on the basis of equality and mutual benefit,</p>
+      <p>Striving to create and maintain favorable conditions for investors to increase the investment of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognizing that the promotion and reciprocal protection of such investments under this Agreement will stimulate business initiative and to increase the economic prosperity of both countries,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement, the terms listed will mean:</p>
+        <p>1.  Investment - all kinds of property and invest in order to achieve economic benefit or other business purpose of an investor of one Contracting Party in the territory of the other Contracting Party in accordance with the legislation of the latter, and include, in particular, but not exclusively:</p>
+        <p>a)  movable and immovable property and any other property rights such as mortgages, liens or other securities that provide similar rights;</p>
+        <p>b)  share, shares and other forms of participation in commercial organizations;</p>
+        <p>c)  claims in respect of money or any performance obligations under the contract having an economic value;</p>
+        <p>d)  intellectual property rights, such as copyright and related rights, patents, industrial designs, trademarks, trade names and know-how;</p>
+        <p>e)  concessions granted in accordance with the law or under contract, including concessions for exploration, development, production and exploitation of natural resources.</p>
+        <p>Any subsequent change of the form in which the investment or reinvestment of assets does not affect its character as an investment provided that such change is made in accordance with the laws of the Contracting Party in whose territory the investment has been made.</p>
+        <p>2.  Investor - any natural or legal person who invests in the territory of the other Contracting Party:</p>
+        <p>a)  in respect of the Republic of Belarus:</p>
+        <p>Natural person - any natural person who is a grazhdpninom the Republic of Belarus in accordance with the legislation of the Republic of Belarus;</p>
+        <p>Entity - any entity incorporated, established or otherwise properly established under the laws of the Republic of Belarus;</p>
+        <p>b)  in respect of Bosnia and Herzegovina:</p>
+        <p>Individual - any individual who is a citizen of Bosnia and Herzegovina in accordance with the laws of Bosnia and</p>
+        <p>Herzegovina, if he (she) resides or carries out its core business activities on the territory of Bosnia and Herzegovina;</p>
+        <p>Entity - any legal entity established under applicable in Bosnia and Herzegovina law, having its registered office, central control unit or carries out its core business activities on the territory of Bosnia and Herzegovina.</p>
+        <p>3.  Income - money received through investments, and in particular, though not exclusively, includes payments to copyright or license fees, profits, interest, dividends, income from capital gains, income, and other benefits.</p>
+        <p>4.  Territory:</p>
+        <p>a)  in respect of the Republic of Belarus - the territory where, in accordance with international law, the Republic of Belarus exercises sovereign rights and which is under its jurisdiction;</p>
+        <p>b)  in respect of Bosnia and Herzegovina - the whole land of Bosnia and Herzegovina, its territorial sea bed and subsoil and airspace above it, including the maritime space beyond Bosnia's territorial waters and Herzegovina, which is recognized or will be recognized in the future under the jurisdiction of Bosnia and Herzegovina in accordance with international law as an area in which Bosnia and Herzegovina is entitled to exercise rights with respect to the seabed and subsoil and natural resources.</p>
+      </div>
+      <div type="article" num="2" title="Facilitation of entry and protection of investments">
+        <p>1.  Each Contracting Party shall encourage and create favorable, stable and transparent conditions for investors of the other Contracting Party to make investments in its territory and shall admit such investments in accordance with its domestic law.</p>
+        <p>2.  Investments of investors of either Contracting Party shall be granted a fair and equitable treatment, and provide legal protection and security in the territory of the other Contracting Party. Each Contracting Party shall not prevent the adoption by unreasonable or discriminatory measures the increase, management, maintenance, use, enjoyment or disposal of investments in its territory by investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="National treatment and most favored nation treatment">
+        <p>1.  Each Contracting Party shall accord in its territory to investments and returns of investors of the other Contracting Party treatment no less favorable than that which it accords to investments and revenues of its own investors or to investments and returns of investors of any third state, depending of which one is more favorable to the investors of the other Contracting Party.</p>
+        <p>2.  Each Contracting Party shall in its territory of investors of the other Contracting Party in regard to the expansion, management, maintenance, use, enjoyment or disposal of their investments treatment no less favorable than that it accords to its own investors or investors any third country, depending on which one is more favorable to the investors of the other Contracting Party.</p>
+        <p>3.  The provisions of paragraphs 1 and 2 of this Article shall not be</p>
+        <p>Construed so as to oblige one Contracting Party to extend to investors of the other Contracting Party the benefit of any treatment, benefits or privileges arising from:</p>
+        <p>a)  participation (or connection) in existing or possible future free trade area, customs union, economic union, common market or other similar international agreements to which either Contracting Party is or may become in the future;</p>
+        <p>b)  international agreements on avoidance of double taxation or other arrangements relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="4" title="Nationalisation and expropriation">
+        <p>1.  Investments of investors of either Contracting Party in the territory of the other Contracting Party shall not be subject to nationalization, expropriation, requisition or other measures having equivalent effect to nationalization or expropriation (hereinafter - the expropriation), except in the public interest, related to the national interest, in accordance with the law, on a non-discriminatory basis and in providing timely, adequate and effective compensation.</p>
+        <p>2.  The compensation referred to in paragraph 1 of this Article shall be:</p>
+        <p>Be the market value of the expropriated investment at</p>
+        <p>The time immediately preceding the implementation of expropriation or its disclosure, depending on what has taken place before;</p>
+        <p>Include interest calculated on the basis of rates ^ IVOK applied to the currency in which the investments were made during the period from the date of expropriation until the date of payment;</p>
+        <p>Be paid in freely convertible currency, translated without delay into the state, called the relevant applicant.</p>
+        <p>3.  Investors of either Contracting Party, the victim damages under the law of a Contracting Party carried out the expropriation, has a right to prompt review of his case the judicial or other independent plenipotentiary authority of the latter Contracting Party in respect of the legality of the expropriation, including the assessment of investments in accordance with the principles set out in paragraph 1 this article.</p>
+        <p>4.  In order to avoid this controversy is installed, it will be legitimate and uncompensated seizure of one Contracting Party to investors of the other Contracting Parties to the property due to the commission of the offense by that investor or due to a violation of criminal or other legislation of the first Contracting Party. The term "expropriation" for the purposes of this article, will not include such an exemption.</p>
+      </div>
+      <div type="article" num="5" title="Indemnification">
+        <p>Investors of either Contracting Party, the victim damages, including damage to their investments in the territory of the other Contracting Party owing to war or other armed conflict, revolution, state of emergency, revolt, insurrection or civil unrest, the latter Contracting Party treatment should be given that As for the recovery of damages, compensation or other settlement, no less favorable than that which the latter Contracting Party accords to its own investors</p>
+        <p>Or to investors of any third state, depending on which of these regimes is more favorable.</p>
+      </div>
+      <div type="article" num="6" title="Transfers of funds">
+        <p>1.  Each Contracting Party shall guarantee to investors of the other Contracting Party free transfer of funds related to their investments on its territory and from it. Such transfers include in particular, but not exclusively:</p>
+        <p>a)  basic and additional contributions required to</p>
+        <p>Maintenance and development of investments;</p>
+        <p>b)  investment income;</p>
+        <p>c)  repayments of loans;</p>
+        <p>d)  proceeds from the partial or complete sale or liquidation of investments;</p>
+        <p>e)  any compensation or other payment referred to in Articles 4 and 5 of this Agreement;</p>
+        <p>f)  payments arising from the settlement of investment</p>
+        <p>Disputes;</p>
+        <p>g) Citizens,</p>
+        <p>2. Unspent earnings and</p>
+        <p>Other</p>
+        <p>Remuneration of the staff employed abroad in connection with investments.</p>
+        <p>Transfers referred to in paragraph 1 of this article will be transferred without delay and in freely convertible currency. Currency exchange for transfer purposes will be carried out at the market rate of exchange prevailing at that date under the law on currency regulation of the Contracting Party;</p>
+        <p>In accordance with the procedure laid down by the legislation on currency regulation of the Contracting Party in whose territory the investment has been made.</p>
+        <p>The Contracting Parties undertake to provide for such transfers treatment no less favorable than that accorded in respect of transfers arising from investments made by investors of any third state.</p>
+        <p>3.  The provisions of paragraph 1 of this Article shall not be construed so as to permit tax evasion.</p>
+        <p>4.  Without prejudice to the provisions of paragraphs 1 and 2 of this article, each Contracting Party shall have the right to protect the rights of creditors to enforce laws regulating the issue and trade securities transactions or to enforce judgments in civil, administrative and criminal cases through the equitable, non-discriminatory and fair application of its legislation.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>1.  If one Contracting Party or its designated agency makes payment is legally justified its investor under warranty or contract of insurance against non-commercial risks of these investments, the other Contracting Party shall recognize, without prejudice to the rights provided for in Article 9 of this Agreement, the transfer of the first Contracting Party or its designated agency by virtue of the principle of subrogation to any rights or claims of the investor.</p>
+        <p>2.  A Contracting Party or its designated agency to which the investor's rights went into effect the principle of subrogation, shall be entitled in all circumstances to exercise such rights and to use the regime, which had been guaranteed to the insured</p>
+        <p>Investors, including payments resulting from these rights.</p>
+        <p>3.  In the case of subrogation as defined by paragraph 1 of this Article, the investor does not have the right to prosecute or to participate in the proceedings as long as it did not authorize a Contracting Party or its designated agency.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between an investor of one contracting party and the other contracting party">
+        <p>1.  Any dispute which may arise between an investor of one Contracting Party and the other Contracting Party in respect of investments in the territory of the other Contracting Party shall be settled amicably through consultations and negotiations.</p>
+        <p>2.  If the dispute can not be settled in accordance with paragraph 1 of this article within three months from the date on which either party to the dispute expressed the need for his permission friendly manner corresponding to the investor may submit the dispute for choice:</p>
+        <p>a)  the competent court of the Contracting Party in whose territory the investment has been made;</p>
+        <p>b)  the arbitral tribunal "ah hoc", created under the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL);</p>
+        <p>c)  the International Centre for Settlement of Investment Disputes through conciliation or arbitration, established by the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature at Washington, 18 March 1965 (hereinafter - the Center).</p>
+        <p>3.  Neither Contracting Party will not attempt to resolve the dispute submitted to the Centre, through diplomatic channels, unless:</p>
+        <p>a)  The Secretary-General of the Centre, or a conciliation commission or arbitral tribunal established by the Centre, has determined that the dispute goes beyond the jurisdiction of the Centre;</p>
+        <p>b)  the other Contracting Party fails to comply or not to comply with any decision of the arbitral tribunal.</p>
+        <p>4.  The award is made based on:</p>
+        <p>Provisions of this Agreement;</p>
+        <p>The law of the Contracting Party in whose territory the investments were made, including the rules relating to the application of conflict rules;</p>
+        <p>Rules and principles generally accepted in international law.</p>
+        <p>5.  The arbitration award shall be final and binding on both parties to the dispute and shall be enforceable under the laws of the Contracting Party concerned.</p>
+        <p>6.  A Contracting Party shall not be in the arbitral</p>
+        <p>Proceedings or execution of the decision of the arbitral tribunal for the protection, statements of protest, the nomination of a counterclaim,</p>
+        <p>Use of the right of set-off or other circumstances to refer to the fact that the investors of the other Contracting Party has received or will receive under the contract of insurance or guarantee against non-commercial risks of compensation or other relief, covering fully or partially claimed loss.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of disputes between contracting parties">
+        <p>1.  Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should,</p>
+        <p>Be settled through consultations and negotiations through diplomatic channels.</p>
+        <p>2.  If a dispute between the Contracting Parties in accordance with paragraph 1 of this Article can not be settled within six months from the date of submission of the application for its consideration, the dispute at the request of either Contracting Party shall be submitted to an arbitral tribunal consisting of three members.</p>
+        <p>3.  Such an arbitral tribunal will be established for each individual case as follows. Within two months from the date of receipt of a request for arbitration, each Contracting Party shall appoint one member of the tribunal. These two members shall then determine the national of a third State, who on approval of the two Contracting Parties shall be appointed Chairman of the tribunal. The Chairman shall be appointed within two months from the date of appointment of the other two judges.</p>
+        <p>4.  If the necessary appointments have not been made within the time specified in paragraph 2 of this Article, either Contracting Party may request the work necessary appointments to the International Court of Justice. If the President is a citizen of either Contracting Party or if he is unable to carry out the above actions, the request for the necessary work assignments will be addressed to the Vice-Chairman of the International Court. If the Vice President is a national of either Contracting Party or he is unable to carry out these actions, please work on the necessary appointments will be addressed to the next-highest member of the International Court of Justice who is not a national of either Contracting Party.</p>
+        <p>5.  The Court itself defines the rules of their work.</p>
+        <p>6.  The arbitral tribunal shall take its decisions by majority vote. Such decisions are final and binding on both Contracting Parties.</p>
+        <p>7.  Each Contracting Party shall bear the expenses of its member of the tribunal and of its representation at the hearings, the chairman of the costs and other expenses will be shared equally between the Contracting Parties. The Court may, however, decide otherwise establishing share increase to cover the cost of one of the Contracting Parties, and such a decision will be binding on both Contracting Parties.</p>
+        <p>8.  The dispute in accordance with the procedure defined by this Article shall not be referred to an international arbitration if the dispute had already been sent and are currently pending in another international arbitration in accordance with the provisions of Article 8 of this Agreement. However, this does not affect the possibility of settling the dispute in accordance with paragraph 1 of this Article.</p>
+      </div>
+      <div type="article" num="10" title="Consultations and exchange of information">
+        <p>At the request of either Contracting Party the other Contracting Party:</p>
+        <p>1)  without undue delay agree on consultations concerning the interpretation or application of this Agreement;</p>
+        <p>2)  provide information concerning its laws, administrative regulations, procedures or policies that affect investment governed by this Agreement.</p>
+      </div>
+      <div type="article" num="11" title="Applicability of other regulations">
+        <p>If the provisions of law of either Contracting Party or international obligations existing at present or established between the Contracting Parties thereafter, in addition to this Agreement contain general or specific rules according to which investments made by investors of the other Contracting Party, enjoy more favorable treatment than one that is established by this Agreement, such rules shall prevail in relation to this Agreement during the entire period of their validity.</p>
+      </div>
+      <div type="article" num="12" title="Entry into force, duration and termination of this agreement">
+        <p>1.  Each Contracting Party in writing notifies the other of the completion of internal procedures required in its territory for the entry into force of this Agreement. This Agreement shall enter into force thirty days from the date of the later of the two notifications.</p>
+        <p>2.  This Agreement shall remain in force for ten years from the date of its entry into force and will be valid until terminated under paragraph 3 of this Article. This Agreement shall apply to investments made or acquired after its entry into force.</p>
+        <p>3.  Any Contracting Party may notify in writing the other Contracting Party not later than one year of termination of this Agreement after the expiration of the ten-year period of its validity, or at any subsequent time.</p>
+        <p>4.  In respect of investments made or acquired prior to the date of termination of this Agreement, the provisions of the other Articles of this Agreement shall remain in force for the next ten years from the date of its termination.</p>
+        <p>5.  This Agreement may be amended or amendments agreed between the Contracting Parties in writing. The entry into force of any such amendments or supplements will apply the same procedure, which is required for entry into force of this Agreement.</p>
+        <p>6.  This Agreement shall apply irrespective of whether diplomatic or consular relations between the Contracting Parties.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the representatives duly authorized thereto, have signed this Agreement.</p>
+      <p>Done in Sarajevo November 29, 2004 in two original copies, each in Russian, Bosnian / Serbian / Croatian and English. All genuine originals being equally authentic. In case of divergence of interpretation of this Agreement will be given to the English text.</p>
+      <p>For the Republic of Belarus Signature</p>
+      <p>(Ambassador Extraordinary and Plenipotentiary of the Republic of Belarus in Serbia and Montenegro</p>
+      <p>V.A.Matskevich)</p>
+      <div type="part" num="y" title="For bosnia and herzegovina signature">
+        <p>(Minister of Foreign Economic Relations of Bosnia and Herzegovina D.Drogon)</p>
+      </div>
+    </conclusion>
+  </main>
+</treaty>

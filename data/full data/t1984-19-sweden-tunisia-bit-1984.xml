@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Sweden - Tunisia BIT (1984)</name>
+    <code>T1984-19</code>
+    <partyisocode n="0">SWE</partyisocode>
+    <partyisocode n="1">TUN</partyisocode>
+    <date_signed>1984-09-15</date_signed>
+    <date_into_force>1985-05-13</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>2979</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{SWE,TUN}_1984-09-15.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_OVERLAP" document-code="T1995-116">EC - Tunisia Association Agreement (1995)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Convention between the Government of the Kingdom of Sweden and the Government of the Republic of Tunisia on the reciprocal encouragement and protection of investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of Sweden and the Government of the Republic of Tunisia, on the other hand.</p>
+      <p>&#x2010; Desiring to enhance their economic relations and intensify cooperation between the two countries in order to facilitate their development;</p>
+      <p>&#x2010; Convinced that an investment protection is likely to stimulate private business initiative and increasing prosperity of both countries;</p>
+      <p>&#x2010; Recognizing the need to provide fair and equitable treatment to investments of nationals and companies of one Contracting State in the territory of the other Contracting State;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Convention:</p>
+        <p>1) The term investment shall comprise all categories of assets formed in the host country in accordance with its laws and regulations and in particular, though not exclusively,</p>
+        <p>(a) Movable and immovable property as well as any other rights in rem such as mortgages, pledge, security interests, usufruits and similar rights;</p>
+        <p>(b) The rights of participation in companies;</p>
+        <p>(c) Claims and rights to any performance having an economic value;</p>
+        <p>(d) Copyrights, industrial property rights, technical processes, trade names and goodwill; and</p>
+        <p>For example:</p>
+        <p>(e) Business concessions under public law or under contract, including on the prospection. extract concessions or exploit natural resources the recipient giving a legal position of some duration.</p>
+        <p>2) The term "ressortissant" means.</p>
+        <p>(a) In respect of Sweden, a natural person who is a national of Sweden in accordance with Swedish law:</p>
+        <p>(b) In respect of the Republic of Tunisia, the natural person of Tunisian nationality within the meaning given by the Nationality Code.</p>
+        <p>3) The term "company" mean.</p>
+        <p>(a) In respect of Sweden: any natural or juridical person located in Sweden or where the interests of Sweden are predominant:</p>
+        <p>(b) In respect of the Republic of Tunisia, any legal person headquartered in Tunisia and formed in accordance with the legislation in force or in which the Tunisian interests are predominant or who shall be a citizen of the Republic of Tunisia in accordance with the law in force.</p>
+        <p>4) The term "Host country" means the country in which the investment has been made or in which the company has been established.</p>
+      </div>
+      <div type="article" num="2">
+        <p>1) Investments made by nationals or companies of one Contracting State in the territory of the other contracting State will be accorded by the latter in fair and equitable treatment.</p>
+        <p>2) Investments made by nationals or companies of one Contracting State in the territory of the other Contracting State shall not be subjected to treatment less favourable than that accorded to investments made in its territory by nationals or companies of third States.</p>
+        <p>3) Notwithstanding the provisions of paragraph (2) of this article, a Contracting State which has concluded with one or more other States an agreement regarding the formation of a customs union or a free-trade area or any other treaty establishing an enlarged economic cooperation based on a special affinity shall be free to grant a more favourable treatment to investments by nationals or companies of the State or States which are also Parties to that treaty, or by ressorussants or companies of some of these States. a Contracting State shall be free to grant a more favourable treatment to investments by nationals or companies of the other States, if such treatment is stipulated by bilateral agreements concluded with these States prior to the date of signature of this Convention.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1) Neither Contracting State shall take steps dispossessing, directly or indirectly, of nationals or companies of the other Contracting State unless an investment of the following conditions are met:</p>
+        <p>(a) The measures are taken in the public interest and in accordance with the procedures required by law;</p>
+        <p>(b) The measures are not discriminatory; and</p>
+        <p>(c) The measures shall be accompanied by the payment of prompt, effective and adequate compensation, which shall be freely transferable between the territories of the Contracting States.</p>
+        <p>2) The provisions of paragraph (1) of this article shall also apply to the current income derived from an investment and, as well as in the event of liquidation, to the proceeds from the liquidation.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1) Subject to its laws and regulations, each Contracting State shall allow the transfer without undue delay in any convertible currency of:</p>
+        <p>(a) The net profits, dividends, royalties, fees for technical assistance and service, interest and other current income related to investments of nationals or companies of the other Contracting State;</p>
+        <p>(b) The proceeds of the total or partial liquidation of any investment made by nationals or companies of the other Contracting State:</p>
+        <p>(c) Repayments of loans by nationals or companies of one of the Contracting States to nationals or companies of the other Contracting State that both Contracting States have recognized and be an investment:</p>
+        <p>(d) The remuneration of nationals of the other contracting State who are allowed to work in its territory in connection with an investment.</p>
+        <p>2) Each of the Contracting States undertake to accord to transfers referred to in paragraph (1) of this article treatment no less favourable than that accorded to transfers originating from investments made by nationals or companies of any third State.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting State consents to submit to the International Centre for Settlement of Investment Disputes, for the purpose of arbitration within the framework of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature at Washington on 18 March 1965, any dispute arising between that Contracting State and a national or company of the other Contracting State in connection with an investment in the territory of the Contracting State referred to in the first.</p>
+      </div>
+      <div type="article" num="6">
+        <p>1) Disputes between the Contracting States concerning the interpretation or application of this agreement should, if possible, be settled through negotiations between the Governments of the two contracting States.</p>
+        <p>2) If the dispute cannot be r&#xE8;gl&#xE9; in this way, it shall be referred to an arbitral tribunal at the request of either of the Contracting States.</p>
+        <p>3) Such an arbitral tribunal shall be constituted for each individual case, each Contracting States appointing one member and these two members shall then agree on the selection of a President from among nationals of a third State to be appointed by the Governments of the two contracting States. such members shall be appointed within two months and the Chairman within three months from the date on which either of the Contracting States shall be communicated to the other Contracting State that it wishes to see the dispute brought before an arbitral tribunal.</p>
+        <p>4) If the periods specified in paragraph (3) of this article have not been respect&#xE9;s. either of the Contracting States pourra. in the absence of any other agreement pertinent. invite the President of the International Court of Justice to make the necessary appointments. if the President is a national of either contracting State or if he is unable to perform this task, the Vice President of the International Court of Justice shall be invited to make the necessary appointments. if the Vice-President is a national of either contracting State or if he too is prevented from discharging this task, the member of the International Court of Justice having the longest seniority who is not a national of either contracting State or prevented from any other inability shall be invited to make the necessary appointments.</p>
+        <p>5) The Tribunal will decide by a majority of votes and its decisions shall be binding on the parties. each Contracting State shall bear the costs of the member of the arbitral tribunal appointed by him and his authorised representative. the cost of the Chairman and the remaining costs shall be borne in equal parts by both contracting states. however, the tribunal may direct that a higher proportion of costs shall be borne by one of the Contracting States. in all other respects, the tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="7">
+        <p>If the legislation of one of the contracting States or international obligations existing at present or future basis between the contracting States outside this Convention a general or specific regulations which accords to investments of nationals or companies of the other Contracting State more favourable treatment than that provided for in this Convention Primera such regulations to this Convention the extent that it is more favourable.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1) This Agreement shall enter into force on the day on which the qouvernements of both Contracting States have notified each other that the constitutional requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>2) This Agreement shall remain in force for a period of twenty (20) years and shall continue to be in force thereafter unless, after the expiry of the initial period of 19 years, either Contracting State notifies in writing to the other contracting State of its intention to terminate the agreement. such termination shall become effective one year after the date of receipt by the other Contracting State.</p>
+        <p>3) In respect of investments made prior to the date on which the denunciation becomes effective, the provisions of articles 1 to 7 shall remain in force for a further period of fifteen years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In WITNESS WHEREOF, the undersigned, representatives duly authorized thereto by their respective Governments, have signed this Convention.</p>
+      <p>Done in two originals in Tunis on 15 September 1984 in French Languages both texts being equally authentic.</p>
+      <p>Ahmed bin Arfa</p>
+      <p>Tunis on 15 September 1984</p>
+      <p>Sir.</p>
+      <p>During the negotiations leading to the signing of the Agreement between the Government of the Kingdom of Sweden and the Government of the Republic of Tunisia concerning the encouragement and reciprocal protection of investments, we have agreed that the provisions of the Convention referred to above shall be extended to investments made by one of the two countries prior to the entry into force of the Convention to the extent that those investments have been made in accordance with the laws and regulations in force in both countries.</p>
+      <p>I should be grateful if you would confirm the agreement of your Government to the foregoing.</p>
+      <p>Please accept. Mr. ministre. the assurance of my highest consideration.</p>
+      <p>Odhner Bengi</p>
+      <p>Tunis on 15 September 1984</p>
+      <p>Ambassador,</p>
+      <p>I have the honour to acknowledge receipt of your letter which reads as follows:</p>
+      <p>"in the course of negotiations regarding the signing of the Agreement between the Government of the Kingdom of Sweden and the Government of the Republic of Tunisia the agreement of your Government to the foregoing".</p>
+      <p>I have the honour to confirm the agreement of my Government to the foregoing.</p>
+      <p>Please accept. Mr. ambassadeur. the assurance of my highest consideration.</p>
+      <p>Ahmed bin Arfa</p>
+    </conclusion>
+  </main>
+</treaty>

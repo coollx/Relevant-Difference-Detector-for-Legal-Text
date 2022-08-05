@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Gabon - Italy BIT (1968)</name>
+    <code>T1968-3</code>
+    <partyisocode n="0">GAB</partyisocode>
+    <partyisocode n="1">ITA</partyisocode>
+    <date_signed>1968-11-18</date_signed>
+    <date_into_force/>
+    <date_terminated>2006-07-07</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">it</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>1633</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>it</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{GAB,ITA}_1968-11-18.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T1999-88">Gabon - Italy BIT (1999)</relation>
+    <relation type="IT_OVERLAP" document-code="T1979-14">Second Lom&#xE9; Convention (1979)</relation>
+    <relation type="IT_OVERLAP" document-code="T1989-43">Fourth Lom&#xE9; Convention (1989)</relation>
+    <relation type="IT_OVERLAP" document-code="T1984-23">Third Lom&#xE9; Convention (1984)</relation>
+    <relation type="IT_OVERLAP" document-code="T2000">Cotonou Agreement (2000)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN ITALIAN REPUBLIC AND THE GABONESE REPUBLIC TO PROTECT AND FAVOR INVESTMENT OF CAPITALS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Italian Republic</p>
+      <p>And</p>
+      <p>The Government of the Gabonese Republic</p>
+      <p>Wishing to strengthen In economic cooperation between the two countries;</p>
+      <p>With a view to favoring capital investments between the two contracting countries and to ensure such investments and appropriate protection;</p>
+      <p>Recognizing that an agreement between the two countries is capable of creating favorable conditions for capital investment by citizens and society of each of the two states in the territory of the other, subject to the application of their laws and regulations, have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each of the two Contracting States undertakes to facilitate, according to its legal system, capital investments in the territory of the other Contracting State, for the purpose of economic expansion and production, by its citizens and by its companies, including in the form of supply of equipment, services and infrastructure works, property rights concessions, patents and licenses as well as technical assistance.</p>
+        <p>In particular, legal persons having their seat in the territory of one of the two contracting States shall be allowed to freely take shares in companies whose registered office is in the territory of the other State.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each of the two Contracting States undertakes to facilitate, according to its legal system, capital investments in its territory, for the purpose of economic and production expansion, by citizens and companies of the other Contracting State, including in the form of capital goods, services and infrastructure works, property rights concessions, patents and licenses as well as the granting of technical assistance.</p>
+      </div>
+      <div type="article" num="3">
+        <p>The citizens and members of each of the two contracting States that have invested in convertible currencies destined for the creation or extension of companies, whose purpose is the production of goods to services in the territory of the other contracting party, may transfer in foreign currencies similarly convertible, without any limit or delay, the dividends and benefits realized, those who come from a succession do any such thing as income due to remuneration or benefits, in favor of the citizens of each of the two Contracting States, from related employment and professional activities carried out in the territory of the other Contracting State.</p>
+        <p>For investments that are made through supplies of equipment used in the companies indicated in the preceding paragraph, the transfer of the sums coming from the possible disinvestment can be carried out, always in convertible currencies, after a period of two years starting from the date of the investment.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Investments made by citizens and companies of each of the two Contracting States on the territory of the other Contracting State, as well as the profits which they derive, can not be expropriated or subject to other restrictions, which in the sole case of an evident and demonstrated public interest and against the payment of a indemnity equal to the value of the expropriated assets. This payment must be paid without delay and will be freely and immediately transferred to convertible currencies. The term "expropriation" also includes any act or measure having an effect similar to that of expropriation and nationalization. In the event of damage deriving from war events, an analogous indemnity will be payable with conditions identical to those applied to nationals.</p>
+      </div>
+      <div type="article" num="5">
+        <p>The investments made by citizens and companies of each of the two contracting States will be assured conditions in any case no less favorable than those that can be granted to citizens or companies of third States in the field of investments, except for the benefits that come from agreements establishing customs unions or double taxation agreements.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The two Contracting States shall endeavor to avoid double taxation and to this end will sign an special convention.</p>
+      </div>
+      <div type="article" num="7">
+        <p>The difficulties arising from the interpretation and application of this Agreement shall be settled through diplomatic means.</p>
+        <p>If this procedure proves to be unsuccessful, the two parties will resort to the procedure provided for by the "Convention on disputes arising between States and citizens of other States" submitted to Governments by the Directors of the International Bank for Reconstruction and Development on March 18, 1965.</p>
+        <p>Pending the two Contracting States ratify the said Convention of 18 March 1965, the disputes in question will be submitted to the decision of an arbitration panel.</p>
+        <p>This panel will be composed of three members: two of them will be designated by each of the two Parties respectively; the third one will be elected by the first two and chosen among the citizens of a State foreign to the controversy. In the event that an Agreement is not reached, the appointment of the third arbitrator will be entrusted to the President of the International Court of Justice and if he is a citizen of one of the two Contracting Parties or in any way in the impossibility of proceeding to such appointment, this will be entrusted to the Vice President of that Court.</p>
+      </div>
+      <div type="article" num="8">
+        <p>TThis Agreement also applies to investments already made in the productive enterprises referred to in Article III at the time of entry into force of the Agreement.</p>
+      </div>
+      <div type="article" num="9">
+        <p>This Agreement shall remain in force for ten years and shall be extended for an indefinite period unless the same is not denounced in writing by either Contracting Party one year before its expiration.</p>
+        <p>After the period of 10 years this Agreement may be terminated at any time by each of the two Contracting States by giving one year.</p>
+        <p>The provisions of the Agreement remain in force for a period of 5 years depending on the extent to which the Agreement is valid for the investment made prior to the denunciation.</p>
+      </div>
+      <div type="article" num="10">
+        <p>This Agreement shall enter into force upon the exchange of instruments of ratification.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF the undersigned plenipotentiaries have signed the present Agreement.</p>
+      <p>Done in Rome, 18 November 1968, in duplicate, each in the Italian and French languages, both texts being equally authentic.</p>
+      <p>For the Government of the Italian Republic</p>
+      <p>For the Government of the Gabonese Republic</p>
+    </conclusion>
+  </main>
+</treaty>

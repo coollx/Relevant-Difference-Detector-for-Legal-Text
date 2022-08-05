@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Saudi Arabia - Taiwan Province of China BIT (2000)</name>
+    <code>T2000-140</code>
+    <partyisocode n="0">SAU</partyisocode>
+    <partyisocode n="1">TWN</partyisocode>
+    <date_signed>2000-10-31</date_signed>
+    <date_into_force>2001-07-25</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">zh</orig_language>
+    <termination_type/>
+    <docreference>2878</docreference>
+    <comments>entry force updated</comments>
+    <source>mofa.gov.tw</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{SAU,TWN}_2000-10-31.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>zh</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>MEMORANDUM OF UNDERSTANDING BETWEEN THE MINISTRY OF ECONOMIC AFFAIRS IN TAIPEI AND THE MINISTRY OF FINANCE AND NATIONAL ECONOMY IN RIYADH FOR THE PROMOTION AND PROTECTION OF INVESTMENT</p>
+    </title>
+    <preamble>
+      <p>The two Contracting Parties,</p>
+      <p>Desirous to expand and reinforce their economic cooperation by intensifying the flow of investments between them;</p>
+      <p>Have concluded the following:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Memorandum of Understanding;</p>
+        <p>1.  the term Investment means every kind of asset wholly owned or controlled by an investor of a Contracting Party in the territory of the other Contracting Party, including, but not limited to, any:</p>
+        <p>a)  movable and immovable property as well as any other rights in rem, such as mortgages, liens and pledges, usufructs and similar rights;</p>
+        <p>b)  shares, stocks and debentures of companies and other kinds of rights or interests in companies;</p>
+        <p>c)  claims to money such as loans or to any performance having an economic value, associated with an investment;</p>
+        <p>d)  intellectual property rights, including but not limited to copyrights, patents, industrial designs, know-how, trademarks, trade and business secrets, trade names, good-will; any alteration of the form in which assets arc invested shall not affect their classification as investment;</p>
+        <p>2.  the term "returns means the amounts yielded by an Investment in particular profit, dividends, royalties, capital gains or any similar yields or payments;</p>
+        <p>3.  the term "Investor means in respect of both Parties;</p>
+        <p>a)  any natural person, or company or other juridical person who is a national of either Party;</p>
+        <p>b)  any governmental institutions or companies</p>
+      </div>
+      <div type="article" num="2">
+        <p>1.  This Memorandum of Understanding shall apply to Investments - made by Investors -which are approved by the host Contracting Party.</p>
+        <p>2.  This Memorandum of Understanding shall apply to all Investments made before or after the coming into force of this Memorandum of Understanding.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1.  Both Contracting Parties shall as far as possible encourage and create favourable conditions for Investments in accordance with their respective general economic policies.</p>
+        <p>2.  Investments approved under Article 2 of this Memorandum of Understanding shall be accorded fair and equitable treatment and protection by both Contracting Parties in accordance with their respective legislation.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Subject to Article 5 and 6, neither Contracting Party shall subject Investments approved in accordance with the provisions of Article 2 of this Memorandum of Understanding to treatment less favourable than that which it accords to investments or returns to investors of any third party.</p>
+      </div>
+      <div type="article" num="5">
+        <p>1.  The provisions of this Memorandum of Understanding shall not relate to privileges granted by cither Contracting Party to the investors of a third party by virtue of its membership of. or association with, a customs union, an economic union, a common market, a free trade area or regional cooperation arrangements.</p>
+        <p>2.  The provisions of this Memorandum of Understanding shall not apply for the purposes of taxation.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Where anymeasure of expropriation is taken against the investments of investors approvedunder article 2. The measures shall be taken for a public benefit, on anon-discriminatory basis, and against compensation which shall be adequate,effectively realizable, made without such compensation shall be equivalent to the value of the expropriated investment immediately before the expropriation and be freely convertible and transferable.</p>
+      </div>
+      <div type="article" num="7">
+        <p>Where Investments of Investors approved under Article 2 suffer losses owing to war, armed conflict, emergency, revolt or any similar event, they shall be accorded treatment, as regards restitution, indemnification, compensation or other settlements, on terms no less favourable than that which is accorded to any third party investors.</p>
+      </div>
+      <div type="article" num="8">
+        <p>Investors of either Party shall be accorded free transfer on a non-discriminatory basis, of their capital, earnings, and returns from any Investment approved under Article 2 of this Memorandum of Understanding.</p>
+      </div>
+      <div type="article" num="9">
+        <p>In the event that cither Contracting Party (or any authorized statutory body designated by it) as a result of an indemnity or guarantee it has given in respect of an Investment approved under Article 2 of this Memorandum of Understanding or any part thereof makes payment to the Investors in respect of any of his claims under this Memorandum of Understanding, the other Contracting Party acknowledges that the first Contracting Party (or any authorized statutory body designated by it) is entitled by virtue of subrogation to exercise the rights and assert the claims of the Investors of the first Contracting Party. The subrogated right or claim shall not be greater than the original right or claim of the said Investor.</p>
+      </div>
+      <div type="article" num="10">
+        <p>Any dispute;</p>
+        <p>(a) between an Investor and either Contracting Party in connection with an Investment approved under Article 2; or</p>
+        <p>(b) between the Contracting Parties concerning the interpretation or implementation of this Memorandum of Understanding shall be settled amicably through negotiations between the parties to the dispute within six months failing which shall be referred to arbitration on such terms and conditions as the parties may agree. The award shall be binding and shall not be subject to any appeal or remedy.</p>
+      </div>
+      <div type="article" num="11">
+        <p>1. This Memorandum of Understanding shall enter into force on the latter date in which the Contracting Parties notify each other in writing that the official approval has been completed. It shall remain in force for a period of ten years and shall continue in force thereafter unless, after the expiry of the initial period of nine years, either Contracting Party notifies in writing the other Contracting Party of its intention to terminate this Memorandum of Understanding. The notice of termination shall become effective one year after it has been received by the other Contracting Party.</p>
+        <p>2.  In respect of Investments made prior to the date when the notice of termination of this Memorandum of Understanding becomes effective, the provisions of Article 1 to 10 shall remain in force for a further period of ten years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>This Memorandum of Understanding is done in duplicate in the Arabic, Chinese and English languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail.</p>
+      <p>Done at Taipei on the 4 th of Shaban, 1421H, corresponding to 31 st of October, 2000</p>
+      <p>For the Ministry of Economic Affairs</p>
+      <p>Steve Ruey-Long Chen</p>
+      <p>Vice-Minister of Economic Affairs</p>
+      <p>For the Ministry of Finance and National Economy</p>
+      <p>Mohamed Hamad Al-Mady</p>
+      <p>Vice Chairman and Managing Director-Sabic</p>
+    </conclusion>
+  </main>
+</treaty>

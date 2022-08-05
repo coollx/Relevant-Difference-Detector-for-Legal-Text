@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Singapore - Taiwan Province of China BIT (1990)</name>
+    <code>T1990-65</code>
+    <partyisocode n="0">SGP</partyisocode>
+    <partyisocode n="1">TWN</partyisocode>
+    <date_signed>1990-04-09</date_signed>
+    <date_into_force>1990-04-09</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2908</docreference>
+    <comments/>
+    <source>mofa.gov.tw</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{SGP,TWN}_1990-04-09.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE INDUSTRIAL DEVELOPMENT INVESTMENT CENTER IN TAIPEI AND THE ECONOMIC DEVELOPMENT BOARD IN SINGAPORE ON THE PROMOTION PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>1.  The Industrial Development and Investment Center (IDIC) in Taipei and the Economic Development Board (EDB) in Singapore (each hereinafter referred to as a Contracting Party);</p>
+      <p>2.  DESIRING to create favourable conditions for greater economic cooperation and investments based on the principles of equality and mutual benefit;</p>
+      <p>3.  RECOGNISING that the encouragement and reciprocal protection of such investments will be conducive to stimulating business initiative and increasing prosperity;</p>
+      <p>HAVE AGREED AS FOLLOWS.</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>"Relevant places" means the places of operation designated by the IDIC and EDB;</p>
+        <p>"Resident" means in respect of any relevant place, a person who is a resident of that relevant place;</p>
+        <p>"Company" means in respect of any relevant place, a company or other juridical person properly incorporated or constituted in that relevant place;</p>
+        <p>"Investment" means every kind of asset legally permitted by the relevant places including, but not limited to, any:</p>
+        <p>(a)  movable and immovable property;</p>
+        <p>(b)  title to money or to any contract having an economic value; and</p>
+        <p>(c)  intellectual property rights;</p>
+        <p>"Returns" means capital gains, earnings, interests, dividends, royalties or any other monetary returns yielded by an investment;</p>
+        <p>"Inconvertibility" means a situation where residents and / or companies are unable to convert into foreign exchange remittances and repatriate their original investment or returns within sixty days due to foreign exchange control, prevention or restriction by the relevant authorities of the relevant places or an agency or instrumentality thereof; or residents and / or companies suffer damages in repatriating their original investment or returns due to discriminatory exchange rates imposed by the relevant authorities of the relevant places or an agency or instrumentality thereof.</p>
+        <p>"Expropriation" means compulsory acquisition or confiscation of investments of residents and/or companies or taking of property by the relevant authorities of the relevant places without proper compensation which cause residents and / or companies to suffer damages therefrom, or arbitrary seizure of any property by the relevant authorities of the relevant places or an agency or instrumentality thereof or any action by the relevant authorities of the relevant places or an agency or instrumentality thereof that deprives residents and / or companies of any rights in or in connection with their investments.</p>
+      </div>
+      <div type="article" num="2" title="Applicability of this agreement">
+        <p>1.  This Agreement shall only apply to investments in either relevant place made by residents and companies of the other relevant place which are approved by the Contracting Party or any agency, institution, statutory body or corporation designated by it as the case may be, and upon such conditions, if any, as it shall deem fit.</p>
+        <p>2.  This Article shall apply to all investments made in the relevant places before or after the coming into force of this Agreement.</p>
+      </div>
+      <div type="article" num="3" title="Promotion and proteciton of investment">
+        <p>1.  The IDIC and EDB shall encourage and create favourable conditions for residents and companies to make investments in the relevant places that are in accordance with their respective general economic policies.</p>
+        <p>2.  Investments approved under Article 2 shall be accorded fair and equitable treatment and protection in accordance with this Agreement.</p>
+      </div>
+      <div type="article" num="4" title="Provision for non - discrimination">
+        <p>Subject to Articles 5 and 6, neither Contracting Party shall subject investments approved in accordance with the provisions of Article 2 to treatment less favourable than that which it accords to investments or returns of residents and companies elsewhere other than the relevant places (hereinafter referred to as other foreign residents or companies).</p>
+      </div>
+      <div type="article" num="5" title="Exceptions">
+        <p>1.  The provisions of this Agreement relating to the grant of treatment not less favourable than that accorded to other foreign residents and companies shall not be construed so as to oblige the IDIC and EDB to extend to residents and companies in the relevant places the benefit of any treatment, preference or privilege resulting from any regional or multilateral arrangements.</p>
+        <p>2.  The provisions of this Agreement shall not apply to matters of taxation in the relevant places.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation">
+        <p>Where any measure of expropriation is taken against the investments of residents and companies approved under Article 2, the measures shall be taken for a lawful purpose, on a non- discriminatory basis, and against compensation which shall be effectively realisable and shall be made without unreasonable delay, Such compensation shall be the value immediately before the expropriation. The compensation shall be freely convertible and transferable.</p>
+      </div>
+      <div type="article" num="7" title="Compensation for losses">
+        <p>Where investments of residents and companies approved under Article 2 suffer losses owing to war, armed conflict, emergency, revolt, insurrection or riot, they shall be accorded treatment, as regards restitution, indemnification, compensation or other settlements, on terms no less favourable than that which the relevant place accords to other foreign residents or companies.</p>
+      </div>
+      <div type="article" num="8" title="Repatriation">
+        <p>1.  Residents and companies of either relevant place shall be accorded free transfer on a nondiscriminatory basis, of their capital, earnings, and returns from any investments and assets in the other relevant place.</p>
+        <p>2.  In the event of the occurrence of inconvertibility in either relevant place, residents and / or companies of the other relevant place may invoke the convertibility rights and transfer their blocked local currencies to the account of the Contracting Party or any other account designated by the Contracting Party in the other relevant place and request the said Contracting Party or an agency or instrumentality thereof to compensate the damages resulting therefrom. The said Contracting Party may then present those local currencies to the other Contracting Party for remittance in the form of a convertible foreign currency as compensation.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>1.  In the event that either the IDIC or EDB (or any agency, institution, statutory body or corporation designated by it) as a result of an indemnity it has given in respect of an investment or any part thereof makes payment to residents and companies in the relevant places in respect of any of their claims under this Agreement, the IDIC or EDB acknowledges that the EDB or IDIC (or any agency, institution, statutory body or corporation designated by it) is entitled by virtue of subrogation to exercise the rights and assert the claims of the residents and companies of the relevant places respectively. The subrogated right or claim shall not be greater than the original right or claim of the said investor.</p>
+        <p>2.  Any payment made by the IDIC and EDB (or any agency, institution, statutory body or corporation designated by it) shall not affect the right of such residents and companies to make their claims against the IDIC and EDB respectively in accordance with Article 10.</p>
+      </div>
+      <div type="article" num="10" title="Investment disputes">
+        <p> Any dispute:</p>
+        <p>(a)  between a resident or company and the IDIC or EDB in connection with an investment approved under Article 2; or</p>
+        <p>(b)  between the Contracting Parties concerning the interpretation or application of this Agreement;</p>
+        <p>Shall as far as possible, be settled amicably through negotiations between the parties to the dispute, and failing which shall be referred to arbitration on such terms and conditions as the parties may agree.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, duration and termination">
+        <p>1.  This agreement shall enter into force on the date of signature. It shall remain in force for a period of ten years and shall continue in force thereafter unless, after the expiry of the initial period of nine years, either Contracting Party notifies in writing the other Contracting Party of its intention to terminate this Agreement. The notice of termination shall become effective one year after it has been received by the other Contracting Party.</p>
+        <p>2.  In respect of investments made prior to the date when the notice of termination of this Agreement becomes effective, the provisions of Articles 1 to 10 shall remain in force for a further period of ten years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF the undersigned representatives, duly authorised thereto by the Industrial Development Investment Center and the Economic Development Board have signed the Agreement.</p>
+      <p>Done in Taipei on 9th April. 1990</p>
+      <p>[Signed]</p>
+      <p>John C.I. Ni</p>
+      <p>For Industrial Development Investment Center in Taipei</p>
+      <p>[Signed]</p>
+      <p>Tan Chin Nam</p>
+      <p>For Economic Development Board in Singapore</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Egypt - Germany BIT (2005)</name>
+    <code>T2005-41</code>
+    <partyisocode n="0">DEU</partyisocode>
+    <partyisocode n="1">EGY</partyisocode>
+    <date_signed>2005-06-16</date_signed>
+    <date_into_force>2009-11-22</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1347</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{DEU,EGY}_2005-06-16.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACING" document-code="T1974-3">Egypt - Germany BIT (1974)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Arab Republic of Egypt and the Federal Republic of Germany concerning the Encouragement and Reciprocal Protection of lnvestments</p>
+    </title>
+    <preamble>
+      <p>The Federal Republic of Germany and the Arab Republic of Egypt</p>
+      <p>Hereinafter referred to as the "Contracting States" &#x2013;</p>
+      <p>Desiring to intensify economic co-operation between both States,</p>
+      <p>Intending to create favourable conditions for investments by investors of either State in the territory of the other State,</p>
+      <p>Recognizing that the encouragement and contractual protection of such investments are apt to stimulate private business initiative and to increase the prosperity of both countries,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement</p>
+        <p>1. the term "investment" means every kind of asset established or acquired by an investor of one Contracting State in the territory of the other Contracting State in accordance with the laws and regulations of the latter Contracting State, including, though not exclusively:</p>
+        <p>(a) Movable and immovable property as well as any other property rights, such as mortgages, liens and pledges, usufructs and similar rights;</p>
+        <p>(b) Shares of companies, and other kinds of interest in companies;</p>
+        <p>(c) Claims to money or to a performance having an economic value;</p>
+        <p>(d) Intellectual property rights such as copyrights, patents, utility model patents, industrial designs, trade-marks, trade-names, trade and business secrets, technical processes, know-how and goodwill;</p>
+        <p>(e) Business concessions under public law, including concessions to search for, extract and exploit natural resources;</p>
+        <p>A change in the form in which assets are invested does not affect their character as investments;</p>
+        <p>2. The term "investor" with regard to either Contracting States refers to:</p>
+        <p>(a) "natural persons" who</p>
+        <p>&#x2013; in respect of the Federal Republic of Germany are Germans within the meaning of its Basic Law; and</p>
+        <p>&#x2013; in respect of the Arab Republic of Egypt are considered to be nationals within the meaning of its Constitution and legislation;</p>
+        <p>(b) Legal entities, including companies, corporations, business associations, partnerships and other organizations with or without legal personality which have their registered office or seat in the territory of that Contracting State, irrespective of whether or not their activities are directed at profit;</p>
+        <p>Without prejudice to any other method of determining nationality, in particular any person in possession of a national passport issued by the competent authorities of the Contracting State concerned shall be deemed to be a national of that Contracting State;</p>
+        <p>3. The term "returns" means the amounts yielded by an investment for a definite period, such as profits, dividends, interest, royalties, fees or any payments in kind related to an investment;</p>
+        <p>4. The term "territory" means the territory of either Contracting State including the territorial sea, as well as the exclusive economic zone and the continental shelf insofar as national law and international law permit each of the Contracting States to exercise sovereign rights or jurisdiction in these areas.</p>
+      </div>
+      <div type="article" num="2" title="Encouragement and protection of investments">
+        <p>(1) Each Contracting State shall in its territory promote as far as possible investments by investors of the other Contracting State and admit such investments in accordance with its laws and regulations.</p>
+        <p>(2) Each Contracting State shall in its territory in any case accord investments by investors of the other Contracting State fair and equitable treatment as well as full protection under the Agreement.</p>
+        <p>(3) Neither Contracting State shall in any way impair by arbitrary or discriminatory measures the management, maintenance, use, enjoyment, or disposal of investments in its territory of investors of the other Contracting State.</p>
+        <p>(4) Whenever goods or persons connected with an investment are to be transported, each Contracting State shall neither exclude nor hinder transport enterprises of the other Contracting State and shall issue permits as required to carry out such transport.</p>
+      </div>
+      <div type="article" num="3" title="Treatment of investments">
+        <p>(1) Neither Contracting State shall subject investments in its territory owned or controlled by investors of the other Contracting State to treatment less favourable than it accords to investments of its own investors or to investments of investors of any third State.</p>
+        <p>(2) Neither Contracting State shall subject investors of the other Contracting State, as regards their activities in connection with investments in its territory, such as the management, maintenance, use, enjoyment and disposal of an investment, to treatment less favourable than it accords to its own investors or to investors of any third State. The following shall, in particular, be deemed &#x2018;treatment less favourable' within the meaning of this Article: unequal treatment in the case of restrictions on the purchase of raw or auxiliary materials, of energy or fuel or of means of production or operation of any kind, unequal treatment in the case of impeding the marketing of products inside or outside the country, as well as any other measures having similar effects. Measures that have to be taken for reasons of public security and order, public health or morality shall not be deemed &#x2018;treatment less favourable' within the meaning of this Article.</p>
+        <p>(3) Such treatment shall not relate to privileges which either Contracting State accords to investors of third States on account of its membership of, or association with, a customs or economic union, a common market or a free trade area.</p>
+        <p>(4) Issues of taxation on income and on capital shall be dealt with in accordance with the relevant agreement for the avoidance of double taxation with respect to taxes on income and capital between the Contracting States. In case there is no such double taxation agreement between the Contracting States, the respective national tax law shall be applicable. The treatment granted under this Article shall also not relate to advantages which either Contracting State accords to investors of third States by virtue of a double taxation agreement or other agreements regarding matters of taxation.</p>
+        <p>(5) The Contracting States shall within the framework of their national legislation give sympathetic consideration to applications for the entry and sojourn of persons of either Contracting State who wish to enter the territory of the other Contracting State in connection with an investment; the same shall apply to employed persons of either Contracting State who in connection with an investment wish to enter the territory of the other Contracting State and sojourn there to take up employment. Applications for work permits shall also be given sympathetic consideration.</p>
+      </div>
+      <div type="article" num="4" title="Expropriation">
+        <p>(1) Investments by investors of either Contracting State shall enjoy full protection and security in the territory of the other Contracting State.</p>
+        <p>(2) Investments by investors of either Contracting State shall not directly or indirectly be expropriated, nationalized or subjected to any other measures the effects of which would be tantamount to expropriation or nationalization in the territory of the other Contracting State except for the public benefit and against compensation. Such compensation shall be equivalent to the value of the expropriated investment immediately before the date on which the actual or threatened expropriation, nationalization or comparable measure has become publicly known. The compensation shall be paid without delay and shall carry the usual bank interest until the time of payment; it shall be effectively realizable and freely transferable. Provision shall have been made in an appropriate manner at or prior to the time of expropriation, nationalization or comparable measure for the determination and payment of such compensation. The legality of any such expropriation, nationalization or comparable measure and the amount of compensation shall be subject to review by due process of law.</p>
+        <p>(3) Investors of either Contracting State whose investments suffer losses in the territory of the other Contracting State owing to war or other armed conflict, revolution, a state of national emergency, or revolt, shall be accorded treatment no less favourable by such other Contracting State than that which the latter Contracting State accords to its own investors as regards restitution, indemnification, compensation or other valuable consideration. Such payments shall be freely transferable.</p>
+        <p>(4) Investors of either Contracting State shall enjoy most-favoured-nation treatment in the territory of the other Contracting State in respect of the matters provided for in this Article.</p>
+      </div>
+      <div type="article" num="5" title="Free transfer">
+        <p>(1) Each Contracting State shall guarantee to investors of the other Contracting State the free transfer of payments in connection with an investment, in particular</p>
+        <p>(a) The principal and additional amounts to maintain or increase the investment;</p>
+        <p>(b) The returns;</p>
+        <p>(c) The repayment of loans;</p>
+        <p>(d) The proceeds from the liquidation or the sale of the whole or any part of the investment;</p>
+        <p>(e) The compensation provided for in Article 4.Article 4.</p>
+        <p>(2) Transfers under Article 4 (2) or (3), under this Article or under Article 6 shall be made without delay at the market rate of exchange applicable on the day of the transfer.Article 4 (2) or (3), under this Article or under Article 6 shall be made without delay at the market rate of exchange applicable on the day of the transfer.</p>
+        <p>(3) Should there be no foreign exchange market the cross rate obtained from those rates which would be applied by the International Monetary Fund on the date of payment for conversions of the currencies concerned into Special Drawing Rights shall apply.</p>
+        <p>(4) A transfer shall be deemed to have been made &#x2018;without delay' within the meaning of this Article if effected within such period as is normally required for the completion of transfer formalities. The said period shall commence on the day on which the relevant request has been submitted and may on no account exceed two months.</p>
+      </div>
+      <div type="article" num="6" title="Subrogation">
+        <p>If either Contracting State makes a payment to any of its investors under a guarantee it has assumed in respect of an investment in the territory of the other Contracting State, the latter Contracting State shall, without prejudice to the rights of the former Contracting State under Article 8, recognize the assignment, whether under a law or pursuant to a legal transaction, of any right or claim of such investor to the former Contracting State. The latter Contracting State shall also recognize the subrogation of the former Contracting State to any such right or claim (assigned claims) which that Contracting State shall be entitled to assert to the same extents as its predecessor in title. As regards the transfer of payments made by virtue of such assigned claims, Article 4 (2) and (3) as well as Article 5 shall apply mutatis mutandis.</p>
+      </div>
+      <div type="article" num="7" title="Application of other rules">
+        <p>(1) If the legislation of either Contracting State or obligations under international law existing at present or established hereafter between the Contracting States in addition to this Agreement contain a regulation, whether general or specific, entitling investments by investors of the other Contracting State to a treatment more favourable than is provided for by this Agreement, such regulation shall, to the extent that it is more favourable, prevail over this Agreement.</p>
+        <p>(2) Each Contracting State shall observe any other obligation it has assumed with regard to investments in its territory by investors of the other Contracting State.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between the contracting states">
+        <p>(1) Disputes between the Contracting States concerning the interpretation or application of this Agreement should as far as possible be settled by the governments of the two Contracting States.</p>
+        <p>(2) If a dispute cannot thus be settled, it shall upon the request of either Contracting State be submitted to an arbitration tribunal.</p>
+        <p>(3) Such arbitration tribunal shall be constituted ad hoc as follows: each Contracting State shall appoint one member, and these two members shall agree upon a national of a third State as their chairman to be appointed by the governments of the two Contracting States. Such members shall be appointed within two months, and such chairman within three months from the date on which either Contracting State has informed the other Contracting State that it intends to submit the dispute to an arbitration tribunal.</p>
+        <p>(4) If the periods specified in paragraph 3 above have not been observed, either Contracting State may, in the absence of any other arrangement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting State or if he is otherwise prevented from discharging the said function, the Vice-President should make the necessary appointments. If the Vice-President is a national of either Contracting State or if he, too, is prevented from discharging the said function, the member of the Court next in seniority who is not a national of either Contracting State should make the necessary appointments.</p>
+        <p>(5) The arbitration tribunal shall reach its decisions by a majority of votes. Such decision shall be binding. Each Contracting State shall bear the cost of its own member and of its representatives in the arbitration proceedings; the cost of the chairman and the remaining costs shall be borne in equal parts by the Contracting States. The arbitration tribunal may make a different regulation concerning costs. In all other respects, the arbitration tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of disputes between an investor and a contracting state">
+        <p>(1) Disputes concerning investments between a Contracting State and an investor of the other Contracting State should as far as possible be settled amicably between the parties in dispute.</p>
+        <p>(2) If the dispute cannot be settled within six months of the date when it has been raised by one of the parties in dispute, it shall, at the request of the investor of the other Contracting State, be submitted for arbitration. Unless the parties in dispute agree otherwise, the dispute shall be submitted for arbitration to the International Centre for Settlement of Investment Disputes established under the Convention of 18 March 1965 on the Settlement of Investment Disputes between States and Nationals of other States.</p>
+        <p>(3) The award shall be binding and shall not be subject to any appeal or remedy other than those provided for in the said Convention. The award shall be enforced in accordance with domestic law.</p>
+        <p>(4) During arbitration proceedings or the enforcement of an award, the Contracting State involved in the dispute shall not raise the objection that the investor of the other Contracting State has received compensation under an insurance contract in respect of all or part of the damage.</p>
+      </div>
+      <div type="article" num="10" title="Scope of application">
+        <p>(1) From the date of its entry into force, this Agreement shall apply to all investments, also those made prior to its entry into force, by the investors of either Contracting State in the territory of the other Contracting State. However, it shall not apply to any dispute concerning an investment which arose or any claim which was settled before its entry into force.</p>
+        <p>(2) This Agreement shall be in force irrespective of whether or not diplomatic or consular relations exist between the Contracting States.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, duration and termination">
+        <p>(1) This Agreement shall be subject to ratification; the instruments of ratification shall be exchanged as soon as possible.</p>
+        <p>(2) This Agreement shall enter into force one month after the date of exchange of the instruments of ratification. It shall remain in force for a period of fifteen years and shall be extended thereafter for an unlimited period unless denounced in writing through diplomatic channels by either Contracting State twelve months before its expiration. After the expiry of the period of fifteen years this Agreement may be denounced at any time by either Contracting State giving twelve months' notice.</p>
+        <p>(3) In respect of investments made prior to the date of termination of this Agreement, the provisions of the preceding Articles shall continue to be effective for a further period of twenty years from the date of termination of this Agreement.</p>
+        <p>(4) Upon entry into force of this Agreement the Agreement between the Federal Republic of Germany and the Arab Republic of Egypt concerning the Encouragement and Reciprocal Protection of Investments of 5th July 1974, the associated Protocol and the exchange of letters of the same date shall cease to be in force.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>For the Federal Republic of Germany Klaus Scharioth</p>
+      <p>Wolfgang Clement</p>
+      <p>For the Arab Republic of Egypt</p>
+      <p>Al-Orabi</p>
+      <p>Mohamed Rachid</p>
+    </conclusion>
+  </main>
+</treaty>

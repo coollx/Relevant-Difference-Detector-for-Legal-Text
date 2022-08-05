@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Burundi - Equatorial Guinea BIT (2020)</name>
+    <code>T2020-52</code>
+    <partyisocode n="0">BDI</partyisocode>
+    <partyisocode n="1">GNQ</partyisocode>
+    <date_signed>2020-11-02</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <comments/>
+    <source>https://amategeko.bi/wp-content/uploads/2021/07/BOB_No5BIS-2021.pdf</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+  </meta>
+  <main/>
+</treaty>

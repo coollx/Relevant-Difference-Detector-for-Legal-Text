@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Spain - Trinidad and Tobago BIT (1999)</name>
+    <code>T1999-82</code>
+    <partyisocode n="0">ESP</partyisocode>
+    <partyisocode n="1">TTO</partyisocode>
+    <date_signed>1999-07-03</date_signed>
+    <date_into_force>2004-09-17</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">es</orig_language>
+    <termination_type/>
+    <docreference>2951</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ESP,TTO}_1999-07-03.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>es</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2008-19">CARIFORUM - EC EPA (2008)</relation>
+    <relation type="IT_OVERLAP" document-code="T1979-14">Second Lom&#xE9; Convention (1979)</relation>
+    <relation type="IT_OVERLAP" document-code="T1989-43">Fourth Lom&#xE9; Convention (1989)</relation>
+    <relation type="IT_OVERLAP" document-code="T1984-23">Third Lom&#xE9; Convention (1984)</relation>
+    <relation type="IT_OVERLAP" document-code="T2000">Cotonou Agreement (2000)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement for the Reciprocal Promotion and Protection of Investments between the Government of the Kingdom of Spain and the Government of the Republic of Trinidad and Tobago</p>
+    </title>
+    <preamble>
+      <p>Agreement on the reciprocal promotion and protection of investments between the Government of the Kingdom of Spain and the Government of the Republic of Trinidad and Tobago</p>
+      <p>The Government of the Kingdom of Spain and the Government of the Republic of Trinidad and Tobago (hereinafter referred to as the contracting parties)</p>
+      <p>Desiring to intensify economic cooperation in the mutual benefit of both countries;</p>
+      <p>Aiming to create favourable conditions for investments by investors of either Contracting Party in the territory of the other contracting party,</p>
+      <p>Agreeing that these objectives can be achieved without prejudice to measures of general application in respect of health, safety and environment; and</p>
+      <p>Recognizing that the promotion and protection of investments under this agreement will stimulate initiatives in this field,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. "investor" means any national or company of a contracting party to make investments in the territory of the other Contracting Party:</p>
+        <p>a) "National" means any natural person who, in accordance with the respective laws of the Kingdom of Spain and the Republic of Trinidad and Tobago, is considered as a citizen or a national of one of them;</p>
+        <p>b) "company" means any legal person or any other legal entity which is constituted or otherwise duly organized in accordance with the applicable laws of that Contracting Party, including companies, business associations or collective.</p>
+        <p>2. "investment" means every kind of asset and in particular, though not exclusively, the following:</p>
+        <p>a) Ownership of movable and immovable property as well as other rights in rem, such as mortgages, liens and pledges;</p>
+        <p>b) Stocks, shares and debentures of a company and any other form of participation in a company or business enterprise;</p>
+        <p>c) The right to money or to any other provision under a contract having an economic value including loans only when they are directly related to a specific investment;</p>
+        <p>d) Intellectual Property Rights, including but not limited to patents, copyrights, industrial designs, trademarks, trade names, know-how, technical know-how, processes and goodwill; know-how and goodwill;</p>
+        <p>e) Economic concessions conferred by law or under contract, including concessions to prospecting, cultivate, extract or exploit natural resources.</p>
+        <p>The investments made in the territory of a Contracting Party by any legal person of the same Contracting Party but actually owned or controlled by investors of the other Contracting Party shall also be considered as investments made by investors of the second Contracting Party provided that have been made in accordance with the laws and regulations of the former Contracting Party.</p>
+        <p>Any change in the form in which assets are invested or reinvested shall not affect their character as investments.</p>
+        <p>3. "Income "means the amounts yielded by an investment and shall include in particular, though not exclusively, profits, dividends, interests, capital gains, royalties and fees.</p>
+        <p>4. "territory" means:</p>
+        <p>a) As regards the Republic of Trinidad and Tobago, Trinidad and Tobago, including the territorial sea and archipelagic waters, as well as the exclusive economic zone and continental shelf and the adjacent to the outer limit of the territorial sea of Trinidad and Tobago which has been or may be designated under the national law of Trinidad and Tobago as an area over which Trinidad and Tobago has or may have sovereign rights or jurisdiction in accordance with international law.</p>
+        <p>b) With respect to the Kingdom of Spain, the land territory, internal waters and the territorial sea of the Kingdom of Spain, as well as the exclusive economic zone and the continental shelf extends beyond the limits of the territorial waters of the Kingdom of Spain on which it has or may have jurisdiction or sovereign rights under international law.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and Admission">
+        <p>Each Contracting Party shall promote and create favourable conditions for investors of the other contracting party to make investments in its territory. each Contracting Party shall admit such investments in accordance with its laws and regulations.</p>
+      </div>
+      <div type="article" num="3" title="Protection">
+        <p>1. Shall at all times be accorded fair and equitable treatment and full protection and security to investments made by investors of one Contracting Party in the territory of the other contracting party. in no case shall such investments to a contracting party treatment less favourable than that required by international law.</p>
+        <p>2. Neither Contracting Party shall in any way by unreasonable or discriminatory measures the management, maintenance, use, enjoyment or disposal of such investments.</p>
+        <p>3. Any revenue from investments and in the case of their reinvestment made in accordance with the laws and regulations of the host Party, contracting resulting income shall enjoy the same protection as the investment.</p>
+      </div>
+      <div type="article" num="4" title="National and Most-favoured-nation Treatment">
+        <p>1. Each Contracting Party shall accord to investments made in its territory by investors of the other contracting party or to income from a treatment no less favourable than that accorded to investments made by its own investors to investors or of any third State or resulting income, whichever is more favourable to the investor concerned.</p>
+        <p>2. Each Contracting Party shall accord to investors in its territory of the other contracting party, as regards the management, maintenance, use, enjoyment or disposal of their investments, treatment no less favourable than that accorded to its own investors to investors or of any third State, which is more favourable to the investor concerned.</p>
+        <p>3. The treatment granted under paragraphs 1 and 2 of this article shall not be construed as to oblige one contracting party to extend to the investors of the other contracting party and their investments the benefit of any treatment, preference or privilege resulting from its membership of a customs union, economic or monetary or any other existing or future economic integration organization regional.apartados 1 and 2 of this article shall not be construed as to oblige one contracting party to extend to the investors of the other contracting party and their investments the benefit of any treatment, preference or privilege resulting from its membership of a customs union, economic or monetary existing or future or any other regional economic integration organization.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>1. Investments of investors of either Contracting Party in the territory of the other Contracting Party shall not be nationalised, expropriated or subjected to measures having effect equivalent to nationalization or expropriation (hereinafter referred to as expropriation) except for reasons of public interest and under due process of law, on a non-discriminatory basis and against payment of prompt, effective and adequate compensation.</p>
+        <p>2. Such compensation shall correspond to the fair market value of the expropriated investment immediately before the expropriation or impending expropriation became public knowledge, whichever is earlier (hereinafter referred to as the valuation date).</p>
+        <p>3. Such market value shall be calculated in a freely convertible currency and at the prevailing market rate of exchange for that currency on the valuation date. the compensation shall include interest at a rate established commercial market on the basis for the valuation of currency from the date of expropriation until the date of payment. the compensation shall be paid without delay, be effectively realizable and freely transferable.</p>
+        <p>4. According to the legislation of the contracting party making the expropriation, the investor affected shall have a right to a judicial authority or another competent and independent authority of that Contracting Party to prompt review of its case, including the valuation of its investment and the payment of compensation in accordance with the principles set out in this article.</p>
+        <p>5. When a Contracting Party shall expropriate the assets of a company which is constituted under the law in force in any part of its own territory, and in which investors have participation of the other Contracting Party, it shall ensure that the provisions of this article to guarantee prompt, adequate and effective compensation in respect of their investment to such investors of the other Contracting Party who are owners of those shares.</p>
+      </div>
+      <div type="article" num="6" title="Compensation for Losses">
+        <p>1. Investors of one Contracting Party whose investments in the territory of the other contracting party suffer losses owing to war or other armed conflict, revolution, state of national emergency, revolt, civil disturbance or other similar events shall be accorded by the latter Contracting Party, by way of restitution, indemnification, compensation or other settlement, a treatment no less favourable than that which that Contracting Party accords to its own investors to investors or of any third State, apply the treatment that is more favourable to the investor concerned. the resulting payments shall be freely transferable.</p>
+        <p>2. Notwithstanding paragraph 1, investors of one Contracting Party who, in any of the situations referred to in that paragraph, suffer losses in the territory of the other Contracting Party resulting from: (1), investors of one Contracting Party who, in any of the situations referred to in that paragraph, suffer losses in the territory of the other Contracting Party resulting from:</p>
+        <p>a) The seizure of all or part of their investment by its forces or authorities of that Contracting Party; or</p>
+        <p>b) The destruction of all or part of their investment by its forces or authorities of that Contracting Party, without requiring the necessity of the situation,</p>
+        <p>The Contracting Party shall be accorded restitution or compensation which in either case shall be prompt, adequate and effective. the resulting payments shall be made without delay and shall be freely transferable.</p>
+      </div>
+      <div type="article" num="7" title="Transfers">
+        <p>1. Each Contracting Party shall guarantee to investors of the other Contracting Party the free transfer of all payments relating to their investments. such transfers shall include in particular, though not exclusively:</p>
+        <p>a) The initial capital and additional amounts to maintain or increase an investment;</p>
+        <p>b) The investment income, as defined in article 1; article 1;</p>
+        <p>c) The funds in repayment of loans related to an investment;</p>
+        <p>d) The compensation under articles 5 and 6; articles 5 and 6;</p>
+        <p>e) The proceeds from the sale or the total or partial liquidation of an investment;</p>
+        <p>f) Other earnings and remuneration of personnel engaged from abroad in connection with an investment;</p>
+        <p>g) Payments arising out of the settlement of a dispute.</p>
+        <p>2. The transfers referred to in the present Agreement shall be made without delay in a freely convertible currency and at the market exchange rate prevailing on the date of transfer.</p>
+      </div>
+      <div type="article" num="8" title="Other Provisions">
+        <p>1. If the legislation of either Contracting Party or existing obligations under international law or subsequently arise between the Contracting Parties in addition to this Agreement contain rules whether general or specific), which is to be granted to investments made by investors of the other contracting party to a more favourable treatment than that provided for by the present Agreement, such rules shall prevail over this agreement to the extent that they are more favourable.</p>
+        <p>2. Nothing in this Agreement shall affect the provisions set out in the international agreements relating to intellectual and industrial property rights existing on the date of its signature.</p>
+      </div>
+      <div type="article" num="9" title="Entry , Residence and Employment">
+        <p>1. Within the framework of their national legislation, the Contracting Parties shall be open to the entry and sojourn and employment of nationals of one contracting party in connection with an investment made in the territory of the other contracting party.</p>
+        <p>2. Subject to the provisions of paragraph 1 above, each Contracting Party shall permit investors recruitment of senior management of their choice regardless of its nacionalidad.apartado 1, each Contracting Party shall permit investors recruitment of senior management of their choice regardless of nationality.</p>
+      </div>
+      <div type="article" num="10" title="Subrogation">
+        <p>If a Contracting Party or its designated by an agency under a payment guarantee, indemnity or contract of insurance against non-commercial risks with regard to an investment made by any of its investors in the territory of the other contracting party, the latter shall recognise the assignment of any such right or claim of the investor to former Contracting Party or to its designated agency as well as the law of that Contracting Party or its designated agency by subrogation to exercise such right or claim to the same extent as its predecessor in title. the subrogation will ensure that the first Contracting Party or its designated agency is direct beneficiary of any payment of compensation or other redress that might be entitled to the investor.</p>
+      </div>
+      <div type="article" num="11" title="Settlement of Disputes between the Contracting Parties">
+        <p>1. Any dispute between the contracting parties concerning the interpretation or application of this Agreement shall be settled as far as possible through diplomatic channels.</p>
+        <p>2. If the dispute cannot be settled in this way within six months from the beginning of negotiations, the dispute shall be submitted, at the request of either of the two contracting parties to an arbitral tribunal.</p>
+        <p>3. The arbitral tribunal shall be constituted as follows: each Contracting Party shall appoint one arbitrator and these two arbitrators shall elect a president is a national of a third country. the arbitrators shall be appointed within three months and the Chairman within five months from the date on which either Contracting Party has informed the other contracting party of its intention to submit the dispute to an arbitral tribunal.</p>
+        <p>4. If the necessary appointments have been made within the periods specified in paragraph 3 of this article, a Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make the necessary appointments. if the President is a national of either Contracting Party or unable to perform this function for other purposes, it shall ask the Vice-President to make the necessary appointments. if the Vice-President is a national of one of the contracting parties or nor to perform this function would be encouraged to make the necessary appointments to the member of the International Court of Justice to continue in seniority who is not a national of any of the Parties contratantes.apartado 3 of this article, a Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make the necessary appointments. if the President is a national of either Contracting Party or unable to perform this function for other purposes, it shall ask the Vice-President to make the necessary appointments. if the Vice-President is a national of one of the contracting parties or nor to perform this function would be encouraged to make the necessary appointments to the member of the International Court of Justice to continue in seniority who is not a national of either of the Contracting Parties.</p>
+        <p>5. The arbitral tribunal shall render its decision on the basis of respect for the laws and the provisions contained in this Agreement or in other agreements in force between the contracting parties, as well as of the generally accepted principles of international law.</p>
+        <p>6. Unless the arbitral tribunal decides otherwise, within six months of the date of selection of the Chairman shall be all allegations and all hearings. the arbitral tribunal shall reach its decision by a majority of votes and shall within two months from the date of the final submissions or concluded hearings, whichever is later. such decision shall be binding on both contracting parties. each Contracting Party shall bear the costs of the member of the tribunal appointed by itself and of its representation in the arbitral proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by the contracting parties. the Tribunal may, however, in its decision direct that one of the two contracting parties at a higher proportion of costs, and this decision shall be binding on both contracting parties. the tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="12" title="Disputes between Investors and a Contracting Party of the other Contracting Party">
+        <p>1. Disputes between a Contracting Party and an investor of the other Contracting Party with regard to an investment in the sense of the present Agreement shall be notified in writing, including detailed information by the investor to the former Contracting Party. to the extent possible, the parties concerned shall endeavor to settle these disputes amicably.</p>
+        <p>2. If such disputes cannot be settled amicably within six months from the date of the written notification mentioned in paragraph 1, the dispute shall be submitted, at the choice of the investor,: (1), the dispute shall be submitted, at the choice of the investor, to:</p>
+        <p>- The competent court of the Contracting Party in whose territory the investment has been made; or</p>
+        <p>- an ad hoc arbitral tribunal established under the Arbitration Rules of the United Nations Commission on International Trade Law; or</p>
+        <p>- International Centre for Settlement of Investment Disputes (ICSID) established pursuant to the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature at Washington on 18 March 1965.</p>
+      </div>
+      <div type="article" num="13" title="Scope">
+        <p>1. This Agreement shall apply to all investments made before or after its entry into force by investors of one Contracting Party in the territory of the other contracting party. the provisions of this Agreement shall not apply to any dispute or difference claim, which arose before its Entry into Force.</p>
+        <p>2. The treatment granted under this Agreement shall not apply to matters of taxation.</p>
+      </div>
+      <div type="article" num="14" title="Amendment">
+        <p>Any provision of this Agreement may be amended by mutual agreement between the contracting parties. such amendments shall enter into force on the date on which the contracting parties have notified each other of the completion of their respective constitutional formalities.</p>
+      </div>
+      <div type="article" num="15" title="Entry Into Force , Duration and Termination">
+        <p>1. This Agreement shall enter into force on the date on which the contracting parties have notified each other of the completion of the respective constitutional formalities required for the Entry into Force of international agreements.</p>
+        <p>2. This Agreement shall remain in force for an initial period of ten years. it shall continue in force thereafter unless one of the Contracting Parties denounces it by giving notice in writing through diplomatic one year in advance.</p>
+        <p>3. With respect to investments made prior to the date of termination of this Agreement, the provisions of all of the other articles of this Agreement shall remain in effect for a further period of ten years from such date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Port of Spain, on 3 July 1999 in two originals in the English and Spanish languages, all being equally authentic.</p>
+      <p>The Government of the Kingdom of Spain,</p>
+      <p>Elena pisonero Ruiz,</p>
+      <p>State Secretary of Commerce, Tourism and SME</p>
+      <p>The Government of the Republic of Trinidad and Tobago,</p>
+      <p>Ralph Maraj,</p>
+      <p>Minister of Foreign Affairs</p>
+    </conclusion>
+  </main>
+</treaty>

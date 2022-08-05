@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Sudan - Syrian Arab Republic BIT (2000)</name>
+    <code>T2000-141</code>
+    <partyisocode n="0">SDN</partyisocode>
+    <partyisocode n="1">SYR</partyisocode>
+    <date_signed>2000-01-07</date_signed>
+    <date_into_force>2001-09-01</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>2969</docreference>
+    <comments>asked ministry of Foreign Affairs already</comments>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{SDN,SYR}_2000-01-07.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+  </meta>
+  <main/>
+</treaty>

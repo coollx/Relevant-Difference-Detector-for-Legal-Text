@@ -1,0 +1,619 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Argentina - Japan BIT (2018)</name>
+    <code>T2018-2</code>
+    <partyisocode n="0">ARG</partyisocode>
+    <partyisocode n="1">JPN</partyisocode>
+    <date_signed>2018-12-01</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>201831</docreference>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{ARG,JPN}_2018-12-01.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE ARGENTINE REPUBLIC AND JAPAN FOR THE PROMOTION AND PROTECTION OF INVESTMENT</p>
+    </title>
+    <preamble>
+      <p>The Argentine Republic and Japan (hereinafter referred to as ''the Contracting Parties"),</p>
+      <p>Desiring to further promote investment in order to strengthen the economic relationship between the Contracting Parties;</p>
+      <p>Intending to further create stable, equitable, favourable and transparent conditions for greater investment by investors of a Contracting Party in the Area of the other Contracting Party based on the principies of equality and mutual benefit;</p>
+      <p>Recognising that these objectives can be achieved without relaxing health, safety and environmental measures of general application;</p>
+      <p>Recognising the importance of the cooperative relationship between labour and management in promoting investment between both Contracting Parties; and</p>
+      <p>With the aim of encouraging sustainable development of the Contracting Parties;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="chapter" num="I" title="Investment">
+        <div type="article" num="1" title="Definitions">
+          <p>For the purposes of this Agreement:</p>
+          <p>(a) The term "investment" means every kind of asset owned or controlled, directly or indirectly, by an investor, that has the characteristics of an investment. (1) Forms that an investment may take include:</p>
+          <p>(i) An enterprise and a branch of an enterprise;</p>
+          <p>(ii) Shares, stocks or other forms of equity participation in an enterprise;</p>
+          <p>(iii) Bonds, debentures, loans and other forms of debt, including rights derived therefrom (2) but do not include, regardless of original maturity, a sovereign debt of a Contracting Party or a debt of a state enterprise;</p>
+          <p>(iv) Rights under contracts, including turnkey, construction, management, production or revenue-sharing contracts;</p>
+          <p>(v) Claims to money and to any performance under contract having a financial value;</p>
+          <p>(vi) Intellectual property rights as referred to in the TRIPS Agreement</p>
+          <p>(vii) Licences, authorisations, permits and similar rights conferred pursuant to the laws and regulations of the host Contracting Party (3);</p>
+          <p>(viii) Any other tangible and intangible, movable and immovable property, and any related property rights, such as leases, mortgages, liens and pledges;</p>
+          <p>An investment includes the amounts yielded by an investment, in particular, profit, interest, capital gains, dividends, royalties and fees. A change in the form in which assets are invested does not affect their character as an investment. For greater certainty, this provision shall apply only where the assets still fall within the definition contained in this subparagraph;</p>
+          <p>(b) The term "investment agreement" means a written contract (4) between an authority at the central level of government (5) of a Contracting Party and an investor of the other Contracting Party or its investment that is an enterprise in the Area of the former Contracting Party, on which the investor or its investment relies in establishing or acquiring an investment in the former Contracting Party;</p>
+          <p>(c) The term "investor of a Contracting Party" means:</p>
+          <p>(i) A natural person having the nationality of that Contracting Party in accordance with its laws and regulations; or</p>
+          <p>(ii)  an enterprise of that Contracting Party, that seeks to make, is making or has made investments in the Area of the other Contracting Party; (6)</p>
+          <p>(d) The term "enterprise" means any legal person or any other entity duly constituted or organised under the applicable laws and regulations, whether or not for profit, and whether private or government owned or controlled, including any corporation, trust, partnership, sole proprietorship, joint venture, association, organisation or company;</p>
+          <p>(e) The term "enterprise of a Contracting Party" means an enterprise duly constituted or organised under the applicable laws and regulations of a Contracting Party;</p>
+          <p>(f) The term "investment activities" means establishment, acquisition, expansion, operation, management, maintenance, use, enjoyment and sale or other disposal of investments;</p>
+          <p>(g) The term "Area" means:</p>
+          <p>(i) With respect to Japan, its territory, and the exclusive economic zone and the continental shelf with respect to which Japan exercises sovereign rights or jurisdiction in accordance with international law; and</p>
+          <p>(ii) With respect to the Argentine Republic, the territory subject to the sovereignty of the Argentine Republic, and the exclusive economic zone and the continental shelf with respect to which the Argentine Republic exercises sovereign rights or jurisdiction in accordance with its domestic law, including its constitutional provisions, as well as international law;</p>
+          <p>(h) The term "existing" means being in effect on the date of entry into force of this Agreement;</p>
+          <p>(i) The term "freely usable currency" means freely usable currency as defined under the Articles of Agreement of the International Monetary Fund;</p>
+          <p>(j) The term "WTO Agreement" means the Marrakesh Agreement Establishing the World Trade Organization, done at Marrakesh, 15 April 1994;</p>
+          <p>(k) The term "GATS" means the General Agreement on Trade in Services in Annex 1 B to the WTO Agreement;</p>
+          <p>(l) The term "GATT 1994" means the General Agreement on Tariffs and Trade 1994 in Annex 1A to the WTO Agreement;</p>
+          <p>(m) The term "TRIPS Agreement" means the Agreement on Trade-Related Aspects of Intellectual Property Rights in Annex 1 C to the WTO Agreement;</p>
+          <p>(n) The term "claimant" means an investor of a Contracting Party that is a party to an investment dispute with the other Contracting Party;</p>
+          <p>(o) The term "respondent" means the Contracting Party that is a party to an investment dispute;</p>
+          <p>(p) The term "disputing party" means either the claimant or the respondent;</p>
+          <p>(q) The term "disputing parties" means the claimant and the respondent;</p>
+          <p>(r) The term "non-disputing Party" means the Contracting Party that is not a party to an investment dispute;</p>
+          <p>(s) The term "ICSID" means the International Centre for Settlement of Investment Disputes;</p>
+          <p>(t) The term "ICSID Convention" means the Convention on the Settlement of Investment Disputes between States and Nationals of other States, done at Washington, 18 March 1965;</p>
+          <p>(u) The term "New York Convention" means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, done at New York, 10 June 1958;</p>
+          <p>(v) The term "UNCITRAL Arbitration Rules" means the Arbitration Rules of the United Nations Commission on International Trade Law;</p>
+          <p>(w) The term "PCA" means the Permanent Court of Arbitration at The Hague; and</p>
+          <p>(x) The term "Secretary-General" means, unless otherwise provided in this Agreement, the Secretary-General of the PCA.</p>
+          <div type="foot_note">(1) It is confirmed that nothing in this Agreement shall apply to investments made by investors of a Contracting Party in violation of the applicable laws and regulations of either or both of the Contracting Parties.</div>
+          <div type="foot_note">(2) Some forms of debt, such as bonds, debentures and long-term notes, are more likely to have the characteristics of an investment, while other forms of debt, such as claims to payment that are immediately due and result from the sale of goods or services, are less likely to have such characteristics.</div>
+          <div type="foot_note">(3) Whether a particular type of licence, authorisation, permit or similar instrument (including a concession to the extent that it has the nature of such an instrument) has the characteristics of an investment depends on such factors as the nature and the extent of the rights that the holder has under the laws and regulations of the host Contracting Party. Among such instruments that do not have the characteristics of an investment are those that do not create any rights protected under the laws and regulations of the host Contracting Party. For greater certainty, the foregoing is without prejudice to whether any asset associated with such instruments has the characteristics of an investment.</div>
+          <div type="foot_note">(4) Written contract refers to an agreement in writing, executed by both parties, whether in a single instrument or in multiple instruments, that creates an exchange of rights and obligations, binding on both parties under applicable law. For greater certainty: (a) a unilateral act of an administrative or judicial authority, such as a permit, licence or authorisation issued by a Contracting Party solely in its regulatory capacity, or a decree, order or judgement, standing alone; and (b) an administrative or judicial consent decree or order, shall not be considered a written contract.</div>
+          <div type="foot_note">(5) For the purposes of this definition, "authority at the central level of government" means an authority at the ministerial level of government. Ministerial level of government means government departments, ministries or other similar authorities at the central level of government, but does not include: (a) a governmental agency or organ established by the Constitution or a particular legislation of a Contracting Party that has a separate legal personality from government departments, ministries or other similar authorities under a law of a Contracting Party, unless the day to day operations of that agency or organ are directed or controlled by government departments, ministries or other similar authorities; or (b) a governmental agency or organ that acts exclusively with respect to a particular region or province.</div>
+          <div type="foot_note">(6) It is understood that an investor of a Contracting Party "seeks to make investments" in the Area of the other Contracting Party only when the investor has taken concrete steps necessary to make investments, such as when the investor has made an application for a permit or licence which authorises the establishment of investments.</div>
+        </div>
+        <div type="article" num="2" title="National treatment">
+          <p>1. Each Contracting Party shall accord in its Area to investors of the other Contracting Party, and to their investments in the Area of the former Contracting Party, treatment no less favourable than the treatment it accords in like circumstances to its own investors, and to their investments in its own Area, with respect to investment activities.</p>
+          <p>2. Paragraph 1 shall not be construed to prevent a Contracting Party from adopting or maintaining a measure that prescribes special formalities in connection with investment activities of investors of the other Contracting Party in its Area, provided that such special formalities do not impair the substance of the rights of such investors under this Agreement.</p>
+          <p>3. For greater certainty, whether treatment is accorded in "like circumstances" under this Article depends on the totality of the circumstances, including whether the relevant treatment distinguishes between investments or investors on the basis of legitimate public welfare objectives.</p>
+        </div>
+        <div type="article" num="3" title="Most-favoured-nation treatment">
+          <p>1. Each Contracting Party shall accord in its Area to investors of the other Contracting Party, and to their investments in the Area of the former Contracting Party, treatment no less favourable than the treatment it accords in like circumstances to investors of a non-Contracting Party, and to their investments in the Area of the former Contracting Party, with respect to investment activities.</p>
+          <p>2. For greater certainty, whether treatment is accorded in "like circumstances" under this Article depends on the totality of the circumstances, including whether the relevant treatment distinguishes between investments or investors on the basis of legitimate public welfare objectives.</p>
+          <p>3. For greater certainty, the treatment referred to in this Article does not encompass international dispute settlement procedures or mechanisms under any international agreement.</p>
+          <p>4. The provisions of this Article shall not impose an obligation on either Contracting Party to grant investors of the other Contracting Party and their investments any benefits, advantages or privileges arising :from free trade areas, customs unions, common markets, economic unions or other similar integration agreements or tax agreements to which the former Contracting Party is or may become a party, or free zones (7).</p>
+          <p>5. The provisions of this Article shall not impose an obligation on either Contracting Party to grant investors of the other Contraction Party and their investments more favourable treatment accorded by the former Contracting Party under international agreements signed by it prior to the entry into force of this Agreement.</p>
+          <div type="foot_note">(7) For the purpose of this Article, the term "free zone" means a part of the territory of a Contracting Party where any goods introduced are generally regarded, insofar as import duties and taxes are concerned, as being outside the customs territory.</div>
+        </div>
+        <div type="article" num="4" title="Minimum standard of treatment">
+          <p>1. Each Contracting Party shall accord to investments of investors of the other Contracting Party in the Area of the former Contracting Party treatment in accordance with customary international law, including fair and equitable treatment and full protection and security. For greater certainty, a change of the regulation of a Contracting Party does not constitute by itself a breach of the preceding sentence.</p>
+          <p>2. For greater certainty, paragraph 1 prescribes the customary international law minimum standard of treatment of aliens as the standard of treatment to be afforded to investments of investors of the other Contracting Party. The concepts of "fair and equitable treatment" and "full protection and security" do not require treatment in addition to or beyond that which is required by that standard, and do not create additional substantive rights. For the purpose of paragraph 1:</p>
+          <p>(a) "fair and equitable treatment" includes the obligation not to deny justice in criminal, civil or administrative adjudicatory proceedings in accordance with the principle of due process embodied in the principal legal systems of the world; and</p>
+          <p>(b) "full protection and security" requires each Contracting Party to provide the level of police protection required under customary international law.</p>
+          <p>3. A determination that there has been a breach of another provision of this Agreement, or of a separate international agreement, does not establish that there has been a breach of this Article.</p>
+          <p>4. For greater certainty, the mere fact that a Contracting Party takes or fails to take an action that may be inconsistent with an investor 's expectations does not constitute a breach of the fair and equitable treatment or the full protection and security standards referred to in this Article, even if there is a loss or damage to the investment of investors of the other Contracting Party as a result.</p>
+        </div>
+        <div type="article" num="5" title="Access to the courts of justice">
+          <p>Each Contracting Party shall in its Area accord to investors of the other Contracting Party treatment no less favourable than the treatment which it accords in like circumstances to its own investors or investors of a non-Contracting Party with respect to access to the courts of justice and administrative tribunals and agencies in all degrees of jurisdiction, both in pursuit and in defence of such investors' rights.</p>
+        </div>
+        <div type="article" num="6" title="Relation to the wto agreement">
+          <p>Nothing in this Agreement shall be construed so as to derogate from the rights and obligations of the Contracting Parties under the WTO Agreement.</p>
+        </div>
+        <div type="article" num="7" title="Non-conforming measures">
+          <p>1. Articles 2 and 3 shall not apply to:</p>
+          <p>(a) Any existing non-conforming measure that is maintained by the central government of a Contracting Party with respect to sectors, sub-sectors or matters as set out in the Schedule of each Contracting Party in Annex I;</p>
+          <p>(b) Any existing non-conforming measure that is maintained by a local government of a Contracting Party;</p>
+          <p>(c) The continuation or prompt renewal of any non-conforming measure referred to in subparagraphs (a) and (b); or</p>
+          <p>(d) An amendment or modification to any non-conforming measure referred to in subparagraphs (a) and (b), provided that the amendment or modification does not decrease the conformity of the measure, as it existed immediately before the amendment or modification, with Articles 2 and 3.</p>
+          <p>2. Each Contracting Party shall, on the date on which this Agreement enters into force, notify the other Contracting Party of existing non-conforming measures referred to in subparagraph l(a). Such notification shall include the following elements for each entry with respect to existing non-conforming measure:</p>
+          <p>(a) "Sector" refers to the sector for which the entry is made;</p>
+          <p>(b) "Sub-Sector", where referenced, refers to the specific sub-sector for which the entry is made;</p>
+          <p>(c) "Industry Classification", where referenced, and only for transparency purposes, refers to the activity covered by the non-conforming measure, according to domestic or international industry classification codes;</p>
+          <p>(d) "Obligations Concerned" specifies the obligations imposed by Article 2 or 3 that, pursuant to subparagraph 1(a), do not apply to the listed measure(s);</p>
+          <p>(e) "Measures" identifies the laws, regulations or other measures for which the entry is made. A measure cited in the "Measures" element:</p>
+          <p>(i) Means the measure as amended, continued or renewed as of the date of entry into force of this Agreement; and</p>
+          <p>(ii) Includes any subordinate measure adopted or maintained under the authority of and consistent with the measure; and</p>
+          <p>(f) "Description" sets out the non-conforming measure or provides a general non-binding description ofthe measure for which the entry is made.</p>
+          <p>3. Articles 2 and 3 shall not apply to any measure that a Contracting Party adopts or maintains with respect to sectors, sub-sectors or activities set out in its Schedule in Annex ll.</p>
+          <p>4. Neither Contracting Party shall, under any measure adopted after the date of entry into force of this Agreement and covered by its Schedule in Annex II, require an investor of the other Contracting Party, by reason of its nationality, to sell or otherwise dispose of an investment that exists at the time when the measure becomes effective.</p>
+          <p>5. In cases where a Contracting Party makes an amendment or a modification to any existing non-conforming measure referred to in subparagraph l(a) or where a Contracting Party adopts any new or more restrictive measure with respect to sectors, sub-sectors or activities set out in its Schedule in Annex II after the date of entry into force of this Agreement, the Contracting Party shall, prior to the implementation of the amendment or modification or of the new or more restrictive measure, or in exceptional circumstances, as soon as possible thereafter, notify the other Contracting Party of detailed information on such amendment or modification, or such measure.</p>
+          <p>6. Each Contracting Party shall endeavour, where appropriate, to reduce or eliminate the non-conforming measures referred to in subparagraph 1(a) or specified in its Schedules in Annex II respectively.</p>
+          <p>7. Articles 2 and 3 shall not apply to any measure covered by the exceptions to, or derogations from, obligations under Articles 3 and 4 of the TRIPS Agreement, as specifically provided in Articles 3 through 5 of the TRIPS Agreement.</p>
+          <p>8. Articles 2 and 3 shall not apply to any measure that a Contracting Party adopts or maintains with respect to:</p>
+          <p>(a) Government procurement (8); or</p>
+          <p>(b) Subsidies or grants provided by the Contracting Party, including government supported loans, guarantees and insurance.</p>
+          <div type="foot_note">(8) For the purposes of this Agreement, the term "government procurement" means the process by which a government obtains the use of or acquires goods or services, or any combination thereof, for governmental purposes and not with a view to commercial sale or resale, or use in the production or supply of goods or services for commercial sale or resale. Measures that a Contracting Party adopts or maintains with respect to government procurement include those with respect to public works concessions contracts.</div>
+        </div>
+        <div type="article" num="8" title="Transparency">
+          <p>1. Each Contracting Party shall promptly publish, or otherwise make publicly available, its laws, regulations, administrative procedures, administrative rulings and, where possible, judicial decisions, of general application as well as international agreements which pertain to or affect the implementation and operation of this Agreement.</p>
+          <p>2. Each Contracting Party shall, upon request by the other Contracting Party, promptly respond to specific questions and provide that other Contracting Party with information on matters set out in paragraph 1.</p>
+          <p>3. Paragraphs 1 and 2 shall not be construed so as to oblige either Contracting Party to disclose confidential information, the disclosure of which would impede law enforcement or otherwise be contrary to the public interest, or which would prejudice privacy or legitimate commercial interests.</p>
+        </div>
+        <div type="article" num="9" title="Measures against corruption">
+          <p>Each Contracting Party shall ensure that measures and efforts are undertaken to prevent and combat corruption regarding matters covered by this Agreement in accordance with its laws and regulations.</p>
+        </div>
+        <div type="article" num="10" title="Entry, sojourn and residence of investors">
+          <p>Each Contracting Party shall, in accordance with its laws and regulations, give sympathetic consideration to applications for entry, sojourn and residence of:</p>
+          <p>(a) A natural person having the nationality of the other Contracting Party; and</p>
+          <p>(b) Any personnel employed by, and an executive, a manager and members of the board of directors of, an enterprise of the other Contracting Party, who wish to enter the territory of the former Contracting Party and remain therein for the purpose of investment activities.</p>
+        </div>
+        <div type="article" num="11" title="Expropriation and compensation">
+          <p>1. Neither Contracting Party shall expropriate or nationalise an investment of an investor of the other Contracting Party in the Area of the former Contracting Party, either directly or indirectly through measures equivalent to expropriation or nationalisation (hereinafter referred to as "expropriation") except:</p>
+          <p>(a) For a public purpose;</p>
+          <p>(b) In a non-discriminatory manner;</p>
+          <p>(c) Upon payment of prompt, adequate and effective compensation in accordance with paragraphs 4 through 7; and</p>
+          <p>(d) In accordance with due process of law.</p>
+          <p>2. Paragraph 1 addresses two situations. The first is direct expropriation, in which an investment is nationalised or otherwise directly expropriated through formal transfer of title or outright seizure. The second is indirect expropriation, in which an action or a series of actions by a Contracting Party has an effect equivalent to direct expropriation without formal transfer of title or outright seizure.</p>
+          <p>3.</p>
+          <p>(a) The determination of whether an action or a series of actions by a Contracting Party, in a specific fact situation, constitutes an indirect expropriation, requires a case-by-case, fact-based inquiry that considers, among other factors:</p>
+          <p>(i) The economic impact of the government action, although the fact that an action or a series of actions by a Contracting Party has an adverse effect on the economic value of an investment, standing alone, does not establish that an indirect expropriation has occurred;</p>
+          <p>(ii) The extent to which the government action interferes with distinct, reasonable investment-backed expectations;(9) and</p>
+          <p>(iii) The character of the government action.</p>
+          <p>(b) Non-discriminatory regulatory actions by a Contracting Party that are designed and applied to protect legitimate public welfare objectives, such as public health, (10) safety and the environment, do not constitute indirect expropriations, except in rare circumstances.</p>
+          <p>4. The compensation shall be equivalent to the fair market value of the expropriated investments at the time when the expropriation was publicly announced or when the expropriation occurred, whichever is earlier. The fair market value shall not reflect any chage in value occurring because the expropriation had become publicly known earlier.</p>
+          <p>5. The compensation shall be paid without undue delay, shall include interest at a commercially reasonable rate accrued from the date of expropriation until the date of payment and shall be effectively realisable and freely transferable.</p>
+          <p>6. If payment is made in a freely usable currency, the compensation paid shall include interest, ata commercially reasonable rate for that currency, accrued from the date of expropriation until the date of payment.</p>
+          <p>7. If a Contracting Party elects to pay in a currency other than a freely usable currency, the compensation paid shall be no less than the sum of the following converted into the currency of payment at the market rate of exchange prevailing on the date of payment:</p>
+          <p>(a) The fair market value on the date of expropriation, converted into a freely usable currency at the market rate of exchange prevailing on that date; and</p>
+          <p>(b) Interest, at a commercially reasonable rate for that freely usable currency, accrued from the date of expropriation until the date of payment.</p>
+          <p>8. This Article shall not apply to the issuance of compulsory licences granted in relation to intellectual property rights in accordance with the TRIPS Agreement, or to the revocation, limitation or creation of intellectual property rights, to the extent that such issuance, revocation, limitation or creation is consistent with the TRIPS Agreement.</p>
+          <div type="foot_note">(9) For greater certainty, whether an investor's investment-backed expectations are reasonable depends, to the extent relevant, on factors such as whether the government provided the investor with binding written assurances and the nature and extent of governmental regulation or the potential for government regulation in the relevant sector.</div>
+          <div type="foot_note">(10) For greater certainty and without limiting the scope of this subparagraph, regulatory actions to protect public health include, among others, such measures with respect to the regulation, pricing and supply of, and reimbursement for, pharmaceuticals (including biological products), diagnostics, vaccines, medical devices, gene therapies and technologies, health-related aids and appliances and blood and blood-related products.</div>
+        </div>
+        <div type="article" num="12" title="Treatment in case of armed conflict, civil strife, state ofnational emergency or any other similar event">
+          <p>1. Notwithstanding subparagraph 8(b) of Article 7, each Contracting Party shall accord to investors of the other Contracting Party and to their investments non discriminatory treatment with respect to measures it adopts or maintains relating to losses suffered by investments in the Area of the former Contracting Party owing to armed conflict, civil strife, state of national emergency or any other similar event.</p>
+          <p>2. Paragraph 1 shall not apply to existing measures relating to subsidies or grants that would be inconsistent with Article 2 but for subparagraph 8(b) of Article 7.</p>
+          <p>3. Any payment made pursuant to paragraph 1 shall be effectively realisable, freely transferable and freely convertible at the market exchange rate into freely usable currencies.</p>
+          <p>4. Neither Contracting Party shall be derogated from its obligation under paragraph 1 by reason of its measures taken pursuant to Article 16.</p>
+        </div>
+        <div type="article" num="13" title="Subrogation">
+          <p>If a Contracting Party or its designated agency makes a payment to an investor of that Contracting Party under a guarantee, a contract of insurance or another form of indemnity that it has entered into with respect to an investment of such investor in the Area of the other Contracting Party, the latter Contracting Party shall recognise the subrogation or transfer of any rights the investor would have possessed under this Agreement with respect to such investment but for the subrogation, and the investor shall be precluded from pursuing these rights to the extent of the subrogation.</p>
+        </div>
+        <div type="article" num="14" title="Transfers">
+          <p>1. Each Contracting Party shall permit that all transfers relating to investments of an investor of the other Contracting Party in the Area of the former Contracting Party may be freely made into and out of its Area without undue delay. Such transfers shall include, in particular, though not exclusively:</p>
+          <p>(a) The initial capital and additional amounts to maintain or increase investments;</p>
+          <p>(b) Profits, interest, capital gains, dividends, royalties, fees or other current incomes accruing from investments;</p>
+          <p>(c) Payments made under a contract including loan payments in connection with investments;</p>
+          <p>(d) Proceeds of the total or partial sale or liquidation of investments;</p>
+          <p>(e) Earnings and remuneration of personnel from abroad who work in connection with investments in the Area of the former Contracting Party;</p>
+          <p>(f) Payments made in accordance with Articles 11 and 12; and</p>
+          <p>(g) Payments arising out of the settlement of a dispute under Section 2 of Chapter II.</p>
+          <p>2. Each Contracting Party shall further permit that such transfers may be made without undue delay in freely usable currencies at the market exchange rate prevailing on the date of the transfer.</p>
+          <p>3. Notwithstanding paragraphs 1 and 2, a Contracting Party may delay or prevent a transfer through the equitable, non-discriminatory and good-faith application of its laws and regulations relating to:</p>
+          <p>(a) Bankruptcy, insolvency or the protection of the rights of creditors;</p>
+          <p>(b) Issuing, trading or dealing in securities, futures, options or derivatives;</p>
+          <p>(c) Criminal or penal offenses;</p>
+          <p>(d) Reporting or record keeping of transfers of currency or other monetary instruments when necessary to assist law enforcement or financial regulatory authorities; or</p>
+          <p>(e) Ensuring compliance with orders or judgements in adjudicatory proceedings.</p>
+        </div>
+        <div type="article" num="15" title="General exceptions">
+          <p>For the purposes of this Agreement, Article XX of the GATT 1994 and Article XIV of the GATS are incorporated into and form part of this Agreement, mutatis mutandis.</p>
+        </div>
+        <div type="article" num="16" title="Security measures">
+          <p>Subject to Article 12, nothing in this Agreement shall be construed to prevent a Contracting Party from adopting or enforcing measures:</p>
+          <p>(a) Which it considers necessary for the protection of its essential security interests:</p>
+          <p>(i) Taken in time of war, armed conflict, or other emergency situations in that Contracting Party or in international relations; or</p>
+          <p>(ii) Relating to the implementation of national policies or international agreements respecting the non-proliferation of weapons; or</p>
+          <p>(b) In pursuance of its obligations under the United Nations Charter for the maintenance of international peace and security.</p>
+        </div>
+        <div type="article" num="17" title="Corporate social responsibility">
+          <p>The Contracting Parties reaffirm the importance that each of them encourages enterprises operating within its Area or subject to its jurisdiction to voluntarily incorporate into their internal policies those internationally recognised standards, guidelines and principles of corporate social responsibility that have been endorsed or are supported by that Contracting Party.</p>
+        </div>
+        <div type="article" num="18" title="Temporary safeguard measures">
+          <p>1. A Contracting Party may adopt or maintain restrictive measures with regard to cross-border capital transactions as well as payments or transfers including transfers referred to in Article 14 for transactions related to investments:</p>
+          <p>(a) In the event of serious balance-of-payments and external financial difficulties or threat thereof; or</p>
+          <p>(b) In exceptional cases where movements of capital cause or threaten to cause serious difficulties for macroeconomic management, in particular monetary and exchange rate policies.</p>
+          <p>2. Restrictive measures referred to in paragraph 1 shall:</p>
+          <p>(a) Be applied in such manner that the other Contracting Party is treated no less favourably than any non-Contracting Party;</p>
+          <p>(b) Be consistent with the Articles of Agreement of the Intemational Monetary Fund;</p>
+          <p>(c) Not exceed those necessary to deal with the circurnstances set out in paragraph 1 ;</p>
+          <p>(d) Be temporary and be phased out progressively as the situation specified in paragraph 1 improves;</p>
+          <p>(e) Be promptly notified to the other Contracting Party; and</p>
+          <p>(f) Avoid unnecessary damages to the commercial, economic and financial interests of the other Contracting Party.</p>
+        </div>
+        <div type="article" num="19" title="Taxation measures">
+          <p>1. Nothing in this Chapter shall impose obligations with respect to taxation measures except as expressly provided in paragraph 3.</p>
+          <p>(a) Nothing in this Agreement shall affect the rights and obligations of either Contracting Party under any tax convention. In the event of any inconsistency between this Agreement and any such convention, that convention shall prevail to the extent of the inconsistency.</p>
+          <p>3. Articles 4, 5, 8 and 11 shall apply to taxation measures.</p>
+          <p>4. Article 11 shall apply to taxation measures, except that a claimant that asserts that a taxation measure involves an expropriation may submit an investment dispute to arbitration only if:</p>
+          <p>(a) The claimant has first referred to the competent authorities (11) of both Contracting Parties in writing the issue of whether that taxation measure involves an expropriation; and</p>
+          <p>(b) Within 180 days after the date of such referral, the competent authorities of both Contracting Parties fail to agree that the taxation measure is not an expropriation.</p>
+          <div type="foot_note">(11) For the purpose of this paragraph, the term "competent authorities" means: (i) with respect to Japan, the Minister of Finance or his or her authorised representatives, who shall consider the issue in consultation with the Minister for Foreign Affairs or his or her authorised representatives; and (ii) with respect to the Argentine Republic, the Minister of Treasury or his or her authorised representatives, who shall consider the issue in consultation with the Minister of Foreign Affairs and Worship or his or her authorised representatives and the Attorney General or his or her authorised representatives.</div>
+        </div>
+        <div type="article" num="20" title="Prudential measures">
+          <p>1. Notwithstanding any other provisions of this Agreement, a Contracting Party shall not be prevented from taking measures relating to financial services for prudential reasons, including measures for the protection of investors, depositors, policy holders or persons to whom a fiduciary duty is owed by an enterprise supplying financial services, or to ensure the integrity and stability of its financial system.</p>
+          <p>2. Where the measures taken by a Contracting Party pursuant to paragraph 1 do not conform with this Agreement, they shall not be used as a means of avoiding the obligations of the Contracting Party under this Agreement.</p>
+        </div>
+        <div type="article" num="21" title="Intellectual property rights">
+          <p>1. The Contracting Parties, aiming at further promoting investment activities, shall promote adequate and effective protection of intellectual property rights, and efficiency and transparency in intellectual property protection system, in accordance with the TRIPS Agreement and other international agreements to which both Contracting Parties are parties.</p>
+          <p>2. Nothing in this Agreement shall affect the rights and obligations of the Contracting Parties under multilateral agreements in respect of protection of intellectual property rights to which both Contracting Parties are parties.</p>
+          <p>3. Nothing in this Agreement shall be construed so as to oblige either Contracting Party to extend to investors of the other Contracting Party and to their investments treatment accorded to investors of a non-Contracting Party and to their investments by virtue of multilateral agreements in respect of protection of intellectual property rights, to which the former Contracting Party is a party.</p>
+        </div>
+        <div type="article" num="22" title="Health, safety and environmental measures and labour standards">
+          <p>Each Contracting Party recognises that it is inappropriate to encourage investment by investors of the other Contracting Party and of a non-Contracting Party by relaxing its health, safety or environmental measures, or by lowering its labour standards. To this effect, each Contracting Party should not waive or otherwise derogate from such measures or standards as an encouragement for the establishment, acquisition or expansion of investments in its Area by investors of the other Contracting Party and of a non-Contracting Party.</p>
+        </div>
+        <div type="article" num="23" title="Denial of benefits">
+          <p>1. A Contracting Party may den y the benefits of this Agreement to an investor of the other Contracting Party that is an enterprise of the other Contracting Party and to its investments if the enterprise is owned or controlled by an investor of a non-Contracting Party and the denying Contracting Party:</p>
+          <p>(a) Does not maintain diplomatic relations with the non-Contracting Party; or</p>
+          <p>(b) Adopts or maintains measures with respect to the non-Contracting Party that prohibit transactions with the enterprise or that would be violated or circumvented if the benefits of this Agreement were accorded to the enterprise or to its investments.</p>
+          <p>2. A Contracting Party may den y the benefits of this Agreement to an investor of the other Contracting Party that is an enterprise of the other Contracting Party and to its investments if the enterprise is owned or controlled by an investor of a non-Contracting Party and the enterprise has no substantial business activities in the Area of the other Contracting Party.</p>
+          <p>3. For the purpose of this Article, an enterprise is:</p>
+          <p>(a) "owned" by an investor if more than 50 percent of the equity interest in it is beneficially owned by the investor; and</p>
+          <p>(b) "controlled" by an investor if the investor has the power to name a majority of its directors or otherwise to legally direct its actions.</p>
+        </div>
+      </div>
+      <div type="chapter" num="II" title="Dispute settlement"/>
+      <div type="section" num="1" title="Settlement of disputes between the contracting parties">
+        <div type="article" num="24" title="Settlement of disputes between the contracting parties">
+          <p>1. Each Contracting Party shall accord sympathetic consideration to, and shall afford adequate opportunity for consultation regarding, any representations that the other Contracting Party may make with respect to any matter affecting the implementation of this Agreement.</p>
+          <p>2. Any dispute between the Contracting Parties as to the interpretation and application of this Agreement, not satisfactorily adjusted by diplomacy, shall be referred for decision to an arbitration board at the request of either Contracting Party. Such arbitration board shall be constituted for each dispute in the following way. Within 60 days from the date of receipt by either Contracting Party from the other Contracting Party of a note requesting arbitration of the dispute, each Contracting Party shall appoint an arbitrator. The two arbitrators shall select a third arbitrator who, upon approval by both Contracting Parties, shall be appointed as the Chairperson, provided that the third arbitrator shall not be a national of either Contracting Party. The Chairperson shall be appointed within 60 days from the date of appointment of the other two arbitrators.</p>
+          <p>3. If the necessary appointments referred to in paragraph 2 have not been made within the periods referred to in that paragraph, either Contracting Party may, unless otherwise agreed, request the Secretary-General to make such appointments. The arbitration procedure shall be administered by the PCA unless the Contracting Parties agree otherwise.</p>
+          <p>4. The arbitration board shall apply the UNCITRAL Arbitration Rules, unless the Contracting Parties otherwise agree. The arbitration board shall decide the dispute in accordance with this Agreement and the rules and principles of international law applicable to the subject matter. The arbitration board shall within a reasonable period of time reach its decision by a majority of votes and shall state the reasons upon which it is based. Such decision shall be final and binding.</p>
+          <p>5. Each Contracting Party shall bear the cost of its representation in the arbitral proceedings. The Contracting Parties shall bear the remaining costs of arbitration in equal proportions, provided that the arbitrator chosen by each Contracting Party did not unnecessarily increase the costs of arbitration.</p>
+        </div>
+      </div>
+      <div type="section" num="2" title="Settlement of investment disputes between a contracting party and an investor of the other contracting party">
+        <div type="article" num="25" title="General provisions">
+          <p>1. In the event of an investment dispute between the claimant and the respondent, they should initially seek to resolve the dispute through consultations and negotiations, which may include the use of non-binding, third-party procedures. For greater certainty, the initiation of consultations and negotiations shall not be construed as recognition of the jurisdiction of the tribunal.</p>
+          <p>2. In the event that a disputing party considers that an investment dispute cannot be settled by consultations and negotiations:</p>
+          <p>(a) The claimant, on its own behalf, may submit to arbitration under this Section a claim:</p>
+          <p>(i) That the respondent has breached:</p>
+          <p>(A) An obligation under Chapter I; or</p>
+          <p>(B) An investment agreement; and</p>
+          <p>(ii) That the claimant has incurred loss or damage by reason of, or arising out of, that breach; and</p>
+          <p>(b) The claimant, on behalf of an enterprise of the respondent that is a legal person that the claimant owns or controls directly or indirectly, may submit to arbitration under this Section a claim:</p>
+          <p>(i) That the respondent has breached:</p>
+          <p>(A) An obligation under Chapter I; or</p>
+          <p>(B) An investment agreement; and</p>
+          <p>(ii) That the enterprise has incurred loss or damage by reason of, or arising out of, that breach;</p>
+          <p>Provided that a claimant may submit pursuant to subparagraph (a)(i)(B) or (b)(i)(B) a claim for breach of an investment agreement only if the subject matter of the claim and the claimed damages directly relate to the investment of the claimant that was established or acquired in the Area of the respondent in reliance on the relevant investment agreement.</p>
+          <p>3. At least 90 days before submitting any claim to arbitration under this Section, a claimant shall deliver to the respondent a written notice of its intention to submit the claim to arbitration (hereinafter referred to as "notice of intent"). The notice of intent shall specify:</p>
+          <p>(a) The name and address of the claimant and, in the case of subparagraph 2(b), the name, address and place of incorporation of the enterprise;</p>
+          <p>(b) For each claim, the provision of Chapter I or of the investment agreement alleged to have been breached and any other relevant provisions;</p>
+          <p>(c) The legal and factual basis for each claim; and</p>
+          <p>(d) The relief sought and the approximate amount of damages claimed.</p>
+          <p>4. Provided that six months have elapsed since the events giving rise to the claim, a claimant may submit a claim referred to in paragraph 2 to the arbitration:</p>
+          <p>(a) Under the ICSID Convention, provided that both Contracting Parties are parties to the ICSID Convention;</p>
+          <p>(b) Under the UNCITRAL Arbitration Rules, which shall be administered by the PCA unless otherwise agreed by the disputing parties; or</p>
+          <p>(c) If the disputing parties agree, under any other arbitration institution or arbitration rules.</p>
+          <p>5. A claim shall be deemed submitted to arbitration under this Section when the claimant's written notice of or request for arbitration (hereinafter referred to in this Section as "notice of arbitration"):</p>
+          <p>(a) Referred to in paragraph 1 of Article 36 of the ICSID Convention is received by the Secretary-General (12)</p>
+          <p>(b) Referred to in Article 3 of the UNCITRAL Arbitration Rules, together with the statement of claim referred to in Article 20 of the UNCITRAL Arbitration Rules, is received by the respondent; or</p>
+          <p>(c) Under any other arbitration institution or arbitration rules selected under subparagraph 4(c) is received by the respondent, unless otherwise specified by such institution or in such rules.</p>
+          <p>(12) For the purposes of this subparagraph, the term "Secretary-General" means the Secretary-General of the ICSID.</p>
+          <p>6. Each Contracting Party hereby consents to the submission of a claim to arbitration under this Section in accordance with this Agreement.</p>
+          <p>7. Notwithstanding paragraph 6, a claimant may not submit to arbitration under this Section an investment dispute with respect to the establishment, acquisition or expansion of its investment.</p>
+          <p>8. Notwithstanding paragraph 6, no claim may be submitted to arbitration under this Section if more than three years have elapsed from the date on which the claimant first acquired, or should have first acquired, knowledge of the breach alleged under paragraph 2 and knowledge that the claimant in the case of subparagraph 2(a) or the enterprise referred to in subparagraph 2(b) in the case of that subparagraph has incurred loss or damage.</p>
+          <p>9. No claim may be submitted to arbitration under this Section unless:</p>
+          <p>(a) In the case of subparagraph 2(a):</p>
+          <p>(i) The claimant consents in writing to arbitration in accordance with the procedures set out in this Section; and</p>
+          <p>(ii) The claimant waives in writing any right to initiate or continue before any administrative tribunal or court of justice under the law of either Contracting Party, or other dispute settlement procedures, any proceedings with respect to any measure alleged to constitute a breach referred to in subparagraph 2(a)(i); and</p>
+          <p>(b) In the case of subparagraph 2(b ):</p>
+          <p>(i) Both the claimant and the enterprise referred to in that subparagraph consent in writing to arbitration in accordance with the procedures set out in this Section;</p>
+          <p>(ii) Both the claimant and the enterprise referred to in that subparagraph waive in writing any right to initiate or continue before any administrative tribunal or court of justice under the law of either Contracting Party, or other dispute settlement procedures, any proceedings with respect to any measure alleged to constitute a breach referred to in subparagraph 2(b )(i).</p>
+          <p>10 The waiver provided pursuant to subparagraph 9(a)(ii) or 9(b)(ii) shall cease to apply where the tribunal rejects the claim on the basis of any procedural or jurisdictional grounds.</p>
+          <p>11. Notwithstanding subparagraphs 9(a)(ii) and 9(b )(ii), the claimant or the enterprise referred to in subparagraph 2(b) may initiate or continue an action that seeks interim injunctive relief that does not involve the payment of monetary damages before an administrative tribunal or court of justice under the law of the respondent.</p>
+          <p>12. The respondent shall deliver to the non-disputing Party:</p>
+          <p>(a) Notice of arbitration no later than 30 days after the date on which the claim was submitted; and</p>
+          <p>(b) Copies of all pleadings filed in the arbitration.</p>
+          <p>13. The non-disputing Party may, upon written notice to the disputing parties, make submissions to the tribunal on a question of interpretation of this Agreement.</p>
+          <p>14. In an arbitration under this Section, the respondent shall not assert, as a defence, counterclaim, right of setoff or otherwise, that the claimant has received or will receive indemnification or other compensation for all or part of the alleged damages pursuant to an insurance or guarantee contract.</p>
+          <p>15. The tribunal may award only:</p>
+          <p>(a) A judgement whether or not there has been a breach of any obligation under Chapter I or under an investment agreement referred to in subparagraph 2(a)(i)(B) or 2(b)(i)(B) with respect to the claimant and its investments; and</p>
+          <p>(b) One or both of the following remedies, only if there has been such a breach:</p>
+          <p>(i) Monetary damages and applicable interest; and</p>
+          <p>(ii) Restitution of property, in which case the award shall provide that the respondent may pay monetary damages and any applicable interest, in lieu of restitution. The tribunal may also award cost and attorney's fees in accordance with this Section and applicable arbitration rules.</p>
+          <p>16. For greater certainty, if an investor of a Contracting Party submits a claim to arbitration under subparagraph 2(a), it may recover only for loss or damage that it has incurred in its capacity as an investor of a Contracting Party.</p>
+          <p>17. The tribunal may not award punitive damages.</p>
+          <p>18. Subject to paragraph 15, in the case of subparagraph 2(b):</p>
+          <p>(a) An award of monetary damages and any applicable interest shall provide that the sum be paid to the enterprise referred to in that subparagraph; and</p>
+          <p>(b) An award of restitution of property shall provide that restitution be made to the enterprise referred to in that subparagraph.</p>
+          <p>19. The respondent may make available to the public in a timely manner all documents, including an award, submitted to, or issued by, the tribunal, subject to redaction of:</p>
+          <p>(a) Confidential business information;</p>
+          <p>(b) Information which is privileged or otherwise protected from disclosure under the laws and regulations of either Contracting Party; and</p>
+          <p>(c) Information which shall be withheld pursuant to the relevant arbitration rules.</p>
+          <p>20. The disputing parties may agree on the legal place of any arbitration under the arbitration rules applicable under paragraph 4. If the disputing parties fail to reach an agreement, the tribunal shall determine the place in accordance with the applicable arbitration rules, provided that the place shall be in a country that is a party to the New York Convention.</p>
+          <p>21. A tribunal shall within a reasonable period of time reach its decision by a majority of votes. The award rendered by the tribunal shall state the reasons upon which it is based and. shall be binding upon the disputing parties and only with respect to the particular case.</p>
+          <p>22. Subject to paragraph 23 and the applicable review procedure for an interim award, a disputing party shall abide by and comply with an award without delay.</p>
+          <p>23 A disputing party shall not seek enforcement of a final award until:</p>
+          <p>(a) In the case of a final award made under the ICSID Convention:</p>
+          <p>(i) 120 days have elapsed from the date the award was rendered and no disputing party has requested the revision or annulment of the award; or</p>
+          <p>(ii) Revision or annulment proceedings have been completed; and</p>
+          <p>(b) In the case of a final award under the UNCITRAL Arbitration Rules or the rules selected pursuant to subparagraph 4( e);</p>
+          <p>(i) 90 days have elapsed from the date the award was rendered and no disputing party has commenced a proceeding to revise, set aside or annul the award; or</p>
+          <p>(ii) A court has dismissed or allowed an application to revise, set aside or annul the award and there is no further appeal.</p>
+          <p>24. Each Contracting Party shall provide for the enforcement of an award in its Area. The award shall be executed in accordance with the applicable laws and regulations, as well as relevant international law including the ICSID Convention and the New York Convention, concerning the execution of award in force in the country where such execution is sought.</p>
+        </div>
+        <div type="article" num="26" title="Selection of arbitrators">
+          <p>1. Unless the disputing parties agree otherwise, the tribunal shall comprise three arbitrators, one arbitrator appointed by each of the disputing parties and the third, who shall be the presiding arbitrator, appointed by agreement of the disputing parties.</p>
+          <p>2. The Secretary-General shall serve as appointing authority for an arbitration under this Section.</p>
+          <p>3. If a tribunal has not been constituted within 75 days after the date that a claim is submitted to arbitration under this Section, the Secretary-General, on the request of a disputing party, shall appoint, in his or her discretion, the arbitrator or arbitrators not yet appointed. The Secretary-General shall not appoint a national of either Contracting Party as the presiding arbitrator unless the disputing parties agree otherwise.</p>
+          <p>4. For the purposes of Article 39 of the ICSID Convention and without prejudice to an objection to an arbitrator on grounds other than nationality:</p>
+          <p>(a) The respondent agrees to the appointment of each individual member of a tribunal established under the ICSID Convention;</p>
+          <p>(b) A claimant referred to in subparagraph 2(a) of Article 25 may submit a claim to arbitration under this Section, or continue a claim, under the ICSID Convention, only on condition that the claimant agrees in writing to the appointment of each individual member of the tribunal; and</p>
+          <p>(c) A claimant referred to in subparagraph 2(b) of Article 25 may submit a claim to arbitration under this Section, or continue a claim, under the ICSID Convention, only on condition that the claimant and the enterprise referred to in the same subparagraph agree in writing to the appointment of each individual member of the tribunal.</p>
+          <p>5. In the appointment of arbitrators to a tribunal for claims submitted under subparagraph 2(a)(i)(B) or 2(b)(i)(B) of Article 25, each disputing party shall take into account the expertise or relevant experience of particular candidates with respect to the relevant governing law. In case where the Secretary-General makes an appointment under paragraph 3, the Secretary-General shall also take into account the expertise or relevant experience of particular candidates with respect to the relevant governing law.</p>
+          <p>6. Any arbitrator may be challenged if circumstances exist that give rise to justifiable doubts as to the arbitrator's impartiality or independence.</p>
+          <p>7. Unless the disputing parties agree otherwise, the disputing party that proposed the challenge may, if the other disputing party has not expressed its consent to the challenge or the challenged arbitrator fails to resign within 15 days after the date of written notice of such challenge, request the Secretary-General to make a founded decision on the challenge after affording the challenged arbitrator and the disputing parties an opportunity to submit their comments.</p>
+        </div>
+        <div type="article" num="27" title="Conduct of arbitration">
+          <p>1. After consultation with the disputing parties, the tribunal may accept and consider written amicus curiae submissions regarding a matter of fact or law within the scope of the dispute that may assist the tribunal in evaluating the submissions and arguments of the disputing parties from a person or entity that is not a disputing party but has a significant interest in the arbitral proceedings. Each submission shall identify the author; disclose any affiliation, direct or indirect, with any disputing party; and identify any person, government or other entity that has provided, or will provide, any financial or other assistance in the preparation of the submission. Each submission shall be in a language of the arbitration and comply with any page limits and deadlines set by the tribunal. The tribunal shall provide the disputing parties with an opportunity to respond to such submissions. The tribunal shall ensure that the submissions do not disrupt or unduly burden the arbitral proceedings, or unfairly prejudice any disputing party.</p>
+          <p>2. Without prejudice to a tribunal 's authority to address as preliminary questions other objections, such as an objection that a dispute is not within the tribunal's competence, including an objection to the tribunal's jurisdiction, a tribunal shall address and decide as a preliminary question any objection by the respondent that, as a matter of law, a claim submitted is not a claim for which an award in favour of the claimant may be made under Article 25 or that a claim is manifestly without legal merit.</p>
+          <p>(a) An objection under this paragraph shall be submitted to the tribunal as soon as possible after the tribunal is constituted, and in no event later than the date the tribunal fixes for the respondent to submit its countermemorial or, in the case of an amendment to the notice of arbitration, the date the tribunal fixes for the respondent to submit its response to the amendment.</p>
+          <p>(b) On receipt of an objection under this paragraph, the tribunal shall suspend any proceedings on the merits, establish a schedule for considering the objection consistent with any schedule it has established for considering any other preliminary question, and issue a decision or award on the objection, stating the grounds therefor.</p>
+          <p>(c) In deciding an objection under this paragraph that a claim submitted is not a claim for which an award in favour of the claimant may be made under Article 25, the tribunal shall assume to be true the claimant's factual allegations in support of any claim in the notice of arbitration (or any amendment thereof) and, in disputes brought under the UNCITRAL Arbitration Rules, the statement of claim referred to in the relevant article of the UNCITRAL Arbitration Rules. The tribunal may also consider any relevant facts not in dispute.</p>
+          <p>(d) The respondent does not waive any objection as to competence, including an objection to jurisdiction, or any argument on the merits merely because the respondent did or did not raise an objection under this paragraph or make use of the expedited procedure set out in paragraph 3.</p>
+          <p>3. In the event that the respondent so requests within 45 days after the tribunal is constituted, the tribunal shall decide on an expedited basis an objection under paragraph 2 or any objection that the dispute is not within the tribunal's competence, including an objection to the tribunal 's jurisdiction. The tribunal shall suspend any proceedings on the merits and issue a decision or award on the objection, stating the grounds therefor, no later than 150 days after the date of the request. However, if a disputing party requests a hearing, the tribunal may take an additional 30 days to issue the decision or award. Regardless of whether a hearing is requested, a tribunal may, on a showing of extraordinary cause, delay issuing its decision or award by an additional brief period, which may not exceed 30 days.</p>
+          <p>4. When the tribunal decides a respondent's objection under paragraph 2 or 3, it may, if warranted, award to the prevailing disputing party reasonable costs and attorney's fees incurred in submitting or opposing the objection. In determining whether such an award is warranted, the tribunal shall consider whether either the claimant's claim or the respondent's objection was frivolous, and shall provide the disputing parties a reasonable opportunity to comment.</p>
+          <p>5. Without prejudice to the appointment of other kinds of experts when authorised by the applicable arbitration rules, a tribunal, on request of a disputing party or, unless the disputing parties disapprove, on its own initiative, may appoint one or more experts to report to it in writing on any factual issue concerning scientific matters raised by a disputing party in a proceeding, subject to any terms and conditions that the disputing parties may agree.</p>
+        </div>
+        <div type="article" num="28" title="Consolidation of proceedings">
+          <p>1. If two or more claims have been submitted separately to arbitration under paragraph 2 of Article 25 and the claims have a question of law or fact in common and arise out of the same events or circumstances, any disputing party may seek a consolidation order in accordance with the agreement of all the disputing parties sought to be covered by the order or the terms of paragraphs 2 through 10.</p>
+          <p>2. A disputing party that seeks a consolidation order under this Article shall deliver, in writing, a request to the Secretary-General and to all the disputing parties sought to be covered by the order and shall specify the following in the request:</p>
+          <p>(a) The names and addresses of all the disputing parties sought to be covered by the order;</p>
+          <p>(b) The nature of the order sought; and</p>
+          <p>(c) The grounds on which the order is sought.</p>
+          <p>3. Unless the Secretary-General finds within 30 days after the date of receiving a request under paragraph 2 that the request is manifestly unfounded, a tribunal shall be established under this Article.</p>
+          <p>4. Unless all the disputing parties sought to be covered by the consolidation order agree otherwise, a tribunal established under this Article shall comprise three arbitrators:</p>
+          <p>(a) One arbitrator appointed by agreement of the claimants;</p>
+          <p>(b) One arbitrator appointed by the respondent; and</p>
+          <p>(c) The presiding arbitrator appointed by the Secretary-General, provided that the presiding arbitrator is not a national of either Contracting Party.</p>
+          <p>5. If, within 60 days after the date when the Secretary-General receives a request made under paragraph 2, the respondent fails or the claimants fail to appoint an arbitrator in accordance with paragraph 4, the Secretary-General, on request of any disputing party sought to be covered by the order, shall appoint, in his or her discretion, the arbitrator or arbitrators not yet appointed.</p>
+          <p>6. If a tribunal established under this Article is satisfied that two or more claims that have been submitted to arbitration under paragraph 2 of Article 25 have a question of law or fact in common, and arise out of the same events or circumstances, the tribunal may, in the interest of fair and efficient resolution of the claims, and after hearing the disputing parties, by order:</p>
+          <p>(a) Assume jurisdiction over, and hear and determine together, all or part of the claims;</p>
+          <p>(b) Assume jurisdiction o ver, and hear and determine one or more of the claims, the determination of which it believes would assist in the resolution of the others; or</p>
+          <p>(c) Instruct a tribunal previously established under Article 26 to assume jurisdiction over, and hear and determine together, all or part of the claims, provided that:</p>
+          <p>(i) That tribunal, on request of a claimant that was not previously a disputing party before that tribunal, shall be reconstituted with its original members, except that the arbitrator for the claimants shall be appointed pursuant to subparagraph 4(a) and paragraph 5; and</p>
+          <p>(ii) That tribunal shall decide whether a prior hearing shall be repeated.</p>
+          <p>7. If a tribunal has been established under this Article, a claimant that has submitted a claim to arbitration under paragraph 2 of Article 25 and that has not been named in a request made under paragraph 2 may make a written request to the tribunal that it be included in any order made under paragraph 6. The request shall specify:</p>
+          <p>(a) The name and address of the claimant;</p>
+          <p>(b) The nature of the order sought; and</p>
+          <p>(c) The grounds on which the order is sought.</p>
+          <p>The claimant shall deliver a copy of its request to the Secretary-General.</p>
+          <p>8. A tribunal established under this Article shall conduct its proceedings in accordance with the UNCITRAL Arbitration Rules, except as modified by this Section.</p>
+          <p>9. A tribunal established under Article 26 shall not ha ve jurisdiction to decide a claim, or a part of a claim, over which a tribunal established or instructed under this Article has assumed jurisdiction.</p>
+          <p>10. On the application of a disputing party, a tribunal established under this Article, pending its decision under paragraph 6, may order that the proceedings of a tribunal established under Article 26 be stayed, unless the latter tribunal has already adjourned its proceedings.</p>
+        </div>
+      </div>
+      <div type="section" num="3" title="Service of documents">
+        <div type="article" num="29" title="Service of documents">
+          <p>1. Notices and other documents relating to arbitration under this Chapter shall be served on a Contracting Party by delivery to:</p>
+          <p>(a) With respect to Japan, Economic Affairs Bureau, the Ministry of Foreign Affairs; and</p>
+          <p>(b) With respect to the Argentine Republic, both the Ministry of Foreign Affairs and Worship and the Attorney General 's Office.</p>
+          <p>2. A Contracting Party shall promptly make publicly available and notify to the other Contracting Party any change to the name of the authority referred to in paragraph 1.</p>
+          <p>3. Each Contracting Party shall make publicly available the address of its authority referred to in paragraphs 1 and 2.</p>
+        </div>
+        <div type="chapter" num="III" title="Joint committee">
+          <div type="article" num="30" title="Joint committee">
+            <p>1. The Contracting Parties shall establish a Joint Committee (hereinafter referred to as ''the Committee") with a view to accomplishing the objectives of this Agreement.</p>
+            <p>The functions of the Committee shall be:</p>
+            <p>(a) To discuss and review the implementation and operation of this Agreement;</p>
+            <p>(b) To exchange information on and to discuss investment-related matters within the scope of this Agreement which relate to improvement of investment environment; and</p>
+            <p>(c) To discuss any other investment-related matters concerning this Agreement.</p>
+            <p>2. The Committee may, as necessary, make appropriate recommendations by consensus to the Contracting Parties for the more effective functioning or the attainment of the objectives of this Agreement.</p>
+            <p>3. The Committee shall be composed of representatives of the Contracting Parties. The Committee may, upon mutual consent of the Contracting Parties, invite representatives of relevant entities other than the Governments of the Contracting Parties with the necessary expertise relevant to the issues to be discussed, and hold joint meetings with the private sectors.</p>
+            <p>4. The Committee shall determine its own rules of procedure to carry out its functions.</p>
+            <p>5. The Committee may establish sub-committees and delegate specific tasks to such sub-committees.</p>
+            <p>6. The Committee shall meet upon the request of either Contracting Party.</p>
+          </div>
+        </div>
+        <div type="chapter" num="IV" title="Final provisions">
+          <div type="article" num="31" title="Review">
+            <p>Unless the Contracting Parties otherwise agree, the Contracting Parties shall conduct a review if, after the entry into force of this Agreement, the Argentine Republic enters into any multilateral or bilateral international agreement on investment:</p>
+            <p>(a) Which does not contain a provision excluding sovereign debt;</p>
+            <p>(b) Which provides for its consent to submit an investment dispute to arbitration with respect to the establishment, acquisition or expansion of investments of an investor of another State; or</p>
+            <p>(c) Which contains provisions with respect to prohibition of performance requirements, with a view to amending the corresponding provisions of or adding relevant provisions to this Agreement. The Contracting Parties shall commence such review upon request by Japan and within three months from the date of receipt of the request made after the date on which that international agreement enters into force and will conduct the review with the aim of concluding it within a reasonable period of time.</p>
+          </div>
+          <div type="article" num="32" title="Final provisions">
+            <p>1. The Contracting Parties shall notify each other, in writing, through diplomatic channels, of the completion of their respective internal procedures necessary for the entry into force of this Agreement. This Agreement shall enter into force on the 30th day after the latter of the dates of receipt of the notifications. It shall remain in force for 10 years after its entry into force and shall continue in force unless terminated as provided for in paragraph 2.</p>
+            <p>2. A Contracting Party may, by giving one year's advance notice in writing to the other Contracting Party, through diplomatic channels, terminate this Agreement at the end of the initial 10 year period or at any time thereafter.</p>
+            <p>3. This Agreement shall also apply to all investments of investors of either Contracting Party acquired in the Area of the other Contracting Party in accordance with the laws and regulations of that other Contracting Party prior to the entry into force of this Agreement.</p>
+            <p>4. In respect of investments acquired prior to the date of termination of this Agreement, the provisions of this Agreement shall continue to be effective for 10 years from the date of termination of this Agreement.</p>
+            <p>5. This Agreement shall not apply to claims arising out of events which occurred prior to its entry into force.</p>
+            <p>6. The Annexes to this Agreement shall form an integral part of this Agreement.</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Agreement.</p>
+      <p>DONE in duplicate at Buenos Aires, on this first day of December, 2018, in the English language.</p>
+      <p>FOR THE ARGENTINE REPUBLIC</p>
+      <p>FOR JAPAN</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" num="I" title="Sectors, sub-sectors or matters referred to in subparagraph 1(a) of article 7">
+        <p>
+          <b>JAPAN</b>
+        </p>
+        <p>1. Agriculture, Forestry and Fisheries, and Related Services (except Fisheries within the Territorial Sea, Internal Waters, Exclusive Economic Zone and Continental Shelf provided for in the entry No. 7 in the Schedule ofJapan in Annex 11)</p>
+        <p>2. Banking</p>
+        <p>3. Heat Supply</p>
+        <p>4. Telecommunications and Internet Based Services</p>
+        <p>5. Drugs and Medicines Manufacturing</p>
+        <p>6. Leather and Leather Products Manufacturing</p>
+        <p>7. Matters Related to the Nationality of a Ship</p>
+        <p>8. Mining</p>
+        <p>9. Oil Industry</p>
+        <p>10. Security Guard Services</p>
+        <p>11. Air Transport ( except investment in airports or airport operation services provided for in the entry No.11. in the Schedule of Japan in Annex 11)</p>
+        <p>12. Freight Forwarding Business</p>
+        <p>13. Railway Transport</p>
+        <p>14. Road Passenger Transport</p>
+        <p>15. Water Transport</p>
+        <p>16. Water Supply and Waterworks Treatment referred to in paragraph 1 of Article 3 (Most-Favoured-Nation Treatment) shall be accorded in the sectors, sub-sectors or matters specified in 2 to 10, 13, 14 and 16.</p>
+        <p>
+          <b>THE ARGENTINE REPUBLIC </b>
+        </p>
+        <p>1. Manufacture of Chemicals and Chemical Products</p>
+        <p>2. Financial and Insurance Activities Treatment referred to in paragraph 1 of Article 3 (Most-Favoured-Nation Treatment) shall be accorded in the sectors, sub-sectors or matters specified in l.</p>
+      </div>
+      <div type="annex" num="II" title="Non-conforming measures referred to in paragraph 3 of article 7&#xA0;">
+        <p>1. The Schedule of a Contracting Party sets out, pursuant to paragraph 3 of Article 7, the specific sectors, sub-sectors or activities for which that Contracting Party may maintain existing, or adopt new or more restrictive, measures that do not conform with obligations imposed by:</p>
+        <p>(a) Article 2; or</p>
+        <p>(b) Article 3.</p>
+        <p>2. Each Schedule entry sets out the following elements:</p>
+        <p>(a) "Sector" refers to the sector for which the entry is made;</p>
+        <p>(b) "Sub-Sector", where referenced, refers to the specific sub-sector for which the entry is made;</p>
+        <p>(c) "Industry Classification", where referenced, and only for transparency purposes, refers to the activity covered by the non-conforming measure, according to domestic or international industry classification codes;</p>
+        <p>(d) "Obligations Concerned" specifies the obligations referred to in paragraph 1 that, pursuant to paragraph 3 ofArticle 7, do not apply to the sectors, sub-sectors or activities listed in the entry;</p>
+        <p>(e) "Description" sets out the scope or nature of the sectors, sub-sectors or activities covered by the entry; and</p>
+        <p>(f) "Existing Measures", where specified, identifies, for transparency purposes, a non-exhaustive list of existing measures that apply to the sectors, sub-sectors or activities covered by the entry.</p>
+        <p>3. In the interpretation of an entry, all elements of the entry shall be considered. The "Description" element shall prevail over all other elements.</p>
+        <p>4. For the purposes of this Annex, (a) the term "ISIC" means International Standard Industrial Classification ofAll Economic Activities (Statistical Papers, Series M No. 4/Rev.4, Department ofEconomic and Social Affairs of the United Nations, New York, 2008); and (b) the term "JSIC" means Japan Standard Industrial Classification set out by the Ministry of Internal Affairs and Communications ofJapan, and revised on 30 October 2013.</p>
+        <div type="article" title="Schedule of japan">
+          <p>1 Sector: All</p>
+          <p>Sub-Sector:</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2) Description: When transferring or disposing of its equity interests in, or the assets of, a state enterprise or a governmental entity, Japan reserves the right to: (a) prohibit or impose limitations on the ownership of such interests or assets by investors of the Argentine Republic or their investments; (b) impose limitations on the ability of investors of the Argentine Republic or their investments as owners of such interests or assets to control any resulting enterprise; or (c) adopt or maintain any measure relating to the nationality of executives, managers or members of the board of directors of any resulting enterprise.</p>
+          <p>Existing Measures:</p>
+          <p>2 Sector:</p>
+          <p>Sub-Sector:</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned:</p>
+          <p>Description:  All National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3) Japan reserves the right to adopt or maintain any measure relating to investment in telegraph services, postal services, betting and gambling services, manufacture of tobacco products, manufacture ofBank ofJapan notes and minting and sale of coinage in Japan.</p>
+          <p>Existing Measures:</p>
+          <p>3 Sector:</p>
+          <p>All Sub-Sector:</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: Most-Favoured-Nation Treatment (Article 3)</p>
+          <p>Description: Japan reserves the right to adopt or maintain any measure that accords differential treatment to countries under any bilateral or multilateral agreement involving: (a) aviation; (b) fisheries; or (c) maritime matters, including salvage.</p>
+          <p>Existing Measures:</p>
+          <p>4 Sector: Aerospace Industry</p>
+          <p>Sub-Sector: Aircraft Industry Space Industry</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2)</p>
+          <p>Description: Japan reserves the right to adopt or maintain any measure relating to the investment in aircraft industry and space industry.</p>
+          <p>Existing Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Articles 27 and 30 Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Articles 3 and 5</p>
+          <p>5 Sector: Arms and Explosives</p>
+          <p>Industry Sub-Sector: Arms Industry Explosives Manufacturing Industry</p>
+          <p>Industry Classification: Obligations Concerned: National Treatment (Article 2)</p>
+          <p>Description: Japan reserves the right to adopt or maintain any measure relating to the investment in the arms industry and explosives manufacturing industry.</p>
+          <p>Existing Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Articles 27 and 30 Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Articles 3 and 5</p>
+          <p>6 Sector: Energy</p>
+          <p>Sub-Sector: Electricity Utility Industry Gas Utility Industry Nuclear Energy Industry</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2)</p>
+          <p>Description: Japan reserves the right to adopt or maintain any measure relating to investment in the energy industry listed in the "Sub-Sector" element.</p>
+          <p>Existing Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Articles 27 and 30 Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Articles 3 and 5</p>
+          <p>7 Sector: Fisheries</p>
+          <p>Sub-Sector: Fisheries within the Territorial Sea, Internal Waters, Exclusive Economic Zone and Continental Shelf</p>
+          <p>Industry Classification: JSIC 031 JSIC 032 Marine fisheries Inland water fisheries JSIC 041 Marine aquaculture JSIC 042 Inland water aquaculture JSIC 8093 Recreational fishing guide business</p>
+          <p>Obligations Concerned: National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3)</p>
+          <p>Description: Japan reserves the right to adopt or maintain any measure relating to investment in fisheries in the territorial sea, internal waters, exclusive economic zone and continental shelf of Japan. For the purposes of this entry, the term "fisheries" means the work of taking and cultivation of aquatic resources, including the following fisheries related activities: (a) investigation of aquatic resources without taking such resources; (b) luring of aquatic resources; (c) preservation and processing offish catches; (d) transportation offish catches and fish products; and (e) provision of supplies to other vessels used for fisheries.</p>
+          <p>Existing Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27 Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3 Law for Regulation ofFishing Operation by Foreign Nationals (Law No. 60 of 1967), Articles 3, 4 and 6 Law concerning the Exercise of Sovereign Rights concerning Fisheries in the Exclusive Economic Zones (Law No. 76 of1996), Articles4, 5, 7, 8, 9, 10, 11,12 and 14</p>
+          <p>8 Sector: Information and Communications</p>
+          <p>Sub-Sector: Broadcasting Industry</p>
+          <p>Industry Classification: JSIC 380 Establishments engaged in administrative or ancillary economic activities JSIC 381 Public broadcasting, except cablecasting JSIC 382 Private-sector broadcasting, except cablecasting JSIC 383 Cablecasting</p>
+          <p>Obligations Concerned: National Treatment (Article 2)</p>
+          <p>Description: Japan reserves the right to adopt or maintain any measure relating to investment in broadcasting industry.</p>
+          <p>Existing Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27 Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3 Radio Law (Law No. 131 of 1950), Chapter 2 Broadcast Law (Law No. 132 of 1950), Chapters 5 and 8</p>
+          <p>9 Sector: Land Transaction</p>
+          <p>Sub-Sector:</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3)</p>
+          <p>Description: With respect to the acquisition or lease of land properties in Japan, prohibitions or restrictions may be imposed.</p>
+          <p>Existing Measures: Alien Land Law (Law No. 42 of 1925), Article 1</p>
+          <p>10 Sector: Public Law Enforcement and Correctional Services and Social Services</p>
+          <p>Sub-Sector:</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3)</p>
+          <p>Description: Japan reserves the right to adopt or maintain any measure relating to investment in public law enforcement and correctional services, and in social services such as income security or insurance, social security or insurance, social welfare, primary and secondary education, public training, health, child care and public housing.</p>
+          <p>Existing Measures:</p>
+          <p>11 Sector: Transport</p>
+          <p>Sub-Sector: Air Transport</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned:</p>
+          <p>Description:  Transport Air Transport National Treatment (Article 2) Japan reserves the right to adopt or maintain any measure with respect to investment in airports or airport operation services. For the purposes of this entry, the term "airport operation services" means the supply of air terminal, airfield and other airport infrastructure operation services on a fee or contract basis. Airport operation services do not include air navigation services.</p>
+          <p>Existing Measures:</p>
+        </div>
+        <div type="article" title="Schedule of the argentine republic">
+          <p>1 Sector: All</p>
+          <p>Sub-Sector: Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3)</p>
+          <p>Description: The Argentine Republic (hereinafter referred to in this Schedule as "Argentina") reserves the right to adopt or maintain any measure relating to the acquisition of rural land, real estate containing or adjacent to significant and permanent water courses or lakes, and real estate located in border security areas.</p>
+          <p>Existing Measures: Law No. 26737 on Regime for the Protection of National Ownership or Possession of Rural Land Decree No. 274/2012 Decree No. 15385/44 as modified by Law No. 23554 Decree No. 32530/48</p>
+          <p>2 Sector: All</p>
+          <p>Sub-Sector:</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2) Description: Argentina reserves the right to adopt or maintain any measure aimed at stimulating the development of its least developed regions, in the following provinces: Catamarca, La Rioja, Tucum&#xE1;n, Jujuy, Corrientes, Salta, Formosa, Chaco, Misiones and Santiago del Estero.</p>
+          <p>Existing Measures:</p>
+          <p>3 Sector: All</p>
+          <p>Sub-Sector:</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2)</p>
+          <p>Description: All When transferring or disposing of its equity interests in, or the assets of, a state enterprise or a governmental entity, Argentina reserves the right to: (a) prohibit or impose limitations on the ownership of such interests or assets by investors ofJapan or their investments; or (b) impose limitations on the ability of investors of Japan or their investments as owners of such interests or assets to control any resulting enterprise.</p>
+          <p>Existing Measures: </p>
+          <p>4 Sector: All</p>
+          <p>Sub-Sector:</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2)</p>
+          <p>Description: Argentina reserves the right to adopt or maintain any measure to grant rights or preference to indigenous peoples, minorities, vulnerable groups or groups at a social or economic disadvantage.</p>
+          <p>Existing Measures:</p>
+          <p>5 Sector: Mining and Quarrying</p>
+          <p>Sub Sector: Extraction of Crude Petroleum and Natural Gas Mining of Metal Ores</p>
+          <p>Industry Classification ISIC 0610 Extraction of crude petroleum ISIC 0620 Extraction of natural gas ISIC 0710 Mining of iron ores ISIC 721 Mining of uranium and thorium ores ISIC 0729 Mining of other non-ferrous metal ores.</p>
+          <p>Obligations concerned: National treatment (Article 2)</p>
+          <p>Description: Argentina reserves the right to adopt or maintain any measure related to the extraction of crude petroleum and natural gas and to mining of metal ores, as well as any measure related to support services for other mining and quarrying activities including mining of metal ores.</p>
+          <p>Existing measures: </p>
+          <p>6 Sector: Fishing and Aquaculture, and Navigation</p>
+          <p>Sub-Sector: Fishing Aquaculture Navigation</p>
+          <p>Industry Classification: ISIC 0311 Marine fishing ISIC 0312 Freshwater fishing ISIC 0321 Marine aquaculture ISIC 0322 Freshwater aquaculture</p>
+          <p>Obligations Concerned: National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3)</p>
+          <p>Description: Argentina reserves the right to adopt or maintain any measure related to fishing and aquaculture and related activities, including domicile, residence and/or nationality requirements for individuals or legal entities, in connection with the exploitation of living resources in Argentine internal waters, maritime areas under its jurisdiction and its continental shelf, in accordance with applicable international law. Argentina also reserves the right to adopt or maintain regulations, including sanctions, with regard to navigation, in maritime areas subject to its jurisdiction, composition of the crew and content (fish caught, equipment and fishing gear) of vessels used in the fishing industry, which are not inconsistent with applicable rules of international law.</p>
+          <p>Existing Measures: Law No. 24922 on Federal Fishing Regime</p>
+          <p>7 Sector: Cultural Industries</p>
+          <p>Sub-Sector: Publishing Activities Motion Picture Video and Television Programme Production Sound Recording and Music Publishing Activities Programming and Broadcasting Activities</p>
+          <p>Industry Classification: ISIC 5811 ISIC 5812 Book publishing Publishing of directories and mailing lists ISIC 5813 Publishing of news papers, journals and periodical ISIC 5819 Other publishing activities ISIC 5820 Software publishing ISIC 6010 Radio broadcasting ISIC 6020 Television programming and broadcasting activities</p>
+          <p>Obligations Concerned: National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3)</p>
+          <p>Description: Argentina reserves the right to adopt or maintain any measure that grants different treatment to its nationals based on its domestic legislation, or to nationals of other States based on international agreements, with respect to cultural industries. For the purposes of this Schedule, "cultural industries" includes: (a) the publication, distribution or sale of books, magazines, periodicals or newspapers in print or electronic format, but not including the sole activity of printing or typesetting any of the foregoing; (b) the production, distribution, sale or exhibition of film or video in any existing format; (c) the production, distribution, sale or communication to the public of music in any existing format; and (d) radiocommunications in which the transmissions are intended for direct reception by the general public, and all radio, television, cable and Internet broadcasting activities.</p>
+          <p>Existing Measures:</p>
+          <p>8 Sector: Nuclear Energy</p>
+          <p>Sub-Sector: Nuclear Energy Generation Nuclear Fuel Production and Supply Nuclear Materials Treatment and Disposal ofRadioactive Waste Radioisotope and Radiation Generating Facilities</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3)</p>
+          <p>Description: Argentina reserves the right to adopt or maintain any measure relating to the generation of nuclear energy, nuclear fuel production and supply, nuclear materials, treatment and disposal of radioactive waste, and radioisotope and radiation generating facilities.</p>
+          <p>Existing Measures:</p>
+          <p>9 Sector: Manufacturing</p>
+          <p>Sub-Sector: Existing Measures: Agricultural Equipment Manufacturing, n.e.c. Oil and Gas Equipment Manufacturing, n.e.c. Medical Equipment Manufacturing, n.e.c. Manufacture of computer, electronic and optical products Manufacture of electrical equipment Manufacture of machinery and equipment n.e.c.</p>
+          <p>Industry Classification: ISIC 2660 Manufacture of irradiation, electromedical and electrotherapeutic equipment ISIC 2710 Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus ISIC 2811 Manufacture of engines and turbines, except aircraft, vehicle and cycle engines ISIC 2821 Manufacture of agricultural and forestry machinery ISIC 2824 Manufacture of machinery for mining, quarrying and construction. (1)</p>
+          <p>Obligations Concerned: National Treatment (Article 2)</p>
+          <p>Description: Argentina reserves the right to adopt or maintain any measure relating to the promotion and incentive of the domestic production of agricultural equipment, oil and gas equipment and medical equipment.</p>
+          <div type="foot_note">(1) The activities related to manufacture of machinery for the extraction of oil and gas are concerned regarding ISIC 2824 under this entry.</div>
+          <p>10 Sector: Human Health</p>
+          <p>Sub-Sector:</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2)</p>
+          <p>Description: Argentina reserves the right to adopt or maintain any measure aimed at protecting public health and, in particular, access by individuals to pharmaceutical drugs.</p>
+          <p>Existing Measures:  </p>
+          <p>11 Sector: Biotechnology</p>
+          <p>Sub-Sector: Scientific Research and Development</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2)</p>
+          <p>Description: Argentina reserves the right to adopt or maintain any measure in the fields of biotechnology, such as human, plant and animal health, agricultural biotechnology and industrial processing.</p>
+          <p>Existing Measures:  </p>
+          <p>12 Sector: Trade in Services</p>
+          <p>Sub-Sector:</p>
+          <p>Industry Classification:</p>
+          <p>Obligations Concerned: National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3)</p>
+          <p>Description: Argentina reserves the right to adopt or maintain any measure in all sectors and subsectors not committed or committed but unbound in Argentina's Schedule of Specific Commitments under the GATS. Argentina also reserves the right to adopt or maintain any measure in all sectors and subsectors committed with limitations in that Schedule and to the extent of those limitations. Argentina also reserves the right to adopt any measure in sectors and subsectors included in its List ofArticle II (MFN) Exemptions under the GATS and to the extent of the exemptions.</p>
+          <p>Existing Measures:</p>
+          <p> </p>
+        </div>
+      </div>
+    </attachments>
+  </main>
+</treaty>

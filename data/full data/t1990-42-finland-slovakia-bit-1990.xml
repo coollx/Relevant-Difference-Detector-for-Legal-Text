@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Finland - Slovakia BIT (1990)</name>
+    <code>T1990-42</code>
+    <partyisocode n="0">FIN</partyisocode>
+    <partyisocode n="1">SVK</partyisocode>
+    <date_signed>1990-11-06</date_signed>
+    <date_into_force>1991-10-23</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1537</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{FIN,SVK}_1990-11-06.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT</p>
+    </title>
+    <preamble>
+      <p>Between the government of the Republic of Finland and the government of the Czech and Slovak Federal Republic for the promotion and protection of investment</p>
+      <p>Thp Government of the Republic of Finland and the Government of the Czech and Slovak Federal Republic,</p>
+      <p>Desiring to intensify economic co-operation to the mutual benefit of both countries,</p>
+      <p>Intending to create favourable conditions for investment by investors of either Party in the territory of the other Party and</p>
+      <p>Recognizing the need to protect investments by investors of both Parties and to stimulate the flow of capital and individual business initiative with a view to the economic prosperity of both Parties,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>(1)  For the purposes of this Agreement:</p>
+        <p>a)  investment means every kind of asset connected with economic activities and in particular, though not exclusively, includes:</p>
+        <p>(i)  movable and immovable property and any other property rights such as mortgages, liens or pledges;</p>
+        <p>(ii)  shares, stocks and debentures of companies or interests in the property of such companies;</p>
+        <p>(iii)  title or claim to money or right to any performance having an economic value;</p>
+        <p>(iv) copyrights, industrial property rights (such as patents, trade marks, industrial designs), technical processes, know-how, business names and goodwill;</p>
+        <p>(v)  business concessions conferred by law or under contract, including concessions to search for, cultivate, extract or exploit natural resources;</p>
+        <p>b)  "returns means the amounts yielded by an investment and in particular, though not exclusively, includes profit, interest, capital gains, dividends, royalties and fees;</p>
+        <p>c)  The term "investor" means:</p>
+        <p>(1)  any natural person who is a national of either Contracting Party in accordance with its laws; and</p>
+        <p>(ii)  any legal person having its seat in the territory of either Contracting Party, or in a third country with a predominant interest of an investor of either Contracting Party.</p>
+        <p>d)  "territory means in respect of Finland the territory of the Republic of Finland and any area adjacent to the territorial waters of the Republic of Finland within which, under the laws of Finland and in accordance with international law, the rights of Finland with respect to the exploration and exploitation of the natural resources of the seabed and its subsoil may be exercised;</p>
+        <p>And in respect of Czechoslovakia the territory which constitutes the Czech and Slovak Federal Republic.</p>
+        <p>(2)  If an investment is envisaged in the territory of one Contracting Party by a company which is not covered by the definition in paragraph (1) c) (ii) of this Article, but in which investors of the other Contracting Party have a predominant interest, the former Contracting Party shall, by mutual agreement between the two Contracting Parties, regard the company as one which enjoys protection under this Agreement in respect of the said investment.</p>
+      </div>
+      <div type="article" num="2" title="Applicability of this agreement">
+        <p>(1)  This Agreement shall only apply to investments made in accordance with the laws, regulations and procedures of the host country.</p>
+        <p>(2)  Subject to the provisions of paragraph (1) of this Article, this Agreement shall apply to all investments made in the territory of a Contracting Party by investors of the other Contracting Party before or after the entry into force of this Agreement.</p>
+      </div>
+      <div type="article" num="3" title="Protection of investments">
+        <p>Each Contracting Party shall, subject to its laws and regulations and in conformity with international law, at all times ensure fair and equitable treatment to the investments of investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="4" title="Most-favoured-nation provisions">
+        <p>(1)  Each Contracting Party shall accord to investments of investors of the other Contracting Party full security and protection which in any case shall not be less than that accorded to investments of investors of any third State. Each Contracting Party shall observe any obligation it may have entered into with regard to investments.</p>
+        <p>(2)  Investors of either Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to war or other armed conflict, state of emergency, revolt or riot, shall be accorded treatment no less favourable by such other Contracting Party than that Party accords to investors of any third State as regards restitution, indemnification, compensation or other valuable consideration. Such payments shall be freely transferable between the two Contracting Parties.</p>
+        <p>(3)  The provisions of this Agreement relating to the granting of treatment not less favourable than that accorded to the investors of any third State shall not be construed so as to oblige one Contracting Party to extend to the investors of the other the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>a)  any existing or future customs union, economic union or agreement regarding the formation of a free trade area or other forms of regional co-opcration to which cither of the Contracting Parties is or may become a party, or</p>
+        <p>b)  any international agreement or arrangement relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>(1)  Neither Contracting Party shall take any</p>
+        <p>Measures of expropriation, nationalization or any other measures, having effect equivalent to nationalization or expropriation, against the investment of an investor of the other Contracting Party except under the following conditions:</p>
+        <p>a)  the measures are taken in the public interest and under due process of law;</p>
+        <p>b)  the measures arc not discriminatory;</p>
+        <p>c)  the measures are accompanied by provisions for the payment of prompt, adequate and effective compensation. Such compensation shall amount. to the market value of the investments affected immediately before the measures referred to above in this paragraph occurred or became public knowledge and it shall be freely transferable in convertible currencies from the Contracting Party, at the official rate of exchange prevailing on the date used for the determination of value. The transfer shall be effected without undue delay within such a period as normally required for the completion of transfer formalities, in any case not exceeding six months. The compensation shall include interest until the date of payment at an appropriate commercial rate as determined by the Central Bank of the Contracting Party.</p>
+        <p>(2)  The provisions of paragraph (1) of this Article shall also apply to the returns from an investment as well as, in the event of liquidation, to the proceeds from the liquidation.</p>
+      </div>
+      <div type="article" num="6" title="Repatriation of investment and returns">
+        <p>(1)  Each Contracting Party shall, in conformity with its laws and regulations, allow without restrictions or undue delay, in any case within a period not exceeding six months the transfer in any convertible currency of:</p>
+        <p>a)  the net profits, dividends, royalties, technical assistance and other fees, interest and other returns accruing from any investment of the investors of the other Contracting Party;</p>
+        <p>b)  the proceeds from the total or partial liquidation or sale of any investment made by investors of the other Contracting Parly;</p>
+        <p>c)  funds in repayment of borrowings by investors of one Contracting Party from the investors of the other Contracting Party which both Contracting Parties have recognized as investments; and</p>
+        <p>d)  with regard to nationals of the other</p>
+        <p>Contracting Party, who are employed in connection with an investment in its territory, the earnings of such nationals.</p>
+        <p>(2)  The Contracting Parties shall also allow free transfer from their territories of movable property constituting part of an investment by an investor of the other Contracting Party.</p>
+        <p>(3)  The Contracting Parties undertake to accord to transfers referred to in paragraph (1) and (2) of this Article treatment as favourable as that accorded to transfers originating from investments made by investors of any third country.</p>
+      </div>
+      <div type="article" num="7" title="Application of other laws">
+        <p>If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to the present Agreement contain a regulation, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided for by the present Agreement, such regulation shall to the extent that it is more favourable prevail over the present Agreement.</p>
+      </div>
+      <div type="article" num="8" title="Disputes between a contracting party and an">
+        <p>Investor</p>
+        <p>(1)  Any legal dispute between an investor of one Contracting Party and the other Contracting Party concerning an investment of the latter in the territory of the former which has not been amicably settled during three months from written notification of a claim may, at the request of either party to the dispute, be submitted for settlement either to:</p>
+        <p>a)  the International Centre for Settlement of Investment Disputes (hereinafter called "the Centre) having regard to the applicable provisions of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States opened for signature at Washington D.</p>
+        <p>C.  on 18 March 1965, in the event both Contracting Parties shall have become a party to this Convention; or</p>
+        <p>b)  an international ad hoc arbitral tribunal established under the Arbitration Rules of the United Nations Commission on International Trade Law as then in force. The parties to the</p>
+        <p>Dispute may agree in writing to modify these Rules.</p>
+        <p>(2)  Notwithstanding the provisions of paragraph (1) of this Article relating to the submission of the dispute to arbitration the investor shall have the right, to choose the conciliation procedure before the dispute is submitted for arbitration.</p>
+        <p>(3)  The arbitral awards shall be recopised and enforced by the Contracting Parties in accordance with the 1958 New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards.</p>
+      </div>
+      <div type="article" num="9" title="Disputes between contracting parties">
+        <p>(1)  Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>(2)  If a dispute between the Contracting Parties cannot thus be settled, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>(3)  Such an arbitral tribunal shall be constituted for each individual case in the following way. Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third State who on approval by the two Contracting Parties shall be appointed Chairman of the tribunal. The Chairman shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>(4)  If within the periods specified in paragraph (3) of this Article the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice President shall be invited to make the necessary appointments. If the Vice President is a national of either Contracting Party, or if he too is prevented from discharging the said function, the member of the International Court of Justice next in seniority who is not a national</p>
+        <p>Of either Contracting Party and who is not otherwise prevented from discharging the said</p>
+        <p>Function shall be invited to make the necessary appointments.</p>
+        <p>(5)  The arbitral tribunal shall reach its decision by a majority of votes. Such decision shall be binding on both Contracting Parties. The cost of the Chairman and the members of the tribunal shall be borne in equal parts by the Contracting Parties. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two Contracting Parties, and this award shall be binding on both Contracting Parties. The tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="10" title="Subrogation">
+        <p>If a Contracting Party or its designated Agency makes a payment to any of its investors under a guarantee it has granted in respect of an investment, the other Contracting Party shall, without prejudice to the rights of the former Contracting Party under Article 9, recognize the transfer of any right or title of such investor to that Contracting Party and the subrogation of that Contracting Party or its designated Agency to any right or title.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, duration and termination">
+        <p>(1)  This Agreement shall enter into force thirty days after the date on which the Contracting Parties have notified each other that the constitutional requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>(2)  The Agreement shall remain in force for a period of fifteen years. Thereafter it shall remain in force until expiration of twelve months from the date on which either Contracting Party shall have given written notice of termination to the other.</p>
+        <p>(3)  In respect of investments made prior to the date when the termination of this Agreement becomes effective, the provisions of Articles 110 shall continue in effect for a further period of ten years after the date of termination and without prejudice to the application thereafter of the rules of general international law.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Prague on 6th November 1990, in two originals in the Finnish, Czech and English language, all being equally authentic. In case of dispute, the original in the English language shall prevail.</p>
+      <p>For the Government of the Republic of Finland</p>
+      <p>Pertri Salolainen</p>
+      <p>For the Government of the Czech and Slovak Federal Republic</p>
+      <p>Vaclav Klaus</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Guinea - Italy BIT (1964)</name>
+    <code>T1964-7</code>
+    <partyisocode n="0">GIN</partyisocode>
+    <partyisocode n="1">ITA</partyisocode>
+    <date_signed>1964-02-20</date_signed>
+    <date_into_force>1964-02-20</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>1836</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{GIN,ITA}_1964-02-20.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_OVERLAP" document-code="T1989-43">Fourth Lom&#xE9; Convention (1989)</relation>
+    <relation type="IT_OVERLAP" document-code="T2021-123">European Union - Organisation of African, Caribbean and Pacific States Partnership Agreement (2021)</relation>
+    <relation type="IT_OVERLAP" document-code="T1984-23">Third Lom&#xE9; Convention (1984)</relation>
+    <relation type="IT_OVERLAP" document-code="T1979-14">Second Lom&#xE9; Convention (1979)</relation>
+    <relation type="IT_OVERLAP" document-code="T2000">Cotonou Agreement (2000)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE ITALIAN REPUBLIC AND THE REPUBLIC OF GUINEA TO PROMOTE CAPITAL INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Italian Republic and the Government of the Republic of Guinee:</p>
+      <p>Desiring to intensify economic cooperation between the two countries in order to facilitate the exchange of investment between the two contracting States and ensure that these investments treatment and protection as appropriate.</p>
+      <p>Recognizing that an agreement between the two countries is able to create favourable conditions for investments by companies and nationals of each of the two States in the territory of the other party, have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each of the two Contracting States undertakes to facilitate, in accordance with its legal regulatory capital investments in the territory of the other Contracting State, for the purpose of economic growth and productivity by its nationals and companies, even in the form of supplies of goods, capital goods, services and infrastructure, concessions of property rights, patents and licences, as well as the concession of technical assistance.</p>
+        <p>It shall be made, in particular, legal persons having their headquarters in the territory of one of the two Contracting States to assume freely shares in companies headquartered in the territory of the other State, where such investments are made in companies with a similar social.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each of the two Contracting States undertakes to facilitate, in accordance with its own legal regulatory capital investments in its territory, for the purpose of economic growth and productivity by nationals and companies of the other Contracting State, even in the form of supplies of goods, capital goods, services and infrastructure, concessions of property rights, patents and licences, as well as the concession of technical assistance.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Nationals and companies of each of the two Contracting States that have made investments in convertible currencies, aimed at the creation or expansion of enterprises aimed at the production of goods or services in the territory of the other Contracting State may also transfer convertible currency, dividends and profits, capital, and what possible arising from the income from fees or benefits in favour of nationals of each of the two contracting States, professional and business activities associated with investments made in the territory of the other Contracting State in accordance with the laws and regulations in force in both countries.</p>
+        <p>For investments to be carried out through the provision of equipment used in the undertakings referred to in the preceding paragraph, the transfer of payments arising out of the Divestment possible may be carried out in convertible currencies, after a period of two years from the date of the investment referred.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Investments of nationals and companies of each of the two Contracting States performed in the territory of the other Contracting State, as well as the profits thereto, shall not be expropriated or subject to any other restrictions, and in the case of a clear public interest and demonstrated and against compensation equal to the market value of the expropriated property. the compensation shall be paid without delay and be freely transferable and immediately in convertible currency. the term "expropriation" also includes any act or any measures having an effect equivalent to expropriation or nationalisation. such compensation shall be payable in the case of damage arising out of events.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Investments made by companies and nationals of either Contracting State shall be ensured the conditions in any case not less favourable than that may be accorded to nationals or companies of third countries, in respect of investments, except for the benefits arising from agreements establishing customs unions and those against double taxation.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Both Contracting States undertake to avoid double taxation and for this purpose, they stipuleront special agreements.</p>
+      </div>
+      <div type="article" num="7">
+        <p>Disputes concerning the interpretation and application of the Agreement shall be settled through diplomatic channels. if these channels proved unsuccessful, the disputes in question shall be subject to the decision of the arbitral panel. the panel shall be composed of three members; two of whom shall be appointed by each of the two parties, the third arbitrator shall be elected by the first two and chosen from among nationals of a foreign State to the dispute. in the event that agreement would be the subject, the appointment of the third arbitrator who shall be the President of the International Court of Justice, and, in the event of its national of either of the contracting parties or if, in any way, in the impediment to make the appointment shall be entrusted to the Vice-President of the International Court of Justice.</p>
+      </div>
+      <div type="article" num="8">
+        <p>This Agreement shall also apply in respect of investments in productive enterprises - referred to in Article III - already done at the time of its entry into force.</p>
+      </div>
+      <div type="article" num="9">
+        <p>This Agreement shall remain in force five years and shall be considered as automatically extended indefinitely unless it is denounced in writing, one year in relation to notice the maturity date. five years after the entry into force of this Agreement may be denounced at any time by either of the two contracting States, one year on's notice.</p>
+        <p>The provisions of this Agreement shall remain in force for a period of five years from the date of termination of the validity of the Agreement itself, in respect of investments made prior to the date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>For the Government of the Italian Republic</p>
+      <p>Giuseppe lupis</p>
+      <p>For the Government of the Republic of Guinea</p>
+      <p>Nfamara Keita</p>
+    </conclusion>
+  </main>
+</treaty>

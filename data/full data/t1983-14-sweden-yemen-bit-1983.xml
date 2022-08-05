@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Sweden - Yemen BIT (1983)</name>
+    <code>T1983-14</code>
+    <partyisocode n="0">SWE</partyisocode>
+    <partyisocode n="1">YEM</partyisocode>
+    <date_signed>1983-10-29</date_signed>
+    <date_into_force>1984-02-23</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2987</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{SWE,YEM}_1983-10-29.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_OVERLAP" document-code="T1997-111">EC - Yemen Cooperation Agreement</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Sweden and Yemen Agreement for the promotion and protection of investments (with exchange of letters)</p>
+    </title>
+    <preamble>
+      <p>The Government of Sweden and the Government of the Yemen Arab Republic,</p>
+      <p>Desiring to maintain favourable conditions for greater investment by nationals and companies of one State in the territory of the other State,</p>
+      <p>Recognising that the encouragement and reciprocal protection under international agreement of such investments will be conducive to the stimulation of individual business initiative and will increase prosperity in both States,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement</p>
+        <p>(a) "Investment" means every kind of asset and in particular, though not exclusively, includes: Movable and immovable property and any other property rights such as mortgages, liens or pledges, usufruct and similar rights; Shares, stock and debentures of companies or other interests in companies; Claims to money or to any performance under contract having a financial value; Intellectual property rights and goodwill; Business concessions conferred by law or under contract, including concessions to search for, cultivate, extract or exploit natural resources;<br/>(i) Movable and immovable property and any other property rights such as mortgages, liens or pledges, usufruct and similar rights;</p>
+        <p>(ii) Shares, stock and debentures of companies or other interests in companies;</p>
+        <p>(iii) Claims to money or to any performance under contract having a financial value;</p>
+        <p>(iv) Intellectual property rights and goodwill;</p>
+        <p>(v) Business concessions conferred by law or under contract, including concessions to search for, cultivate, extract or exploit natural resources;</p>
+        <p>Provided that the investment has been made in accordance with the laws and regulations of the host country, but irrespective of whether the investment was made before or after the entry into force of this Agreement.</p>
+        <p>(b) "Returns" means the amounts yielded by an investment and in particular, though not exclusively, includes profit, interest, capital gains, dividends, royalties or fees.</p>
+        <p>(c) "Nationals" means:</p>
+        <p>(i) In respect of Sweden physical persons deriving their status as Swedish nationals&nbsp;from the law in force;</p>
+        <p>(ii) In respect of the Yemen Arab Republic physical persons deriving their status as&nbsp;Yemeni nationals from the law in force.</p>
+        <p>(d) "Companies" means:</p>
+        <p>(i) In respect of Sweden corporations, firms, associations or other legal persons&nbsp;constituted under the law in force in Sweden or with a predominating Swedish interest&nbsp;</p>
+        <p>(ii) In respect of the Yemen Arab Republic corporations, firms, legal entities or associations incorporated or constituted under the law in force in any part of the&nbsp;Yemen Arab Republic.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and Protection of Investment">
+        <p>(1) Each Contracting Party shall grant favourable conditions to nationals or companies of the other Contracting Party to invest capital in its territory, and, subject to its rights to exercise powers conferred by its laws, shall admit such capital.</p>
+        <p>(2) Investments of nationals or companies of either Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party. Neither Contracting Party shall in any way impair by unreasonable measures the management, maintenance, use, enjoyment or disposal of investments in its territory of nationals or companies of the other Contracting Party. Each Contracting Party shall observe any obligation it may have entered into with regard to investments of nationals or companies of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="Treatment of Investments">
+        <p>(1) Neither Contracting Party shall in its territory subject investments or returns of nationals or companies of the other Contracting Party, including the management, use, enjoyment of disposal of such investments or returns, to a treatment less favourable than that which it accords to investments or returns of nationals or companies of any third State.</p>
+        <p>(2) The provisions of this Agreement relating to most favoured nation treatment shall not be construed so as to require one Contracting Party to extend to the nationals or companies of the other Contracting Party, the advantages of any treatment, benefit, or privilege accorded by the former Contracting Party under any agreement relating to an existing or future customs union, free trade area, common external tariff area or monetary union, under any international agreement relating wholly or mainly to taxation, or under any domestic legislation relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="4" title="Compensation for Losses and Expropriation">
+        <p>(1) Nationals or companies of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, revolution, state of national emergency, revolt, insurrection or riot in the territory of the latter Contracting Party shall be accorded by the latter Contracting Party a treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which the latter Contracting Party accords to its own nationals or companies or to nationals or companies of any third State.</p>
+        <p>(2) Without prejudice to paragraph (1) of this Article, nationals and companies of one Contracting Party who in any of the situations referred to in that paragraph suffer losses in the territory of the other Contracting Party resulting from:</p>
+        <p>(a) Requisitioning of their property by its forces or authorities or</p>
+        <p>(b) Destruction of their property by its forces or authorities which was not caused in combat action or was not required by the necessity of the situation shall be accorded restitution or adequate compensation. Resulting payments shall be freely transferable.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>(1) Investments of nationals or companies of either Contracting Party shall not be nationalised, expropriated or subjected to measures having effect equivalent to nationalisation (hereinafter referred to as "expropriation") in the territory of the other Contracting Party, except for a public purpose related to the internal needs of that Party and against prompt, adequate and effective compensation. The expropriation shall be non-discriminatory and shall be taken under due process of law. The compensation shall be freely transferable between the territories of the Contracting Parties.</p>
+        <p>(2) The provisions of paragraph (1) shall also apply to the current income from an investment as well as, in the event of liquidation, to the proceeds from the liquidation.</p>
+        <p>(3) Where a Contracting Party expropriates the assets of a company which is incorporated or constituted under the law in force in any part of its own territory, and in which nationals or companies of the other Contracting Party own shares, it shall ensure that the provisions of paragraph (1) of this Article are applied to the extent necessary to guarantee prompt, adequate and effective compensation in respect of their investment to such nationals or companies of the other Contracting Party who are owners of these shares.</p>
+      </div>
+      <div type="article" num="6" title="Repatriation of Investment">
+        <p>Each Contracting Party shall in respect of investments guarantee to nationals or companies of the other Contracting Party the unrestricted transfer of their capital and of their returns from it to the country where they reside, subject to the right of each Contracting Party to exercise equitably and in good faith powers conferred by its laws.</p>
+      </div>
+      <div type="article" num="7" title="Reference to International Centre for Settlement of Investment Disputes">
+        <p>(1) Each Contracting Party consents to submit to the International Centre for the Settlement of Investment Disputes (hereinafter referred to as "the Centre") for settlement by conciliation or arbitration under the Convention on the Settlement of Investment Disputes between States and Nationals of Other States opened for signature at Washington on March 18, 1965(1) any legal dispute arising between that Contracting Party and a national or company of the other Contracting Party concerning an investment of the latter in the territory of the former. A company which is incorporated or constituted under the law in force in the territory of one Contracting Party and in which before such a dispute arises the majority of shares are owned by nationals or companies of the other Contracting Party shall in accordance with Article 25 (2) (b) of the Convention be treated for the purposes of the Convention as a company of the other Contracting Party. If any such dispute should arise and agreement cannot be reached within three months between the parties to this dispute through pursuit of local remedies or otherwise, then, if the national or company affected also consents in writing to submit the dispute to the Centre for settlement by conciliation or arbitration under the Convention, either party may institute proceedings by addressing a request to that effect to the Secretary-General of the Centre as provided in Articles 28 and 36 of the Convention. In the event of disagreement as to whether conciliation or arbitration is the more appropriate procedure the national or company affected shall have the right to choose. The Contracting Party which is a party to the dispute shall not raise as an objection at any stage of the proceedings or enforcement of an award the fact that the national or company which is the other party to the dispute has received in pursuance of an insurance contract an indemnity in respect of some or all of his or its losses.</p>
+        <p>(2) Neither Contracting Party shall pursue through diplomatic channels any dispute referred to the Centre unless</p>
+        <p>(a) The Secretary-General of the Centre, or a conciliation commission or an arbitral tribunal constituted by it, decides that the dispute is not within the jurisdiction of the Centre, or</p>
+        <p>(b) The other Contracting Party should fail to abide by or to comply with any award rendered by an arbitral tribunal.</p>
+      </div>
+      <div type="article" num="8" title="Disputes between the Contracting Parties">
+        <p>(1) Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>(2) If a dispute between the Contracting Parties cannot thus be settled, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>(3) Such an arbitral tribunal shall be constituted for each individual case in the following way. Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third State who, on approval by the two Contracting Parties, shall be appointed chairman of the tribunal. The chairman shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>(4) If within the periods specified in paragraph (3) of this Article the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he too is prevented from discharging the said function, the member of the International Court of Justice next in seniority who is not a national of either Contracting Party and who is not otherwise prevented from discharging the said function shall be invited to make the necessary appointments.</p>
+        <p>(5) The arbitral tribunal shall reach its decision by a majority of votes. Such decision shall be binding on both Contracting Parties. Each Contracting Party shall bear the cost of its own member of the tribunal and of its representation in the arbitral proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two Contracting Parties, and this award shall be binding on both Contracting Parties. The tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>If a Contracting Party makes a payment to any of its nationals or companies under a guarantee it has granted in respect to an investment, the other Contracting Party shall, without prejudice to the rights of the former Contracting Party under Article 8, recognise the transfer of any right or title of such national or company to the former Contracting Party and the subrogation of the former Contracting Party to any such right or title.</p>
+      </div>
+      <div type="article" num="10" title="Entry Into Force">
+        <p>(1) This Agreement shall be subject to approval in accordance with the constitutional requirements of the Contracting Parties. The instruments of ratification or approval shall be exchanged as soon as possible.</p>
+        <p>(2) This Agreement shall enter into force one month after the date of the exchange of the instruments of ratification or approval.</p>
+      </div>
+      <div type="article" num="11" title="Duration">
+        <p>This Agreement shall remain in force for a period of ten years. Thereafter it shall continue in force until the expiration of twelve months from the date on which either Contracting Party shall have given written notice of termination to the other, provided that in respect of investments made whilst the Agreement is in force, its provisions shall continue in effect with respect to such investments for a period of fifteen years after the date of termination and without prejudice to the application thereafter of the rules of general international law.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective Governments, have signed this Agreement.</p>
+      <p>DONE in duplicate at Sana'a this 29 day of October 1983 in the English language.</p>
+    </conclusion>
+    <attachment>
+      <p>Exchange of Letters I</p>
+      <p>Sana'a, 29 of October 1983</p>
+      <p>Your Excellency,</p>
+      <p>With reference to the Agreement between the Government of Sweden and the Government of the Yemen Arab Republic for the Promotion and Protection of Investments, I have the honour to propose, on behalf of the Government of Sweden, that the treatment granted to investments under the Trade Agreements which Sweden concluded with the Ivory Coast on 27 August 1965, with Madagascar on 2 April 1966 and with Senegal on 24 February 1967(2) should not be invoked as the basis of most-favoured-nation treatment under article 3 of the Agreement between the Yemen Arab Republic and Sweden.</p>
+      <p>If this proposal is agreeable to the Government of the Yemen Arab Republic, I have the honour to propose that this letter and your reply to that effect constitute an agreement on this matter.&nbsp;</p>
+      <p>I avail myself of this opportunity to renew to Your Excellency the assurances of my highest consideration. </p>
+      <p>Fredrik Bergenstrahle&nbsp;</p>
+      <p>Ambassador of Sweden&nbsp;</p>
+      <p>His Excellency Mohammed H. AI-Shohaty</p>
+      <p>Minister of Economy and Industry</p>
+      <p>Sana'a</p>
+      <p>Exchange of Letters II</p>
+      <p>Your Excellency,</p>
+      <p>I have the honour to acknowledge receipt of your letter of 29th October 1983</p>
+      <p>which reads as follows:</p>
+      <p>[See letter I]</p>
+      <p>I have the honour to confirm that your proposal is agreeable to the Government of the Yemen Arab Republic and that your letter and this reply constitute an agreement on this matter.</p>
+      <p>I avail myself of this opportunity to renew to Your Excellency the assurances of&nbsp;my highest consideration.</p>
+      <p>MOHAMMED H. AL-SHOHATY</p>
+      <p>Minister of Economy and Industry </p>
+      <p>His Excellency Fredrik Bergenstnlhle</p>
+      <p>Ambassador of Sweden</p>
+      <p>Sana'a </p>
+      <p/>
+    </attachment>
+  </main>
+</treaty>

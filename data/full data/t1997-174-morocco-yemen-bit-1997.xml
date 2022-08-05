@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Morocco - Yemen BIT (1997)</name>
+    <code>T1997-174</code>
+    <partyisocode n="0">MAR</partyisocode>
+    <partyisocode n="1">YEM</partyisocode>
+    <date_signed>1997-02-24</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ar</orig_language>
+    <termination_type/>
+    <docreference>2612</docreference>
+    <comments>text at UNCTAD also includes the Egypt-Morocco BIT (1997)</comments>
+    <source>http://arbitration.org/sites/default/files/bit/morocco_yemen_arabic.pdf</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>ar</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{MAR,YEM}_1997-02-24.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACED_BY" document-code="T2001-179">Morocco - Yemen BIT (2001)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on the Encouragement and Protection of Investments, between the Government of the Kingdom of Morocco and the Government of the Republic of Yemen</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of Morocco and the Government of the Republic of Yemen (referred to hereinafter as the "two Contracting Parties"),</p>
+      <p>Desiring to strengthen economic cooperation between the two brotherly countries, in their common interest.</p>
+      <p>Affirming their determination to create and foster favorable conditions for capital investment by the investors of one of the Contracting Parties in the territory of the other Contracting Party.</p>
+      <p>Acknowledging that providing mutual encouragement and protection for this investment, on the basis of the investment laws and regulations in effect in both Contracting Parties, this agreement will contribute to stimulating investment projects, which will lead to the promotion of prosperity for both Contracting Parties.</p>
+      <p>They have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. For the purposes of this agreement the word "investment" means all types of assets owned by one of the investors of a Contracting Party and invested in the territory of the other Contracting Party after the entry into force of this agreement, and it is associated with the acceptance of the host party as an "investment" in accordance with its laws and regulations.</p>
+        <p>The term "investment" includes in particular, but not limited to:</p>
+        <p>A)  The movable and immovable property rights, as well as related guarantees, such as mortgages, concessions, and other liens.</p>
+        <p>B)  Corporate values, stocks, shares and bonds.</p>
+        <p>C)  Debt as well as debt service paid resulting from a contract.</p>
+        <p>D) Intellectual and industrial property rights and non-material elements related to commercial assets (such as trademarks, patents, models, advice, etc.) and used in the authorized investment project.</p>
+        <p>E) Concession rights granted under the laws in effect at the host party, including the rights related to the extraction, exploitation, and search for natural resources for which the beneficiaries are given a legal character for the term of the concession.</p>
+        <p>2. The term "investor" for either of the Contracting Parties means:</p>
+        <p>A) Natural persons of the nationality of one of the Contracting Parties according to its laws that make an investment in the territory of the other Contracting Party.</p>
+        <p>B) Legal persons whose social headquarters and their real economic activity are located in the territory of one of the Contracting Parties established in accordance with its national law and that makes an investment in the territory of the other Contracting Party</p>
+        <p>3. The word "returns" means net amounts resulting from the investment in accordance with the laws in force in the host country, including in particular in particular, though not exclusively, includes profits, interest, capital gains, dividends, royalties or fees.</p>
+        <p>4. The term "territory" means for the Republic of Yemen:</p>
+        <p>The territory of the Republic of Yemen, which is under its sovereignty, including islands and the territorial sea, the exclusive economic zone, as well as the continental shelf areas and other marine areas that have the right to sovereignty or jurisdiction over them in accordance with international law.</p>
+        <p>For the Kingdom of Morocco, it means:</p>
+        <p>The territory of the Kingdom of Morocco , including any maritime area situated beyond the territorial waters of the Kingdom of Morocco and which has been or might in the future be designated by the laws of the Kingdom of Morocco in accordance with international law as an area within which the Kingdom of Morocco may exercise rights with regard to the sea-bed and subsoil and the natural resources.</p>
+      </div>
+      <div type="article" num="2" title="Encouragement of investments">
+        <p>1. Each of the Contracting Parties shall encourage the citizens of the other Contracting Party to invest in their region and provide the appropriate conditions for that investor.</p>
+        <p>2. Each of the Contracting Parties in its territory shall encourage the investment of investors of the other Contracting Party. The other Contracting Party shall accept these investments in a way that does not contradict its laws and shall give them all the facilities to their establishment.</p>
+        <p>3. Each of the Contracting Parties shall provide the facilities and permits necessary for the entry, exit, residence and work of the investor, and for those whose business permanently or temporarily communicates with the investment from experts, administrators, technicians and workers in accordance with the legislation and laws in force in the host country.</p>
+      </div>
+      <div type="article" num="3" title="Investment protection">
+        <p>Each Contracting Party shall grant fair and equitable treatment to the investments of the investors from the other Contracting Party. It is also not allowed for any Contracting Party to subject the administration, maintenance, use, transfer, enjoyment or assignment of the investment made by the investors of the other contracting party in their territory, as well as the companies and projects in which these investments were made, to any discriminatory or legally unjustified measures.</p>
+      </div>
+      <div type="article" num="4" title="Investment returns">
+        <p>The investment returns that are reinvested in accordance with the laws and regulations of the host Contracting Party benefit from the same protection and privileges granted to the original investments.</p>
+      </div>
+      <div type="article" num="5" title="National treatment and most-favoured nation treatment">
+        <p>Each Contracting Party shall accord to investment of investors on the territory of the other Contracting Party investments, after the entry into force of this Agreement, treatment no less favourable than the treatment granted to the investments and returns of its citizens or the citizens of any other country. But this treatment does not include privileges that one of the parties gives to the investors of a third country in accordance with their contribution to the state or the participation in a free zone or a customs union, common market or regional economic organization, agreement to avoid double taxation, or border trade agreements.</p>
+      </div>
+      <div type="article" num="6" title="Nationalization and expropriation">
+        <p>1)  Investments of investors from one of the Contracting Parties shall not subject be to nationalization, expropriation, or any other measures of similar effect directly or indirectly in the territory of the other Contracting Party, unless it is for general purposes on a non-discriminatory basis and in exchange for the payment of actual and fair compensation in accordance with legal procedures and without unjustified delay.</p>
+        <p>2)  Fair compensation shall be based on real market values immediately preceding the time at which the nationalization or expropriation decision was announced or made public, whichever is earlier.</p>
+      </div>
+      <div type="article" num="7" title="Compensation for damage or losses">
+        <p>If the investor of one of the Contracting Parties suffers damage or losses in his investments established in the territory of the other Contracting Party as a result of a revolution, war, or any type of armed conflict, or as a result of an emergency situation, civil disobedience, or any other similar incident, it shall be treated with respect to his damages or losses in a manner that is not less favourable than the host Contracting Party grants to its investors as compensation for those damages and losses, and to the investors of any other country, whichever is more favourable.</p>
+      </div>
+      <div type="article" num="8" title="Transfer and exchange">
+        <p>1)  Both Contracting Parties must allow investors from the other Contracting Party to transfer abroad without undue delay in a convertible currency, and in accordance with the laws and regulations applicable to investment and the exchange rate approved on the day of the transfer:</p>
+        <p>A)  the invested capital, including the proceeds reinvested for the purpose of maintaining or increasing the investment.</p>
+        <p>B)  the net returns.</p>
+        <p>C)  the revenue from total or partial sale, or total or partial liquidation of the investment.</p>
+        <p>D)  the funds allocated for the repayment of investment-related loans and the payment of related financial expenses.</p>
+        <p>E)  the compensation mentioned in Articles (6) and (7) of this Agreement and payments incurred for disputes related to the project.</p>
+        <p>F)  fees and allocations paid to the nationals of the contracting party for work and services performed in connection with the investment carried out in the territory of the hospital contracting party, to the extent and manner stipulated in the applicable national legislation and regulations.</p>
+      </div>
+      <div type="article" num="9" title="Transfer procedures">
+        <p>It is permitted to transfer the amounts referred to in Article (8) of this agreement abroad without undue delay, and in any case within six months after fulfilling all financial investment obligations under the laws and procedures of the host Contracting Party or after adequate guarantees to fulfill those obligations.</p>
+      </div>
+      <div type="article" num="10" title="Subrogation">
+        <p>1)  If an investment by an investor from one of the Contracting Parties is insured or guaranteed in relation to non-commercial risks by an organization within the framework of a system established under the law of that Contracting Party, any subrogation of the insured or guarantor emanating from the terms of the insurance or guarantee agreement will be observed by the other Contracting Party</p>
+        <p>2) According to the guarantee granted for exempted investment, the insured or guarantor is entitled to exercise all his rights that the investor would have exercised had the insured not replaced him.</p>
+        <p>3) The insurer or guarantor shall not have the right to exercise any right other than that which the investor had the right to exercise.</p>
+      </div>
+      <div type="article" num="11" title="Settlement of disputes between the contracting party and the investor">
+        <p>1) If an investment dispute arises between a Contracting Party and an investment from the investors of the other Contracting Party, the Contracting Party and the investor will try to settle it through consultation and negotiation.</p>
+        <p>2)  If it is not possible for the Contracting Party and that investor to reach an agreement within six months after the written request for settlement discussions, the dispute shall be submitted for settlement by choosing the investor either by:</p>
+        <p>A)  the court of the host Contracting Party having jurisdiction to do so, or</p>
+        <p>B)  Arbitration at the International Center for the Settlement of Investment Disputes, which was created under the Washington Convention dated March 18, 1965 regarding settlement of investment disputes between countries and nationals of other countries, in the event of accession or upon the accession of the contracting parties to this Agreement.</p>
+        <p>3)  Arbitration decisions are final and binding for both parties to the dispute, and each contracting party is obliged to implement these decisions in accordance with its national legislation.</p>
+      </div>
+      <div type="article" num="12" title="Settlement of disputes between the contracting parties">
+        <p>1)  If any dispute arises between the two Contracting Parties, relating to the interpretation or application of this agreement, the Contracting Parties will endeavor first to settle it through consultation and negotiation.</p>
+        <p>2)  If the two Contracting Parties did not reach an agreement within six months after the written request for settlement discussions, the dispute shall be submitted upon the request of one of the Contracting Parties and according to their relevant laws and procedures, to a tribunal of three arbitrators. Each party shall appoint one arbitrator, and these two arbitrators shall nominate the third arbitrator, who shall be the president of the tribunal. The president must be from a third country that has diplomatic relations with both contracting parties at the time of the nomination.</p>
+        <p>3)  If the Contracting Party who requested the arbitration appoints its arbitrator in the text of the arbitration request and if the other Contracting Party does not appoint its court within two months from the date of receiving the arbitration request, that arbitrator will be appointed by the President of the International Court of Justice at the request of the Contracting Party who requested the arbitration.</p>
+        <p>4)  If the two arbitrators do not agree on choosing the president within sixty days of the appointment of the second arbitrator, the latter will be appointed by the President of the International Court of Justice at the request of either of the Contracting Parties.</p>
+        <p>5)  In the two cases specified in (3) and (4) of this article, if the President of the International Court of Justice is unable to carry out the aforementioned tasks or if he is a citizen of one of the Contracting Parties, the appointments will be made by the Vice-President of the International Court of Justice and if it is not possible for the latter to make these appointments, or if he is also a citizen of one of the Contracting Parties, the appointments will be made by the member of the International Court of Justice next in seniority who is not a citizen of either Contracting Party.</p>
+        <p>6)  The tribunal shall determine its procedures and the place of arbitration unless otherwise agreed upon between the two Contracting Parties.</p>
+        <p>7)  Each Contracting Party shall bear the costs of the member of the arbitral tribunal that has appointed by the arbitration board, as well as all expenses related to its own representation during the arbitration procedures, and share the other costs and those regarding the president, unless the tribunal decides otherwise.</p>
+        <p>8)  The decisions of the tribunal shall be final and binding on the Contracting Parties. The tribunal shall determine its procedures and place of arbitration unless otherwise agreed upon between the Contracting Parties.</p>
+      </div>
+      <div type="article" num="13" title="Entry into force">
+        <p>This Agreement shall come into force after (30) days from the date of the last notifications to complete the procedures for ratification by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="14" title="Duration and termination">
+        <p>1) This agreement shall be valid for a period of ten (10) years, and shall remain in force for subsequent periods of five years, unless it is terminated in the manner specified in paragraph (2) of this article.</p>
+        <p>2) Either Contracting Party can terminate this agreement at the end of the first ten-year period or at the end of any extension period by notifying the other Contracting Party in writing a year before the end of the period.</p>
+        <p>3) The investments made before the date of termination of this agreement shall be subject to it for a period of ten years from the date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness to this, this agreement was signed by the signatories below, under the authority of their respective governments.</p>
+      <p>Done in Rabat on February 24, 1997, in two original copies in the Arabic language, each been equally authentic.</p>
+      <p>Abdul Wahab Mohammed</p>
+      <p>Ambassador of the Republic of Yemen</p>
+      <p>Muhammad Al-Kabbaj</p>
+      <p>Minister of Finance and Investement</p>
+      <p>For the Government of the Kingdom of Morocco</p>
+    </conclusion>
+  </main>
+</treaty>

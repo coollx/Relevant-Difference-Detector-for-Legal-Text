@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>United Republic of Tanzania - Zimbabwe BIT (2003)</name>
+    <code>T2003-114</code>
+    <partyisocode n="0">TZA</partyisocode>
+    <partyisocode n="1">ZWE</partyisocode>
+    <date_signed>2003-07-03</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>3025</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{TZA,ZWE}_2003-07-03.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2006-87">SADC Investment Protocol (2006)</relation>
+  </meta>
+  <main/>
+</treaty>

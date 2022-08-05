@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Ecuador - Uruguay Exchange of Letters on Investment Protection (1985)</name>
+    <code>T1985-15</code>
+    <partyisocode n="0">ECU</partyisocode>
+    <partyisocode n="1">URY</partyisocode>
+    <date_signed>1985-07-31</date_signed>
+    <date_into_force>1985-07-31</date_into_force>
+    <date_terminated>2008-01-18</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">es</orig_language>
+    <termination_type>Unilaterally denounced</termination_type>
+    <docreference>1338</docreference>
+    <comments>Formally it is not a BIT, but an exchange of letters on investment protection</comments>
+    <source>Ecuadorian Government</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ECU,URY}_1985-07-31.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Unilaterally denounced</IT_TERMINATION_TYPE>
+    <IT_ORIGIN_LANGUAGE>es</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_OVERLAP" document-code="T2004-45">Colombia - Ecuador - MERCOSUR - Venezuela, Bolivarian Republic of Complementation Agreement (2004)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Ecuador - Uruguay Exchange of Letters on Investment Protection</p>
+    </title>
+    <preamble/>
+    <body>
+      <p>REPUBLIC OF ECUADOR</p>
+      <p>MINISTRY OF FOREIGN AFFAIRS</p>
+      <p>No. 14/85 GM</p>
+      <p>Quito, on July 31, 1985.</p>
+      <p>To the Excellency Enrique Iglesias,</p>
+      <p>Minister of Foreign Affairs of the Eastern Republic of Uruguay.</p>
+      <p>Mr. Minister:</p>
+      <p>I have the honor to address Your Excellency with the object of expressing to you that the Government of Ecuador, encouraged by the desire to create favorable conditions for increasing the capital of the natural or juridical persons of Uruguay in Ecuador and vice versa, and recognizing that the reciprocal promotion and protection of such investments through international agreements may contribute to stimulate economic activity and increase the prosperity of both, would welcome the fact that Ecuadorian and Uruguayan investments do not require prior authorization or have a general authorization, by sectors, without prejudice to comply with the exchange regulations and regulations in force in our two countries, for the purposes of the remittance of capital and its profits.</p>
+      <p>The governments of both countries shall, in accordance with their laws, encourage and facilitate the conditions for nationals of their respective countries to make investments in the territory of the other State, granting them fair and equitable treatment and full protection and security.</p>
+      <p>In accordance with their respective laws, each Government shall grant in its territory the investments or income of nationals or companies of the other country, treatment no less favorable than that accorded to nationals or companies, or to investments or income of nationals or companies of a third State.</p>
+      <p>If the terms contained in this communication are acceptable to the Illustrated Government of Uruguay, I propose that the text of the present document and the response of Your Excellency, constitute a formal agreement between our two countries.</p>
+      <p>I avail myself of the opportunity to renew to Your Excellency the assurances of my highest consideration.</p>
+      <p>Edgar Ter&#xE1;n,</p>
+      <p>MINISTER OF FOREIGN AFFAIRS.</p>
+      <p/>
+      <p/>
+      <p>EMBASSY OF URUGUAY</p>
+      <p>QUITO, ECUADOR</p>
+      <p>A 18 / 985A48 Quito, July 31, 1985.</p>
+      <p>Your Excellency </p>
+      <p>Dr. Edgar Ter&#xE1;n </p>
+      <p>Minister of Foreign Affairs of Ecuador </p>
+      <p>Quito </p>
+      <p>Mr Minister:</p>
+      <p>I have the honor to address Your Excellency with regard to your attentive communication No. 14/85 GM, dated as of this date, which reads as follows:</p>
+      <p>"Mr. Minister:</p>
+      <p>"I have the honor to address Your Excellency with the object of expressing to you that the Government of Ecuador, encouraged by the desire to create favorable conditions for the investment of capital by natural or juridical persons of Uruguay in Ecuador and vice versa, and recognizing that the promotion and reciprocal protection of such investments through international agreements can contribute to stimulating "economic activity and enhancing the prosperity of the two States", would welcome Ecuadorians and Uruguayan investments do not require prior authorization or have a general authorization, by sector; Without prejudice to comply with the exchange and registration rules in force in our two countries for the purposes of the reference of capital and its profits".</p>
+      <p>"The Governments of both countries, in accordance with their laws, shall encourage and facilitate the conditions for nationals of their respective countries to make investments in the territory of the other State, granting them fair and equitable treatment and full protection and security".</p>
+      <p>"In accordance with their respective legislation, the Government shall grant in their territory, to the investments or income of nationals or companies of the other country, a no less favorable treatment than that accorded to their own nationals or companies, or investments or returns of nationals or companies of a third State.</p>
+      <p>If the terms contained herein are acceptable to the Government of Uruguay, I beg to propose that the text of the present communication and that of Your Excellency's reply constitute a formal agreement between our two countries.</p>
+      <p>I avail myself of the opportunity to renew to Your Excellency the assurances of my highest and most distinguished consideration.</p>
+      <p>"Edgar Ter&#xE1;n"</p>
+      <p>" Minister of Foreign Affairs "</p>
+      <p>2.  In this regard, I am pleased to express to you that the terms contained in your Excellency's communication are acceptable to the Government of the Eastern Republic of Uruguay. Consequently, this communication and the present reply form a formal agreement between our two countries.</p>
+      <p>3.  I avail myself of the opportunity to reiterate to Your Excellency the assurances of my highest and most distinguished consideration.</p>
+      <p>Cr. Enrique Iglesias</p>
+      <p>Minister of Foreign&nbsp;Affairs</p>
+    </body>
+  </main>
+</treaty>

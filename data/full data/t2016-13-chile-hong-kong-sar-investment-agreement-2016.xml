@@ -1,0 +1,609 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Chile - Hong Kong SAR Investment Agreement (2016)</name>
+    <code>T2016-13</code>
+    <partyisocode n="0">CHL</partyisocode>
+    <partyisocode n="1">HKG</partyisocode>
+    <date_signed>2016-11-18</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>3717</docreference>
+    <comments/>
+    <source>https://www.tid.gov.hk/english/ita/ippa/files/IPPAChile.pdf</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{CHL,HKG}_2016-11-18.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_OVERLAP" document-code="T2012-12">Chile - Hong Kong FTA (2012)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2012-12">Chile - Hong Kong FTA (2012)</relation>
+    <relation type="IT_OVERLAP" document-code="T2012-12">Chile - Hong Kong FTA (2012)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>INVESTMENT AGREEMENT BETWEEN THE GOVERNMENT OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE'S REPUBLIC OF CHINA AND THE GOVERNMENT OF THE REPUBLIC OF CHILE</p>
+    </title>
+    <preamble>
+      <p>PREAMBLE</p>
+      <p>The Government of the Hong Kong Special Administrative Region of the People's Republic of China ("the HKSAR"), having been duly authorised to conclude this Investment Agreement by the Central People's Government of the People's Republic of China, and the Government of the Republic of Chile ("Chile") (together "the Parties"),</p>
+      <p>Building on the Free Trade Agreement between the Parties done on 7 September 2012 ("the FTA");</p>
+      <p>Pursuant to Article 19.6 (Future Work Programmes) of the FTA and the Exchange of Notes, which constitutes an agreement on the negotiation of this Investment Agreement, on 7 September 2012; and</p>
+      <p>Reaffirming that, in accordance with Article V.2 of the General Agreement on Trade in Services ("GATS") contained in Annex 1B to the Marrakesh Agreement Establishing the World Trade Organization, done at Marrakesh on 15 April 1994 ("WTO Agreement"), this Investment Agreement is part of a wider process of economic integration and trade liberalisation between the Parties, initiated by the FTA;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="section" num="A" title="Definitions">
+        <div type="article" num="1" title="Definitions">
+          <p>For the purposes of this Investment Agreement (hereinafter referred to as "this Agreement"):</p>
+          <p>" area " means:</p>
+          <p>(a)  in respect of Chile, the land, maritime, and air space under its sovereignty, and the exclusive economic zone and the continental shelf within which it exercises sovereign rights and jurisdiction in accordance with international law and its domestic law; and</p>
+          <p>(b)  in respect of the HKSAR, the HKSAR together with such other area(s) over which the HKSAR may be authorised to exercise jurisdiction in accordance with the laws of the HKSAR;</p>
+          <p>" claimant " means an investor of a Party that is a party to an investment dispute with the other Party;</p>
+          <p>" confidential information " means confidential business information, or other information that is privileged or otherwise protected from disclosure under the law of a Party, including classified government information;</p>
+          <p>" covered investment " means, with respect to a Party, an investment in its area of an investor of the other Party in existence on the date of entry into force of this Agreement or established, acquired or expanded thereafter;</p>
+          <p>" customs duties " means duties or charges of any kind imposed in connection with the importation of goods, but shall not include:</p>
+          <p>(a)  charges equivalent to internal taxes, including excise duties, sales taxes, and goods and services taxes, imposed in accordance with Article III.2 of GATT 1994;</p>
+          <p>(b)  anti-dumping, countervailing or safeguard duties applied in accordance with Chapter 8 (Trade Remedies) of the FTA; or</p>
+          <p>(c)  fees or other charges that are covered by Article VIII of GATT 1994. " disputing party " means either the claimant or the respondent;</p>
+          <p>" disputing parties " means the claimant and the respondent;</p>
+          <p>" enterprise " means an entity constituted or organised under applicable law, whether or not for profit, and whether privately or governmentally owned or controlled, including a corporation, trust, partnership, sole proprietorship, joint venture or other association, and a branch of any such entity;</p>
+          <p>" enterprise of a Party " means an enterprise constituted or organised under the law of a Party, or a branch located in the area of a Party and carrying out business activities there;</p>
+          <p>" existing " means in effect on the date of entry into force of this Agreement;</p>
+          <p>" financial institution " means a financial intermediary or other enterprise that is authorised to provide financial service and regulated or supervised as a financial institution under the law of the Party in whose area it is located;</p>
+          <p>" financial service " has the same meaning as in Article 12.1 (Definitions) of the FTA;</p>
+          <p>" freely usable currency " means freely usable currency as determined by the International Monetary Fund under its Articles of Agreement;</p>
+          <p>" GATT 1994 " means the General Agreement on Tariffs and Trade 1994, contained in Annex 1A to the WTO Agreement;</p>
+          <p>" Government enterprise " means an enterprise that is owned or controlled, directly or indirectly, by a Party;</p>
+          <p>" government procurement " means the process by which a government obtains the use of or acquires goods or services, or any combination thereof, for governmental purposes and not with a view to commercial sale or resale, or for use in the production or supply of goods or services for commercial sale or resale;</p>
+          <p>" investment " means every asset that an investor owns or controls, directly or indirectly, that has the characteristics of an investment, including such characteristics as the commitment of capital or other resources, the expectation of gain or profit, or the assumption of risk. Forms that an investment may take include:</p>
+          <p>(a)  an enterprise;</p>
+          <p>(b)  shares, stock and other forms of equity participation in an enterprise;</p>
+          <p>(c)  bonds, debentures, and other debt instruments and loans (1), but do not include (i) loans issued by one Party to the other Party, or (ii) bonds, bills, notes, or other kinds of debt securities or instruments issued by a Party (including its central bank or monetary authority), or by a Government enterprise;</p>
+          <p>(d)  futures, options and other derivatives;</p>
+          <p>(e)  turnkey, construction, management, production, concession, revenuesharing and other similar contracts;</p>
+          <p>(f)  intellectual property rights;</p>
+          <p>(g)  licences, authorisations, permits and similar rights conferred pursuant to the Party's law (2); and</p>
+          <p>(h)  other tangible or intangible, movable or immovable property, and related property rights, such as leases, mortgages, liens and pledges,</p>
+          <p>But investment does not mean an order or judgment entered in a judicial or administrative action;</p>
+          <p>" investor of a non-Party " means, with respect to a Party, an investor that attempts to make (3), is making or has made an investment in the area of that Party, that is not an investor of a Party;</p>
+          <p>" investor of a Party " means a Party, or a person of such Party, that attempts to make, is making or has made an investment in the area of the other Party;</p>
+          <p>" measure " means any measure by a Party, whether in the form of a law, regulation, rule, procedure, practice, decision, administrative action or any other form;</p>
+          <p>" natural person " means:</p>
+          <p>(a)  in respect of Chile, a natural person who has the Chilean nationality as defined in Article 10 of the Constitucion Politica de la Republica de Chile or a permanent resident of Chile; and</p>
+          <p>(b)  in respect of the HKSAR, a permanent resident of the HKSAR under its law;</p>
+          <p>A natural person of both the HKSAR and Chile shall be deemed to be exclusively a natural person of the Party with which he or she has a predominant link, taking into account factors including, but not limited to, the individual's permanent home, centre of vital interests (i.e. where the individual's personal and economic relations are closer), and habitual abode;</p>
+          <p>" New York Convention " means the United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards, done at New York on 10 June 1958;</p>
+          <p>" non-disputing Party " means a Party that is not a party to an investment dispute;</p>
+          <p>" person " means a natural person or an enterprise;</p>
+          <p>" respondent " means the Party that is a party to an investment dispute;</p>
+          <p>" returns-in-kind " means returns in the form of an article or commodity, for example in goods or in natural produce, as opposed to money;</p>
+          <p>" Secretary-General " means the Secretary-General of the Permanent Court of Arbitration established by the Conventions for the Pacific Settlement of International Disputes, done at The Hague on 29 July 1899 and 18 October 1907;</p>
+          <p>" tax convention " means a convention for the avoidance of double taxation or other bilateral or multilateral taxation agreement or arrangement;</p>
+          <p>" taxation measure " means any measure relating to direct or indirect taxes, but shall not include:</p>
+          <p>(a)  customs duties; or</p>
+          <p>(b)  the measures listed in subparagraphs (b) and (c) of the definition of customs duties;</p>
+          <p>" tribunal " means an arbitration tribunal constituted under Article 21 (Submission of a Claim to Arbitration) or Article 31 (Consolidation);</p>
+          <p>" TRIPS Agreement " means the Agreement on Trade-Related Aspects of Intellectual Property Rights, contained in Annex 1C to the WTO Agreement, as revised or amended from time to time by a revision or amendment that applies to the Parties and including any waiver of any provision thereof granted by Members of the WTO;</p>
+          <p>" UNCITRAL Arbitration Rules " means, with respect to a claim submitted to arbitration under Section C (Settlement of Disputes between an Investor and the Host Party), the arbitration rules of the United Nations Commission on International Trade Law in effect on the date on which the claim is submitted; and</p>
+          <p>" WTO " means the World Trade Organization.</p>
+          <div type="foot_note">(1) Some forms of debt, such as bonds, debentures, and long-term notes, are more likely to have the characteristics of an investment, while other forms of debt, such as claims to payment that are immediately due and result from the sale of goods or services, are less likely to have such characteristics.</div>
+          <div type="foot_note">(2) Whether a particular type of licence, authorisation, permit or similar instrument (including a concession to the extent that it has the nature of such an instrument) is an asset that has the characteristics of an investment depends on such factors as the nature and extent of the rights that the holder has under the Party's law. Among such instruments that do not constitute an asset that has the characteristics of an investment are those that do not create any rights protected under the Party's law. For greater certainty, the foregoing is without prejudice to whether any asset associated with such instruments has the characteristics of an investment.</div>
+          <div type="foot_note">(3) For greater certainty, the Parties understand that, for the purposes of the definitions of "investor of a nonParty" and "investor of a Party", an investor "attempts to make" an investment when that investor has taken concrete action or actions to make an investment, such as channelling resources or capital in order to set up a business, or applying for a permit or licence.</div>
+        </div>
+      </div>
+      <div type="section" num="B" title="Substantive obligations">
+        <div type="article" num="2" title="Scope">
+          <p>1.  This Agreement shall apply to measures adopted or maintained by a Party relating to:</p>
+          <p>(a)  an investor of the other Party; and</p>
+          <p>(b)  a covered investment.</p>
+          <p>2.  A Party's obligations under this Agreement shall apply to measures adopted or maintained by any person, including a Government enterprise, or any other body, when it exercises any governmental authority delegated to it by the government or authorities of that Party.</p>
+          <p>3.  This Agreement does not apply to:</p>
+          <p>(a)  financial services, except as provided for in Article 22 (Investment Disputes in Financial Services);</p>
+          <p>(b)  any act or fact that took place or any situation that ceased to exist before the date of entry into force of this Agreement;</p>
+          <p>(c)  government procurement; and</p>
+          <p>(d)  subsidies or grants provided by a Party, including government-supported</p>
+          <p>Loans, guarantees, and insurance.</p>
+        </div>
+        <div type="article" num="3" title="Relation to the FTA">
+          <p>1.  Unless otherwise specified in this Agreement, provisions in the FTA shall not apply to this Agreement.</p>
+          <p>2.  In the event of any inconsistency between this Agreement and the FTA, the latter shall prevail to the extent of the inconsistency, unless otherwise agreed by the Parties.</p>
+        </div>
+        <div type="article" num="4" title="Non-discriminatory treatment as compared with a party's own investors (4)">
+          <p>1.  Each Party shall accord to an investor of the other Party treatment no less favourable than that it accords, in like circumstances, to its own investors with respect to the expansion, management, conduct, operation and sale or other disposition of an investment in its area.</p>
+          <p>2.  Each Party shall accord to a covered investment treatment no less favourable than that it accords, in like circumstances, to investments of its own investors with respect to the expansion, management, conduct, operation and sale or other disposition of an investment in its area.</p>
+          <p>3.  For greater certainty, the concept of "expansion" in this Article shall not include the establishment or acquisition of an investment.</p>
+          <div type="foot_note">(4) For greater certainty, whether treatment is accorded in "like circumstances" under Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors) or Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors) depends on the totality of the circumstances, including whether the relevant treatment distinguishes between investors or investments on the basis of legitimate public welfare objectives.</div>
+        </div>
+        <div type="article" num="5" title="Non-discriminatory treatment as compared with a non-party's investors">
+          <p>1.  Each Party shall accord to an investor of the other Party treatment no less favourable than that it accords, in like circumstances, to investors of a non-Party with respect to the establishment, acquisition, expansion, management, conduct, operation and sale or other disposition of an investment in its area.</p>
+          <p>2.  Each Party shall accord to a covered investment treatment no less favourable than that it accords, in like circumstances, to investments of investors of a non-Party with respect to the establishment, acquisition, expansion, management, conduct, operation and sale or other disposition of an investment in its area.</p>
+          <p>3.  For greater certainty, the treatment referred to in this Article does not encompass any dispute resolution mechanisms, such as those in Section C (Settlement of Disputes between an Investor and the Host Party).</p>
+        </div>
+        <div type="article" num="6" title="Minimum standard of treatment">
+          <p>1.  Each Party shall accord to a covered investment treatment in accordance with the customary international law minimum standard of treatment of aliens (5), including fair and equitable treatment and full protection and security.</p>
+          <p>2.  The concepts of "fair and equitable treatment" and "full protection and security" in paragraph 1 do not require treatment in addition to or beyond that which is required by the customary international law minimum standard of treatment of aliens and do not create additional substantive rights.</p>
+          <p>3.  A breach of another provision of this Agreement, or of a separate bilateral or multilateral agreement, does not establish that there has been a breach of this Article.</p>
+          <p>4.  For greater certainty, the mere fact that a Party takes or fails to take an action that may be inconsistent with an investor's expectations does not constitute a breach of this Article, even if there is loss or damage to the covered investment as a result.</p>
+          <div type="foot_note">(5) The customary international law minimum standard of treatment of aliens refers to all customary international law principles that protect the economic rights of aliens.</div>
+        </div>
+        <div type="article" num="7" title="Treatment in case of armed conflict or civil strife">
+          <p>1.  Notwithstanding Article 2.3(d) (Scope), each Party shall accord to investors of the other Party and to covered investments non-discriminatory treatment with respect to measures it adopts or maintains relating to losses suffered by investments in its area owing to armed conflict or civil strife.</p>
+          <p>2.  Notwithstanding paragraph 1, if an investor of a Party, in a situation referred to in paragraph 1, suffers a loss in the area of the other Party resulting from:</p>
+          <p>(a)  requisitioning of its covered investment or part thereof by the latter's forces or authorities; or</p>
+          <p>(b)  destruction of its covered investment or part thereof by the latter's forces or authorities, if the destruction was not required by the necessity of the situation,</p>
+          <p>The latter Party shall provide the investor restitution, compensation or both, as appropriate, for that loss.</p>
+          <p>3.  In this Article, "forces" in respect of the HKSAR means the armed forces of the People's Republic of China.</p>
+          <p>4.  Paragraph 1 shall not apply to existing measures relating to subsidies or grants that would be inconsistent with Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors) but for Article 2.3(d) (Scope).</p>
+        </div>
+        <div type="article" num="8" title="Senior management and boards of directors">
+          <p>1.  A Party may not require that an enterprise of that Party that is a covered investment appoint to a senior management position an individual of any particular nationality.</p>
+          <p>2.  A Party may require that a majority of the board of directors, or a committee thereof, of an enterprise of that Party that is a covered investment be of a particular nationality or resident in the area of that Party, provided that the requirement does not materially impair the ability of the investor to exercise control over its investment.</p>
+        </div>
+        <div type="article" num="9" title="Performance requirements">
+          <p>1.  A Party may not, in connection with the establishment, acquisition, expansion, management, conduct or operation of a covered investment in its area, impose or enforce the following requirements, or enforce a commitment or undertaking:</p>
+          <p>(a)  to export a given level or percentage of a good or service;</p>
+          <p>(b)  to achieve a given level or percentage of domestic content;</p>
+          <p>(c)  to purchase, use or accord a preference to a good produced in its area, or to purchase a good from a person in its area;</p>
+          <p>(d)  to relate the volume or value of imports to the volume or value of exports or to the amount of foreign exchange inflows associated with that investment;</p>
+          <p>(e)  to restrict sales of a good or service in its area that the investment produces or provides by relating those sales to the volume or value of its exports or foreign exchange earnings;</p>
+          <p>(f)  to transfer technology, a production process or other proprietary knowledge to a person in its area (6); or</p>
+          <p>(g)  to supply exclusively from the area of the Party a good that the investment produces or a service it supplies to a specific regional market or to the world market.</p>
+          <p>2.  Without prejudice to Article 2.3(d) (Scope), a Party may not, in connection with the establishment, acquisition, expansion, management, conduct or operation of a covered investment in its area, condition the receipt or continued receipt of an advantage on compliance with the following requirements:</p>
+          <p>(a)  to achieve a given level or percentage of domestic content;</p>
+          <p>(b)  to purchase, use or accord a preference to a good produced in its area, or to purchase a good from a producer in its area;</p>
+          <p>(c) To relate the volume or value of imports to the volume or value of exports or to the amount of foreign exchange inflows associated with that investment; or</p>
+          <p>(d) To restrict sales of a good or service in its area that the investment produces or provides by relating those sales to the volume or value of its exports or foreign exchange earnings.</p>
+          <p>3. (a) Paragraph 2 does not prevent a Party from conditioning the receipt or continued receipt of an advantage, in connection with a covered investment, on compliance with a requirement to locate production, supply a service, train or employ workers, construct or expand particular facilities, or carry out research and development, in its area.</p>
+          <p>(b) Subparagraph 1(f) does not apply if the requirement is imposed or the commitment or undertaking is enforced by a court, administrative tribunal or competition authority to remedy a practice determined after judicial or administrative process to be anti-competitive under the Party's competition law.</p>
+          <p>4.  For greater certainty, paragraphs 1 and 2 only apply to commitments, undertakings or requirements set out in those paragraphs.</p>
+          <p>5. (a) Subparagraphs 1(a), 1(b) and 1(c), and 2(a) and 2(b), do not apply to a qualification requirement for a good or service with respect to exportpromotion and foreign aid programmes.</p>
+          <p>(b) Subparagraphs 2(a) and 2(b) do not apply to a requirement imposed by an importing Party relating to the content of a good necessary to qualify for a preferential tariff or preferential quota.</p>
+          <p>6.  For greater certainty, nothing in paragraph 1 shall be construed to prevent a Party, in connection with the establishment, acquisition, expansion, management, conduct or operation of a covered investment in its area, from imposing or enforcing a requirement, or enforcing a commitment or undertaking, to employ or train workers in its area provided that the employment or training does not require the transfer of a particular technology, production process or other proprietary knowledge to a person in its area.</p>
+          <p>7.  For greater certainty, this Article does not preclude the imposition or enforcement of any requirement, commitment or undertaking between private parties, where a Party did not impose or enforce the same.</p>
+          <div type="foot_note">(6) For greater certainty, a measure that requires a covered investment to use a particular technology to meet generally applicable health, safety or environmental requirements is not inconsistent with subparagraph 1(f).</div>
+        </div>
+        <div type="article" num="10" title="Expropriation (7)">
+          <p>1.  A Party may not expropriate a covered investment either directly or indirectly through measures having an effect equivalent to expropriation, except:</p>
+          <p>(a)  for a public purpose;</p>
+          <p>(b)  in accordance with due process of law;</p>
+          <p>(c)  in a non-discriminatory manner; and</p>
+          <p>(d)  on payment of compensation in accordance with paragraphs 2 and 3.</p>
+          <p>2.  The compensation referred to in paragraph 1 shall:</p>
+          <p>(a)  be paid without delay;</p>
+          <p>(b)  be equivalent to the real value of the expropriated investment immediately before the expropriation took place ("date of expropriation");</p>
+          <p>(c)  not reflect a change in value occurring because the intended expropriation had become known earlier; and</p>
+          <p>(d)  be fully realisable and freely transferable according to Article 11 (Transfers).</p>
+          <p>3.  If the real value is denominated in a freely usable currency, the compensation paid shall be no less than the real value on the date of expropriation, plus interest at a commercially reasonable rate for that currency, accrued from the date of expropriation until the date of payment.</p>
+          <p>4.  If the real value is denominated in a currency that is not freely usable, the compensation paid converted into the currency of payment at the market rate of exchange prevailing on the date of payment shall be no less than the real value on the date of expropriation, converted into a freely usable currency at the market rate of exchange prevailing on that date, plus interest at a commercially reasonable rate for that freely usable currency, accrued from the date of expropriation until the date of payment.</p>
+          <p>5.  For greater certainty, this Article does not apply to the issuance of a compulsory licence granted in relation to intellectual property rights, or to the revocation, limitation or creation of an intellectual property right, to the extent that the issuance, revocation, limitation or creation is consistent with the TRIPS Agreement.</p>
+          <div type="foot_note">(7) For greater certainty, this Article shall be interpreted in accordance with Annex I (Expropriation).</div>
+        </div>
+        <div type="article" num="11" title="Transfers (8)">
+          <p>1.  Each Party shall permit all transfers relating to a covered investment to be made freely, and without delay, into and out of its area. Those transfers include:</p>
+          <p>(a)  contributions to capital, including the initial contribution;</p>
+          <p>(b)  profits, dividends, interest, capital gains, royalty payments, management fees, technical assistance and other fees, returns-in-kind and other amounts derived from the covered investment;</p>
+          <p>(c)  proceeds from the sale of all or part of the covered investment or from the partial or complete liquidation of the covered investment;</p>
+          <p>(d)  payments made under a contract entered into by the investor of the other Party or the covered investment, including payments made pursuant to a loan agreement;</p>
+          <p>(e)  payments made under Articles 7 (Treatment in Case of Armed Conflict or Civil Strife) and 10 (Expropriation); and</p>
+          <p>(f)  payments arising under Section C (Settlement of Disputes between an Investor and the Host Party).</p>
+          <p>2.  Each Party shall permit transfers relating to a covered investment to be made in a freely usable currency at the market rate of exchange prevailing at the time of transfer.</p>
+          <p>3.  Notwithstanding paragraphs 1 and 2, a Party may prevent or delay a transfer through the equitable, non-discriminatory and good faith application of its law relating to:</p>
+          <p>(a)  bankruptcy, insolvency or the protection of the rights of a creditor;</p>
+          <p>(b)  issuing, trading or dealing in securities, futures, options, or derivatives;</p>
+          <p>(c)  a criminal or penal offence;</p>
+          <p>(d)  financial reporting or record keeping of transfers when necessary to assist law enforcement or financial regulatory authorities; or</p>
+          <p>(e)  ensuring compliance with an order or judgment in judicial or administrative proceedings.</p>
+          <p>4.  Each Party shall permit transfers of returns-in-kind relating to a covered investment to be made as authorised or specified in a written agreement between the Party and a covered investment or an investor of the other Party.</p>
+          <p>5.  Notwithstanding paragraph 4, a Party may restrict transfers of returns-in-kind in circumstances where it could otherwise restrict such transfers under this Agreement, including as set out in paragraph 3.</p>
+          <p>6.  For greater certainty, this Article does not preclude the equitable, non-discriminatory, and good faith application of a Party's laws relating to its social security, public retirement, or compulsory savings programmes.</p>
+          <div type="foot_note">(8) This Article is subject to Annex IV (Transfers - Chile).</div>
+        </div>
+        <div type="article" num="12" title="Transparency">
+          <p>1.  Each Party shall ensure that its laws, regulations, procedures, and administrative rulings of general application with respect to any matter covered by this Agreement are</p>
+          <p>Promptly published or otherwise made available (9) to interested persons and the other Party.</p>
+          <p>2.  To the extent possible, each Party shall:</p>
+          <p>(a)  publish in advance any measure referred to in paragraph 1 that it proposes to adopt; and</p>
+          <p>(b)  provide interested persons and the other Party with a reasonable opportunity to comment on such proposed measures.</p>
+          <p>3.  To the extent practicable, when introducing or changing the laws, regulations or procedures referred to in paragraph 1, each Party shall, in a manner consistent with its legal system, endeavour to provide a reasonable period between the date when those laws, regulations or procedures, proposed or final in accordance with its legal system, are made publicly available and the date when they enter into force.</p>
+          <p>4.  To the extent possible, each Party shall notify the other Party of any actual or proposed measure that the Party considers might materially affect the operation of this Agreement or otherwise substantially affect the other Party's interests under this Agreement.</p>
+          <p>5.  At the request of the other Party, a Party shall promptly provide information and respond to questions pertaining to any actual or proposed measure that the requesting Party considers might materially affect the operation of this Agreement or otherwise substantially affect its interests under this Agreement, regardless of whether the requesting Party has been previously notified of that measure.</p>
+          <p>6.  Any notification, request, response or information under this Article shall be provided to the other Party through the relevant contact points established under the FTA.</p>
+          <p>7.  The notification referred to in paragraph 4 shall be regarded as having been provided in accordance with paragraph 6 when the actual or proposed measure has been notified to the WTO in accordance with the WTO Agreement and copied to the contact point of the other Party.</p>
+          <p>8.  Any notification, response or information provided under this Article shall be without prejudice as to whether the measure is consistent with this Agreement.</p>
+          <div type="foot_note">(9) Including through the internet or in print form.</div>
+        </div>
+        <div type="article" num="13" title="Subrogation">
+          <p>1.  If a Party, or any agency, institution, statutory body or corporation designated by the Party, makes a payment to an investor of the Party under a guarantee, a contract of insurance or other form of indemnity that it has entered into with respect to a covered investment, the other Party in whose area the covered investment was made shall recognise the subrogation or transfer of any rights the investor would have possessed under this Agreement with respect to the covered investment but for the subrogation, and the investor shall be precluded from pursuing these rights to the extent of the subrogation.</p>
+          <p>2.  For greater certainty, the subrogated right or claim shall not be greater than the original right or claim of the investor.</p>
+        </div>
+        <div type="article" num="14" title="Taxation measures">
+          <p>1.  For the purposes of this Article, "designated authorities" means:</p>
+          <p>(a)  for Chile, the Undersecretary of the Ministry of Finance (Subsecretario del Ministerio de Hacienda); and</p>
+          <p>(b)  for the HKSAR, the Director-General of Trade and Industry or his authorised representative.</p>
+          <p>2.  Except as provided in this Article, nothing in this Agreement shall apply to taxes and taxation measures.</p>
+          <p>3.  Nothing in this Agreement shall affect the rights and obligations of a Party under any tax convention. In the event of an inconsistency between this Agreement and a tax convention, that tax convention shall prevail to the extent of the inconsistency.</p>
+          <p>4.  In case an issue arises as to whether any inconsistency exists between this Agreement and a tax convention between the Parties, the issue shall be referred to the designated authorities. If the designated authorities decide to make a determination as to the existence and extent of any inconsistency, they shall do so within six months of the referral of the issue. No procedures concerning the measure giving rise to the issue may be initiated under Section D (Settlement of Disputes between the Parties) or Article 21 (Submission of a Claim to Arbitration) until the expiry of the six-month period. An arbitral panel or tribunal established to consider a dispute related to a taxation measure shall accept as binding a determination of the designated authorities made under this paragraph. If the designated authorities have not determined the issue within six months from the date of the referral, the tribunal or arbitral panel shall decide the issue.</p>
+          <p>5.  Article 10 (Expropriation) shall apply to taxation measures. However, no investor may invoke Article 10 (Expropriation) as the basis for a claim if it has been determined pursuant to this paragraph that the taxation measure is not an expropriation. An investor that seeks to invoke Article 10 (Expropriation) with respect to a taxation measure must refer to the designated authorities, before it gives its notice of intent under Article 21 (Submission of a Claim to Arbitration), the issue of whether or not that taxation measure is an expropriation. If the designated authorities do not agree to consider the issue or, having agreed to consider it, fail to agree whether the taxation measure is an</p>
+          <p>Expropriation within six months of the referral, the investor may submit its claim to arbitration under Article 21 (Submission of a Claim to Arbitration).</p>
+          <p>6.  If, in connection with a claim by an investor of a Party or a dispute between the Parties, an issue arises as to whether a measure of a Party is a taxation measure, a Party may refer the issue to the designated authorities. A joint determination of the designated authorities shall bind a tribunal established under Section C (Settlement of Disputes between an Investor and the Host Party) or an arbitral panel established under Section D (Settlement of Disputes between the Parties). A tribunal or arbitral panel seized of a claim or a dispute in which the issue arises may not proceed until it receives the joint determination of the designated authorities. If the designated authorities have not determined the issue within six months from the date of the referral, the tribunal or arbitral panel shall decide the issue.</p>
+          <p>7.  This Agreement does not require a Party to furnish or allow access to information which, if disclosed, would be contrary to the Party's law protecting information concerning the taxation affairs of a taxpayer.</p>
+        </div>
+        <div type="article" num="15" title="Investment and environmental, health or other regulatory objectives">
+          <p>1.  Nothing in this Agreement shall be construed to prevent a Party from adopting, maintaining, or enforcing any measure otherwise consistent with this Agreement that it considers appropriate to ensure that investment activity in its area is undertaken in a manner sensitive to environmental, health or other regulatory objectives.</p>
+          <p>2.  The Parties recognise that it is inappropriate to encourage investment by relaxing their measures related to environmental, health or other regulatory objectives. Accordingly, a Party should not waive or otherwise derogate from, or offer to waive or otherwise derogate from, those measures to encourage the establishment, acquisition, expansion or retention in its area of an investment of an investor of the other Party.</p>
+        </div>
+        <div type="article" num="16" title="Corporate social responsibility">
+          <p>The Parties reaffirm the importance of each Party encouraging enterprises operating within its area to voluntarily incorporate into their internal policies those internationally recognised standards, guidelines and principles of corporate social responsibility that have been endorsed or are supported by that Party.</p>
+        </div>
+        <div type="article" num="17" title="Non-conforming measures">
+          <p>1.  Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Boards of Directors) and Article 9 (Performance Requirements) shall not apply to:</p>
+          <p>(a)  any existing non-conforming measure maintained by a Party;</p>
+          <p>(b)  the continuation or prompt renewal of any non-conforming measure referred to in subparagraph (a); or</p>
+          <p>(c)  an amendment to any non-conforming measure referred to in subparagraph</p>
+          <p>(a)  to the extent that the amendment does not decrease the conformity of the measure, as it existed immediately before the amendment, with Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Boards of Directors) and Article 9 (Performance Requirements).</p>
+          <p>2.  Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Board of Directors) and Article 9 (Performance Requirements) shall not apply to any measure that a Party adopts or maintains with respect to sectors, subsectors or matters, as set out in its schedule to Annex II (Reservations).</p>
+          <p>3.  Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors) shall not apply to treatment accorded by a Party pursuant to agreements or arrangements set out in Annex III (Exceptions from Non-Discriminatory Treatment as Compared with a Non-Party's Investors).</p>
+          <p>4.  In respect of intellectual property rights, a Party may derogate from Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors) and Article 9.1(f) (Performance Requirements) in a manner that is consistent with the TRIPS Agreement.</p>
+        </div>
+        <div type="article" num="18" title="Exceptions">
+          <p>1.  Provided that such measures are not applied in an arbitrary or unjustifiable manner, or do not constitute a disguised restriction on international trade or investment, nothing in this Agreement shall be construed to prevent a Party from adopting or maintaining measures, including environmental measures:</p>
+          <p>(a)  necessary to protect public morals or to maintain public order; (10)</p>
+          <p>(b)  necessary to ensure compliance with laws and regulations that are not inconsistent with the provisions of this Agreement;</p>
+          <p>(c)  necessary to protect human, animal or plant life or health; or</p>
+          <p>(d)  relating to the conservation of living or non-living exhaustible natural resources if such measures are made effective in conjunction with restrictions on domestic production or consumption.</p>
+          <p>2.  This Agreement does not prevent a Party from adopting or maintaining measures for prudential reasons, such as:</p>
+          <p>(a)  protecting investors, depositors, financial market participants, policy-holders, policy-claimants, or persons to whom a fiduciary duty is owed by a financial institution;</p>
+          <p>(b)  maintaining the safety, soundness, integrity or financial responsibility of financial institutions; and</p>
+          <p>(c)  ensuring the integrity and stability of a Party's financial system.</p>
+          <p>Where such measures do not conform with the provisions of this Agreement, they shall not be used as a means of avoiding the Party's obligations under such provisions.</p>
+          <p>3.  Notwithstanding Article 11.1 and 11.2 (Transfers), a Party may prevent or limit transfers by a financial institution to, or for the benefit of, an affiliate of or a person related to that institution, through the equitable, non-discriminatory and good faith application of a measure relating to maintenance of the safety, soundness, integrity or financial responsibility of financial institutions.</p>
+          <p>4.  This Agreement does not apply to non-discriminatory measures of general application taken by a central bank or monetary authority in pursuit of monetary and related credit or exchange rate policies. This paragraph shall not affect a Party's obligations under Article 9 (Performance Requirements) or Article 11 (Transfers).</p>
+          <p>5.  For greater certainty, nothing in this Agreement shall be construed to prevent a Party from adopting or maintaining measures necessary to secure compliance with its laws or regulations that are not inconsistent with this Agreement, including those relating to the prevention of deceptive and fraudulent practices or to deal with the effects of a default on financial services contracts, subject to the requirement that such measures are not applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination between the Parties or between a Party and a non-Party where like conditions prevail, or a disguised restriction on investment in financial institutions as covered by this Agreement.</p>
+          <p>6.  This Agreement does not:</p>
+          <p>(a)  require a Party to furnish or allow access to information if that Party determines that the disclosure of this information would be contrary to its essential security interests;</p>
+          <p>(b)  prevent a Party from taking an action that it considers necessary to protect its essential security interests:</p>
+          <p>(i)  relating to fissionable and fusionable materials or the materials from which they are derived,</p>
+          <p>(ii)  relating to the traffic in arms, ammunition and implements of war and to such traffic and transactions in other goods, materials, services and technology undertaken directly or indirectly for the purpose of supplying a military or other security establishment,</p>
+          <p>(iii)  taken in time of war or other emergency in international relations,</p>
+          <p>(iv)  relating to the implementation of policies or international agreements respecting the non-proliferation of nuclear weapons or other nuclear explosive devices; or</p>
+          <p>(c)  prevent a Party from taking any action pursuant to the obligations applicable to it under the United Nations Charter for the maintenance of international peace and security.</p>
+          <p>7.  This Agreement does not require a Party to furnish or allow access to information which if disclosed would impede law enforcement or would be contrary to:</p>
+          <p>(a)  any of its laws;</p>
+          <p>(b)  personal data protection;</p>
+          <p>(c)  the confidentiality of the financial affairs and accounts of individual customers of financial institutions;</p>
+          <p>(d)  the confidentiality of information concerning particular investors or investments, the disclosure of which would prejudice legitimate commercial interests of particular investors; or</p>
+          <p>(e)  the public interest.</p>
+          <p>8.  For greater certainty, in the course of a dispute settlement procedure under this Agreement:</p>
+          <p>(a)  a Party is not required to furnish or allow access to information protected under its competition law; and</p>
+          <p>(b)  a competition authority of a Party is not required to furnish or allow access to information that is privileged or otherwise protected from disclosure.</p>
+          <p>9.  If a right or obligation in this Agreement duplicates one under the WTO Agreement, the Parties agree that a measure adopted by a Party in conformity with a waiver decision granted by the WTO pursuant to Article IX of the WTO Agreement is deemed to be also in conformity with this Agreement. Therefore, such conforming measure of either Party may not give rise to a claim by an investor of one Party against the other Party under Section C (Settlement of Disputes between an Investor and the Host Party).</p>
+          <div type="foot_note">(10) The public order exception may be invoked only where a genuine and sufficiently serious threat is posed to one of the fundamental interests of society.</div>
+        </div>
+        <div type="article" num="19" title="Denial of benefits">
+          <p>A Party may, at any time, including after the institution of arbitral proceedings, in accordance with Section C (Settlement of Disputes between an Investor and the Host Party), deny the benefits of this Agreement to an investor of the other Party that is an enterprise of such other Party and to investments of that investor if the enterprise:</p>
+          <p>(a)  is owned or controlled by persons of either a non-Party or the denying Party; and</p>
+          <p>(b)  has no substantive business operations in the area of the other Party.</p>
+        </div>
+      </div>
+      <div type="section" num="C" title="Settlement of disputes between an investor and the host party">
+        <div type="article" num="20" title="Consultations">
+          <p>1.  In the event of an investment dispute, the claimant and the respondent shall initially seek to resolve the dispute through consultations, which may include, where this is acceptable to the disputing parties, the use of non-binding, third-party procedures, such as good offices, conciliation and mediation. Such consultations shall be initiated by a written request for consultations delivered by the claimant to the respondent, with the information specified in Article 21.2(a) and 21.2(b) (Submission of a Claim to Arbitration) set out therein.</p>
+          <p>2.  The disputing parties shall endeavour to commence consultations within 30 days after receipt by the respondent of the request for consultations, unless the disputing parties otherwise agree.</p>
+          <p>3.  The claimant shall provide the respondent, prior to the commencement of consultations, with information regarding the legal and factual basis for the investment dispute.</p>
+          <p>4.  The place of consultations would be Hong Kong if the HKSAR is the respondent, or Santiago if Chile is the respondent, unless the disputing parties otherwise agree.</p>
+          <p>5.  For greater certainty, the commencement of consultations shall not be construed as recognition of the jurisdiction of the tribunal.</p>
+        </div>
+        <div type="article" num="21" title="Submission of a claim to arbitration">
+          <p>1.  If an investment dispute has not been resolved within six months of the receipt by the respondent of a request for consultations:</p>
+          <p>(a)  the claimant, on its own behalf, may submit to arbitration under this Section a claim that:</p>
+          <p>(i)  the respondent has breached an obligation under Section B (Substantive Obligations), other than an obligation under Article 12 (Transparency), Article 15 (Investment and Environmental, Health or other Regulatory Objectives), or Article 16 (Corporate Social Responsibility); and</p>
+          <p>(ii)  the claimant has incurred loss or damage by reason of, or arising out of, that breach; and</p>
+          <p>(b)  the claimant, on behalf of an enterprise of the respondent that the claimant owns or controls directly or indirectly, may submit to arbitration under this Section a claim that:</p>
+          <p>(i)  the respondent has breached an obligation under Section B (Substantive Obligations), other than an obligation under Article 12 (Transparency), Article 15 (Investment and Environmental, Health or other Regulatory Objectives), or Article 16 (Corporate Social Responsibility); and</p>
+          <p>(ii)  the enterprise has incurred loss or damage by reason of, or arising out of, that breach.</p>
+          <p>2.  At least 90 days before submitting any claim to arbitration under this Section, a claimant shall deliver to the respondent a written notice of its intention to submit the claim to arbitration ("notice of intent"). The notice shall specify:</p>
+          <p>(a)  the name and address of the claimant and, where a claim is submitted on behalf of an enterprise, the name, address, and place of constitution or organisation of the enterprise;</p>
+          <p>(b)  for each claim, the provision of this Agreement alleged to have been breached and any other relevant provisions;</p>
+          <p>(c)  the legal and factual basis for each claim; and</p>
+          <p>(d)  the relief sought and the approximate amount of damages claimed.</p>
+          <p>3.  With its notice of intent, a claimant shall deliver to the respondent evidence establishing that it is an investor of the non-disputing Party.</p>
+          <p>4.  A claimant may submit a claim referred to in paragraph 1:</p>
+          <p>(a)  under the UNCITRAL Arbitration Rules; or</p>
+          <p>(b)  if the disputing parties agree, to any other arbitration institution or under any other arbitration rules.</p>
+          <p>5.  The Parties may adopt supplemental rules of procedure to the arbitration rules applicable under paragraph 4 and these rules shall apply to the arbitration. The Parties shall promptly publish the supplemental rules of procedure that they adopt or otherwise make them available to interested persons.</p>
+          <p>6.  A claim shall be deemed submitted to arbitration under this Section when the claimant's notice of or request for arbitration ("notice of arbitration"):</p>
+          <p>(a)  referred to in the UNCITRAL Arbitration Rules, together with the statement of claim referred to therein, are received by the respondent; or</p>
+          <p>(b)  referred to under any arbitral institution or arbitration rules selected under paragraph 4(b) is received by the respondent.</p>
+          <p>A claim asserted by the claimant for the first time after such notice of arbitration is submitted shall be deemed submitted to arbitration under this Section on the date of its receipt under the applicable arbitration rules.</p>
+          <p>7.  The arbitration rules applicable under paragraph 4 shall govern the arbitration except to the extent modified by this Agreement.</p>
+          <p>8.  The claimant shall provide with the notice of arbitration:</p>
+          <p>(a)  the name of the arbitrator that the claimant appoints; or</p>
+          <p>(b)  the claimant's written consent for the Secretary-General to appoint the claimant's arbitrator.</p>
+          <p>9.  If, following the submission of a claim to arbitration under this Section, the claimant fails to take any steps in the proceeding during six consecutive months, and if the disputing parties do not agree otherwise, the claimant shall be deemed to have withdrawn its claim and to have discontinued the proceedings. Thereupon, the claim shall be deemed not to have been filed under this Section and the authority of any tribunal constituted to hear that claim shall be deemed to have lapsed.</p>
+        </div>
+        <div type="article" num="22" title="Investment disputes in financial services">
+          <p>1.  Notwithstanding Article 2.3(a) (Scope), with respect to:</p>
+          <p>(a)  financial institutions of a Party; and</p>
+          <p>(b)  investors of a Party, and investments of those investors, in financial institutions in the respondent's area,</p>
+          <p>This Section shall only apply to claims that the respondent has breached an obligation under Article 10 (Expropriation) or Article 11 (Transfers). For greater certainty, Article 14 (Taxation Measures), Article 18 (Exceptions) and Article 19 (Denial of Benefits) shall also apply to an investment dispute where such claims have been made.</p>
+          <p>2.  If a disputing party claims that an investment dispute involves measures adopted or maintained by the respondent relating to financial institutions of the non-disputing Party or investors of the non-disputing Party and their investments in financial institutions in the respondent's area, or where the respondent invokes Article 18.2, 18.3, 18.4 or 18.5 (Exceptions), the arbitrators shall, in addition to the criteria set out in Article 25 (Selection of Arbitrators), have expertise or experience in financial services law or practice, which may include the regulation of financial institutions.</p>
+          <p>3.  If a claimant submits a claim to arbitration under this Section, and the respondent invokes Article 18.2, 18.3, 18.4 or 18.5 (Exceptions) as a defence, the following provisions of this Article shall apply:</p>
+          <p>(a)  the respondent shall, no later than the date the tribunal fixes for the respondent to submit its defence, or in the case of an amendment to the notice of arbitration, the date the tribunal fixes for the respondent to submit its response to the amendment, submit in writing to the authorities responsible for financial services of the non-disputing Party, as set out in Annex VII (Authorities Responsible for Financial Services), a request for a joint determination by the authorities of the respondent and the nondisputing Party on the issue of whether and to what extent Article 18.2, 18.3, 18.4 or 18.5 (Exceptions) is a valid defence to the claim. The respondent shall promptly provide the tribunal, if constituted, and the nondisputing Party a copy of the request. The arbitration may proceed with respect to the claim only as provided in paragraph 5 11;</p>
+          <p>(b)  the authorities of the respondent and of the non-disputing Party shall attempt in good faith to make a determination as described in subparagraph (a). Any such determination shall be transmitted promptly to the disputing parties and, if constituted, to the tribunal. The determination shall be binding on the tribunal and any decision or award issued by the tribunal must be consistent with that determination; and</p>
+          <p>(c)  if the authorities referred to in subparagraphs (a) and (b) have not made a determination within 120 days after the date of receipt of the respondent's written request for a determination under subparagraph (a), either Party may request the establishment of an arbitral panel under Section D (Settlement of Disputes between the Parties), to consider whether and to what extent Article 18.2, 18.3, 18.4 or 18.5 (Exceptions) is a valid defence to the claim. When the arbitral panel completes its final report in accordance with Article 17.10 (Report) of the FTA, it shall transmit the final report to the Parties and to the tribunal.</p>
+          <p>4.  The final report of an arbitral panel referred to in subparagraph 3(c) shall be binding on the tribunal, and any decision or award issued by the tribunal must be consistent with the final report.</p>
+          <p>5.  If no request for the establishment of an arbitral panel pursuant to subparagraph 3(c) has been made within 10 days of the expiration of the 120 day period referred to in subparagraph 3(c), the tribunal established under Article 21 (Submission of a Claim to Arbitration) may proceed with respect to the claim:</p>
+          <p>(a)  the tribunal shall draw no inference regarding the application of Article 18.2, 18.3, 18.4 or 18.5 (Exceptions) from the fact that the authorities have not made a determination as described in subparagraphs 3(a), 3(b) and 3(c); and</p>
+          <p>(b)  the non-disputing Party may make oral and written submissions to the tribunal regarding the issue of whether and to what extent Article 18.2, 18.3, 18.4. or 18.5 (Exceptions) is a valid defence to the claim. Unless it makes such a submission, the non-disputing Party shall be presumed, for the purposes of the arbitration, to take a position on Article 18.2, 18.3, 18.4, or 18.5 (Exceptions) that is not inconsistent with that of the respondent.</p>
+          <div type="foot_note">(11) For the purposes of this Article, "joint determination" means a determination by the authorities responsible for financial services of the respondent and of the non-disputing Party, as set out in Annex VII (Authorities Responsible for Financial Services).</div>
+        </div>
+        <div type="article" num="23" title="Consent of each party to arbitration">
+          <p>1.  Each Party consents to the submission of a claim to arbitration under this Section in accordance with this Agreement.</p>
+          <p>2.  The consent under paragraph 1 and the submission of a claim to arbitration under this Section shall be deemed to satisfy the requirements of:</p>
+          <p>(a)  Article II of the New York Convention for an "agreement in writing"; and</p>
+          <p>(b)  Article 1 of the UNCITRAL Arbitration Rules.</p>
+        </div>
+        <div type="article" num="24" title="Conditions and limitations on consent of each party">
+          <p>1.  No claim may be submitted to arbitration under this Section if more than three years have elapsed from the date on which the claimant first acquired, or should have first acquired, knowledge of the breach alleged under Article 21.1 (Submission of a Claim to Arbitration) causing loss or damage to the claimant or the enterprise.</p>
+          <p>2.  No claim may be submitted to arbitration under this Section unless:</p>
+          <p>(a)  the claimant consents in writing to arbitration in accordance with the procedures set out in this Agreement; and</p>
+          <p>(b)  the notice of arbitration is accompanied:</p>
+          <p>(i)  for a claim submitted to arbitration under Article 21.1(a) (Submission of a Claim to Arbitration), by the claimant's written waiver; and</p>
+          <p>(ii)  for a claim submitted to arbitration under Article 21.1(b) (Submission of a Claim to Arbitration), by the claimant's and the enterprise's written waivers,</p>
+          <p>Of any right to initiate any proceeding before any court or administrative tribunal of either Party, or any other binding dispute settlement procedures, with respect to any measure alleged to constitute a breach of an obligation of the respondent under Section B (Substantive Obligations).</p>
+          <p>3.  No claim may be submitted to arbitration under this Section if the claimant has initiated any proceeding before any court or administrative tribunal of either Party, or any other binding dispute settlement procedures, with respect to any measure alleged to constitute a breach of an obligation of the respondent under Section B (Substantive Obligations). For greater certainty, if an investor elects to submit a claim before any court or administrative tribunal of either Party, that election shall be definitive and the investor may not thereafter submit the claim to arbitration under this Section.</p>
+          <p>4.  Notwithstanding subparagraph 2(b), the claimant (for claims brought under Article 21.1(a) (Submission of a Claim to Arbitration)) and the claimant or the enterprise (for claims brought under Article 21.1(b) (Submission of a Claim to Arbitration)) may initiate or continue an action that seeks interim injunctive relief and does not involve the payment of monetary damages before a court or an administrative tribunal of the respondent, provided that the action is taken for the sole purpose of preserving the claimant's or the enterprise's rights and interests during the pendency of the arbitration.</p>
+        </div>
+        <div type="article" num="25" title="Selection of arbitrators">
+          <p>1.  Unless the disputing parties otherwise agree, the tribunal shall comprise three arbitrators, one arbitrator appointed by each of the disputing parties and the third, who shall be the presiding arbitrator, appointed by agreement of the disputing parties.</p>
+          <p>2.  The Secretary-General shall serve as appointing authority for an arbitration in accordance with this Section.</p>
+          <p>3.  If a tribunal has not been constituted within 75 days from the date that a claim is submitted to arbitration under this Section, the Secretary-General, on the request of a disputing party, shall appoint, in his or her discretion and, to the extent practicable, in consultation with the disputing parties, the arbitrator or arbitrators not yet appointed. The Secretary-General shall appoint, as the presiding arbitrator, a person who (a) does not have the nationality of either disputing party and who is not a permanent resident of either Party, unless the disputing parties agree otherwise; (b) has expertise or experience in public international law, international investment law, or the resolution of disputes arising under international investment agreements; (c) is independent of, is not affiliated with, and does not take instructions from, either Party or the claimant; and, if applicable,</p>
+          <p>(d)  fulfils the requirements of Article 22.2 (Investment Disputes in Financial Services).</p>
+          <p>4.  The disputing parties may establish rules relating to expenses to be incurred by the tribunal, including arbitrators' remuneration. If the disputing parties do not agree on the remuneration of the arbitrators before the tribunal is constituted, reference should be made to the prevailing rate for arbitrators published by the International Centre for Settlement of Investment Disputes.</p>
+        </div>
+        <div type="article" num="26" title="Conduct of the arbitration">
+          <p>1.  The disputing parties may agree on the place of any arbitration under the arbitration rules applicable under Article 21.4 (Submission of a Claim to Arbitration). If the disputing parties fail to reach agreement on the place of arbitration, the tribunal shall determine the place in accordance with the applicable arbitration rules, provided that the place shall be in the territory of a party to the New York Convention.</p>
+          <p>2.  The tribunal shall have the authority to accept and consider amicus curiae written submissions that may assist the tribunal in evaluating the submissions and arguments of the disputing parties from a person or entity that is not a disputing party (the "submitter"). Each submission shall be provided in English, and shall identify the submitter and any Party, other government, person, or organisation, other than the submitter, that has provided, or will provide, any financial or other assistance in preparing the submission. Where such submissions are admitted by the tribunal, the tribunal shall provide to the disputing parties a reasonable opportunity to respond to such submissions.</p>
+          <p>3.  Without prejudice to a tribunal's authority to address other objections as a preliminary question, such as an objection that an investment dispute is not within the jurisdiction or the competence of the tribunal, a tribunal shall address and decide as a preliminary question any objection by the respondent that the claim is manifestly without legal merit.</p>
+          <p>(a)  Such objection shall be submitted to the tribunal as soon as possible after the tribunal is constituted, and in no event later than the date the tribunal fixes for the respondent to submit its counter-memorial or, in the case of an amendment to the notice of arbitration referred to in Article 21.5 (Submission of a Claim to Arbitration), the date the tribunal fixes for the respondent to submit its response to the amendment.</p>
+          <p>(b)  On receipt of an objection under this paragraph, the tribunal shall suspend any proceedings on the merits, establish a schedule for considering the objection consistent with any schedule it has established for considering any other preliminary question, and issue a decision or award on the objection, stating the grounds therefor.</p>
+          <p>(c)  The respondent does not waive any objection as to the jurisdiction or competence of the tribunal or any argument on the merits merely because the respondent did or did not raise an objection under this paragraph or make use of the expedited procedure set out in the following paragraph.</p>
+          <p>4.  In the event that the respondent so requests within 45 days after the tribunal is constituted, the tribunal shall decide on an expedited basis an objection by the respondent that the claim is manifestly without legal merit or any objection that the claim is not within the tribunal's jurisdiction or competence. The tribunal shall suspend any proceedings on the merits and issue a decision or award on the objection(s), stating the grounds therefor, no later than 150 days after the date of the request. However, if a disputing party requests a hearing, the tribunal may take an additional 30 days to issue the decision or award. Regardless of whether a hearing is requested, a tribunal may, on a showing of extraordinary cause, delay issuing its decision or award by an additional period of time, which may not exceed 30 days.</p>
+          <p>5.  When it decides a respondent's objection under paragraph 3 or 4, the tribunal may, if warranted, award to the prevailing disputing party reasonable costs and attorneys' fees incurred in submitting or opposing the objection. In determining whether such an award is warranted, the tribunal shall consider whether either the claimant's claim or the respondent's objection is frivolous, and shall provide the disputing parties a reasonable opportunity to comment.</p>
+          <p>6.  For greater certainty, a claimant has the burden of proving all elements of its claim, consistent with general principles of international law applicable to international arbitration, including, in the case of a claim of a breach of Article 6 (Minimum Standard of Treatment), that the respondent has breached a general and consistent practice of States that they follow from a sense of legal obligation.</p>
+          <p>7.  A respondent may not assert as a defence, counterclaim, right of set-off, or otherwise that the claimant has received or will receive indemnification or other compensation for all or part of the alleged loss or damages pursuant to an insurance or guarantee contract.</p>
+          <p>8.  A tribunal may order an interim measure of protection to preserve the rights of a disputing party, or to ensure that the tribunal's jurisdiction is made fully effective, including an order to preserve evidence in the possession or control of a disputing party, or to protect the tribunal's jurisdiction. A tribunal may not order attachment or enjoin the application of a measure alleged to constitute a breach referred to in Article 21 (Submission of a Claim to Arbitration). For the purposes of this paragraph, an order includes a recommendation.</p>
+          <p>9.  At the request of a disputing party, a tribunal shall, before issuing an award on liability, transmit its proposed award to the disputing parties and to the non-disputing</p>
+          <p>Party. Within 60 days after the tribunal transmits its proposed award, only the disputing parties may submit written comments to the tribunal concerning any aspect of its proposed award. The tribunal shall consider any such comments and issue its award not later than 45 days after the expiration of the 60 day comment period.</p>
+        </div>
+        <div type="article" num="27" title="The non-disputing party">
+          <p>1.  No later than 30 days after the date that such documents have been delivered to the respondent, the respondent shall deliver to the non-disputing Party a copy of:</p>
+          <p>(a)  the notice of intent;</p>
+          <p>(b)  the notice of arbitration;</p>
+          <p>(c)  pleadings, memorials, and briefs submitted to the tribunal by a disputing party and any written submissions submitted pursuant to Article 26.2 and 26.3 (Conduct of the Arbitration) and Article 31 (Consolidation);</p>
+          <p>(d)  minutes or transcripts of hearings of the tribunal, where available;</p>
+          <p>(e)  orders, awards, and decisions of the tribunal; and</p>
+          <p>(f)  any other document submitted to the tribunal, including redacted versions of confidential documents submitted in accordance with Article 28 (Transparency of Arbitral Proceedings).</p>
+          <p>2.  On written notice to the disputing parties, the non-disputing Party may make a submission to a tribunal on any question of interpretation of this Agreement.</p>
+          <p>3.  The non-disputing Party receiving confidential information pursuant to paragraph 1 shall treat the information as if it were a disputing party.</p>
+        </div>
+        <div type="article" num="28" title="Transparency of arbitral proceedings">
+          <p>1.  Subject to paragraphs 2 and 4, the respondent shall, after receiving the following documents, make them available to the public at their cost:</p>
+          <p>(a)  the notice of intent;</p>
+          <p>(b)  the notice of arbitration;</p>
+          <p>(c)  pleadings, memorials, and briefs submitted to the tribunal by a disputing party and any written submissions submitted pursuant to Article 26.2 and 26.3 (Conduct of the Arbitration), Article 27.2 (The Non-Disputing Party) and Article 31 (Consolidation);</p>
+          <p>(d)  minutes or transcripts of hearings of the tribunal, where available; and</p>
+          <p>(e)  orders, awards, and decisions of the tribunal.</p>
+          <p>2.  The tribunal shall conduct hearings open to the public and shall determine, in consultation with the disputing parties, the appropriate logistical arrangements. However, any disputing party that intends to use information designated as confidential information in a hearing shall so advise the tribunal. The tribunal shall make appropriate arrangements to protect the information from disclosure including closing the hearing for the duration of any discussion of such information.</p>
+          <p>3.  Nothing in this Section shall require a respondent to:</p>
+          <p>(a)  disclose confidential information, or information which, if disclosed, would impede law enforcement; or</p>
+          <p>(b)  furnish or allow access to information that it may withhold in accordance with Article 18 (Exceptions).</p>
+          <p>4.  If confidential information is submitted to the tribunal, it shall be protected from disclosure in accordance with the following procedures:</p>
+          <p>(a)  subject to subparagraph (d), neither the disputing parties nor the tribunal shall disclose to the non-disputing Party or to the public any confidential information where the disputing party that provided the information clearly designates it in accordance with subparagraph (b);</p>
+          <p>(b)  any disputing party claiming that certain information constitutes confidential information shall clearly designate the information at the time it is submitted to the tribunal;</p>
+          <p>(c)  a disputing party shall, at the same time that it submits a document containing information claimed to be confidential information, submit a redacted version of the document that does not contain the information. Only the redacted version shall be made public in accordance with paragraph 1; and</p>
+          <p>(d)  the tribunal shall decide any objection regarding the designation of information claimed to be confidential information. If the tribunal determines that such information was not properly designated, the disputing party that submitted the information may:</p>
+          <p>(i)  withdraw all or part of its submission containing such information; or</p>
+          <p>(ii)  agree to resubmit complete and redacted documents with corrected designations in accordance with the tribunal's determination and subparagraph (c).</p>
+          <p>In either case, the other disputing party shall, whenever necessary, resubmit complete and redacted documents which either remove the information withdrawn under subparagraph (d)(i) by the disputing party that first submitted the information or redesignate the information consistent with the designation under subparagraph (d)(ii) of the disputing party that first submitted the information.</p>
+          <p>5.  A disputing party may disclose to other persons in connection with the arbitral proceedings such documents as it considers necessary for the preparation of its case, but it shall require that any confidential information in such documents be protected.</p>
+          <p>6.  Nothing in this Section authorises a respondent to withhold from the public information required to be disclosed by its law.</p>
+        </div>
+        <div type="article" num="29" title="Governing law">
+          <p>1.  Subject to paragraph 2, when a claim is submitted to arbitration under Article 21.1(a) or 21.1(b) (Submission of a Claim to Arbitration), the tribunal shall decide the issues in the investment dispute in accordance with this Agreement and applicable rules of international law.</p>
+          <p>2.  A joint interpretation of the Parties of a provision of this Agreement shall be binding on a tribunal established under this Section, and any award must be consistent with that joint interpretation.</p>
+          <p>3.  On the request of a respondent that asserts as a defence that the measure alleged to be a breach is covered by Article 17.1 (Non-Conforming Measures), Annex II (Reservations), or Annex III (Exceptions from Non-discriminatory Treatment as Compared with a Non-Party's Investors), the tribunal shall request the joint interpretation of the Parties on the issue. Within 90 days after the delivery of the request, the Parties shall submit in writing their joint interpretation to the tribunal. If the Parties fail to submit their joint interpretation within 90 days after the tribunal's request, the tribunal shall decide the issue.</p>
+        </div>
+        <div type="article" num="30" title="Expert reports">
+          <p>Without prejudice to the appointment of other kinds of experts where authorised by the applicable arbitration rules, a tribunal, at the request of a disputing party or, unless the disputing parties disapprove, on its own initiative, may appoint one or more experts to report to it in writing on any factual issue concerning environmental, health, safety or other scientific matters raised by a disputing party in a proceeding, subject to such terms and conditions as the disputing parties may agree.</p>
+        </div>
+        <div type="article" num="31" title="Consolidation">
+          <p>1.  Where two or more claims have been submitted separately to arbitration under Article 21.1 (Submission of a Claim to Arbitration) and the claims have a question of law or fact in common and arise out of the same events or circumstances, any disputing party may seek a consolidation order with the agreement of all the disputing parties sought to be covered by the order or in accordance with this Article.</p>
+          <p>2.  A disputing party that seeks a consolidation order under this Article shall deliver, in writing, a request to the Secretary-General and to all the disputing parties sought to be covered by the order, and shall specify in the request:</p>
+          <p>(a)  the names and addresses of all the disputing parties sought to be covered by the order;</p>
+          <p>(b)  the nature of the order sought; and</p>
+          <p>(c)  the grounds on which the order is sought.</p>
+          <p>3.  Unless the Secretary-General finds within 30 days after receiving a request under paragraph 2 that the request is manifestly unfounded, a tribunal shall be established under this Article.</p>
+          <p>4.  Subject to paragraph 5, unless all the disputing parties sought to be covered by the order otherwise agree, a tribunal established under this Article shall be constituted in accordance with Article 25 (Selection of Arbitrators) except that, for the purpose of Article 25.1 (Selection of Arbitrators), the claimants shall appoint a single arbitrator by agreement.</p>
+          <p>5.  If, within 60 days after the Secretary-General receives a request made under paragraph 2, the respondent fails or the claimants fail to appoint an arbitrator in accordance with paragraph 4, the Secretary-General may be requested by any disputing party sought to be covered by the order, to appoint the arbitrator or arbitrators not yet appointed. If the respondent fails to appoint an arbitrator, the arbitrator to be appointed by the Secretary-General may be a natural person of the respondent, and if the claimants fail to appoint an arbitrator, the arbitrator to be appointed by the Secretary-General may be a natural person of the non-disputing Party.</p>
+          <p>6.  Where a tribunal established under this Article is satisfied that two or more claims that have been submitted to arbitration under Article 21.1 (Submission of a Claim to Arbitration) have a question of law or fact in common, and arise out of the same events or circumstances, the tribunal may, in the interest of fair and efficient resolution of the investment disputes, and after hearing the disputing parties, by order:</p>
+          <p>(a)  assume jurisdiction over, and hear and determine together, all or part of the claims;</p>
+          <p>(b)  assume jurisdiction over, and hear and determine one or more of the claims, the determination of which it believes would assist in the resolution of the other investment disputes; or</p>
+          <p>(c)  instruct a tribunal previously established under Article 25 (Selection of Arbitrators) to assume jurisdiction over, and hear and determine together, all or part of the claims, provided that:</p>
+          <p>(i)  that tribunal, at the request of any claimant not previously a disputing party before that tribunal, shall be reconstituted with its original members, except that the arbitrator for the claimants shall be appointed pursuant to paragraphs 4 and 5; and</p>
+          <p>(ii)  that tribunal shall decide whether any prior hearing shall be repeated.</p>
+          <p>7.  Where a tribunal has been established under this Article, a claimant that has submitted a claim to arbitration under Article 21.1 (Submission of a Claim to Arbitration) and that has not been named in a request made under paragraph 2 may make a written request to the tribunal that it be included in any order made under paragraph 6, and shall specify in the request:</p>
+          <p>(a)  the name and address of the claimant;</p>
+          <p>(b)  the nature of the order sought; and</p>
+          <p>(c)  the grounds on which the order is sought.</p>
+          <p>The claimant shall deliver a copy of its request to the Secretary-General.</p>
+          <p>8.  A tribunal established under this Article shall conduct its proceedings in accordance with this Section.</p>
+          <p>9.  A tribunal established under Article 25 (Selection of Arbitrators) shall not have jurisdiction to decide a claim, or a part of a claim, over which a tribunal established or instructed under this Article has assumed jurisdiction.</p>
+          <p>10.  On application of a disputing party, a tribunal established under this Article, pending its decision under paragraph 6, may order that the proceedings of a tribunal established under Article 25 (Selection of Arbitrators) be stayed, unless the latter tribunal has already adjourned its proceedings.</p>
+        </div>
+        <div type="article" num="32" title="Awards">
+          <p>1.  Where a tribunal makes a final award against a respondent, the tribunal may award, separately or in combination, only:</p>
+          <p>(a)  monetary damages and any applicable interest; and</p>
+          <p>(b)  restitution of property, in which case the award shall provide that the respondent may pay monetary damages and any applicable interest in lieu of restitution.</p>
+          <p>2.  For greater certainty, when an investor of a Party submits a claim to arbitration under Article 21.1(a) (Submission of a Claim to Arbitration), it may recover only loss or damage that it has incurred in its capacity as an investor of a Party.</p>
+          <p>3.  A tribunal may also award costs and attorney's fees incurred by the disputing parties in connection with the arbitral proceeding and shall determine how and by whom those costs and attorney's fees shall be paid, in accordance with this Section and the applicable arbitration rules.</p>
+          <p>4.  Subject to paragraph 1, where a claim is submitted to arbitration under Article 21.1(b) (Submission of a Claim to Arbitration):</p>
+          <p>(a)  an award of restitution of property shall provide that restitution be made to the enterprise;</p>
+          <p>(b)  an award of monetary damages and any applicable interest shall provide that the sum be paid to the enterprise; and</p>
+          <p>(c)  the award shall provide that it is made without prejudice to any right that any person may have under applicable internal law in the relief provided in the award.</p>
+          <p>5.  A tribunal may not award punitive damages.</p>
+          <p>6.  An award made by a tribunal shall have no binding force except between the disputing parties and in respect of the particular case.</p>
+          <p>7.  Subject to paragraph 8 and the applicable review procedure for an interim award, a disputing party shall abide by and comply with an award without delay.</p>
+          <p>8.  A disputing party may not seek enforcement of a final award until:</p>
+          <p>(a)  90 days have elapsed from the date the award was rendered and no disputing party has commenced a proceeding to revise, set aside, or annul the award; or</p>
+          <p>(b)  a court has dismissed or allowed an application to revise, set aside, or annul the award and there is no further appeal.</p>
+          <p>9.  Each Party shall provide for the enforcement of an award in its area.</p>
+          <p>10.  If the non-disputing Party considers that the respondent has failed to abide by or comply with a final award, on delivery of a written request by the non-disputing Party, Section D (Settlement of Disputes between the Parties) shall apply to this matter. If an arbitral panel is established pursuant to such application, the requesting Party may seek in such proceedings:</p>
+          <p>(a)  a determination that the failure to abide by or comply with the final award is inconsistent with the obligations under this Agreement; and</p>
+          <p>(b)  in accordance with the rules on the draft report of an arbitral panel under Section D (Settlement of Disputes between the Parties), a recommendation that the respondent abides by or complies with the final award.</p>
+          <p>11.  A disputing party may seek enforcement of an award under the New York Convention, regardless of whether there are proceedings under paragraph 10.</p>
+          <p>12.  A claim that is submitted to arbitration under this Section shall be considered to arise out of a commercial relationship or transaction for the purposes of Article I of the New York Convention.</p>
+        </div>
+        <div type="article" num="33" title="Service of documents">
+          <p>Delivery of notice and other documents on a Party shall be made in accordance with Annex VI (Service of Documents on a Party under Section C (Settlement of Disputes between an Investor and the Host Party)). A Party shall promptly make publicly available and notify the other Party of any change in the place referred to in that Annex.</p>
+        </div>
+      </div>
+      <div type="section" num="D" title="Settlement of disputes between the parties">
+        <div type="article" num="34" title="Settlement of disputes between the parties">
+          <p>Chapter 17 (Dispute Settlement) of the FTA shall apply mutatis mutandis to this Agreement</p>
+        </div>
+      </div>
+      <div type="section" num="E" title="Final provisions">
+        <div type="article" num="35" title="Committee on investments">
+          <p>1.  The Parties hereby establish a Committee on Investments, comprising government representatives of each Party.</p>
+          <p>2.  The Committee shall meet on the request of either Party to consider any matter arising under this Agreement.</p>
+          <p>3.  The Committee's functions include:</p>
+          <p>(a)  to exchange information on relevant laws and regulations, and on investment opportunities;</p>
+          <p>(b)  to review the implementation of this Agreement;</p>
+          <p>(c)  to issue joint interpretations of any provisions of this Agreement, which shall be binding on a tribunal established under Section C (Settlement of Disputes between an Investor and the Host Party) or on an arbitral panel established under Section D (Settlement of Disputes between the Parties); and</p>
+          <p>(d)  to review any other issues in connection with this Agreement.</p>
+        </div>
+        <div type="article" num="36" title="Application and entry into force">
+          <p>1.  The Annexes and footnotes to this Agreement constitute an integral part of this Agreement.</p>
+          <p>2.  The entry into force of this Agreement is subject to the completion of the necessary internal legal procedures by each Party.</p>
+          <p>3.  This Agreement shall enter into force 60 days after the date of the last notification by which the Parties inform each other that the procedures under paragraph 2 have been completed, or on such other date as may be agreed by the Parties.</p>
+          <p>4.  This Agreement may be amended by the Parties by agreement in writing. All amendments to this Agreement shall enter into force in the same manner as stated in paragraphs 2 and 3.</p>
+          <p>5.  All amendments shall, upon entry into force, constitute an integral part of this Agreement.</p>
+          <p>6.  This Agreement shall remain in force unless a Party notifies the other Party in writing of its decision to terminate it. The termination of this Agreement shall be effective one year after the notice of termination has been received by the other Party. In respect of covered investments made prior to the date when the termination of this Agreement becomes effective, Articles 1 to 35 inclusive, as well as paragraph 1 of this Article shall remain in force for a period of 10 years.</p>
+        </div>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Agreement.</p>
+      <p>DONE at Lima, Peru in two originals, this 18 day of November 2016, in the English language.</p>
+      <p>FOR THE GOVERNMENT FOR THE GOVERNMENT</p>
+      <p>OF THE HONG KONG SPECIAL OF THE REPUBLIC OF CHILE</p>
+      <p>ADMINISTRATIVE REGION OF THE PEOPLE'S REPUBLIC OF CHINA</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" num="Annex I" title="Expropriation">
+        <p>The Parties confirm their shared understanding that:</p>
+        <p>1.  A measure or a series of measures by a Party does not constitute an expropriation unless it interferes with a tangible or intangible property right or property interest in a covered investment.</p>
+        <p>2.  Article 10.1 (Expropriation) addresses two situations. The first is direct expropriation, in which a covered investment is directly expropriated through formal transfer of title or outright seizure.</p>
+        <p>3.  The second situation addressed by Article 10.1 (Expropriation) is indirect expropriation, in which a measure or a series of measures by a Party has an effect equivalent to direct expropriation without formal transfer of title or outright seizure.</p>
+        <p>(a)  The determination of whether a measure or a series of measures by a Party, in a specific fact situation, constitutes an indirect expropriation, requires a case-by-case, fact-based inquiry that considers, among other factors:</p>
+        <p>(i)  the economic impact of the measure or the series of measures, although the sole fact that a measure or a series of measures by a Party has an adverse effect on the economic value of an investment does not establish that an indirect expropriation has occurred,</p>
+        <p>(ii)  the extent to which the measure or the series of measures interferes with distinct, reasonable investment-backed expectations (12), and</p>
+        <p>(iii)  the character of the measure or the series of measures.</p>
+        <p>(b)  Except in rare circumstances, such as when a measure or a series of measures is so severe in the light of its purpose that it cannot be reasonably viewed as having been adopted and applied in good faith, a non-discriminatory measure by a Party that is designed and applied to protect legitimate public welfare objectives, such as health, safety and the environment, does not constitute an indirect expropriation.</p>
+        <div type="foot_note">(12) For greater certainty, whether an investor's investment-backed expectations are reasonable depends, to the extent relevant, on factors such as whether the government provided the investor with binding written assurances and the nature and extent of governmental regulation or the potential for governmental regulation in the relevant sector.</div>
+      </div>
+      <div type="annex" num="Annex II" title="Reservations"/>
+      <div type="annex" title="Schedule of the HKSAR">
+        <p>In accordance with Article 17.2 (Non-Conforming Measures), the HKSAR reserves the right to adopt or maintain any measure that does not conform to the obligations set out below with respect to the following sectors, subsectors or matters:</p>
+        <p>(a)  the acquisition or ownership of land and properties in the HKSAR, where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors);</p>
+        <p>(b) (i)  public law enforcement, ambulance services, correctional services, and fire-fighting and rescue services, and</p>
+        <p>(ii)  health, education, housing, training, transport, public utilities (i.e. supply of water, electricity and gas), social security and social welfare, to the extent that they are social services established for a public purpose,</p>
+        <p>Where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Boards of Directors) or Article 9 (Performance Requirements);</p>
+        <p>(c)  the establishment or acquisition in the HKSAR of an investment in services sectors, where the measure does not conform with the obligations imposed by Article 8 (Senior Management and Boards of Directors) or Article 9 (Performance Requirements), provided that the measure is consistent with the HKSAR's obligations under Chapter 11 (Trade in Services) of the FTA.</p>
+        <p>(d) Any measure maintained or adopted that, at the time of sale or other disposition of the Government of the HKSAR's equity interests in, or the assets of, an existing Government enterprise or an existing governmental entity,</p>
+        <p>(i)  prohibits or imposes limitations on the ownership or control of equity interests or assets, or</p>
+        <p>(ii)  imposes nationality requirements relating to senior management or members of the board of directors,</p>
+        <p>Where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Boards of Directors) or Article 9 (Performance Requirements); and</p>
+        <p>(e) (i)  domestic free television programme services, domestic pay television programme services, non-domestic television programme services, and other licensable television programme services under the Broadcasting Ordinance (Chapter 562 of the Laws of the HKSAR) including any statutory modification or reenactment thereof for the time being in force, and</p>
+        <p>(ii)  broadcasting (i.e. transmitting sound (otherwise than as part of a television broadcast) for general reception by means of radio waves) under Part 3A (Sound Broadcasting Licences) of the Telecommunications Ordinance (Chapter 106 of the Laws of the HKSAR) including any statutory modification or re-enactment thereof for the time being in force,</p>
+        <p>Where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Boards of Directors) or Article 9 (Performance Requirements).</p>
+      </div>
+      <div type="annex" title="Schedule of Chile">
+        <p>In accordance with Article 17.2 (Non-Conforming Measures), Chile reserves the right to adopt or maintain any measure that does not conform to the obligations set out below with respect to the following sectors, subsectors or matters:</p>
+        <p>(a)  the ownership or control of land within five kilometres of the coastline that is used for agricultural activities. Such measure could include a requirement that the majority of each class of stock of a Chilean juridical person that seeks to own or control such land be held by Chilean persons or by persons residing in Chile for 183 days or more per year; where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), or Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors);</p>
+        <p>(b)  the transfer or disposal of any interest in stock or asset held in an existing state enterprise or governmental entity. Chile reserves the right to prohibit or impose limitations on the ownership of said interest or asset and on the right of foreign investors or their investments to control any State company (13) created thereby or investments made by the same. In connection with any such transfer or disposal, Chile may adopt or maintain any measure related to the nationality of senior management and members of the board of directors; where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), or Article 8 (Senior Management and Boards of Directors);</p>
+        <p>(c)  one way satellite broadcasting of digital telecommunication services, whether these involve direct home television broadcasting, direct broadcasting of television services and direct audio broadcasting; supplementary telecommunication services; and limited telecommunication services; where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Boards of Directors), or Article 9 (Performance Requirements);</p>
+        <p>(d)  according rights or preferences to socially or economically disadvantaged minorities; where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Boards of Directors), or Article 9 (Performance Requirements);</p>
+        <p>(e)  according rights or preferences to indigenous peoples; where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Boards of Directors), or Article 9 (Performance Requirements);</p>
+        <p>(f)  education (14); where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Boards of Directors), or Article 9 (Performance Requirements);</p>
+        <p>(g)  activities of foreign fishing, including fish landing, first landing of fish processed at sea and access to Chilean ports (port privileges), the use of beaches, land adjacent to beaches (terrenos de playas), water-columns (porciones de agua) and sea-bed lots (fondos marinos) for the issuance of maritime concessions (15); where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), or Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors);</p>
+        <p>(h)  according differential treatment to non-Parties, under any existing or future bilateral or multilateral international agreement, with respect to arts and cultural industries (16), such as audio-visual cooperation agreements; where the measure does not conform with the obligations imposed by Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors);</p>
+        <p>(i)  the organisation and presentation in Chile of concerts and musical performances; the distribution or display of movies or videos; and radio broadcasts aimed at the public in general, as well as all radio, television and cable television-related activities, satellite programming services and broadcasting networks; where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), or Article 9 (Performance Requirements) (17);</p>
+        <p>(j)  the supply of public law enforcement and correctional services, and the following services to the extent that they are social services established or maintained for reasons of public interest: income security or insurance, social security or insurance, social welfare, public education, public training, health care and child care; where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors), Article 8 (Senior Management and Boards of Directors), or Article 9 (Performance Requirements);</p>
+        <p>(k)  the international land transportation of cargo or passengers in border areas and for the international land transportation from Chile, where the measure does not conform with the obligations imposed by Article 4 (Non-discriminatory Treatment as Compared with a Party's Own Investors), or Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors); and</p>
+        <p>(l)  the establishment or acquisition in Chile of an investment in services sectors, where the measure does not conform with the obligations imposed by Article 8 (Senior Management and Boards of Directors) or Article 9 (Performance Requirements), provided that the measure is consistent with Chile's obligations under Chapter 11 (Trade in Services) of the FTA.</p>
+        <div type="foot_note">(13) A "State company" shall mean any company owned or controlled by Chile by means of an interest share in the ownership thereof, and it shall include any company created after the entry into force of this Agreement for the sole purpose of selling or disposing of its interest share in the capital or assets of an existing state enterprise or governmental entity.</div>
+        <div type="foot_note">(14) This reservation does not apply to investors and an investment of an investor of the HKSAR in kindergarten, pre-school, elementary or secondary private education institutions, that do not receive public resources, or to the supply of services related to second-language training, corporate, business, and industrial training and skill upgrading, which include consulting services relating to technical support, advice, curriculum, and programme development in education.</div>
+        <div type="foot_note">(15) For greater certainty, "maritime concessions" do not cover aquaculture.</div>
+        <div type="foot_note">(16) For the purposes of this reservation, "arts and cultural industries" includes: (a) books, magazines, periodical publications, or printed or electronic newspapers, excluding the printing and typesetting of any of the foregoing; (b) recordings of movies or videos; (c) music recordings in audio or video format; (d) printed music scores or scores readable by machines; (e) visual arts, artistic photography and new media; (f) performing arts, including theatre, dance and circus arts; and (g) media services or multimedia. For greater certainty, government supported subsidy programmes for the promotion of cultural activities are not subject to the limitations or obligations of this Agreement.</div>
+        <div type="foot_note">(17) Notwithstanding this reservation, Chile shall extend to the persons and investors of the HKSAR, and their investments, treatment no less favourable than that the HKSAR accords persons and investors of Chile, and their investments.</div>
+      </div>
+      <div type="annex" num="Annex III" title="Exceptions from Non-discriminatory Treatment as Compared with a Non-Party&#x2019;s Investors">
+        <p>1.  Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors) shall not apply to treatment accorded by a Party under any bilateral or multilateral agreements in force or signed prior to the date of entry into force of this Agreement.</p>
+        <p>2.  Article 5 (Non-discriminatory Treatment as Compared with a Non-Party's Investors) shall not apply to treatment accorded by a Party under any bilateral or multilateral agreements or arrangements:</p>
+        <p>(a)  establishing, strengthening or expanding a free trade area, a customs union, a common market, an economic union or a similar institution; or</p>
+        <p>(b)  relating to:</p>
+        <p>(i)  aviation;</p>
+        <p>(ii)  fisheries; or</p>
+        <p>(iii)  maritime matters, including salvage.</p>
+      </div>
+      <div type="annex" num="Annex IV" title="Transfers - Chile">
+        <p>1.  Chile reserves the right of the Central Bank of Chile (Banco Central de Chile) to maintain or adopt measures in conformity with Law 18.840, Constitutional Organic Law of the Central Bank of Chile (Ley 18.840, Ley Organica Constitucional del Banco Central de Chile) or other legislation, in order to ensure currency stability and the normal operation of domestic and foreign payments. For this purpose, the Central Bank of Chile is empowered to regulate the supply of money and credit in circulation and international credit and foreign exchange operations. The Central Bank of Chile is empowered as well to issue regulations governing monetary, credit, financial, and foreign exchange matters. Such measures include, inter alia, the establishment of restrictions or limitations on current payments and transfers (capital movements) to or from Chile, as well as transactions related to them, such as requiring that deposits, investments or credits from or to a foreign country, be subject to a reserve requirement (encaje).</p>
+        <p>2.  Notwithstanding paragraph 1, the reserve requirement that the Central Bank of Chile can apply pursuant to Article 49 N&#xB0; 2 of Law 18.840, shall not exceed 30 percent of the amount transferred and shall not be imposed for a period which exceeds two years.</p>
+        <p>3.  When applying measures under this Annex, Chile, as established in its legislation, shall not discriminate between the HKSAR and any non-Party with respect to transactions of the same nature.</p>
+      </div>
+      <div type="annex" num="Annex V" title="Voluntary Investment Programmes &#x2013; Chile">
+        <p>1.  The obligations and commitments contained in this Agreement do not apply to Decree Law 600, Foreign Investment Statute (Decreto Ley 600, Estatuto de la Inversion Extranjera) or its successors (hereinafter referred to in this Annex as "DL 600"), and to Law 18.657, Foreign Capital Investment Fund Law (Ley 18.657, Ley de Fondos de Inversion de CapitalExtranjero), with respect to:</p>
+        <p>(a)  The right of the Foreign Investment Committee of Chile (Comite de Inversiones Extranjeras) or its successor to accept or reject applications to invest through an investment contract under DL 600 18 and the right to regulate the terms and conditions of foreign investment under DL 600 and Law 18.657.</p>
+        <p>(b)  The right to maintain existing requirements that transfers from Chile of proceeds from the sale of all or any part of an investment of an investor of the HKSAR or from the partial or complete liquidation of the investment which may not take place until a period not to exceed:</p>
+        <p>(i)  in the case of an investment made pursuant to DL 600, one year from the date of transfer to Chile; or</p>
+        <p>(ii)  in the case of an investment made pursuant to Law 18.657 19, five years from the date of transfers to Chile.</p>
+        <p>(c)  The right to adopt measures, consistent with this Annex, establishing future special voluntary investment programmes in addition to the general regime for foreign investment in Chile, except that any such measures may restrict transfers from Chile of proceeds from the sale of all or any part of an investment of an investor of the HKSAR or from the partial or complete liquidation of the investment for a period not to exceed five years from the date of transfer to Chile.</p>
+        <p>2.  For greater certainty, except to the extent that paragraph 1(b) or 1(c) provides an exception to Article 11 (Transfers), the investment entered through an investment contract under DL 600, through Law 18.657 or through any future special voluntary investment programme, will be subject to the obligations and commitments of this Agreement, to the extent that the investment is a covered investment.</p>
+        <div type="foot_note">(18) The authorisation and execution of an investment contract under DL 600 by an investor of a Party or a covered investment does not create any right on the part of the investor or the covered investment to engage in particular activities in Chile.</div>
+        <div type="foot_note">(19) Law 18.657 was derogated on May 1, 2014, by law 20.712. The transfer requirement established under subparagraph (b) (ii) will only be applicable to investments made pursuant to Law 18.657 prior to May 1, 2014 and not to investments made pursuant to Law 20.712.</div>
+      </div>
+      <div type="annex" num="Annex VI" title="Service of Documents on a Party under Section C (Settlement of Disputes between an Investor and the Host Party)">
+        <p>
+          <b>Chile</b>
+        </p>
+        <p>Notices and other documents in disputes under Section C shall be served on Chile by delivery to:</p>
+        <p>Direction General de Relaciones Economicas Internacionales del Ministerio de</p>
+        <p>Relaciones Exteriores</p>
+        <p>Teatinos 180</p>
+        <p>Santiago</p>
+        <p>Chile.</p>
+        <p>
+          <b>The HKSAR</b>
+        </p>
+        <p>Notices and other documents in disputes under Section C shall be served on the HKSAR by delivery to:</p>
+        <p>Trade and Industry Department, Government of the HKSAR Trade and Industry Tower, 3 Concorde Road, Kowloon City Hong Kong.</p>
+      </div>
+      <div type="annex" num="Annex VII" title="Authorities Responsible for Financial Services">
+        <p>Chile</p>
+        <p>Ministry of Finance (Ministerio de Hacienda).</p>
+        <p>The HKSAR</p>
+        <p>Financial Services and the Treasury Bureau; and Trade and Industry Department.</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

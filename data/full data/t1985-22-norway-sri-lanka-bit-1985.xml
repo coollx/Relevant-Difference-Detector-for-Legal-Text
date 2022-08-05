@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Norway - Sri Lanka BIT (1985)</name>
+    <code>T1985-22</code>
+    <partyisocode n="0">LKA</partyisocode>
+    <partyisocode n="1">NOR</partyisocode>
+    <date_signed>1985-06-13</date_signed>
+    <date_into_force>1985-06-13</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2698</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{LKA,NOR}_1985-06-13.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA AND THE GOVERNMENT OF THE KINGDOM OF NORWAY FOR THE PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Democratic Socialist Republic of Sri Lanka and the Government of the Kingdom of Norway;</p>
+      <p>DESIRING to create favourable conditions for greater economic cooperation between them and in particular for investments by nationals and companies of one State in the territory of the other State;</p>
+      <p>RECOGNISING that the encouragement and reciprocal protection under international agreement of such investments will be conducive to the stimulation of individual business initiative and will increase prosperity in both States;</p>
+      <p>HAVE agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>(1) For the purpose of this Agreement:</p>
+        <p>(a) "investment" means every kind of asset and more particularly, though not exclusively;</p>
+        <p>(i) Movable and immovable property as well as any other rights in rem, such as mortgage, lien pledge usufrue and similar rights;</p>
+        <p>(ii) Share, stock, debenture and similar interests in companies;</p>
+        <p>(iii) Title to money or any performance having a financial value;</p>
+        <p>(iv) Copyrights, industrial property rights (such as patents far inventions, trade parks, industrial designs), know-how, trade names and goodwill;</p>
+        <p>(v) Business concessions conferred by law or under contract, including concessions to search for, cultivate, extract or exploit natural resources.</p>
+        <p>(b) "returns" means the amounts yielded by an investment and in particular though, not exclusively, includes profit, interest, capital gains, dividends, royalties or fees.</p>
+        <p>(c) "nationals" means in respect of Sri Lanka and Norway physical persons who are citizens of either country according to its laws.</p>
+        <p>(d) "companies" means in respect of Sri Lanka and Norway corporations, firms or associations incorporated or constituted under the law in force in any part of Sri Lanka and Norway, respectively.</p>
+        <p>(e) "territory" means in respect of Sri Lanka and Norway the territory which constitutes the Democratic Socialist Republic of Sri Lanka and the Kingdom of Norway, respectively.</p>
+        <p>(2) If an investment is envisaged in the territory of one Contracting Party by a company which is not covered by the definition in paragraph (1)(d) of this Article, but in which the shares are predominantly owned by nationals or companies of the other Contracting Party, the former Contracting Party shall, if it admits the investment, by mutual agreement between the two Contracting Parties, reagard the company as one which enjoys protection under this Agreement in respect of the said investment</p>
+      </div>
+      <div type="article" num="2" title="Applicability of this agreement">
+        <p>(1) This Agreement shall only apply to investments made in accordance with the laws, regulations and procedures of the host country.</p>
+        <p>(2) Subject to the provisions of Paragraph (1) of this Article, this Agreement shall apply to all investments made in the territory of a Contracting Party by nationals or companies of the other Contracting Party before or after the entry into force of this Agreement.</p>
+      </div>
+      <div type="article" num="3" title="Promotion and protection of investment">
+        <p>(1) Each Contracting Party shall, subject to its rights to exercise powers conferred by its laws, encourage and create favourable conditions for nationals and companies of the other Contracting Party to make in its territory investments that are in line with its general economic policy.</p>
+        <p>(2) Investements of nationals or companies of either Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="4" title="Most-favoured-nation provisions">
+        <p>Subject to the provision of Article 5, neither Contracting Party shall in its territory subject investments admitted in accordance with the provisions of Article 3 or returns of nationals or companies of the other Contracting Party to treatment less favourable than that which it accords to investments or returns of nationals or companies of any third State.</p>
+      </div>
+      <div type="article" num="5" title="Exceptions">
+        <p>The Provisons of this Agreement relative to the grant of treatment not less favourable than that accorded to the nationals or companies of any third State shall not be construed so as to oblige one Contracting Party to extend to the nationals or companies of the other the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>(a) Any existing or future customs union or similar international agreement to which either of the Contracting Parties is or may become a party, or</p>
+        <p>(b) Any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation">
+        <p>(1) Neither Contracting Party shall take any measures depriving nationals or companies of the other Contracting Party of any investment unless the following conditions are complied with:</p>
+        <p>(a) The measures are taken in the public interest and under due process of law;</p>
+        <p>(b) The measures are not discriminatory; and</p>
+        <p>(c) The measures are accompanied by provisions for the payment of prompt, adequate and effective compensation, which shall be freely transferable between the territories of the Contracting Parties.</p>
+        <p>(d) Such Compensation shall amount to the value of the Investment immediately before the expropriation and shall include interest at a normal commercial rate until the date of the payment.</p>
+        <p>(2) The provisions of paragraph (1) of this Article shall also apply to the current income from an investment as well as, in the event of liquidation, to the proceeds from the liquidation.</p>
+      </div>
+      <div type="article" num="7" title="Repatriation of investment">
+        <p>(1) Each Contracting Party shall, subject to its laws and regulations, allow without undue delay the transfer in any convertible currency of:</p>
+        <p>(a) The net profits, dividends, royalties, technical assistance and technical service fees, interest and other current ince accruing from any investment of the nationals or companies of the other Contracting Party;</p>
+        <p>(b) The proceeds of the total or partial liquidation of any investment made by nationals or companies of the other Contracting Party;</p>
+        <p>(c) Funds in repayment of borrowings by nationals or companies of one Contracting Party which the Contracting Parties have recognised as investment; and</p>
+        <p>(d) The earnings of nationals of the other Contracting Party who are allowed to work in connection with an investment in its territory.</p>
+        <p>(2) The Contracting Parties undertake to accord to transfers referred to in paragraph (1) of this Article a treatment as favourable as that accorded to transfers originating from investments made by nationals or companies of any third State.</p>
+      </div>
+      <div type="article" num="8" title="Laws">
+        <p>For the avoidance of any doubt, it is declared that all investements shall, subject to this Agreement, be governed by the laws in force in the territory of the Contracting Party in which such investements are made.</p>
+      </div>
+      <div type="article" num="9" title="Reference to international centre of settlement of investement disputes">
+        <p>(1) Each Contracting Party hereby consents to submit to the International Centre for the Settlement of Investement Disputes (hereinafter referred to as "the Centre") for settlement by conciliation or arbitration under the Convention on the Settlement of Investement Disputes between States and Nationals of Other States opened for signature at Washington on 18 March 1965 any legal dispute arising between that Contracting Party and a national or company of the other Contracting Party concerning an investment of the latter in the territory of the former.</p>
+        <p>(2) A company which is incorporated or constituted under the law in force in the territory of the Contracting Party and in which before such a dispute arises the majority of shares are owned by nationals or companies of the other Contracting Party shall in accordance with Article 25 (2) (b) of the Convention be treated for the purpose of the Convention as a company of the other Contracting Party. If any such dispute should arise, and agreement cannot be reached or the dispute cannot be finally disposed of within 12 months between the parties to this dispute through pursuit of local remedies or other wise, then the national company affected having also consented in writing to submit the dispute to the Centre for settlement by conciliation or arbitration under the Convention, either party may institute proceedings by addressing a request to that effect to the Secretary-General of the Centre as provided in Articles 28 and 36 of the Convention. In the event of disagreement as to whether conciliation or arbitration is the more appropriate procedure the national or company affected shall have the right to choose. The Contracting Party which is a party to the dispute shall not raise as an objection at any stage of the proceedings or enforcement of an award the fact that the national or company which is the other party to the dispute has received in pursuance of an insurance contract an indemnity in respect of some or all of his or its losses.</p>
+        <p>(3) Neither Contracting Party shall pursue through diplomatic channels any dispute referred to the Centre unless:</p>
+        <p>(a) The Secretary-General of the Centre, or a conciliation commission or an arbitral tribune constituted by it, decides that the dispute is not within the jurisdicion of the Centre, or</p>
+        <p>(b) The other Contracting Party should fail to abide by or to comply with any award rendered by an arbitral tribunal.</p>
+      </div>
+      <div type="article" num="10" title="Disputes between the contracting parties">
+        <p>(1) Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>(2) If a dispute between the Contracting Parties cannot thus be settled, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>(3) Such an arbitral tribunal shall be constituted for each individual casa in the following way. Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then, select a national of a third State who on approval by the two Contracting Parties shall be appointed Chairman of the tribunal. The Chairman shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>(4) If within the periods specific in paragraph (3) of this Article the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party of if he is otherwise prevented from discharging the said function, the Vice President shall be invited to make the necessary appointments. If the Vice President is a national of either Contracting Party, or if he too is prevented from discharging the said function, the Member of the International Court of Justice next in seniority who is not a national of either Contracting Party and who is not otherwise prevented from discharging the said function shall be invited to make the necessary appointments.</p>
+        <p>(5) The arbitral tribunal shall reach its decision by a majority of votes. Such decision shall be binding on both Contracting Parties. Each Contracting Party shall bear the cost of its own member of the tribunal and of its representation in the arbitral proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two Contracting Parties, and this award shall be binding on both Contracting Parties. The tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="11" title="Subrogation">
+        <p>If a Contracting Party makes a payment to any of its nationals or companies under a guarantee it has granted in respect to an investment, the other Contracting Party shall, without prejudice to the rights of the former Contracting Party under Article 10, recognise the transfer of any right or title of such national or company to the former Contracting Party and the subrogation of the former Contracting Party to any such right or title.</p>
+      </div>
+      <div type="article" num="12" title="National or international law">
+        <p>Nothing in this Agreement shall prejudice any rights or benefits, accruing under national or international law to interests of a national or a company of one Contracting Party in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="13" title="Entry into force, duration and termination">
+        <p>(1) This Agreement shall enter into force upon signature.</p>
+        <p>(2) This Agreement shall remain in force for a period of fifteen years. Thereafter it shall continue in force until the expiration of twelve months from the date on which either Contracting Party shall have given written notice of termination to the other. Provided that in respect of investments made whilst the Agreement is in force, its provisions shall continue in effect with respect to such investements for a period of ten years after the date of termination and without prejudice to the application thereafter of the rules of general international law.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the undersigned, duly authorised thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done in duplicate at Oslo this 13th day of June 1985 in the Sinhala, Norwegian and English language, all three texts being equally authentic. In case of divergence the English text shall prevail.</p>
+      <p>For the Government of the Democratic Socialist Republic of Sri Lanka</p>
+      <p>For the Government of the Kingdom of Norway</p>
+    </conclusion>
+  </main>
+</treaty>

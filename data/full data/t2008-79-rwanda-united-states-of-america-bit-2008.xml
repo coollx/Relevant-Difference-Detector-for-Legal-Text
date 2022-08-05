@@ -1,0 +1,897 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Rwanda - United States of America BIT (2008)</name>
+    <code>T2008-79</code>
+    <partyisocode n="0">RWA</partyisocode>
+    <partyisocode n="1">USA</partyisocode>
+    <date_signed>2008-02-19</date_signed>
+    <date_into_force>2012-01-01</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2870</docreference>
+    <comments/>
+    <source>https://www.congress.gov/110/cdoc/tdoc23/CDOC-110tdoc23.pdf</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{RWA,USA}_2008-02-19.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>TREATY BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE REPUBLIC OF RWANDA CONCERNING THE ENCOURAGEMENT AND RECIPROCAL PROTECTION OF INVESTMENT</p>
+    </title>
+    <preamble>
+      <p>The Government of the United States of America and the Government of the Republic of Rwanda (hereinafter the "Parties");</p>
+      <p>Desiring to promote greater economic cooperation between them with respect to investment by nationals and enterprises of one Party in the territory of the other Party;</p>
+      <p>Recognizing that agreement on the treatment to be accorded such investment will stimulate the flow of private capital and the economic development of the Parties;</p>
+      <p>Agreeing that a stable framework for investment will maximize effective utilization of economic resources and improve living standards;</p>
+      <p>Recognizing the importance of providing effective means of asserting claims and enforcing rights with respect to investment under national law as well as through international arbitration;</p>
+      <p>Desiring to achieve these objectives in a manner consistent with the protection of health, safety, and the environment, and the promotion of internationally recognized labor rights;</p>
+      <p>Having resolved to conclude a Treaty concerning the encouragement and reciprocal protection of investment;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For purposes of this Treaty:</p>
+        <p>"central level of government" means:</p>
+        <p>(a) For the United States, the federal level of government; and</p>
+        <p>(b) For Rwanda, the national government.</p>
+        <p>"Centre" means the International Centre for Settlement of Investment Disputes ("ICSID") established by the ICSID Convention.</p>
+        <p>"claimant" means, with respect to a Party, an investment in its territory of an investor of the other Party in existence as of the date of entry into force of this Treaty or established, acquired, or expanded thereafter.</p>
+        <p>"disputing parties" means either the claimant or the respondent.</p>
+        <p>"enterprise" means any entity constituted or organized under applicable law, whether or not for profit, and whether privately or governmentally owned or controlled, including a corporation, trust, partnership, sole proprietorship, joint venture, association, or similar organization; and a branch of an enterprise.</p>
+        <p>"enterprise of a Party" means an enterprise constituted or organized under the law of a Party, and a branch located in the territory of a Party and carrying out business activities there.</p>
+        <p>"existing" means in effect on the date of entry into force of this Treaty.</p>
+        <p>"freely usable currency" means "freely usable currency" as determined by the International Monetary Fund under its Articles of Agreement.</p>
+        <p>"GATS" means the General Agreement on Trade in Services, contained in Annex IB to the WTO Agreement.</p>
+        <p>"government procurement" means a written agreement means the process by which a government obtains the use of or acquires goods or services, or any combination thereof, for governmental purposes and not with a view to commercial sale or resale, or use in the production or supply of goods or services for commercial sale or resale.</p>
+        <p>"ICSID Additional Facility Rules" means the Rules Governing the Additional Facility for the Administration of Proceedings by the Secretariat of the International Centre for Settlement of Investment Disputes.</p>
+        <p>"ICSID Convention" means the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, done at Washington, March 18, 1965.</p>
+        <p>"investment" means every asset that an investor owns or controls, directly or indirectly, that has the characteristics of an investment, including such characteristics as the commitment of capital or other resources, the expectation of gain or profit, or the assumption of risk. Forms that an investment may take include:</p>
+        <p>(a) An enterprise (1)</p>
+        <p>(b) Shares, stock, and other forms of equity participation in an enterprise;</p>
+        <p>(c) Bonds, debentures, other debt instruments, and loans (2);</p>
+        <p>(d) Futures, options, and other derivatives;</p>
+        <p>(e) Turnkey, construction, management, production, concession, revenue-sharing, and other similar contracts;</p>
+        <p>(f) Intellectual property rights;</p>
+        <p>(g) Licenses, authorizations, permits, and similar rights conferred pursuant to domestic law (3)(4); and</p>
+        <p>(h) Other tangible or intangible, movable or immovable property, and related property rights, such as leases, mortgages, liens, and pledges.</p>
+        <p>"investment agreement" means a written agreement between (5) a national authority (6) of a Party and a covered investment or an investor of the other Party, on which the covered investment or the investor relies in establishing or acquiring a covered investment other than the written agreement itself, that grants rights to the covered investment or investor:</p>
+        <p>(a) With respect to natural resources that a national authority controls, such as for their exploration, extraction, refining, transportation, distribution, or sale;</p>
+        <p>(b) To supply services to the public on behalf of the Party, such as power generation or distribution, water treatment or distribution, or telecommunications; or</p>
+        <p>(c) To undertake infrastructure projects, such as the construction of roads, bridges, canals, dams, or pipelines, that are not for the exclusive or predominant use and benefit of the government.</p>
+        <p>"investment authorization" (7) means an authorization that the foreign investment authority of a Party grants to a covered investment or an investor of the other Party.</p>
+        <p>"investor of a non-Party" means, with respect to a Party, an investor that attempts to make, is making, or has made an investment in the territory of that Party, that is not an investor of either Party.</p>
+        <p>"investor of a Party" means a Party or state enterprise thereof, or a national or an enterprise of a Party, that attempts to make, is making, or has made an investment in the territory of the other Party; provided, however, that a natural person who is a dual national shall be deemed to be exclusively a national of the State of his or her dominant and effective nationality.</p>
+        <p>"measure" includes any law, regulation, procedure, requirement, or practice.</p>
+        <p>"national" means:</p>
+        <p>(a) For the United States, a natural person who is a national of the United States as defined in Title III of the Immigration and Nationality Act; and</p>
+        <p>(b) For Rwanda, a natural person who is a national of the Republic of Rwanda as defined by the Rwandan Nationality Code in Article 1 of the Organic Law No. 2912004 of 03/12/2004.</p>
+        <p>"New York Convention" means the United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards, done at New York, June 10, 1958.</p>
+        <p>"non-disputing Party" means the Party that is not a party to an investment dispute.</p>
+        <p>"person" means a natural person or an enterprise.</p>
+        <p>"person of a Party" means a national or an enterprise of a Party.</p>
+        <p>"protected information" means confidential business information or information that is privileged or otherwise protected from disclosure under a Party's law.</p>
+        <p>"regional level of government" means, for the United States, a state of the United States, the District of Columbia, or Puerto Rico. For Rwanda, "regional level of government" is not applicable.</p>
+        <p>"respondent" means the Party that is a party to an investment dispute.</p>
+        <p>"Secretary-General" means the Secretary-General of ICSID.</p>
+        <p>"state enterprise" means an enterprise owned, or controlled through ownership interests, by a Party.</p>
+        <p>"territory" means:</p>
+        <p>(a) With respect to the United States,</p>
+        <p>(i) The customs territory of the United States, which includes the 50 states, the District of Columbia, and Puerto Rico;</p>
+        <p>(ii) The foreign trade zones located in the United States and Puerto Rico; and</p>
+        <p>(iii) Any areas beyond the territorial seas of the United States within which, in accordance with international law and its domestic law, the United States may exercise rights with respect to the seabed and subsoil and their natural resources.</p>
+        <p>(b) With respect to Rwanda, the customs territory of the Republic of Rwanda, which includes the four Provinces and the City of Kigali.</p>
+        <p>"TRIPS Agreement" means the Agreement on Trade-Related Aspects of Intellectual Property Rights, contained in Annex lC to the WTO Agreement (8).</p>
+        <p>"UNCITRAL Arbitration Rules" means the arbitration rules of the United Nations Commission on International Trade Law.</p>
+        <p>"WTO Agreement" means the Marrakesh Agreement Establishing the World Trade Organization, done on April 15, 1994.</p>
+        <p>(1) For greater certainty, where an enterprise does not have the characteristics of an investment, that enterprise is not an investment regardless of the form it may take.</p>
+        <p>(2) Some forms of debt, such as bonds, debentures, and long-term notes, are more likely to have the characteristics of an investment, while other forms of debt, such as claims to payment that are immediately due and result from the sale of goods or services, are less likely to have such characteristics.</p>
+        <p>(3) Whether a particular type of license, authorization, permit, or similar instrument (including a concession, to the extent that it has the nature of such an instrument) has the characteristics of an investment depends on such factors as the nature and extent of the rights that the holder has under the law of the Party. Among the licenses, authorizations, permits, and similar instruments that do not have the characteristics of an investment are those that do not create any rights protected under domestic law. For greater certainty, the foregoing is without prejudice to whether any asset associated with the license, authorization, permit, or similar instrument has the characteristics of an investment.</p>
+        <p>(4) The term "investment" does not include an order or judgment entered in a judicial or administrative action.</p>
+        <p>(5) "Written agreement" refers to an agreement in writing, executed by both parties, whether in a single instrument or in multiple instruments, that creates an exchange of rights and obligations, binding on both parties under the law applicable under Article 30(2). For greater certainty, (a) a unilateral act of an administrative or judicial authority, such as a permit, license, or authorization issued by a Party solely in its regulatory capacity, or a decree, order, or judgment, standing alone; and (b) an administrative or judicial consent decree or order, shall not be considered a written agreement.</p>
+        <p>(6) For purposes of this definition, "national authority" means an authority at the central level of government.</p>
+        <p>(7) For greater certainty, actions taken by a Party to enforce laws of general application, such as competition laws, are not encompassed within this definition.</p>
+        <p>(8) For greater certainty, "TRIPS Agreement" includes any waiver in force between the Parties of any provision of the TRIPS Agreement granted by WTO Members in accordance with the WTO Agreement.</p>
+      </div>
+      <div type="article" num="2" title="Scope and coverage">
+        <p>1. This Treaty applies to measures adopted or maintained by a Party relating to:</p>
+        <p>(a) Investors of the other Party;</p>
+        <p>(b) Covered investments; and</p>
+        <p>(c) With respect to Articles 8, 12, and 13, all investments in the territory of the Party.</p>
+        <p>2. A Party's obligations under Section A shall apply:</p>
+        <p>(a) To a state enterprise or other person when it exercises any regulatory, administrative, or other governmental authority delegated to it by that Party; and</p>
+        <p>(b) To the political subdivisions of that Party.</p>
+        <p>3. For greater certainty, this Treaty does not bind either Party in relation to any act or fact that took place or any situation that ceased to exist before the date of entry into force of this Treaty.</p>
+      </div>
+      <div type="article" num="3" title="National treatment">
+        <p>1. Each Party shall accord to investors of the other Party treatment no less favorable than that it accords, in like circumstances, to its own investors with respect to the establishment, acquisition, expansion, management, conduct, operation, and sale or other disposition of investments in its territory.</p>
+        <p>2. Each Party shall accord to covered investments treatment no less favorable than that it accords, in like circumstances, to investments in its territory of its own investors with respect to the establishment, acquisition, expansion, management, conduct, operation, and sale or other disposition of investments.</p>
+        <p>3. The treatment to be accorded by a Party under paragraphs 1 and 2 means, with respect to a regional level of government, treatment no less favorable than the treatment accorded, in like circumstances, by that regional level of government to natural persons resident in and enterprises constituted under the laws of other regional levels of government of the Party of which it forms a part, and to their respective investments.</p>
+      </div>
+      <div type="article" num="4" title="Most-favored-nation treatment">
+        <p>1. Each Party shall accord to investors of the other Party treatment no less favorable than that it accords, in like circumstances, to investors of any non-Party with respect to the establishment, acquisition, expansion, management, conduct, operation, and sale or other disposition of investments in its territory.</p>
+        <p>2. Each Party shall accord to covered investments treatment no less favorable than that it accords, in like circumstances, to investments in its territory of investors of any non-Party with respect to the establishment, acquisition, expansion, management, conduct, operation, and sale or other disposition of investments.</p>
+      </div>
+      <div type="article" num="5" title="Minimum standard of treatment">
+        <p>Footnote&nbsp;(9)</p>
+        <p>1. Each Party shall accord to covered investments treatment in accordance with customary international law, including fair and equitable treatment and full protection and security.</p>
+        <p>2. For greater certainty, paragraph 1 prescribes the customary international law minimum standard of treatment of aliens as the minimum standard of treatment to be afforded to covered investments. The concepts of "fair and equitable treatment" and "full protection and security" do not require treatment in addition to or beyond that which is required by that standard, and do not create additional substantive rights. The obligation in paragraph 1 to provide:</p>
+        <p>(a) "fair and equitable treatment" includes the obligation not to deny justice in criminal, civil, or administrative adjudicatory proceedings in accordance with the principle of due process embodied in the principal legal systems of the world; and</p>
+        <p>(b) "full protection and security" requires each Party to provide the level of police protection required under customary international law.</p>
+        <p>3. A determination that there has been a breach of another provision of this Treaty, or of a separate international agreement, does not establish that there has been a breach of this Article.</p>
+        <p>4. Notwithstanding Article 14(5)(b), each Party shall accord to investors of the other Party, and to covered investments, non-discriminatory treatment with respect to measures it adopts or maintains relating to losses suffered by investments in its territory owing to armed conflict or civil strife.</p>
+        <p>5. Notwithstanding paragraph 4, if an investor of a Party, in the situations referred to in paragraph 4, suffers a loss in the territory of the other Party resulting from:</p>
+        <p>(a) Requisitioning of its covered investment or part thereof by the latter's forces or authorities; or</p>
+        <p>(b) Destruction of its covered investment or part thereof by the latter's forces or authorities, which was not required by the necessity of the situation,</p>
+        <p>The latter Party shall provide the investor restitution, compensation, or both, as appropriate, for such loss. Any compensation shall be prompt, adequate, and effective in accordance with Article 6(2) through (4), mutatis mutandis</p>
+        <p>6. Paragraph 4 does not apply to existing measures relating to subsidies or grants that would be inconsistent with Article 3 but for Article 14(5)(b).</p>
+        <p>(9) Article 5 shall be interpreted in accordance with Annex A.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation and compensation">
+        <p>Footnote&nbsp; (10)</p>
+        <p>1. Neither Party may expropriate or nationalize a covered investment either directly or indirectly through measures equivalent to expropriation or nationalization ("expropriation"), except:</p>
+        <p>(a) For a public purpose;</p>
+        <p>(b) In a non-discriminatory manner;</p>
+        <p>(c) On payment of prompt, adequate, and effective compensation; and</p>
+        <p>(d) In accordance with due process of law and Article 5(1) through (3).</p>
+        <p>2. The compensation referred to in paragraph 1(c) shall:</p>
+        <p>(a) Be paid without delay;</p>
+        <p>(b) Be equivalent to the fair market value of the expropriated investment immediately before the expropriation took place ("the date of expropriation");</p>
+        <p>(c) Not reflect any change in value occurring because the intended expropriation had become known earlier; and</p>
+        <p>(d) Be fully realizable and freely transferable.</p>
+        <p>3. If the fair market value is denominated in a freely usable currency, the compensation referred to in paragraph 1(c) shall be no less than the fair market value on the date of expropriation, plus interest at a commercially reasonable rate for that currency, accrued from the date of expropriation until the date of payment.</p>
+        <p>4. If the fair market value is denominated in a currency that is not freely usable, the compensation referred to in paragraph 1(c) &#x2013; converted into the currency of payment at the market rate of exchange prevailing on the date of payment &#x2013; shall be no less than:</p>
+        <p>(a) The fair market value on the date of expropriation, converted into a freely usable currency at the market rate of exchange prevailing on that date, plus</p>
+        <p>(b) Interest, at a commercially reasonable rate for that freely usable currency, accrued from the date of expropriation until the date of payment.</p>
+        <p>5. This Article does not apply to the issuance of compulsory licenses granted in relation to intellectual property rights in accordance with the TRIPS Agreement, or to the revocation, limitation, or creation of intellectual property rights, to the extent that such issuance, revocation, limitation, or creation is consistent with the TRIPS Agreement.</p>
+        <p>(10) Article 6 shall be interpreted in accordance with Annexes A and B.</p>
+      </div>
+      <div type="article" num="7" title="Transfers">
+        <p>1. Each Party shall permit all transfers relating to a covered investment to be made freely and without delay into and out of its territory. Such transfers include:</p>
+        <p>(a) Contributions to capital;</p>
+        <p>(b) Profits, dividends, capital gains, and proceeds from the sale of all or any part of the covered investment or from the partial or complete liquidation of the covered investment;</p>
+        <p>(c) Interest, royalty payments, management fees, and technical assistance and other fees;</p>
+        <p>(d) Payments made under a contract, including a loan agreement;</p>
+        <p>(e) Payments made pursuant to Article 5(4) and (5) and Article 6; and</p>
+        <p>(f) Payments arising out of a dispute.</p>
+        <p>2. Each Party shall permit transfers relating to a covered investment to be made in a freely usable currency at the market rate of exchange prevailing at the time of transfer.</p>
+        <p>3. Each Party shall permit returns in kind relating to a covered investment to be made as authorized or specified in a written agreement between the Party and a covered investment or an investor of the other Party.</p>
+        <p>4. Notwithstanding paragraphs 1 through 3, a Party may prevent a transfer through the equitable, non-discriminatory, and good faith application of its laws relating to:</p>
+        <p>(a) Bankruptcy, insolvency, or the protection of the rights of creditors;</p>
+        <p>(b) Issuing, trading, or dealing in securities, futures, options, or derivatives;</p>
+        <p>(c) Criminal or penal offenses;</p>
+        <p>(d) Financial reporting or record keeping of transfers when necessary to assist law enforcement or financial regulatory authorities; or</p>
+        <p>(e) Ensuring compliance with orders or judgments in judicial or administrative proceedings.</p>
+      </div>
+      <div type="article" num="8" title="Performance requirements">
+        <p>1. Neither Party may, in connection with the establishment, acquisition, expansion, management, conduct, operation, or sale or other disposition of an investment of an investor of a Party or of a non-Party in its territory, impose or enforce any requirement or enforce any commitment or undertaking:(11)</p>
+        <p>(a) To export a given level or percentage of goods or services;</p>
+        <p>(b) To achieve a given level or percentage of domestic content;</p>
+        <p>(c) To purchase, use, or accord a preference to goods produced in its territory, or to purchase goods from persons in its territory;</p>
+        <p>(d) To relate in any way the volume or value of imports to the volume or value of exports or to the amount of foreign exchange inflows associated with such investment;</p>
+        <p>(e) To restrict sales of goods or services in its territory that such investment produces or supplies by relating such sales in any way to the volume or value of its exports or foreign exchange earnings;</p>
+        <p>(f) To transfer a particular technology, a production process, or other proprietary knowledge to a person in its territory;(12) (13) or</p>
+        <p>(g) To supply exclusively from the territory of the Party the goods that such investment produces or the services that it supplies to a specific regional market or to the world market.</p>
+        <p>2. Neither Party may condition the receipt or continued receipt of an advantage, in connection with the establishment, acquisition, expansion, management, conduct, operation, or sale or other disposition of an investment in its territory of an investor of a Party or of a non-Party, on compliance with any requirement:</p>
+        <p>(a) To achieve a given level or percentage of domestic content;</p>
+        <p>(b) To purchase, use, or accord a preference to goods produced in its territory, or to purchase goods from persons in its territory;</p>
+        <p>(c) To relate in any way the volume or value of imports to the volume or value of exports or to the amount of foreign exchange inflows associated with such investment; or</p>
+        <p>(d) To restrict sales of goods or services in its territory that such investment produces or supplies by relating such sales in any way to the volume or value of its exports or foreign exchange earnings.</p>
+        <p>3.</p>
+        <p>(a) Nothing in paragraph 2 shall be construed to prevent a Party from conditioning the receipt or continued receipt of an advantage, in connection with an investment in its territory of an investor of a Party or of a non-Party, on compliance with a requirement to locate production, supply a service, train or employ workers, construct or expand particular facilities, or carry out research and development, in its territory.</p>
+        <p>(b) Paragraph 1(f) does not apply:</p>
+        <p>(i) When a Party authorizes use of an intellectual property right in accordance with Article 31 of the TRIPS Agreement, or to measures requiring the disclosure of proprietary information that fall within the scope of, and are consistent with, Article 39 of the TRIPS Agreement; or</p>
+        <p>(ii) When the requirement is imposed or the commitment or undertaking is enforced by a court, administrative tribunal, or competition authority to remedy a practice determined after judicial or administrative process to be anticompetitive under the Party's competition laws (14).</p>
+        <p>(c) Provided that such measures are not applied in an arbitrary or unjustifiable manner, and provided that such measures do not constitute a disguised restriction on international trade or investment, paragraphs 1(b), (c), and (f), and 2(a) and (b), shall not be construed to prevent a Party from adopting or maintaining measures, including environmental measures:</p>
+        <p>(i) Necessary to secure compliance with laws and regulations that are not inconsistent with this Treaty;</p>
+        <p>(ii) Necessary to protect human, animal, or plant life or health; or</p>
+        <p>(iii) Related to the conservation of living or non-living exhaustible natural resources.</p>
+        <p>(d) Paragraphs 1(a), (b), and (c), and 2(a) and (b), do not apply to qualification requirements for goods or services with respect to export promotion and foreign aid programs.</p>
+        <p>(e) Paragraphs 1(b), (c), (f), and (g), and 2(a) and (b), do not apply to government procurement.</p>
+        <p>(f) Paragraphs 2(a) and (b) do not apply to requirements imposed by an importing Party relating to the content of goods necessary to qualify for preferential tariffs or preferential quotas.</p>
+        <p>4. For greater certainty, paragraphs 1 and 2 do not apply to any commitment, undertaking, or requirement other than those set out in those paragraphs.</p>
+        <p>5. This Article does not preclude enforcement of any commitment, undertaking, or requirement between private parties, where a Party did not impose or require the commitment, undertaking, or requirement.</p>
+        <p>(11) For greater certainty, a condition for the receipt or continued receipt of an advantage referred to in paragraph 2 does not constitute a "commitment or undertaking" for the purposes of paragraph 1.</p>
+        <p>(12) For greater certainty, the enforcement of a commitment or undertaking to use a particular technology, a production process, or other proprietary knowledge is not, by itself, inconsistent with Article 8(1)(f).</p>
+        <p>(13) For greater certainty, nothing in paragraph 1 shall be construed to prevent a Party, in connection with the establishment, acquisition, expansion, management, conduct, operation, or sale or other disposition of an investment of an investor of a Party or of a non-Party in its territory, from imposing or enforcing a requirement or enforcing a commitment or undertaking to train workers in its territory, provided that such training does not require the transfer of a particular technology, a production process, or other proprietary knowledge to a person in its territory.</p>
+        <p>(14) The Parties recognize that a patent does not necessarily confer market power.</p>
+      </div>
+      <div type="article" num="9" title="Senior management and boards of directors">
+        <p>1. Neither Party may require that an enterprise of that Party that is a covered investment appoint to senior management positions natural persons of any particular nationality.</p>
+        <p>2. A Party may require that a majority of the board of directors, or any committee thereof, of an enterprise of that Party that is a covered investment, be of a particular nationality, or resident in the territory of the Party, provided that the requirement does not materially impair the ability of the investor to exercise control over its investment.</p>
+      </div>
+      <div type="article" num="10" title="Publication of laws and decisions respecting investment">
+        <p>1. Each Party shall ensure that its:</p>
+        <p>(a) Laws, regulations, procedures, and administrative rulings of general application; and</p>
+        <p>(b) Adjudicatory decisions</p>
+        <p>Respecting any matter covered by this Treaty are promptly published or otherwise made publicly available.</p>
+        <p>2. For purposes of this Article, "administrative ruling of general application" means an administrative ruling or interpretation that applies to all persons and fact situations that fall generally within its ambit and that establishes a norm of conduct but does not include:</p>
+        <p>(a) A determination or ruling made in an administrative or quasi-judicial proceeding that applies to a particular covered investment or investor of the other Party in a specific case; or</p>
+        <p>(b) A ruling that adjudicates with respect to a particular act or practice.</p>
+      </div>
+      <div type="article" num="11" title="Transparency">
+        <p>1. Contact Points</p>
+        <p>(a) Each Party shall designate a contact point or points to facilitate communications between the Parties on any matter covered by this Treaty.</p>
+        <p>(b) On the request of the other Party, the contact point(s) shall identify the office or official responsible for the matter and assist, as necessary, in facilitating communication with the requesting Party.</p>
+        <p>2. Publication</p>
+        <p>To the extent possible, each Party shall:</p>
+        <p>(a) Publish in advance any measure referred to in Article 10(1)(a) that it proposes to adopt; and</p>
+        <p>(b) Provide interested persons and the other Party a reasonable opportunity to comment on such proposed measures.</p>
+        <p>3. Provision of Information</p>
+        <p>(a) On request of the other Party, a Party shall promptly provide information and respond to questions pertaining to any actual or proposed measure that the requesting Party considers might materially affect the operation of this Treaty or otherwise substantially affect its interests under this Treaty.</p>
+        <p>(b) Any request or information under this paragraph shall be provided to the other Party through the relevant contact points.</p>
+        <p>(c) Any information provided under this paragraph shall be without prejudice as to whether the measure is consistent with this Treaty.</p>
+        <p>4. Administrative Proceedings</p>
+        <p>With a view to administering in a consistent, impartial, and reasonable manner all measures referred to in Article 10(1)(a), each Party shall ensure that in its administrative proceedings applying such measures to particular covered investments or investors of the other Party in specific cases:</p>
+        <p>(a) Wherever possible, covered investments or investors of the other Party that are directly affected by a proceeding are provided reasonable notice, in accordance with domestic procedures, when a proceeding is initiated, including a description of the nature of the proceeding, a statement of the legal authority under which the proceeding is initiated, and a general description of any issues in controversy;</p>
+        <p>(b) Such persons are afforded a reasonable opportunity to present facts and arguments in support of their positions prior to any final administrative action, when time, the nature of the proceeding, and the public interest permit; and</p>
+        <p>(c) Its procedures are in accordance with domestic law.</p>
+        <p>5. Review and Appeal</p>
+        <p>(a) Each Party shall establish or maintain judicial, quasi-judicial, or administrative tribunals or procedures for the purpose of the prompt review and, where warranted, correction of final administrative actions regarding matters covered by this Treaty. Such tribunals shall be impartial and independent of the office or authority entrusted with administrative enforcement and shall not have any substantial interest in the outcome of the matter.</p>
+        <p>(b) Each Party shall ensure that, in any such tribunals or procedures, the parties to the proceeding are provided with the right to:</p>
+        <p>A reasonable opportunity to support or defend their respective positions; and</p>
+        <p>A decision based on the evidence and submissions of record or, where required by domestic law, the record compiled by the administrative authority.</p>
+        <p>(i) A reasonable opportunity to support or defend their respective positions; and</p>
+        <p>(ii) A decision based on the evidence and submissions of record or, where required by domestic law, the record compiled by the administrative authority.</p>
+        <p>(c) Each Party shall ensure, subject to appeal or further review as provided in its domestic law, that such decisions shall be implemented by, and shall govern the practice of, the offices or authorities with respect to the administrative action at issue.</p>
+      </div>
+      <div type="article" num="12" title="Investment and environment">
+        <p>1. The Parties recognize that it is inappropriate to encourage investment by weakening or reducing the protections afforded in domestic environmental laws. (15) Accordingly, each Party shall strive to ensure that it does not waive or otherwise derogate from, or offer to waive or otherwise derogate from, such laws in a manner that weakens or reduces the protections afforded in those laws as an encouragement for the establishment, acquisition, expansion, or retention of an investment in its territory. If a Party considers that the other Party has offered such an encouragement, it may request consultations with the other Party and the two Parties shall consult with a view to avoiding any such encouragement.</p>
+        <p>2. Nothing in this Treaty shall be construed to prevent a Party from adopting, maintaining, or enforcing any measure otherwise consistent with this Treaty that it considers appropriate to ensure that investment activity in its territory is undertaken in a manner sensitive to environmental concerns.</p>
+        <p>(15) For the United States, "laws" for purposes of this Article means an act of the United States Congress or regulations promulgated pursuant to an act of the United States Congress that is enforceable by action of the central level of government.</p>
+      </div>
+      <div type="article" num="13" title="Investment and labor">
+        <p>1. The Parties recognize that it is inappropriate to encourage investment by weakening or reducing the protections afforded in domestic labor laws. Accordingly, each Party shall strive to ensure that it does not waive or otherwise derogate from, or offer to waive or otherwise derogate from, such laws in a manner that weakens or reduces adherence to the internationally recognized labor rights referred to in paragraph 2 as an encouragement for the establishment, acquisition, expansion, or retention of an investment in its territory. If a Party considers that the other Party has offered such an encouragement, it may request consultations with the other Party and the two Parties shall consult with a view to avoiding any such encouragement.</p>
+        <p>2. For purposes of this Article, "labor laws" means each Party's statutes or regulations,(16) or provisions thereof, that are directly related to the following internationally recognized labor rights:</p>
+        <p>(a) The right of association;</p>
+        <p>(b) The right to organize and bargain collectively;</p>
+        <p>(c) A prohibition on the use of any form of forced or compulsory labor;</p>
+        <p>(d) Labor protections for children and young people, including a minimum age for the employment of children and the prohibition and elimination of the worst forms of child labor; and</p>
+        <p>(e) Acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health.</p>
+        <p>(16) For the United States, "statutes or regulations" for purposes of this Article means an act of the United States Congress or regulations promulgated pursuant to an act of the United States Congress that is enforceable by action of the central level of government.</p>
+      </div>
+      <div type="article" num="14" title="Non-conforming measures">
+        <p>1. Articles 3, 4, 8, and 9 do not apply to:</p>
+        <p>(a) Any existing non-conforming measure that is maintained by a Party at:</p>
+        <p>The central level of government, as set out by that Party in its Schedule to Annex I or Annex III,</p>
+        <p>A regional level of government, as set out by that Party in its Schedule to Annex I or Annex III, or</p>
+        <p>A local level of government;</p>
+        <p>(i) The central level of government, as set out by that Party in its Schedule to Annex I or Annex III,</p>
+        <p>(ii) A regional level of government, as set out by that Party in its Schedule to Annex I or Annex III, or</p>
+        <p>(iii) A local level of government;</p>
+        <p>(b) The continuation or prompt renewal of any non-conforming measure referred to in subparagraph (a); or</p>
+        <p>(c) An amendment to any non-conforming measure referred to in subparagraph (a) to the extent that the amendment does not decrease the conformity of the measure, as it existed immediately before the amendment, with Article 3, 4, 8, or 9.</p>
+        <p>2. Articles 3, 4, 8, and 9 do not apply to any measure that a Party adopts or maintains with respect to sectors, subsectors, or activities, as set out in its Schedule to Annex II.</p>
+        <p>3. Neither Party may, under any measure adopted after the date of entry into force of this Treaty and covered by its Schedule to Annex II, require an investor of the other Party, by reason of its nationality, to sell or otherwise dispose of an investment existing at the time the measure becomes effective.</p>
+        <p>4. Articles 3 and 4 do not apply to any measure covered by an exception to, or derogation from, the obligations under Article 3 or 4 of the TRIPS Agreement, as specifically provided in those Articles and in Article 5 of the TRIPS Agreement.</p>
+        <p>5. Articles 3, 4, and 9 do not apply to:</p>
+        <p>(a) Government procurement; or</p>
+        <p>(b) Subsidies or grants provided by a Party, including government-supported loans, guarantees, and insurance.</p>
+      </div>
+      <div type="article" num="15" title="Special formalities and information requirements">
+        <p>1. Nothing in Article 3 shall be construed to prevent a Party from adopting or maintaining a measure that prescribes special formalities in connection with covered investments, such as a requirement that investors be residents of the Party or that covered investments be legally constituted under the laws or regulations of the Party, provided that such formalities do not materially impair the protections afforded by a Party to investors of the other Party and covered investments pursuant to this Treaty.</p>
+        <p>2. Notwithstanding Articles 3 and 4, a Party may require an investor of the other Party or its covered investment to provide information concerning that investment solely for informational or statistical purposes. The Party shall protect any confidential business information from any disclosure that would prejudice the competitive position of the investor or the covered investment. Nothing in this paragraph shall be construed to prevent a Party from otherwise obtaining or disclosing information in connection with the equitable and good faith application of its law.</p>
+      </div>
+      <div type="article" num="16" title="Non-derogation">
+        <p>This Treaty shall not derogate from any of the following that entitle an investor of a Party or a covered investment to treatment more favorable than that accorded by this Treaty:</p>
+        <p>1. Laws or regulations, administrative practices or procedures, or administrative or adjudicatory decisions of a Party;</p>
+        <p>2. International legal obligations of a Party; or</p>
+        <p>3. Obligations assumed by a Party, including those contained in an investment authorization or an investment agreement.</p>
+      </div>
+      <div type="article" num="17" title="Denial of benefits">
+        <p>1. A Party may deny the benefits of this Treaty to an investor of the other Party that is an enterprise of such other Party and to investments of that investor if persons of a non-Party own or control the enterprise and the denying Party:</p>
+        <p>(a) Does not maintain diplomatic relations with the non-Party; or</p>
+        <p>(b) Adopts or maintains measures with respect to the non-Party or a person of the non-Party that prohibit transactions with the enterprise or that would be violated or circumvented if the benefits of this Treaty were accorded to the enterprise or to its investments.</p>
+        <p>2. A Party may deny the benefits of this Treaty to an investor of the other Party that is an enterprise of such other Party and to investments of that investor if the enterprise has no substantial business activities in the territory of the other Party and persons of a non-Party, or of the denying Party, own or control the enterprise.</p>
+      </div>
+      <div type="article" num="18" title="Essential security">
+        <p>Nothing in this Treaty shall be construed:</p>
+        <p>1. To require a Party to furnish or allow access to any information the disclosure of which it determines to be contrary to its essential security interests; or</p>
+        <p>2. To preclude a Party from applying measures that it considers necessary for the fulfillment of its obligations with respect to the maintenance or restoration of international peace or security, or the protection of its own essential security interests.</p>
+      </div>
+      <div type="article" num="19" title="Disclosure of information">
+        <p>Nothing in this Treaty shall be construed to require a Party to furnish or allow access to confidential information the disclosure of which would impede law enforcement or otherwise be contrary to the public interest, or which would prejudice the legitimate commercial interests of particular enterprises, public or private.</p>
+      </div>
+      <div type="article" num="20" title="Financial services">
+        <p>1. Notwithstanding any other provision of this Treaty, a Party shall not be prevented from adopting or maintaining measures relating to financial services for prudential reasons, including for the protection of investors, depositors, policy holders, or persons to whom a fiduciary duty is owed by a financial services supplier, or to ensure the integrity and stability of the financial system.(17) Where such measures do not conform with the provisions of this Treaty, they shall not be used as a means of avoiding the Party's commitments or obligations under this Treaty.</p>
+        <p>2.</p>
+        <p>(a) Nothing in this Treaty applies to non-discriminatory measures of general application taken by any public entity in pursuit of monetary and related credit policies or exchange rate policies. This paragraph shall not affect a Party's obligations under Article 7 or 8.(18)</p>
+        <p>(b) For purposes of this paragraph, "public entity" means a central bank or monetary authority of a Party.</p>
+        <p>3. Where a claimant submits a claim to arbitration under Section B, and the respondent invokes paragraph 1 or 2 as a defense, the following provisions shall apply:</p>
+        <p>(a) The respondent shall, within 120 days of the date the claim is submitted to arbitration under Section B, submit in writing to the competent financial authorities (19) of both Parties a request for a joint determination on the issue of whether and to what extent paragraph 1 or 2 is a valid defense to the claim. The respondent shall promptly provide the tribunal, if constituted, a copy of such request. The arbitration may proceed with respect to the claim only as provided in subparagraph (d).</p>
+        <p>(b) The competent financial authorities of both Parties shall make themselves available for consultations with each other and shall attempt in good faith to make a determination as described in subparagraph (a). Any such determination shall be transmitted promptly to the disputing parties and, if constituted, to the tribunal. The determination shall be binding on the tribunal.</p>
+        <p>(c) If the competent financial authorities of both Parties, within 120 days of the date by which they have both received the respondent's written request for a joint determination under subparagraph (a), have not made a determination as described in that subparagraph, the tribunal shall decide the issue or issues left unresolved by the competent financial authorities. The provisions of Section B shall apply, except as modified by this subparagraph.</p>
+        <p>(i) In the appointment of all arbitrators not yet appointed to the tribunal, each disputing party shall take appropriate steps to ensure that the tribunal has expertise or experience in financial services law or practice. The expertise of particular candidates with respect to the particular sector of financial services in which the dispute arises shall be taken into account in the appointment of the presiding arbitrator.</p>
+        <p>(ii) If, before the respondent submits the request for a joint determination in conformance with subparagraph (a), the presiding arbitrator has been appointed pursuant to Article 27(3), such arbitrator shall be replaced on the request of either disputing party and the tribunal shall be reconstituted consistent with subparagraph (c)(i). If, within 30 days of the date the arbitration proceedings are resumed under subparagraph (d), the disputing parties have not agreed on the appointment of a new presiding arbitrator, the Secretary-General, on the request of a disputing party, shall appoint the presiding arbitrator consistent with subparagraph (c)(i).</p>
+        <p>(iii) The tribunal shall draw no inference regarding the application of paragraph 1 or 2 from the fact that the competent financial authorities have not made a determination as described in subparagraph (a).</p>
+        <p>(iv) The non-disputing Party may make oral and written submissions to the tribunal regarding the issue of whether and to what extent paragraph 1 or 2 is a valid defense to the claim. Unless it makes such a submission, the non-disputing Party shall be presumed, for purposes of the arbitration, to take a position on paragraph 1 or 2 not inconsistent with that of the respondent.</p>
+        <p>(d) The arbitration referred to in subparagraph (a) may proceed with respect to the claim:</p>
+        <p>(i) 10 days after the date the competent financial authorities joint determination has been received by both the disputing parties and, if constituted, the tribunal; or</p>
+        <p>(ii) 10 days after the expiration of the 120-day period provided to the competent financial authorities in subparagraph (c).</p>
+        <p>(e) On the request of the respondent made within 30 days after the expiration of the 120-day period for a joint determination referred to in subparagraph (c), or, if the tribunal has not been constituted as of the expiration of the 120-day period, within 30 days after the tribunal is constituted, the tribunal shall address and decide the issue or issues left unresolved by the competent financial authorities as referred to in subparagraph (c) prior to deciding the merits of the claim for which paragraph 1 or 2 has been invoked by the respondent as a defense. Failure of the respondent to make such a request is without prejudice to the right of the respondent to invoke paragraph 1 or 2 as a defense at any appropriate phase of the arbitration.</p>
+        <p>4. Where a dispute arises under Section C and the competent financial authorities of one Party provide written notice to the competent financial authorities of the other Party that the dispute involves financial services, Section C shall apply except as modified by this paragraph and paragraph 5.</p>
+        <p>(a) The competent financial authorities of both Parties shall make themselves available for consultations with each other regarding the dispute, and shall have 180 days from the date such notice is received to transmit a report on their consultations to the Parties. A Party may submit the dispute to arbitration under Section C only after the expiration of that 180-day period.</p>
+        <p>(b) Either Party may make any such report available to a tribunal constituted under Section C to decide the dispute referred to in this paragraph or a similar dispute, or to a tribunal constituted under Section B to decide a claim arising out of the same events or circumstances that gave rise to the dispute under Section C.</p>
+        <p>5. Where a Party submits a dispute involving financial services to arbitration under Section C in conformance with paragraph 4, and on the request of either Party within 30 days of the date the dispute is submitted to arbitration, each Party shall, in the appointment of all arbitrators not yet appointed, take appropriate steps to ensure that the tribunal has expertise or experience in financial services law or practice. The expertise of particular candidates with respect to financial services shall be taken into account in the appointment of the presiding arbitrator.</p>
+        <p>6. Notwithstanding Article 11(2), each Party shall, to the extent practicable,</p>
+        <p>(a) Publish in advance any regulations of general application relating to financial services that it proposes to adopt;</p>
+        <p>(b) Provide interested persons and the other Party a reasonable opportunity to comment on such proposed regulations.</p>
+        <p>7. The terms "financial service" or "financial services" shall have the same meaning as in subparagraph 5(a) of the Annex on Financial Services of the GATS.</p>
+        <p>8. For greater certainty, nothing in this Treaty shall be construed to prevent the adoption or enforcement by a Party of measures relating to investors of the other Party, or covered investments, in financial institutions that are necessary to secure compliance with laws or regulations that are not inconsistent with this Treaty, including those related to the prevention of deceptive and fraudulent practices or that deal with the effects of a default on financial services contracts, subject to the requirement that such measures are not applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination between countries where like conditions prevail, or a disguised restriction on investment in financial institutions.</p>
+        <p>(17) It is understood that the term "prudential reasons" includes the maintenance of the safety, soundness, integrity, or financial responsibility of individual financial institutions, as well as the maintenance of the safety and financial and operational integrity of payment and clearing systems.</p>
+        <p>(18) For greater certainty, measures of general application taken in pursuit of monetary and related credit policies or exchange rate policies do not include measures that expressly nullify or amend contractual provisions that specify the currency of denomination or the rate of exchange of currencies.</p>
+        <p>(19) For purposes of this Article, "competent financial authorities" means, for the United States, the Department of the Treasury for banking and other financial services, and the Office of the United States Trade Representative, in coordination with the Department of Commerce and other agencies, for insurance; and for Rwanda, the National Bank of Rwanda for banking and other financial services, and the National Insurance Commission for insurance.</p>
+      </div>
+      <div type="article" num="21" title="Taxation">
+        <p>1. Except as provided in this Article, nothing in Section A shall impose obligations with respect to taxation measures.</p>
+        <p>2. Subject to paragraph 5, Articles 3 and 4 shall apply to all taxation measures, other than those on income, capital gains, or on the taxable capital of corporations, taxes on estates, inheritances, gifts, and generation-skipping transfers, except that nothing in those Articles shall apply:</p>
+        <p>(a) Any most-favored-nation obligation with respect to an advantage accorded by a Party pursuant to a tax convention;</p>
+        <p>(b) To a non-conforming provision of any existing taxation measure;</p>
+        <p>(c) To the continuation or prompt renewal of a non-conforming provision of any existing taxation measure;</p>
+        <p>(d) To an amendment to a non-conforming provision of any existing taxation measure to the extent that the amendment does not decrease its conformity, at the time of the amendment, with those Articles;</p>
+        <p>(e) To the adoption or enforcement of any taxation measure aimed at ensuring the equitable or effective imposition or collection of taxes (as permitted by GATS Article XIV(d)); or</p>
+        <p>(f) To a provision that conditions the receipt, or continued receipt, of an advantage relating to the contributions to, or income of, a pension trust, fund, or other arrangement to provide pension or similar benefits, on a requirement that the Party maintain continuous jurisdiction over such trust, fund, or other arrangement.</p>
+        <p>3. Article 6 shall apply to all taxation measures, except that a claimant that asserts that a taxation measure involves an expropriation may submit a claim to arbitration under Section B only if:</p>
+        <p>(a) The claimant has first referred to the competent tax authorities (20) of both Parties in writing the issue of whether that taxation measure involves an expropriation; and</p>
+        <p>(b) Within 180 days after the date of such referral, the competent tax authorities of both Parties fail to agree that the taxation measure is not an expropriation.</p>
+        <p>4. Subject to paragraph 5, Article 8(2) through (4) shall apply to all taxation measures.</p>
+        <p>5. Nothing in this Treaty shall affect the rights and obligations of either Party under any tax convention. In the event of any inconsistency between this Treaty and any such convention, that convention shall prevail to the extent of the inconsistency. In the case of a tax convention between the Parties, the competent authorities under that convention shall have sole responsibility for determining whether any inconsistency exists between this Treaty and that convention.</p>
+        <p>For the purposes of this Article, the "competent tax authorities" means: (a) for the United States, the Assistant Secretary of the Treasury (Tax Policy), Department of the Treasury; and (b) for Rwanda, the Rwanda Revenue Authority.</p>
+      </div>
+      <div type="article" num="22" title="Entry into force, duration, and termination">
+        <p>1. This Treaty shall enter into force thirty days after the date the Parties exchange instruments of ratification. It shall remain in force for a period of ten years and shall continue in force thereafter unless terminated in accordance with paragraph 2.</p>
+        <p>2. A Party may terminate this Treaty at the end of the initial ten-year period or at any time thereafter by giving one year's written notice to the other Party.</p>
+        <p>3. For ten years from the date of termination, all other Articles shall continue to apply to covered investments established or acquired prior to the date of termination, except insofar as those Articles extend to the establishment or acquisition of covered investments.</p>
+        <p>4. On the request of either Party, the Parties shall consult promptly to discuss any matters relating to the interpretation or application of this Treaty or to the realization of the objectives of this Treaty. The Parties may agree, in writing, to amend this Treaty. Any such amendment shall enter into force thirty days after the date the Parties exchange instruments of ratification, and shall remain in force so long as this Treaty remains in force.</p>
+        <p>Section B</p>
+      </div>
+      <div type="article" num="23" title="Consultation and negotiation">
+        <p>In the event of an investment dispute, the claimant and the respondent should initially seek to resolve the dispute through consultation and negotiation, which may include the use of non-binding, third-party procedures.</p>
+      </div>
+      <div type="article" num="24" title="Submission of a claim to arbitration">
+        <p>1. In the event that a disputing party considers that an investment dispute cannot be settled by consultation and negotiation:</p>
+        <p>(a) The claimant, on its own behalf, may submit to arbitration under this Section a claim</p>
+        <p>(i) That the respondent has breached</p>
+        <p>(A) An obligation under Articles 3 through 10,</p>
+        <p>(B) An investment authorization, or</p>
+        <p>(C) An investment agreement;</p>
+        <p>And</p>
+        <p>(ii) That the claimant has incurred loss or damage by reason of, or arising out of, that breach; and</p>
+        <p>(b) The claimant, on behalf of an enterprise of the respondent that is a juridical person that the claimant owns or controls directly or indirectly, may submit to arbitration under this Section a claim</p>
+        <p>(i) That the respondent has breached</p>
+        <p>(A) An obligation under Articles 3 through 10,</p>
+        <p>(B) An investment authorization, or</p>
+        <p>(C) An investment agreement;</p>
+        <p>And</p>
+        <p>(ii) That the enterprise has incurred loss or damage by reason of, or arising out of, that breach,</p>
+        <p>Provided that a claimant may submit pursuant to subparagraph (a)(i)(C) or (b)(i)(C) a claim for breach of an investment agreement only if the subject matter of the claim and the claimed damages directly relate to the covered investment that was established or acquired, or sought to be established or acquired, in reliance on the relevant investment agreement.</p>
+        <p>2. At least 90 days before submitting any claim to arbitration under this Section, a claimant shall deliver to the respondent a written notice of its intention to submit the claim to arbitration ("notice of intent"). The notice shall specify:</p>
+        <p>(a) The name and address of the claimant and, where a claim is submitted on behalf of an enterprise, the name, address, and place of incorporation of the enterprise;</p>
+        <p>(b) For each claim, the provision of this Treaty, investment authorization, or investment agreement alleged to have been breached and any other relevant provisions;</p>
+        <p>(c) The legal and factual basis for each claim; and</p>
+        <p>(d) The relief sought and the approximate amount of damages claimed.</p>
+        <p>3. Provided that six months have elapsed since the events giving rise to the claim, a claimant may submit a claim referred to in paragraph 1:</p>
+        <p>(a) Under the ICSID Convention and the ICSID Rules of Procedure for Arbitration Proceedings, provided that both the respondent and the non-disputing Party are parties to the ICSID Convention;</p>
+        <p>(b) Under the ICSID Additional Facility Rules, provided that either the respondent or the non-disputing Party is a party to the ICSID Convention;</p>
+        <p>(c) Under the UNCITRAL Arbitration Rules; or</p>
+        <p>(d) If the claimant and respondent agree, to any other arbitration institution or under any other arbitration rules.</p>
+        <p>4. A claim shall be deemed submitted to arbitration under this Section when the claimant's notice of or request for arbitration ("notice of arbitration"):</p>
+        <p>(a) Referred to in paragraph 1 of Article 36 of the ICSID Convention is received by the Secretary-General;</p>
+        <p>(b) Referred to in Article 2 of Schedule C of the ICSID Additional Facility Rules is received by the Secretary-General;</p>
+        <p>(c) Referred to in Article 3 of the UNCITRAL Arbitration Rules, together with the statement of claim referred to in Article 18 of the UNCITRAL Arbitration Rules, are received by the respondent; or</p>
+        <p>(d) Referred to under any arbitral institution or arbitral rules selected under paragraph 3(d) is received by the respondent.</p>
+        <p>A claim asserted by the claimant for the first time after such notice of arbitration is submitted shall be deemed submitted to arbitration under this Section on the date of its receipt under the applicable arbitral rules.</p>
+        <p>5. The arbitration rules applicable under paragraph 3, and in effect on the date the claim or claims were submitted to arbitration under this Section, shall govern the arbitration except to the extent modified by this Treaty.</p>
+        <p>6. The claimant shall provide with the notice of arbitration:</p>
+        <p>(a) The name of the arbitrator that the claimant appoints; or</p>
+        <p>(b) The claimant's written consent for the Secretary-General to appoint that arbitrator.</p>
+      </div>
+      <div type="article" num="25" title="Consent of each party to arbitration">
+        <p>1. Each Party consents to the submission of a claim to arbitration under this Section in accordance with this Treaty.</p>
+        <p>2. The consent under paragraph 1 and the submission of a claim to arbitration under this Section shall satisfy the requirements of:</p>
+        <p>(a) Chapter II of the ICSID Convention (Jurisdiction of the Centre) and the ICSID Additional Facility Rules for written consent of the parties to the dispute; and</p>
+        <p>(b) Article II of the New York Convention for an "agreement in writing."</p>
+      </div>
+      <div type="article" num="26" title="Conditions and limitations on consent of each party">
+        <p>1. No claim may be submitted to arbitration under this Section if more than three years have elapsed from the date on which the claimant first acquired, or should have first acquired, knowledge of the breach alleged under Article 24(1) and knowledge that the claimant (for claims brought under Article 24(1)(a)) or the enterprise (for claims brought under Article 24(1)(b)) has incurred loss or damage.</p>
+        <p>2. No claim may be submitted to arbitration under this Section unless:</p>
+        <p>(a) The claimant consents in writing to arbitration in accordance with the procedures set out in this Treaty; and</p>
+        <p>(b) The notice of arbitration is accompanied,</p>
+        <p>(i) For claims submitted to arbitration under Article 24(1)(a), by the claimant's written waiver, and</p>
+        <p>(ii) For claims submitted to arbitration under Article 24(1)(b), by the claimant's and the enterprise's written waivers</p>
+        <p>Of any right to initiate or continue before any administrative tribunal or court under the law of either Party, or other dispute settlement procedures, any proceeding with respect to any measure alleged to constitute a breach referred to in Article 24.</p>
+        <p>3. Notwithstanding paragraph 2(b), the claimant (for claims brought under Article 24(1)(a)) and the claimant or the enterprise (for claims brought under Article 24(1)(b)) may initiate or continue an action that seeks interim injunctive relief and does not involve the payment of monetary damages before a judicial or administrative tribunal of the respondent, provided that the action is brought for the sole purpose of preserving the claimant's or the enterprise's rights and interests during the pendency of the arbitration.</p>
+      </div>
+      <div type="article" num="27" title="Selection of arbitrators">
+        <p>1. Unless the disputing parties otherwise agree, the tribunal shall comprise three arbitrators, one arbitrator appointed by each of the disputing parties and the third, who shall be the presiding arbitrator, appointed by agreement of the disputing parties.</p>
+        <p>2. The Secretary-General shall serve as appointing authority for an arbitration under this Section.</p>
+        <p>3. Subject to Article 20(3), if a tribunal has not been constituted within 75 days from the date that a claim is submitted to arbitration under this Section, the Secretary-General, on the request of a disputing party, shall appoint, in his or her discretion, the arbitrator or arbitrators not yet appointed.</p>
+        <p>4. For purposes of Article 39 of the ICSID Convention and Article 7 of Schedule C to the ICSID Additional Facility Rules, and without prejudice to an objection to an arbitrator on a ground other than nationality:</p>
+        <p>(a) The respondent agrees to the appointment of each individual member of a tribunal established under the ICSID Convention or the ICSID Additional Facility Rules;</p>
+        <p>(b) A claimant referred to in Article 24( 1 )(a) may submit a claim to arbitration under this Section, or continue a claim, under the ICSID Convention or the ICSID Additional Facility Rules, only on condition that the claimant agrees in writing to the appointment of each individual member of the tribunal; and</p>
+        <p>(c) A claimant referred to in Article 24(1)(b) may submit a claim to arbitration under this Section, or continue a claim, under the ICSID Convention or the ICSID Additional Facility Rules, only on condition that the claimant and the enterprise agree in writing to the appointment of each individual member of the tribunal.</p>
+      </div>
+      <div type="article" num="28" title="Conduct of the arbitration">
+        <p>1. The disputing parties may agree on the legal place of any arbitration under the arbitral rules applicable under Article 24(3). If the disputing parties fail to reach agreement, the tribunal shall determine the place in accordance with the applicable arbitral rules, provided that the place shall be in the territory of a State that is a party to the New York Convention.</p>
+        <p>2. The non-disputing Party may make oral and written submissions to the tribunal regarding the interpretation of this Treaty.</p>
+        <p>3. The tribunal shall have the authority to accept and consider amicus curiae submissions from a person or entity that is not a disputing party.</p>
+        <p>4. Without prejudice to a tribunal's authority to address other objections as a preliminary question, a tribunal shall address and decide as a preliminary question any objection by the respondent that, as a matter of law, a claim submitted is not a claim for which an award in favor of the claimant may be made under Article 34.</p>
+        <p>(a) Such objection shall be submitted to the tribunal as soon as possible after the tribunal is constituted, and in no event later than the date the tribunal fixes for the respondent to submit its counter-memorial (or, in the case of an amendment to the notice of arbitration, the date the tribunal fixes for the respondent to submit its response to the amendment).</p>
+        <p>(b) On receipt of an objection under this paragraph, the tribunal shall suspend any proceedings on the merits, establish a schedule for considering the objection consistent with any schedule it has established for considering any other preliminary question, and issue a decision or award on the objection, stating the grounds therefor.</p>
+        <p>(c) In deciding an objection under this paragraph, the tribunal shall assume to be true claimant's factual allegations in support of any claim in the notice of arbitration (or any amendment thereof) and, in disputes brought under the UNCITRAL Arbitration Rules, the statement of claim referred to in Article 18 of the UNCITRAL Arbitration Rules. The tribunal may also consider any relevant facts not in dispute.</p>
+        <p>(d) The respondent does not waive any objection as to competence or any argument on the merits merely because the respondent did or did not raise an objection under this paragraph or make use of the expedited procedure set out in paragraph 5.</p>
+        <p>5. In the event that the respondent so requests within 45 days after the tribunal is constituted, the tribunal shall decide on an expedited basis an objection under paragraph 4 and any objection that the dispute is not within the tribunal's competence. The tribunal shall suspend any proceedings on the merits and issue a decision or award on the objection(s), stating the grounds therefor, no later than 150 days after the date of the request. However, if a disputing party requests a hearing, the tribunal may take an additional 30 days to issue the decision or award. Regardless of whether a hearing is requested, a tribunal may, on a showing of extraordinary cause, delay issuing its decision or award by an additional brief period, which may not exceed 30 days.</p>
+        <p>6. When it decides a respondent's objection under paragraph 4 or 5, the tribunal may, if warranted, award to the prevailing disputing party reasonable costs and attorney's fees incurred in submitting or opposing the objection. In determining whether such an award is warranted, the tribunal shall consider whether either the claimant's claim or the respondent's objection was frivolous, and shall provide the disputing parties a reasonable opportunity to comment.</p>
+        <p>7. A respondent may not assert as a defense, counterclaim, right of set-off, or for any other reason that the claimant has received or will receive indemnification or other compensation for all or part of the alleged damages pursuant to an insurance or guarantee contract.</p>
+        <p>8. A tribunal may order an interim measure of protection to preserve the rights of a disputing party, or to ensure that the tribunal's jurisdiction is made fully effective, including an order to preserve evidence in the possession or control of a disputing party or to protect the tribunal's jurisdiction. A tribunal may not order attachment or enjoin the application of a measure alleged to constitute a breach referred to in Article 24. For purposes of this paragraph, an order includes a recommendation.</p>
+        <p>(a) In any arbitration conducted under this Section, at the request of a disputing party, a tribunal shall, before issuing a decision or award on liability, transmit its proposed decision or award to the disputing parties and to the non-disputing Party. Within 60 days after the tribunal transmits its proposed decision or award, the disputing parties may submit written comments to the tribunal concerning any aspect of its proposed decision or award. The tribunal shall consider any such comments and issue its decision or award not later than 45 days after the expiration of the 60-day comment period.</p>
+        <p>(b) Subparagraph (a) shall not apply in any arbitration conducted pursuant to this Section for which an appeal has been made available pursuant to paragraph 10 or Annex D.</p>
+        <p>10. If a separate, multilateral agreement enters into force between the Parties that establishes an appellate body for purposes of reviewing awards rendered by tribunals constituted pursuant to international trade or investment arrangements to hear investment disputes, the Parties shall strive to reach an agreement that would have such appellate body review awards rendered under Article 34 in arbitrations commenced after the multilateral agreement enters into force between the Parties.</p>
+      </div>
+      <div type="article" num="29" title="Transparency of arbitral proceedings">
+        <p>1. Subject to paragraphs 2 and 4, the respondent shall, after receiving the following documents, promptly transmit them to the non-disputing Party and make them available to the public:</p>
+        <p>(a) The notice of intent;</p>
+        <p>(b) The notice of arbitration;</p>
+        <p>(c) Pleadings, memorials, and briefs submitted to the tribunal by a disputing party and any written submissions submitted pursuant to Article 28(2) and (3) and Article 33;</p>
+        <p>(d) Minutes or transcripts of hearings of the tribunal, where available; and</p>
+        <p>(e) Orders, awards, and decisions of the tribunal.</p>
+        <p>2. The tribunal shall conduct hearings open to the public and shall determine, in consultation with the disputing parties, the appropriate logistical arrangements. However, any disputing party that intends to use information designated as protected information in a hearing shall so advise the tribunal. The tribunal shall make appropriate arrangements to protect the information from disclosure.</p>
+        <p>3. Nothing in this Section requires a respondent to disclose protected information or to furnish or allow access to information that it may withhold in accordance with Article 18 or Article 19.</p>
+        <p>4. Any protected information that is submitted to the tribunal shall be protected from disclosure in accordance with the following procedures:</p>
+        <p>(a) Subject to subparagraph (d), neither the disputing parties nor the tribunal shall disclose to the non-disputing Party or to the public any protected information where the disputing party that provided the information clearly designates it in accordance with subparagraph (b);</p>
+        <p>(b) Any disputing party claiming that certain information constitutes protected information shall clearly designate the information at the time it is submitted to the tribunal;</p>
+        <p>(c) A disputing party shall, at the time it submits a document containing information claimed to be protected information, submit a redacted version of the document that does not contain the information. Only the redacted version shall be provided to the non-disputing Party and made public in accordance with paragraph 1; and</p>
+        <p>(d) The tribunal shall decide any objection regarding the designation of information claimed to be protected information. If the tribunal determines that such information was not properly designated, the disputing party that submitted the information may (i) withdraw all or part of its submission containing such information, or (ii) agree to resubmit complete and redacted documents with corrected designations in accordance with the tribunal's determination and subparagraph (c). In either case, the other disputing party shall, whenever necessary, resubmit complete and redacted documents which either remove the information withdrawn under (i) by the disputing party that first submitted the information or redesignate the information consistent with the designation under (ii) of the disputing party that first submitted the information.</p>
+        <p>5. Nothing in this Section requires a respondent to withhold from the public information required to be disclosed by its laws.</p>
+      </div>
+      <div type="article" num="30" title="Governing law">
+        <p>1. Subject to paragraph 3, when a claim is submitted under Article 24(1)(a)(i)(A) or Article 24(1)(b)(i)(A), the tribunal shall decide the issues in dispute in accordance with this Treaty and applicable rules of international law.</p>
+        <p>2. Subject to paragraph 3 and the other terms of this Section, when a claim is submitted under Article 24(1)(a)(i)(B) or (C), or Article 24(1)(b)(i)(B) or (C), the tribunal shall apply:</p>
+        <p>(a) The rules of law specified in the pertinent investment authorization or investment agreement, or as the disputing parties may otherwise agree; or</p>
+        <p>(b) If the rules of law have not been specified or otherwise agreed:</p>
+        <p>(i) The law of the respondent, including its rules on the conflict of laws;(21) and</p>
+        <p>(ii) Such rules of international law as may be applicable.</p>
+        <p>3. A joint decision of the Parties, each acting through its representative designated for purposes of this Article, declaring their interpretation of a provision of this Treaty shall be binding on a tribunal, and any decision or award issued by a tribunal must be consistent with that joint decision.</p>
+        <p>(21) The "law of the respondent" means the law that a domestic court or tribunal of proper jurisdictionwould apply in the same case.</p>
+      </div>
+      <div type="article" num="31" title="Interpretation of annexes">
+        <p>1. Where a respondent asserts as a defense that the measure alleged to be a breach is within the scope of an entry set out in Annex I, II, or III, the tribunal shall, on request of the respondent, request the interpretation of the Parties on the issue. The Parties shall submit in writing any joint decision declaring their interpretation to the tribunal within 60 days of delivery of the request.</p>
+        <p>2. A joint decision issued under paragraph 1 by the Parties, each acting through its representative designated for purposes of this Article, shall be binding on the tribunal, and any decision or award issued by the tribunal must be consistent with that joint decision. If the Parties fail to issue such a decision within 60 days, the tribunal shall decide the issue.</p>
+      </div>
+      <div type="article" num="32" title="Expert reports">
+        <p>Without prejudice to the appointment of other kinds of experts where authorized by the applicable arbitration rules, a tribunal, at the request of a disputing party or, unless the disputing parties disapprove, on its own initiative, may appoint one or more experts to report to it in writing on any factual issue concerning environmental, health, safety, or other scientific matters raised by a disputing party in a proceeding, subject to such terms and conditions as the disputing parties may agree.</p>
+      </div>
+      <div type="article" num="33" title="Consolidation">
+        <p>1. Where two or more claims have been submitted separately to arbitration under Article 24(1) and the claims have a question of law or fact in common and arise out of the same events or circumstances, any disputing party may seek a consolidation order in accordance with the agreement of all the disputing parties sought to be covered by the order or the terms of paragraphs 2 through 10.</p>
+        <p>2. A disputing party that seeks a consolidation order under this Article shall deliver, in writing, a request to the Secretary-General and to all the disputing parties sought to be covered by the order and shall specify in the request:</p>
+        <p>(a) The names and addresses of all the disputing parties sought to be covered by the order;</p>
+        <p>(b) The nature of the order sought; and</p>
+        <p>(c) The grounds on which the order is sought.</p>
+        <p>3. Unless the Secretary-General finds within 30 days after receiving a request under paragraph 2 that the request is manifestly unfounded, a tribunal shall be established under this Article.</p>
+        <p>4. Unless all the disputing parties sought to be covered by the order otherwise agree, a tribunal established under this Article shall comprise three arbitrators:</p>
+        <p>(a) One arbitrator appointed by agreement of the claimants;</p>
+        <p>(b) One arbitrator appointed by the respondent; and</p>
+        <p>(c) The presiding arbitrator appointed by the Secretary-General, provided, however, that the presiding arbitrator shall not be a national of either Party.</p>
+        <p>5. If, within 60 days after the Secretary-General receives a request made under paragraph 2, the respondent fails or the claimants fail to appoint an arbitrator in accordance with paragraph 4, the Secretary-General, on the request of any disputing party sought to be covered by the order, shall appoint the arbitrator or arbitrators not yet appointed. If the respondent fails to appoint an arbitrator, the Secretary-General shall appoint a national of the disputing Party, and if the claimants fail to appoint an arbitrator, the Secretary-General shall appoint a national of the non-disputing Party.</p>
+        <p>6. Where a tribunal established under this Article is satisfied that two or more claims that have been submitted to arbitration under Article 24(1) have a question of law or fact in common, and arise out of the same events or circumstances, the tribunal may, in the interest of fair and efficient resolution of the claims, and after hearing the disputing parties, by order:</p>
+        <p>(a) Assume jurisdiction over, and hear and determine together, all or part of the claims;</p>
+        <p>(b) Assume jurisdiction over, and hear and determine one or more of the claims, the determination of which it believes would assist in the resolution of the others; or</p>
+        <p>(c) Instruct a tribunal previously established under Article 27 to assume jurisdiction over, and hear and determine together, all or part of the claims, provided that</p>
+        <p>(i) That tribunal, at the request of any claimant not previously a disputing party before that tribunal, shall be reconstituted with its original members, except that the arbitrator for the claimants shall be appointed pursuant to paragraphs 4(a) and 5; and</p>
+        <p>(ii) That tribunal shall decide whether any prior hearing shall be repeated.</p>
+        <p>7. Where a tribunal has been established under this Article, a claimant that has submitted a claim to arbitration under Article 24(1) and that has not been named in a request made under paragraph 2 may make a written request to the tribunal that it be included in any order made under paragraph 6, and shall specify in the request:</p>
+        <p>(a) The name and address of the claimant;</p>
+        <p>(b) The nature of the order sought; and</p>
+        <p>(c) The grounds on which the order is sought.</p>
+        <p>The claimant shall deliver a copy of its request to the Secretary-General.</p>
+        <p>8. A tribunal established under this Article shall conduct its proceedings in accordance with the UNCITRAL Arbitration Rules, except as modified by this Section.</p>
+        <p>9. A tribunal established under Article 27 shall not have jurisdiction to decide a claim, or a part of a claim, over which a tribunal established or instructed under this Article has assumed jurisdiction.</p>
+        <p>10. On application of a disputing party, a tribunal established under this Article, pending its decision under paragraph 6, may order that the proceedings of a tribunal established under Article 27 be stayed, unless the latter tribunal has already adjourned its proceedings.</p>
+      </div>
+      <div type="article" num="34" title="Awards">
+        <p>1. Where a tribunal makes a final award against a respondent, the tribunal may award, separately or in combination, only:</p>
+        <p>(a) Monetary damages and any applicable interest; and</p>
+        <p>(b) Restitution of property, in which case the award shall provide that the respondent may pay monetary damages and any applicable interest in lieu of restitution.</p>
+        <p>A tribunal may also award costs and attorney's fees in accordance with this Treaty and the applicable arbitration rules.</p>
+        <p>2. Subject to paragraph 1, where a claim is submitted to arbitration under Article 24(1)(b):</p>
+        <p>(a) An award of restitution of property shall provide that restitution be made to the enterprise;</p>
+        <p>(b) An award of monetary damages and any applicable interest shall provide that the sum be paid to the enterprise; and</p>
+        <p>(c) The award shall provide that it is made without prejudice to any right that any person may have in the relief under applicable domestic law.</p>
+        <p>3. A tribunal may not award punitive damages.</p>
+        <p>4. An award made by a tribunal shall have no binding force except between the disputing parties in respect of the particular case.</p>
+        <p>5. Subject to paragraph 6 and the applicable review procedure for an interim award, a disputing party shall abide by and comply with an award without delay.</p>
+        <p>6. A disputing party may not seek enforcement of a final award until:</p>
+        <p>(a) In the case of a final award made under the ICSID Convention,</p>
+        <p>(i) 120 days have elapsed from the date the award was rendered and no disputing party has requested revision or annulment of the award; or</p>
+        <p>(ii) Revision or annulment proceedings have been completed; and</p>
+        <p>(b) In the case of a final award under the ICSID Additional Facility Rules, the UNCITRAL Arbitration Rules, or the rules selected pursuant to Article 24(3)(d),</p>
+        <p>(i) 90 ays have elapsed from the date the award was rendered and no disputing party has commenced a proceeding to revise, set aside, or annul the award; or</p>
+        <p>(ii) A court has dismissed or allowed an application to revise, set aside, or annul the award and there is no further appeal.</p>
+        <p>7. Each Party shall provide for the enforcement of an award in its territory.</p>
+        <p>8. If the respondent fails to abide by or comply with a final award, on delivery of a request by the non-disputing Party, a tribunal shall be established under Article 37. Without prejudice to other remedies available under applicable rules of international law, the requesting Party may seek in such proceedings:</p>
+        <p>(a) A determination that the failure to abide by or comply with the final award is inconsistent with the obligations of this Treaty; and</p>
+        <p>(b) A recommendation that the respondent abide by or comply with the final award.</p>
+        <p>9. A disputing party may seek enforcement of an arbitration award under the ICSID Convention or the New York Convention regardless of whether proceedings have been taken under paragraph 8.</p>
+        <p>10. A claim that is submitted to arbitration under this Section shall be considered to arise out of a commercial relationship or transaction for purposes of Article I of the New York Convention.</p>
+      </div>
+      <div type="article" num="35" title="Annexes and footnotes">
+        <p>The Annexes and footnotes shall form an integral part of this Treaty.</p>
+      </div>
+      <div type="article" num="36" title="Service of documents">
+        <p>Delivery of notice and other documents on a Party shall be made to the place named for that Party in Annex C.</p>
+        <p>Section C</p>
+      </div>
+      <div type="article" num="37" title="State-state dispute settlement">
+        <p>1. Subject to paragraph 5, any dispute between the Parties concerning the interpretation or application of this Treaty, that is not resolved through consultations or other diplomatic channels, shall be submitted on the request of either Party to arbitration for a binding decision or award by a tribunal in accordance with applicable rules of international law. In the absence of an agreement by the Parties to the contrary, the UNCITRAL Arbitration Rules shall govern, except as modified by the Parties or this Treaty.</p>
+        <p>2. Unless the Parties otherwise agree, the tribunal shall comprise three arbitrators, one arbitrator appointed by each Party and the third, who shall be the presiding arbitrator, appointed by agreement of the Parties. If a tribunal has not been constituted within 75 days from the date that a claim is submitted to arbitration under this Section, the Secretary-General, on the request of either Party, shall appoint, in his or her discretion, the arbitrator or arbitrators not yet appointed.</p>
+        <p>3. Expenses incurred by the arbitrators, and other costs of the proceedings, shall be paid for equally by the Parties. However, the tribunal may, in its discretion, direct that a higher proportion of the costs be paid by one of the Parties.</p>
+        <p>4. Articles 28(3), 29, 30(1) and (3), and 31 shall apply mutatis mutandis to arbitrations under this Article.</p>
+        <p>5. Paragraphs 1 through 4 shall not apply to a matter arising under Article 12 or Article 13.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the Parties have signed this Treaty.</p>
+      <p>DONE in two originals at Kigali this 19th day of February, 2008, in the English language.</p>
+      <p>FOR THE GOVERNMENT OF THE UNITED STATES OF AMERICA:</p>
+      <p>FOR THE GOVERNMENT OF THE REPUBLIC OF RWANDA:</p>
+    </conclusion>
+    <attachments>
+      <p>The Parties confirm their shared understanding that "customary international law" generally and as specifically referenced in Article 5 and Annex B results from a general and consistent practice of States that they follow from a sense of legal obligation. With regard to Article 5, the customary international law minimum standard of treatment of aliens refers to all customary international law principles that protect the economic rights and interests of aliens.</p>
+      <p>The Parties confirm their shared understanding that:</p>
+      <p>1. Article 6(1) is intended to reflect customary international law concerning the obligation of States with respect to expropriation.</p>
+      <p>2. An action or a series of actions by a Party cannot constitute an expropriation unless it interferes with a tangible or intangible property right or property interest in an investment.</p>
+      <p>3. Article 6(1) addresses two situations. The first is direct expropriation, where an investment is nationalized or otherwise directly expropriated through formal transfer of title or outright seizure.</p>
+      <p>4. The second situation addressed by Article 6(1) is indirect expropriation, where an action or series of actions by a Party has an effect equivalent to direct expropriation without formal transfer of title or outright seizure.</p>
+      <p>(a) The determination of whether an action or series of actions by a Party, in a specific fact situation, constitutes an indirect expropriation, requires a case-by-case, fact-based inquiry that considers, among other factors:</p>
+      <p>(i) The economic impact of the government action, although the fact that an action or series of actions by a Party has an adverse effect on the economic value of an investment, standing alone, does not establish that an indirect expropriation has occurred;</p>
+      <p>(ii) The extent to which the government action interferes with distinct, reasonable investment-backed expectations; and</p>
+      <p>(iii) The character of the government action.</p>
+      <p>(b) Except in rare circumstances, non-discriminatory regulatory actions by a Party that are designed and applied to protect legitimate public welfare objectives, such as public health, safety, and the environment, do not constitute indirect expropriations.</p>
+      <p>United States</p>
+      <p>Notices and other documents shall be served on the United States by delivery to:</p>
+      <p>Executive Director (L/EX)</p>
+      <p>Office of the Legal Adviser</p>
+      <p>Department of State</p>
+      <p>Washington, D.C. 20520</p>
+      <p>United States of America</p>
+      <p>Rwanda</p>
+      <p>Notices and other documents shall be served on Rwanda by delivery to:</p>
+      <p>Director General</p>
+      <p>Rwanda Investment &amp; Export Promotion Agency</p>
+      <p>Kimihurura, Avenue du Lac Muhazi</p>
+      <p>P.O Box 6239 Kigali &#x2013; Rwanda</p>
+      <p>Within three years after the date of entry into force of this Treaty, the Parties shall consider whether to establish a bilateral appellate body or similar mechanism to review awards rendered under Article 34 in arbitrations commenced after they establish the appellate body or similar mechanism.</p>
+    </attachments>
+    <attachments>
+      <p>1. The Schedule of a Party to this Annex sets out, pursuant to Article 14 (Non-Conforming Measures), the Party's existing measures that are not subject to some or all of the obligations imposed by:</p>
+      <p>(a) Article 3 (National Treatment);</p>
+      <p>(b) Article 4 (Most-Favored-Nation Treatment);</p>
+      <p>(c) Article 8 (Performance Requirements); or</p>
+      <p>(d) Article 9 (Senior Management and Boards of Directors).</p>
+      <p>2. Each Schedule entry sets out the following elements:</p>
+      <p>(a) Sector refers to the sector for which the entry is made;</p>
+      <p>(b) Obligations Concerned specifies the article(s) referred to in paragraph 1 that, pursuant to Article 14.1(a), do not apply to the non-conforming aspects of the law, regulation, or other measure, as set out in paragraph 3;</p>
+      <p>(c) Level of Government indicates the level of government maintaining the scheduled measure(s);</p>
+      <p>(d) Measures identifies the laws, regulations, or other measures for which the entry is made. A measure cited in the Measures element:</p>
+      <p>(i) Means the measure as amended, continued, or renewed as of the date of entry into force of this Treaty, and</p>
+      <p>(ii) Includes any subordinate measure adopted or maintained under the authority of and consistent with the measure; and</p>
+      <p>(e) Description provides a general, nonbinding description of the measure for which the entry is made.</p>
+      <p>3. In accordance with Article 14.1(a), and subject to Article 14.1(c), the articles of this Treaty specified in the Obligations Concerned element of an entry do not apply to the nonconforming aspects of the law, regulation, or other measure identified in the Measures element of that entry.</p>
+      <p>Sector: All</p>
+      <p>Obligations Concerned: National Treatment (Article 3) Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Level of Government: Central</p>
+      <p>Measures: Law No. 26/2005 of 17/12/2005 relating to investment and export promotion and facilitation, Articles 2(5) and 2(11)</p>
+      <p>Description: For purposes of investment registration under Law No. 26/2005 of 17/12/2005, a "local investor" as defined in Article 2(11) (which may include certain investors of Rwanda and COMESA Member States) is required to invest a minimum capital of USD 100,000, whereas a "foreign investor" as defined in Article 2(5) is required to invest a minimum capital of USD 250,000.</p>
+      <p>Sector: All</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>Measures: Law No. 20/2000 of 26/07/2000 relating to non-profit organizations</p>
+      <p>Description: Non-profit-making organizations registered outside Rwanda are subject to differential registration and approval requirements and procedures pursuant to Articles 32-36, Law No. 20/2000. Non-profit-making organizations registered outside Rwanda are also granted permits that shall not exceed a renewable five-year term (Article 37, Law No. 20/2000), while non-profit-making organizations registered in Rwanda are constituted for an indefinite duration (Article 6, Law No. 20/2000).</p>
+      <p>Sector: Atomic Energy</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>Measures: Atomic Energy Act of 1954, 42 U.S.C. &#xA7;&#xA7; 2011 etseq.</p>
+      <p>Description: A license issued by the United States Nuclear Regulatory Commission is required for any person in the United States to transfer or receive in interstate commerce, manufacture, produce, transfer, use, import, or export any nuclear "utilization or production facilities" for commercial or industrial purposes. Such a license may not be issued to any entity known or believed to be owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government (42 U.S.C. &#xA7; 2133(d)). A license issued by the United States Nuclear Regulatory Commission is also required for nuclear "utilization and production facilities," for use in medical therapy, or for research and development activities. The issuance of such a license to any entity known or believed to be owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government is also prohibited (42 U.S.C. &#xA7; 2134(d)).</p>
+      <p>Sector: Mining</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Level of Government: Central</p>
+      <p>Measures: Mineral Lands Leasing Act of 1920, 30 U.S.C. Chapter 3A</p>
+      <p>10 U.S.C. &#xA7; 7435</p>
+      <p>Description: Under the Mineral Lands Leasing Act of 1920, aliens and foreign corporations may not acquire rights-of-way for oil or gas pipelines, or pipelines carrying products refined from oil and gas, across on-shore federal lands or acquire leases or interests in certain minerals on on-shore federal lands, such as coal or oil. Non-U.S. citizens may own a 100 percent interest in a domestic corporation that acquires a right-of-way for oil or gas pipelines across on-shore federal lands, or that acquires a lease to develop mineral resources on on-shore federal lands, unless the foreign investor's home country denies similar or like privileges for the mineral or access in question to U.S. citizens or corporations, as compared with the privileges it accords to its own citizens or corporations or to the citizens or corporations of other countries (30 U.S.C. &#xA7;&#xA7; 181, 185(a)).</p>
+      <p>Nationalization is not considered to be denial of similar or like privileges.</p>
+      <p>Foreign citizens, or corporations controlled by them, are restricted from obtaining access to federal leases on Naval Petroleum Reserves if the laws, customs, or regulations of their country deny the privilege of leasing public lands to citizens or corporations of the United States (10 U.S.C. &#xA7; 7435).</p>
+      <p>Sector: All Sectors</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Level of Government: Central</p>
+      <p>22 U.S.C. &#xA7;&#xA7; 2194 and 2198(c)</p>
+      <p>Description: The Overseas Private Investment Corporation (OPIC) insurance and loan guarantees are not available to certain aliens, foreign enterprises, or foreign-controlled domestic enterprises.</p>
+      <p>Sector: Air Transportation</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Senior Management and Boards of Directors (Article 9)</p>
+      <p>Level of Government: Central</p>
+      <p>49 U.S.C. Subtitle VII, Aviation Programs; 14 C.F.R. Part 297 (foreign freight forwarders); 14 C.F.R. Part 380, Subpart E (registration of foreign (passenger) charter operators)</p>
+      <p>Description: Only air carriers that are "citizens of the United States" may operate aircraft in domestic air service (cabotage) and may provide international scheduled and non-scheduled air service as U.S. air carriers.</p>
+      <p>U.S. citizens also have blanket authority to engage in indirect air transportation activities (air freight forwarding and passenger charter activities other than as actual operators of the aircraft). In order to conduct such activities, non-U.S. citizens must obtain authority from the Department of Transportation. Applications for such authority may be rejected for reasons relating to the failure of effective reciprocity, or if the Department of Transportation finds that it is in the public interest to do so.</p>
+      <p>Under 49 U.S.C. &#xA7; 40102(a)(15), a citizen of the United States means an individual who is a U.S. citizen; a partnership in which each member is a U.S. citizen; or a U.S. corporation of which the president and at least two-thirds of the board of directors and other managing officers are U.S. citizens, which is under the actual control of U.S. citizens, and in which at least seventy-five percent of the voting interest in the corporation is owned or controlled by U.S. citizens.</p>
+      <p>Sector: Air Transportation</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Senior Management and Boards of Directors (Article 9)</p>
+      <p>Level of Government: Central</p>
+      <p>49 U.S.C., Subtitle VII, Aviation Programs</p>
+      <p>49 U.S.C. &#xA7; 41703</p>
+      <p>14 C.F.R. Part 375</p>
+      <p>Description: "Foreign civil aircraft" require authority from the Department of Transportation to conduct specialty air services in the territory of the United States. In determining whether to grant a particular application, the Department will consider, among other factors, the extent to which the country of the applicant's nationality accords U.S. civil aircraft operators effective reciprocity.</p>
+      <p>"Foreign civil aircraft" are aircraft of foreign registry or aircraft of U.S. registry that are owned, controlled, or operated by persons who are not citizens or permanent residents of the United States (14 C.F.R. &#xA7; 375.1). Under 49 U.S.C. &#xA7; 40102(a)(15), a citizen of the United States means an individual who is a U.S. citizen; a partnership in which each member is a U.S. citizen; or a U.S. corporation of which the president and at least two-thirds of the board of directors and other managing officers are U.S. citizens, which is under the actual control of U.S. citizens, and in which at least seventy-five percent of the voting interest in the corporation is owned or controlled by U.S. citizens.</p>
+      <p>Sector: Transportation Services - Customs Brokers</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>19 U.S.C. &#xA7; 1641(b)</p>
+      <p>Description: A customs broker's license is required to conduct customs business on behalf of another person. Only U.S. citizens may obtain such a license. A corporation, association, or partnership established under the law of any state may receive a customs broker's license if at least one officer of the corporation or association, or one member of the partnership, holds a valid customs broker's license.</p>
+      <p>Sector: All Sectors</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Level of Government: Central</p>
+      <p>Measures: Securities Act of 1933, 15 U.S.C. &#xA7;&#xA7; 77c(b), 77f, 77g, 77h, 77j, and 77s(a)</p>
+      <p>17 C.F.R. &#xA7;&#xA7; 230.251 and 230.405</p>
+      <p>Securities Exchange Act of 1934, 15 U.S.C. &#xA7;&#xA7; 78l, 78m, 78o(d), and 78w(a)</p>
+      <p>17 C.F.R. &#xA7; 240.12b-2</p>
+      <p>Description: Foreign firms, except for certain Canadian issuers, may not use the small business registration forms under the Securities Act of 1933 to register public offerings of securities or the small business registration forms under the Securities Exchange Act of 1934 to register a class of securities or file annual reports.</p>
+      <p>Sector: Communications &#x2013; Radiocommunications</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>47 U.S.C. &#xA7; 310</p>
+      <p>Foreign Participation Order 12 FCC Rcd 23891 (1997)</p>
+      <p>Description: The United States reserves the right to restrict ownership of radio licenses in accordance with the above statutory and regulatory provisions. Radiocommunications consists of all communications by radio, including broadcasting.</p>
+      <p>Sector: All Sectors</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Performance Requirements (Article 8)</p>
+      <p>Senior Management and Boards of Directors (Article 9)</p>
+      <p>Level of Government: Regional</p>
+      <p>Measures: All existing non-conforming measures of all states of the United States, the District of Columbia, and Puerto Rico.</p>
+      <p>1. The Schedule of a Party to this Annex sets out, pursuant to Article 14 (Non-Conforming Measures), the specific sectors, subsectors, or activities for which the Party may maintain existing, or adopt new or more restrictive, measures that do not conform with obligations imposed by:</p>
+      <p>(a) Article 3 (National Treatment);</p>
+      <p>(b) Article 4 (Most-Favored-Nation Treatment);</p>
+      <p>(c) Article 8 (Performance Requirements); or</p>
+      <p>(d) Article 9 (Senior Management and Boards of Directors).</p>
+      <p>2. Each Schedule entry sets out the following elements:</p>
+      <p>(a) Sector refers to the sector for which the entry is made;</p>
+      <p>(b) Obligations Concerned specifies the article(s) referred to in paragraph 1 that, pursuant to Article 14.2, do not apply to the sectors, subsectors, or activities scheduled in the entry;</p>
+      <p>(c) Description sets out the scope of the sectors, subsectors, or activities covered by the entry; and</p>
+      <p>(d) Existing Measures identifies, for transparency purposes, existing measures that apply to the sectors, subsectors, or activities covered by the entry.</p>
+      <p>3. In accordance with Article 14.2, the articles of this Treaty specified in the ObligationsConcerned element of an entry do not apply to the sectors, subsectors, and activities identified in the Description element of that entry.</p>
+      <p>Sector: All Sectors</p>
+      <p>Obligations Concerned: National Treatment (Article 4)</p>
+      <p>Performance Requirements (Article 8)</p>
+      <p>Senior Management and Boards of Directors (Article 9)</p>
+      <p>Description: Rwanda reserves the right to adopt or maintain any measure that accords rights or preferences to socially or economically disadvantaged communities among the people of Rwanda.</p>
+      <p>Sector: All Sectors</p>
+      <p>Obligations Concerned: Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Description: Rwanda reserves the right to adopt or maintain any measure that accords differential treatment to countries under any bilateral or multilateral international agreement in force or signed prior to the date of entry into force of this Treaty.</p>
+      <p>Rwanda reserves the right to adopt or maintain any measure that accords differential treatment to countries under any bilateral or multilateral international agreement in force or signed after the date of entry into force of this Treaty involving:</p>
+      <p>(a) Aviation;</p>
+      <p>(b) Fisheries; and</p>
+      <p>(c) Telecommunications.</p>
+      <p>Sector: Communications</p>
+      <p>Obligations Concerned: Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Description: The United States reserves the right to adopt or maintain any measure that accords differential treatment to persons of other countries due to application of reciprocity measures or through international agreements involving sharing of the radio spectrum, guaranteeing market access, or national treatment with respect to the one-way satellite transmission of direct-to-home (DTH) and direct broadcasting satellite (DBS) television services and digital audio services.</p>
+      <p>Sector: Communications &#x2013; Cable Television</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Senior Management and Boards of Directors (Article 9)</p>
+      <p>Description: The United States reserves the right to adopt or maintain any measure that accords equivalent treatment to persons of any country that limits ownership by persons of the United States in an enterprise engaged in the operation of a cable television system in that country.</p>
+      <p>Sector: Social Services</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Performance Requirements (Article 8)</p>
+      <p>Senior Management and Boards of Directors (Article 9)</p>
+      <p>Description: The United States reserves the right to adopt or maintain any measure with respect to the provision of law enforcement and correctional services, and the following services to the extent they are social services established or maintained for a public purpose: income security or insurance, social security or insurance, social welfare, public education, public training, health, and child care.</p>
+      <p>Sector: Minority Affairs</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Performance Requirements (Article 8)</p>
+      <p>Senior Management and Boards of Directors (Article 9)</p>
+      <p>Description: The United States reserves the right to adopt or maintain any measure according rights or preferences to socially or economically disadvantaged minorities, including corporations organized under the laws of the State of Alaska in accordance with the Alaska Native Claims Settlement Act.</p>
+      <p>Existing Measures: Alaska Native Claims Settlement Act, 43 U.S.C. &#xA7;&#xA7; 1601 etseq.</p>
+      <p>Sector: Transportation</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Performance Requirements (Article 8)</p>
+      <p>Senior Management and Boards of Directors (Article 9)</p>
+      <p>Description: The United States reserves the right to adopt or maintain any measure relating to the provision of maritime transportation services and the operation of U.S.-flagged vessels, including the following:</p>
+      <p>(a) Requirements for investment in, ownership and control of, and operation of vessels and other marine structures, including drill rigs, in maritime cabotage services, including maritime cabotage services performed in the domestic offshore trades, the coastwise trades, U.S. territorial waters, waters above the continental shelf, and in the inland waterways;</p>
+      <p>(b) Requirements for investment in, ownership and control of, and operation of U.S.-flagged vessels in foreign trades;</p>
+      <p>(c) Requirements for investment in, ownership or control of, and operation of vessels engaged in fishing and related activities in U.S. territorial waters and the Exclusive Economic Zone;</p>
+      <p>(d) Requirements related to documenting a vessel under the U.S. flag;</p>
+      <p>(e) Promotional programs, including tax benefits, available for shipowners, operators, and vessels meeting certain requirements;</p>
+      <p>(f) Certification, licensing, and citizenship requirements for crew members on U.S.-flagged vessels;</p>
+      <p>(g) Manning requirements for U.S.-flagged vessels;</p>
+      <p>(h) All matters under the jurisdiction of the Federal Maritime Commission;</p>
+      <p>(i) Negotiation and implementation of bilateral and other international maritime agreements and understandings;</p>
+      <p>(j) Limitations on longshore work performed by crew members;</p>
+      <p>(k) Tonnage duties and light money assessments for entering U.S. waters; and</p>
+      <p>(l) Certification, licensing, and citizenship requirements for pilots performing pilotage services in U.S. territorial waters.</p>
+      <p>The following activities are not included in this reservation. However, the treatment in (b) is conditional upon obtaining comparable market access in these sectors from Rwanda:</p>
+      <p>(a) Vessel construction and repair; and</p>
+      <p>(b) Landside aspects of port activities, including operation and maintenance of docks; loading and unloading of vessels directly to or from land; marine cargo handling; operation and maintenance of piers; ship cleaning; stevedoring; transfer of cargo between vessels and trucks, trains, pipelines, and wharves; waterfront terminal operations; boat cleaning; canal operation; dismantling of vessels; operation of marine railways for drydocking; marine surveyors, except cargo; marine wrecking of vessels for scrap; and ship classification societies.</p>
+      <p>Existing Measures: Merchant Marine Act of 1920, &#xA7;&#xA7; 19 and 27, now codified at 46 U.S.C. &#xA7;&#xA7; 12101, 12120, 12132, 42101-42109, 55102, 55105-55108, 55110, 55115-55117, and 55119</p>
+      <p>Jones Act Waiver Statute, 64 Stat 1120, 46 U.S.C. App., note preceding Section 1</p>
+      <p>Shipping Act of 1916, 46 U.S.C. &#xA7;&#xA7; 50501, 56101, and 57109</p>
+      <p>Merchant Marine Act of 1936, 46 U.S.C. App. &#xA7;&#xA7; 1151 etseq., 1171 etseq., and 46 U.S.C. &#xA7;&#xA7; 50111, 53301-53312, 53701-53717, 53721-53725, 53731-53735, 55304, 55305, 57101, 57104, and 57301-57308</p>
+      <p>Merchant Ship Sales Act of 1946, 50 U.S.C. App. &#xA7; 1738</p>
+      <p>46 U.S.C. &#xA7;&#xA7; 55109, 55111, 55118, 60301, 60302, 60304-60306, 60312, and 80104</p>
+      <p>46 U.S.C. &#xA7;&#xA7; 12101 etseq. and 31301 etseq.</p>
+      <p>46 U.S.C. &#xA7;&#xA7; 8904 and 31328(2)</p>
+      <p>Passenger Vessel Act, 46 U.S.C. &#xA7; 55103</p>
+      <p>42 U.S.C. &#xA7;&#xA7; 9601 etseq.; 33 U.S.C. &#xA7;&#xA7; 2701 etseq.; 33 U.S.C. &#xA7;&#xA7; 1251 etseq.</p>
+      <p>46 U.S.C. &#xA7;&#xA7; 3301 etseq., 3701 etseq., 8103, and 12107(b)</p>
+      <p>Shipping Act of 1984, 46 U.S.C. &#xA7;&#xA7; 40701-40706, 41107-41109</p>
+      <p>The Foreign Shipping Practices Act of 1988, 46 U.S.C. &#xA7;&#xA7; 42301 etseq.</p>
+      <p>Merchant Marine Act, 1920, 46 U.S.C. &#xA7;&#xA7; 50101 etseq.</p>
+      <p>Shipping Act of 1984, 46 U.S.C. &#xA7;&#xA7; 40101 etseq.</p>
+      <p>Alaska North Slope, 104 Pub. L. 58; 109 Stat. 557</p>
+      <p>Longshore restrictions and reciprocity, 8 U.S.C. &#xA7;&#xA7; 1101 etseq.</p>
+      <p>Vessel escort provisions, Section 1119 of Pub. L. 106-554, as amended</p>
+      <p>Nicholson Act, 46 U.S.C. &#xA7; 55114</p>
+      <p>Commercial Fishing Industry Vessel Anti-Reflagging Act of1987, 46 U.S.C. &#xA7; 2101 and 46 U.S.C. &#xA7; 12108</p>
+      <p>43 U.S.C. &#xA7; 1841</p>
+      <p>22 U.S.C. &#xA7; 1980</p>
+      <p>Intercoastal Shipping Act, 46 U.S.C. App. &#xA7; 843</p>
+      <p>46 U.S.C. &#xA7; 9302, 46 U.S.C. &#xA7; 8502; Agreement Governing the Operation of Pilotage on the Great Lakes, Exchange of Notes at Ottawa, August 23, 1978, and March 29,1979, TIAS 9445</p>
+      <p>Magnuson Fishery Conservation and Management Act, 16 U.S.C. &#xA7;&#xA7; 1801 etseq.</p>
+      <p>19 U.S.C. &#xA7; 1466</p>
+      <p>North Pacific Anadramous Stocks Convention Act of 1972, Pub. L. 102-587; Oceans Act of 1992, Title VII</p>
+      <p>Tuna Convention Act, 16 U.S.C. &#xA7;&#xA7; 951 etseq.</p>
+      <p>South Pacific Tuna Act of 1988, 16 U.S.C. &#xA7;&#xA7; 973 etseq.</p>
+      <p>Northern Pacific Halibut Act of 1982, 16 U.S.C. &#xA7;&#xA7; 773 etseq.</p>
+      <p>Atlantic Tunas Convention Act, 16 U.S.C. &#xA7;&#xA7; 971 etseq.</p>
+      <p>Antarctic Marine Living Resources Convention Act of 1984, 16 U.S.C. &#xA7;&#xA7;243 l etseq.</p>
+      <p>Pacific Salmon Treaty Act of 1985, 16 U.S.C. &#xA7;&#xA7; 3631 etseq.</p>
+      <p>American Fisheries Act, 46 U.S.C. &#xA7; 12102(c) and 46 U.S.C. &#xA7; 31322(a)</p>
+      <p>Sector: All</p>
+      <p>Obligations Concerned: Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Description: The United States reserves the right to adopt or maintain any measure that accords differential treatment to countries under any bilateral or multilateral international agreement in force or signed prior to the date of entry into force of this Treaty.</p>
+      <p>The United States reserves the right to adopt or maintain any measure that accords differential treatment to countries under any bilateral or multilateral international agreement in force or signed after the date of entry into force of this Treaty involving:</p>
+      <p>(a) Aviation;</p>
+      <p>(b) Fisheries;</p>
+      <p>(c) Maritime matters, including salvage; or</p>
+      <p>(d) Telecommunications.</p>
+      <p>1.</p>
+      <p>(a) The Schedule of a Party to this Annex sets out, pursuant to Article 14 (Non-Conforming Measures), the Party's existing measures that are not subject to some or all of the obligations imposed by:</p>
+      <p>(i) Article 3 (National Treatment);</p>
+      <p>(ii) Article 4 (Most-Favored-Nation Treatment);</p>
+      <p>(iii) Article 8 (Performance Requirements); or</p>
+      <p>(iv) Article 9 (Senior Management and Boards of Directors).</p>
+      <p>(b) The Schedule of the United States to this Annex sets out headnotes that limit or clarify the commitments of the United States with respect to the articles described in subparagraph (a)(i) through (iv).</p>
+      <p>2. Each Schedule entry sets out the following elements:</p>
+      <p>(a) Sector refers to the general sector for which the entry is made;</p>
+      <p>(b) Subsector refers to the specific sector for which the entry is made;</p>
+      <p>(c) Obligations Concerned specifies the article(s) referred to in paragraph 1 that, pursuant to Article 14.1(a), do not apply to the non-conforming aspects of the law, regulation, or other measure, as set out in paragraph 3;</p>
+      <p>(d) Level of Government indicates the level of government maintaining the scheduled measure(s);</p>
+      <p>(e) Measures identifies the laws, regulations, or other measures for which the entry is made. A measure cited in the Measures element:</p>
+      <p>(i) Means the measure as amended, continued, or renewed as of the date of entry into force of this Treaty, and</p>
+      <p>(ii) Includes any subordinate measure adopted or maintained under the authority of and consistent with the measure; and</p>
+      <p>(f) Description provides a general, nonbinding description of the measure for which the entry is made.</p>
+      <p>3. In accordance with Article 14.1(a), and subject to Article 14.1(c), the articles of this Treaty specified in the Obligations Concerned element of an entry do not apply to the nonconforming aspects of a law, regulation, or other measure identified in the Measures element of that entry.</p>
+      <p>Sector: Insurance</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>Measures: Law No. 18/1982 of 25/05/1982 pertaining to conditions of operating insurance companies, Article 2</p>
+      <p>Description: Insurance companies operating in Rwanda must have at least 30% shares owned by nationals of Rwanda.</p>
+      <p>Phase Out: This Annex III entry shall cease to have effect on the earlier of: (i) the date that Rwanda enacts an insurance law that eliminates the non-conforming aspects of the measure as set forth above;(1) or (ii) September 1, 2009.</p>
+      <p>(1) As of the signing of this Treaty, a draft insurance law is being developed that Rwanda expects will repeal the current 1982 insurance law and remove the 70% equity cap for foreigners.</p>
+      <p>Headnotes</p>
+      <p>1. Commitments in these subsectors under the Treaty are undertaken subject to the limitations and conditions set forth in these headnotes and in the Schedule below.</p>
+      <p>2. National treatment commitments in these subsectors are subject to the following limitations:</p>
+      <p>(a) National treatment with respect to banking will be provided based upon the foreign bank's "home state" in the United States, as that term is defined under the International Banking Act, where that Act is applicable. A domestic bank subsidiary of a foreign firm will have its own "home state," and national treatment will be provided based upon the subsidiary's home state, as determined under applicable law.(1)</p>
+      <p>(b) National treatment with respect to insurance financial institutions will be provided according to a non-U.S. insurance financial institution's state of domicile, where applicable, in the United States. State of domicile is defined by individual states, and is generally the state in which an insurer either is incorporated, is organized, or maintains its principal office in the United States.</p>
+      <p>(1) Foreign banking organizations are generally subject to geographic and other limitations in the United States on a national treatment basis. Where such limitations do not conform to national treatment, they have been listed as non-conforming measures. For purposes of illustration, under this approach, the following situation does not accord national treatment and would therefore be listed as a non-conforming measure: a foreign bank from a particular home state is accorded less favorable treatment than that accorded to a domestic bank from that state with respect to expansion by branching.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: Senior Management and Boards of Directors (Article 9)</p>
+      <p>Level of Government: Central</p>
+      <p>12 U.S.C. &#xA7; 72</p>
+      <p>Description: All directors of a national bank must be U.S. citizens, except that the Comptroller of the Currency may waive the citizenship requirement for not more than a minority of the total number of directors.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>12 U.S.C. &#xA7; 619</p>
+      <p>Description: Foreign ownership of Edge corporations is limited to foreign banks and U.S. subsidiaries of foreign banks, while domestic non-bank firms may own such corporations.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>12 U.S.C. &#xA7; 1463 etseq. and 12 U.S.C. &#xA7; 1751 etseq.</p>
+      <p>Description: Federal and state laws do not permit a credit union, savings bank, or savings association (both of the latter two entities may be also called thrift institutions) in the United States to be established through branches of corporations organized under a foreign country's law.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>12 U.S.C. &#xA7; 3104(d)</p>
+      <p>Description: In order to accept or maintain domestic retail deposits of less than $100,000, a foreign bank must establish an insured banking subsidiary. This requirement does not apply to a foreign bank branch that was engaged in insured deposit-taking activities on December 19, 1991.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>15 U.S.C. &#xA7;&#xA7; 80b-2 and 80b-3</p>
+      <p>Description: Foreign banks are required to register as investment advisers under the Investment Advisers Act of 1940 to engage in securities advisory and investment management services in the United States, while domestic banks (2) (or a separately identifiable department or division of the bank) do not have to register unless they advise registered investment companies. The registration requirement involves record maintenance, inspections, submission of reports, and payment of a fee.</p>
+      <p>(2) For greater certainty, "domestic banks" include U.S. bank subsidiaries of foreign banks.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>12 U.S.C. &#xA7;&#xA7; 221, 302, and 321</p>
+      <p>Description: Foreign banks cannot be members of the Federal Reserve System, and thus may not vote for directors of a Federal Reserve Bank. Foreign-owned bank subsidiaries are not subject to this measure.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>12 U.S.C. &#xA7; 3102(a)(1); 12 U.S.C. &#xA7; 3103(a); 12 U.S.C. &#xA7; 3102(d)</p>
+      <p>Description: Establishment of a federal branch or agency by a foreign bank is not available in the following states that may prohibit establishment of a branch or agency by a foreign bank:</p>
+      <p>- Branches and agencies may be prohibited in Alabama, Kansas, Maryland, North Dakota, and Wyoming.</p>
+      <p>- Branches, but not agencies, may be prohibited in Delaware, Florida, Georgia, Idaho, Louisiana, Mississippi, Missouri, Oklahoma, Texas, and West Virginia.</p>
+      <p>Certain restrictions on fiduciary powers apply to federal agencies.</p>
+      <p>Note: The cited federal measures provide that certain state law restrictions shall apply to the establishment of federal branches or agencies.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Level of Government: Central</p>
+      <p>15 U.S.C. &#xA7; 77jjj(a)(1)</p>
+      <p>Description: The authority to act as a sole trustee of an indenture for a bond offering in the United States is subject to a reciprocity test.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Level of Government: Central</p>
+      <p>22 U.S.C. &#xA7;&#xA7; 5341-5342</p>
+      <p>Description: Designation as a primary dealer in U.S. government debt securities is conditioned on reciprocity.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Level of Government: Central</p>
+      <p>15 U.S.C. &#xA7; 78o(c)</p>
+      <p>Description: A broker-dealer registered under U.S. law that has its principal place of business in Canada may maintain its required reserves in a bank in Canada subject to the supervision of Canada.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Banking and Other Financial Services (Excluding Insurance)</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>12 U.S.C. &#xA7; 1421 etseq. (Federal Home Loan Banks); 12 U.S.C. &#xA7; 1451 etseq. (Federal Home Loan Mortgage Corporation); 12 U.S.C. &#xA7; 1717 etseq. (Federal National Mortgage Association); 12 U.S.C. &#xA7; 2011 etseq. (Farm Credit Banks); 12 U.S.C. &#xA7; 2279aa-1 etseq. (Federal Agricultural Mortgage Corporation); 20 U.S.C. &#xA7; 1087-2 etseq. (Student Loan Marketing Association)</p>
+      <p>Description: The United States may grant advantages, including but not limited to the following, to one or more of the Government-Sponsored Enterprises (GSEs) listed above:</p>
+      <p>- Capital, reserves, and income of the GSE are exempt from certain taxation.</p>
+      <p>- Securities issued by the GSE are exempt from registration and periodic reporting requirements under federal securities laws.</p>
+      <p>- The U.S. Treasury may, in its discretion, purchase obligations issued by the GSE.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: Insurance</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>31 U.S.C. &#xA7; 9304</p>
+      <p>Description: Branches of foreign insurance companies are not permitted to provide surety bonds for U.S. Government contracts.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector Insurance</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Level of Government: Central</p>
+      <p>46 C.F.R. &#xA7; 249.9</p>
+      <p>Description: When more than 50 percent of the value of a maritime vessel whose hull was built under federally guaranteed mortgage funds is insured by a non-U.S. insurer, the insured must demonstrate that the risk was substantially first offered in the U.S. market.</p>
+      <p>Sector: Financial Services</p>
+      <p>Subsector: All</p>
+      <p>Obligations Concerned: National Treatment (Article 3)</p>
+      <p>Most-Favored-Nation Treatment (Article 4)</p>
+      <p>Performance Requirements (Article 8)</p>
+      <p>Senior Management and Boards of Directors (Article 9)</p>
+      <p>Level of Government: Regional</p>
+      <p>Measures: All existing non-conforming measures of all states of the United States, the District of Columbia, and Puerto Rico.</p>
+    </attachments>
+  </main>
+</treaty>

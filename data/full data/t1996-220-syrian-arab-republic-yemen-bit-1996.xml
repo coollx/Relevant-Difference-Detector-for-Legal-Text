@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Syrian Arab Republic - Yemen BIT (1996)</name>
+    <code>T1996-220</code>
+    <partyisocode n="0">SYR</partyisocode>
+    <partyisocode n="1">YEM</partyisocode>
+    <date_signed>1996-10-09</date_signed>
+    <date_into_force>2005-07-22</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>3015</docreference>
+    <comments>asked ministry of Foreign Affairs already</comments>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{SYR,YEM}_1996-10-09.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+  </meta>
+  <main/>
+</treaty>

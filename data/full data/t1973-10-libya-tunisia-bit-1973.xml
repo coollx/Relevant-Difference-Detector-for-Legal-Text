@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Libya - Tunisia BIT (1973)</name>
+    <code>T1973-10</code>
+    <partyisocode n="0">LBY</partyisocode>
+    <partyisocode n="1">TUN</partyisocode>
+    <date_signed>1973-06-06</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ar</orig_language>
+    <termination_type/>
+    <docreference>2413</docreference>
+    <comments>1975-02-16 approved in Tunisia</comments>
+    <source>http://www.legislation.tn</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{LBY,TUN}_1973-06-06.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>ar</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement</p>
+      <p>To encourage and guarantee the movement of capital for investment between</p>
+      <p>Republic of Tunisia and the Libyan Arab Republic</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Tunisia</p>
+      <p>And the Government of the Libyan Arab Republic,</p>
+      <p>Desiring to strengthen the bonds of brotherhood between the two countries and fulfill the hopes of people in the greater convergence and cooperation in all fields, and believing of the importance of closer cooperation in the economic fields on the basis of mutual benefits and common interests.</p>
+      <p>Agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each of the Contracting Parties shall encourage the movement of capital for investment by the citizens, companies and institutions of both countries in development projects in the other country and within the limits of the systems, laws and legislation in force or may be issued in the future in any of the two countries.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Both governments agree to give the capital invested in any of the two countries the following guarantees:</p>
+        <p>1 The right of capital return which was transmitted to it from the other country to the native country without any hindrance or delay through normal banking channels.</p>
+        <p>2 The right of return profits, revenues or benefits resulting from investments, and proceeds of the liquidation of the investment project, whatever the value to the country of the original capital without any hindrance or delay through normal banking channels.</p>
+        <p>3 The invested capital shall not been exposed in any country of the two countries to nationalization or expropriation except in cases of extreme necessity required by the public interest in any of the two countries, for a fair compensation estimated on the basis of the date of nationalization or expropriation and converts without undue delay.</p>
+        <p>4 Capital invested in any of the two countries that was transmitted to it from the other country, is treated the same treatment of the national capital.</p>
+      </div>
+      <div type="article" num="3">
+        <p>The two governments are working to reach a joint agreement to avoid double taxation between the two countries on mutual investment activities in accordance with this Agreement.</p>
+      </div>
+      <div type="article" num="4">
+        <p>The country where the investment is located in accordance with this Agreement does not allow the transfer of funds of invested capital, profits and benefits to another country unless the Government of the original country approve such a transfer.</p>
+      </div>
+      <div type="article" num="5">
+        <p>A joint committee called the Investment Promotion Committee is formed, and meets when needed alternately in both Tripoli and Tunisia to follow up the implementation of this Agreement and to consider any problems or obstacles in this regard and make recommendations thereon to the competent authorities in both countries to overcome.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Any dispute arising from the interpretation or application of this Agreement shall be settled by direct contact between the contracting parties.</p>
+        <p>In case of failure to reach a resolution of the dispute in accordance with the above the dispute shall be referred to an arbitration tribunal at the request of one of the parties, and this tribunal is constituted of three members, each of the contracting parties appoint one member, the third member (The president) shall be appointed by an agreement between the parties, chosen from another country that does not have such a member's interest in the subject of the dispute, the arbitration tribunal issued its decisions by majority voting, and its decisions are considered final.</p>
+      </div>
+      <div type="article" num="7">
+        <p>Each Contracting Party is committed to all links that had been taken upon itself, the guarantees and benefits that had been granted to the other party in accordance with the provisions of this Agreement until this agreement is finished.</p>
+      </div>
+      <div type="article" num="8">
+        <p>This Agreement is ratified in both countries in accordance with the constitutional procedures followed in each, and takes effect after fifteen days from the date of exchange of instruments of ratification.</p>
+        <p>This Agreement shall remain in force unless either party notifies the other of its intention to terminate the Agreement. The termination is valid for a period of six months from the date of such notification.</p>
+        <p>This agreement was done in two original copies in Arabic in Tunis on 5 Jumada Al&#xF3;ula 1393 AH, June 6, 1973.</p>
+        <p>For the Government of the Republic of Tunisia</p>
+        <p>First Minister</p>
+        <p>Alhadi Nowera</p>
+        <p>For the Government of the Libyan Arab Republic</p>
+        <p>Prime Minister</p>
+        <p>Alrae'd Abdul Salam Jlood</p>
+      </div>
+    </body>
+  </main>
+</treaty>

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Germany - Turkey BIT (1962)</name>
+    <code>T1962-8</code>
+    <partyisocode n="0">DEU</partyisocode>
+    <partyisocode n="1">TUR</partyisocode>
+    <date_signed>1962-06-20</date_signed>
+    <date_into_force>1965-12-16</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1771</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{DEU,TUR}_1962-06-20.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>Treaty Between the Federal Republic of Germany and the Republic of Turkey Concerning the Reciprocal Promotion and Reciprocal Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>THE FEDERAL REPUBLIC OF GERMANY and THE REPUBLIC OF TURKEY</p>
+      <p>DESIRING to intensify economic cooperation between both States,</p>
+      <p>INTENDING to create favorable conditions for investments by nationals and companies of either State in the territory of the other State, and</p>
+      <p>RECOGNIZING that reciprocal contractual promotion and reciprocal contractual protection of such investments are apt to stimulate private business initiative and to increase the prosperity of both nations,</p>
+      <p>HAVE AGREED AS FOLLOWS:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>(1) Each contracting party shall in its territory admit the investment of capital, in accordance with its legislation, by nationals or companies of the other Contracting Party, promote such investments as far as possible, and give sympathetic consideration to the granting of any required permit. In all cases the Contracting Parties shall accord these investments fair and equitable treatment.</p>
+        <p>(2) Investments owned or controlled by nationals or companies of either Contracting Party, shall in the territory of the other Contracting Party not receive treatment by that party less favorable than it accords investments by its own nationals or companies or investments by nationals or companies of any third State.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Neither Contracting Party shall subject nationals or companies of the other Contracting Party, as regards occupational or economic activities carried on in its territory in connection with investments made by them, to conditions less favorable than it imposes on its own nationals or companies or on nationals or companies of any third State. The same shall apply in respect of the management, use or enjoyment of such investments.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Investments by nationals or companies of either Contracting Party shall enjoy protection and security in the territory of the other Contracting Party.</p>
+        <p>(2) The investments of nationals or companies of either Contracting Party shall not be expropriated in the territory of the other Contracting Party except for the public benefit and against indemnity representing the full value of the investment affected. Said indemnity shall be furnished promptly, be capable of actual realization and be freely transferaable. Provision shall have been made at or prior to the time of expropriation for the determination and payment of the full value. Any dispute as to the legality of such expropriation or as to the amount of the indemnity shall be subject to review by due process of law.</p>
+        <p>(3) Nationals or companies of either Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to war or armed conflict or to any acts likely to disturb the public order, shall be accorded treatment no less favorable by said other Contracting Party than that party accords to its own nationals and companies as regards all compensation. With respect to the transfer of such payments, each Contracting Party shall accord to the claims of nationals or companies of the other Contracting Party treatment no less favorable than is accorded to comparable claims made by nationals or companies of any third State.</p>
+        <p>(4) The nationals or companies of either Contracting Party shall enjoy most-favored-nation treatment in the territory of the other Contracting Party in respect of the matters provided for in the present Article.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Each Contracting Party shall guarantee to nationals or companies of the other Contracting Party the transfer of the capital and returns and, in the event of liquidation, of the proceeds thereof.</p>
+      </div>
+      <div type="article" num="5">
+        <p>If a claim is made on a Contracting Party under a guarantee granted in respect of an investment, it may, without prejudice to its rights under Article 11, assume on the conditions applicable to its predecessor in title those rights that have devolved upon it under law or best assigned to it by its predecessor in title (transferred claims). For the transfer of payments to be made to the Contracting Party in respect of transferred claims, the provisions of Article 3, paragraphs 2, 3 and 4 and Article 4 shall apply mutatis mutandis.</p>
+      </div>
+      <div type="article" num="6">
+        <p>(1) To the extent that the participants have not made a different arrangement authorized by the appropriate agencies of the Contracting Party in whose territory the investment is located, transfers under Article 3, paragraphs 2 and 3, Article 4 or Article 5 shall be effected promptly and at the rate of exchange effectively used and expressly or tacitly approved by the International Monetary Fund for current transactions on the day the transfer is made.</p>
+        <p>(2) If at the date of transfer no rate of exchange within the meaning of paragraph 1 above exists in respect of either Contracting Party, the official rate fixed by such Contracting Party for its currency in relation to the US dollar or to another freely convertible currency or to gold shall be applied. If no such rate has been fixed, the appropriate agencies of the Contracting Party in whose territory the capital is invested shall authorize a rate of exchange that is fair and equitable.</p>
+      </div>
+      <div type="article" num="7">
+        <p>(1) If the legislation of either Contracting Party or international obligations existing at present or established hereafter between the Contracting Parties in addition to the present Treaty contain a regulation entitling investments by nationals or companies of the other Contracting Party to a treatment more favorable than is provided for by the present Treaty, such regulation shall not be affected by the present treaty.</p>
+        <p>(2) Each Contracting Party shall comply with any other obligation that it may have incurred in respect of investments within its territory by nationals or companies of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="8">
+        <p>(1) The term "investment" within the meaning of this Treaty shall comprise all assets, and more particularly, though not exclusively:</p>
+        <p>(a) Ownership of movable and immovable property as well as any other rights in rem;</p>
+        <p>(b) Shares in companies or other kinds of participations;</p>
+        <p>(c) Claims to money or to any performance having an economic value;</p>
+        <p>(d) Copyrights, industrial property rights, technical processes, tradenames, goodwill;</p>
+        <p>(e) Rights granted under public law, including rights of use.</p>
+        <p>Any alteration in the form in which assets are invested shall not affect their character as an investment within the framework of a permit used.</p>
+        <p>(2) The term "returns" shall mean the amounts derived from an investment as profit or interest for a specific period.</p>
+        <p>(3) The term "nationals" shall mean:</p>
+        <p>(a) In respect of the Federal Republic of Germany: Germans within the meaning of the Basic Law for the Federal Republic of Germany;</p>
+        <p>(b) In respect of the Republic of Turkey: all persons who are Turks within the meaning of the Constitution of the Republic of Turkey and the Turkish law of nationality;</p>
+        <p>(4) The term "companies" shall mean:</p>
+        <p>(a) In respect of the Federal Republic of Germany: any juridical person as well as any commercial or other company or association, with or without legal personality, having its seat in the territory of the Federal Republic of Germany and lawfully existing in accordance with German legal provisions, irrespective of whether the liability of its partners, associates or members is limited or unlimited and whether or not its activities are directed at profit;</p>
+        <p>(b) In respect of the Republic of Turkey: any juridical person or commercial or other company or association, with or without legal personality, having its seat in the territory of the Republic of Turkey and lawfully existing in accordance with Turkish legal provisions, irrespective of whether the liability of its partners, associates or members is limited or unlimited and whether or not its activities are directed at profit.</p>
+      </div>
+      <div type="article" num="9">
+        <p>The present Treaty shall also apply to investments made prior to entry into force of this Treaty by nationals or companies of either Contracting Party in the territory of the other Contracting Party in accordance with the latter's legislation.</p>
+      </div>
+      <div type="article" num="10">
+        <p>Each Contracting Party shall grant resident treatment within the framework of the present Treaty in consideration of the fact that resident treatment in like matters is also granted by the other Contracting Party.</p>
+      </div>
+      <div type="article" num="11">
+        <p>(1) In the event of a dispute concerning interpretation or application of the present Treaty, the Contracting Parties shall hold consultations in order to obtain a settlement in a friendly spirit.</p>
+        <p>(2) If a dispute cannot thus be settled within one year from the date on which either of the Contracting Parties proposes to the other that they hold consultations, as mentioned in paragraph (1) above, they may submit the dispute to an arbitral tribunal.</p>
+        <p>(3) Such arbitral tribunal shall be established in each individual case, each Contracting Party appointing one member, which two members shall then agree upon a chairman, who shall be appointed by the governments of the two Contracting Parties. The two members shall be appointed within two months and the chairman within three months after one of the Contracting Parties has made known to the other Contracting Party that it wants the dispute to be submitted to an arbitral tribunal.</p>
+        <p>(4) If the periods specified in paragraph 3 have not been observed, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice President should make the necessary appointments. If the Vice President is also a national of either Contracting Party or if he, too, is prevented from discharging the said function, the member of the International Court of Justice next in seniority who is not a national of either Contracting Party should make the necessary appointments.</p>
+        <p>(5) The arbitral tribunal shall reach its decisions by a majority of votes. Its decisions shall be binding. Each Contracting Party shall bear the costs of its own member and of its representatives in the arbitral proceedings; the costs of the chairman and all other costs shall be borne in equal parts by both Contracting Parties. The arbitral tribunal may make a different arrangement concerning costs.</p>
+        <p>(6) In all other respects the arbitral tribunal shall determine its own procedure, unless the Contracting Parties have agreed on other procedures before the arbitral tribunal was set up.</p>
+      </div>
+      <div type="article" num="12">
+        <p>The provisions of the present Treaty shall remain in force also in the event of a conflict arising between the Contracting Parties, without prejudice to the right to take such temporary measures as are admitted under the general rules of international law. Measures of this kind shall be lifted not later than the date of actual termination of the conflict, whether or not diplomatic relations, in the event that they were suspended, have been reestablished.</p>
+      </div>
+      <div type="article" num="13">
+        <p>With the exception of the provisions in section 11 of the Protocol referring to air transportation, the present Treaty shall also apply to Land Berlin, provided that the government of the Federal Republic of Germany shall not have made a contrary declaration to the Turkish government within three months from the entry into force of the present Treaty.</p>
+      </div>
+      <div type="article" num="14">
+        <p>(1) The present Treaty shall be ratified; the instruments of ratification shall be exchanged as soon as possible in Bonn.</p>
+        <p>(2) The present Treaty shall enter into force one month after the exchange of the instruments of ratification. It shall remain in force for a period of ten years and shall be extended thereafter for an unlimited period except if denounced in writing by either Contracting Party one year before its expiration. After expiration of the ten-year period, the present Treaty may be denounced at any time by either Contracting Party giving one year's notice.</p>
+        <p>(3) In respect of investments made prior to the date of termination of the present Treaty, the provisions of Articles 1-13 shall continue to be effective for a further period of 15 years from the date of termination of the present Treaty.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE at Ankara on June 2, 1962 in four originals, two in German and two in Turkish, both texts being equally binding.</p>
+      <p>For the Federal Republic of Germany</p>
+      <p>G. von Broich-Oppert</p>
+      <p>Dr. Kurt Daniel</p>
+      <p>For the Republic of Turkey</p>
+      <p>Feridum C. Erkin</p>
+      <p>Turgut Aytug</p>
+    </conclusion>
+    <attachments>
+      <p>On signing the Treaty concerning the Reciprocal Promotion and Reciprocal Protection of Investments between the Federal Republic of Germany and the Republic of Turkey, the undersigned plenipotentiaries have, in addition, agreed on the following provisions, which should be regarded as an integral part of the said Treaty:</p>
+      <p>1. Ad Article 1:</p>
+      <p>(a) Ad paragraph 1, sentence 1:</p>
+      <p>Each Contracting Party, in conformity with its own legislation, may freely decide whether it will issue a required permit. If the permit is issued, the investment shall enjoy full protection under this Treaty.</p>
+      <p>(b) Ad paragraph 2:</p>
+      <p>Article 1, paragraph 2 shall not apply to rights and privileges granted prior to entry into force of this Treaty. After entry into force of this Treaty, the Contracting Parties shall apply their legislation in accordance with Article 1, paragraph 2.</p>
+      <p>2. Article 1, paragraph 1 and Articple 4:</p>
+      <p>Assets covered by Article 9 of the May 11, 1959 Agreement concerning the Trade Debts of Persons with Seat in Turkey (Paris Agreement), shall enjoy protection under this Treaty, if their investment has been authorized under Article 9 of the Paris Agreement. For the transfer of capital and returns in respect of these assets the transfer regulations of the Paris Agreement shall remain unchanged. The transfer restrictions provided for in the Paris Agreement shall apply to an investment that includes other assets enjoying protection under this Treaty only in respect of that part that is covered by the provisions of the Paris Agreement.</p>
+      <p>3. Ad Article 2:</p>
+      <p>(a) The following in particular shall be deemed "conditions" within the meaning of Article 2: restricting the purchase of raw or auxiliary materials, energy and fuel or means of production or operation of any kind, impeding the marketing of products inside or outside the country, as well as any other measures having similar effects. Measures of a general nature enforced by a Contracting Party without discrimination in respect of its nationals and companies and in respect of nationals and companies of third States, and measures that have to be taken for reasons of public security and order, public health or morality, shall not be deemed "conditions" within the meaning of Article 2.</p>
+      <p>(b) Article 2 shall not give the right to the exercise of any economic activity other than what would normally correspond to economic activity in connection with the capital investment. To the extent that a permit is needed for the investment under Article 1, paragraph 1, the scope of the sphere of activity for the investment may be specified in the document of admission.</p>
+      <p>(c) Article 2 shall not apply to the arrival, sojourn or employment of workers.</p>
+      <p>4. Ad Article 3, paragraph 2:</p>
+      <p>(a) Expropriation within the sense of Article 3, paragraph 2 shall mean the taking away or restricting of any property or property right considered an investment under this Treaty, by such measures of sovereign power and to such extent as are tantamount to expropriation. The provisions of Article 3, paragraph 2 shall also apply to the nationalization of an investment.</p>
+      <p>(b) Indemnity shall be deemed to be furnished promptly within the meaning of Article 3, paragraph 2, sentence 2, when it occurs without culpable delay.</p>
+      <p>5. Ad Article 4:</p>
+      <p>(a) Liquidation within the meaning of Article 4 shall be deemed to include any disposal effected for the purpose of completely or partly giving up the investment concerned.</p>
+      <p>(b) It is understood between the Contracting Parties that application of Article 4 shall affect neither the legislation of the Contracting Parties concerning taxes, levies and other fiscal charges nor the establishment of maximum prices on the sale of assets.</p>
+      <p>6. Ad Article 5:</p>
+      <p>It is agreed between the Contracting Parties that in the event of a guarantee as provided for in Article 5, a successor in title may exercise transferred claims in the territory of one of the Contracting Parties only in the same way as his predecessor in title.</p>
+      <p>7. Ad Article 6:</p>
+      <p>(a) A transfer shall be deemed to have been effected "promptly" within the meaning of Article 6, paragraph 1, if it takes place within such period as is normally required for the completion of transfer formalities. Said period shall commence on the day on which the relevant request, accompanied by the requisite documentation and certificates, has been duly submitted to the pertinent authority, and may on no account exceed two months.</p>
+      <p>(b) The term "current transactions" in Article 6, paragraph 1 refers to all capital movements which, within the meaning of the provisions of Article XIX, Section (i), Subsections 2 and 3 of the IMF Agreement, are "current transactions."</p>
+      <p>8. Ad Article 7:</p>
+      <p>The obligations of the Contracting Parties referred to in Article 7, paragraph 2 cover only the obligations undertaken by the pertinent authorities of the Contracting Parties in exercise of public authority.</p>
+      <p>9. Ad Article 8:</p>
+      <p>(a) Ad paragraph 1:</p>
+      <p>(aa) The Contracting Parties agree that any returns shall be regarded as an increase in the value of the asset and therefore, as part of the investment, shall enjoy the same protection as the latter.</p>
+      <p>(bb) With respect to assets brought into the territory of one of the Contracting Parties or obtained in the territory of the Contracting Party before entry into effect of this Treaty, the Contracting Parties may freely decide at the time of admissions of an investment within the meaning of Article 1, paragraph 1, whether said assets may be included in the new investment</p>
+      <p>(cc) The pertinent authorities of the Contracting Parties shall have the right to appoint experts to verify whether the asserts comprising a capital investment correspond in terms of nature and value to the assets described in the document of admission.</p>
+      <p>(b) Ad paragraph 2:</p>
+      <p>Profit and interest within the meaning of Article 8, paragraph 2 shall be the net amounts accruing pro rata on the investments.</p>
+      <p>(c) Ad paragraph 4:</p>
+      <p>The provisions of Article 8, paragraph 4 shall also cover all public-sector business enterprises.</p>
+      <p>10. Ad Article 9:</p>
+      <p>(a) The term "legal provisions" in Article 9 covers, with respect to the Republic of Turkey, Law No. 6224 on the Promotion of Foreign Capital and Petroleum Law No. 6326, including amending and supplementing laws.</p>
+      <p>(b) The Contracting Parties agree that the obligations of the Federal Republic of Germany under the February 27, 1953 Agreement concerning German Foreign Debts shall not be affected by this Treaty.</p>
+      <p>11. Each Contracting Party shall refrain from any measures which, contrary to the principles of free competition, may prevent or hinder seagoing vessels or airplances of the other Contracting Party from participating in the transport of goods intended for investment within the meaning of the present Treaty, or of persons, when such transportation is in connection with such an investment.</p>
+      <p>12. Without prejudice to other procedures on the establishment of nationality, any person shall be regarded as a national of either Contracting Party provided that he is in possession of a national travel pass issued by the pertinent authorities of the Contracting Party concerned.</p>
+      <p>DONE at Ankara on June 20, 1962, in four copies, two in German and two in Turkish, both texts being equally binding.</p>
+      <p>For the Federal Republic of Germany:</p>
+      <p>G. von Broich-Oppert</p>
+      <p>Dr. Kurt Daniel</p>
+      <p>For the Republic of Turkey:</p>
+      <p>Feridum C. Erkin</p>
+      <p>Turgut Aytug</p>
+    </attachments>
+  </main>
+</treaty>

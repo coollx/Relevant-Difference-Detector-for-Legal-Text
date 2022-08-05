@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Malaysia - Norway BIT (1984)</name>
+    <code>T1984-17</code>
+    <partyisocode n="0">MYS</partyisocode>
+    <partyisocode n="1">NOR</partyisocode>
+    <date_signed>1984-11-06</date_signed>
+    <date_into_force>1986-01-07</date_into_force>
+    <date_terminated>2004-01-01</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Unilaterally denounced</termination_type>
+    <docreference>2471</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{MYS,NOR}_1984-11-06.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Unilaterally denounced</IT_TERMINATION_TYPE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Kingdom of Norway and the Government of Malaysia regarding the mutual protection of investment.</p>
+    </title>
+    <preamble>
+      <p>The Government of Malaysia and the Government of Norway, desiring to maintain fair and equitable treatment of investments of nationals and companies of one Contracting Party in the territory of the other Contracting Party.</p>
+      <p>HAVE AGREED as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement:</p>
+        <p>1. The term &#xAB;investment&#xBB; shall comprise every kind of asset and more particularly, though not exclusively,</p>
+        <p>(i) Movable and immovable property and any other property rights such as mortgages, liens or pledges;</p>
+        <p>(ii) Shares, stocks and debentures of companies or interests in the property of such companies;</p>
+        <p>(iii) Claims to money or to any performance under contract having a financial value;</p>
+        <p>(iv) Copyrights, industrial property rights, know-how, technical processes, trade-names and goodwill, and</p>
+        <p>(v) Business concessions under public law including concessions to search for, cultivate, extract or exploit natural resources, as give to their holder a legal position of some duration.</p>
+        <p>The said term &#xAB;investment&#xBB; shall refer:</p>
+        <p>In respect of investments in the territory of Malaysia, to all investments made in projects classified by the appropriate Ministry of Malaysia in accordance with its legislation and administrative practice as an &#xAB;approved project&#xBB;,</p>
+        <p>In respect of investments in the territory of Norway to all investments made in accordance with the laws and regulations in Norway.</p>
+        <p>Any alteration of the form in which assets are invested shall not effect their classification as investment, provided that such alteration is not contrary to the approval, if any, granted in respect of the assets originally invested.</p>
+        <p>2. The term &#xAB;return&#xBB; shall mean:</p>
+        <p>The amount yielded by an investment and in particular, though not exclusively, includes profit, interest, capital gains, dividends, royalties or fees.</p>
+        <p>3. The term &#xAB;national&#xBB; shall mean:</p>
+        <p>(i) In respect of Norway, any individual who is a citizen of Norway according to Norwegian law</p>
+        <p>(ii) In respect of Malaysia, any person who is a citizen of Malaysia according to its Constitution.</p>
+        <p>4. The term &#xAB;company&#xBB; shall mean:</p>
+        <p>(i) In respect of Norway, any juridical person as well as any sole proprietorship or any company or association, irrespective of whether the liability of its partners, associates or members is limited or sole proprietorship which is incorporated or lawfully constitufit, having its seat in the territory of Norway or having a predominating Norwegian interest.</p>
+        <p>(ii) In respect of Malaysia, an company with or without limited liability, or any juridical person, association of persons, partnership or sole proprietorship which is incorporated or lawfylly constituted in the territory of Malaysia, or has a. predominating Malaysian interest.</p>
+        <p>5. The term &#xAB;freely convertible currency&#xBB; shall mean:</p>
+        <p>Such currency as United States Dollar, Pound Sterling, Deutschemark, French Franc, Japanese Yen or other currency that is widely used to make payments for international transactions and for which there are ready buyers in the principal markets for one of the currencies specified above.</p>
+      </div>
+      <div type="article" num="2" title="Application to investment">
+        <p>This Agreement shall apply to investments made in the territory of either Contracting Party in accordance with its legislation or rules or regulations by national or companies of the other Contracting Party prior to as well as after the entry into force of this Agreement.</p>
+      </div>
+      <div type="article" num="3" title="Promotion and protection of investment">
+        <p>1. Each Contracting Party shall encourage and create favorable conditions for nationals or companies of the other Contracting Party to invest capital in its territory, and, subject to its rights to exercise powers conferred by its laws, shall admit such capital.</p>
+        <p>2. Investments of nationals or Companies of either Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="4" title="Most-favoured-nation provisions">
+        <p>1. Investments made by nationals or companies of either Contracting Party on the territory of the other Contracting Party shall not be subjected to a treatment less favourable than that accorded to investments made by nationals or companies of any third State.</p>
+        <p>2. Nationals or companies of one Contracting Party whose investments in the territory of the other Contracting Party suffer leases owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection or riot in the territory of the latter Contracting Party shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which the latter Contracting Party accords to nationals or companies of any third State.</p>
+      </div>
+      <div type="article" num="5" title="Exceptions">
+        <p>The provisions of this agreement relative to the grant of treatment not less favourable than that accorded to the nationals or companies of any third State shall not be construed so as to oblige one Contracting Party to extend to the nationals or companies of the other the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>(i) Any existing or future customs union or free trade area or a common external tariff area or a monetary union or similar international agreement to which either of the Contracting Parties is or may become a party; or</p>
+        <p>(ii) The adoption of an agreement designed to lead to the formation or extension of such a union or area within a reasonable length of time; or</p>
+        <p>(iii) Any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation">
+        <p>1. Neither Contracting Party shall take any measures depriving, directly or indirectly, nationals or companies of the other Contracting Party of an investment unless the following conditions are complied with:</p>
+        <p>(i) The measures are taken in the public interest and under due process of law;</p>
+        <p>(ii) The measures are not discriminatory;</p>
+        <p>(iii) The measures are accompanied by provisions for the payment of prompt, adequate and effective compensation, which shall be freely transferable between the territories of the Contracting Parties; and</p>
+        <p>(iv) Such compensation shall amount to the value of the investment immediately before the expropriation.</p>
+      </div>
+      <div type="article" num="7" title="Repatriation of investments">
+        <p>1. Each Contracting Party shall, subject to its laws and regulations, allow without unduse delay the transfer in any freely convertible currency of:</p>
+        <p>(i) The net profits, dividends, royalties, technical assistance and technical fees, interest and other current income, accruing from any investment of the nationals or companies of the other Contracting Party;</p>
+        <p>(ii) The proceeds of the total or partial liquidation of any investment made by nationals or companies of the other Contracting Party;</p>
+        <p>(iii) Funds in repayment of loans given by nationals or companies of one Contracting Party to the nationals or companies of the other Contracting Party which both Contracting Parties have recognised as investment; and</p>
+        <p>(iv) The earnings of nationals of the other Contracting Party who are allowed to work in connection with investment on its territory.</p>
+        <p>2. The Exchange rates applicable to such transfer in the paragraph 1 of this Article shall be the rate of exchange prevailing at the time of remittance.</p>
+        <p>3. The Contracting Parties undertake to accord to transfer referred to in Paragraph 1 of this Article a treatment as favourable as that accorded to transfer originating from investments made by nationals of any third State.</p>
+      </div>
+      <div type="article" num="8" title="Subrogation">
+        <p>If a Contracting Party makes a payment to any of its nationals or companies under a guarantee it has granted in respect to an investment, the other Contracting Party shall, without prejudice to the rights of the former Contracting Party under Article 10, recognise the transfer of any right or title of such national or company to the former Contracting Party and the subrogation of the former Contracting Party to any right or title.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of investment disputes">
+        <p>1. Each Contracting Party hereby consents to submit to the International Centre for the Settlement of Investment Disputes (hereinafter referred to as &#xAB;the Centre&#xBB;) for settlement by conciliation or arbitration under the Convention of the Settlement of Investment Disputes between States and nationals of other States opened for signature at Washington on 18 March 1965 any legal dispute arising between that Contracting Party and a national or company of the other Contracting Party concerning an investment of the latter in the territory of the former. A company which is incorporated or constituted under the law in force in the territory of one Contracting Party and in which before such a dispute arises the majority of shares are owned by nationals or companies of the other Contracting Party shall in accordance with Article 25 (2) (b) of the Convention be treated for the purpose of the Convention as a company of the other Contracting Party. If any such dispute should arise and agreement cannot be reached within three months between the parties to this dispute through pursuit of local remedies or otherwise, then, if the national or company affected also consents in writing to submit the dispute to the Centre for settlement by conciliation or arbitration under the Covention, either party may institute proceedings by addressing a request to that effect to the Secretary-General of the Centre as provided in Articles 28 and 36 of the Convention. In the event of disagreement as to whether consiliation or arbitration is the more appropriate procedure the national or company affected shall have the right to choose. The Contracting Party which is a party to the dispute shall not raise as an objection at any stag of the preceeding or enforcement of an award the fact that the national or company which is the other party to the dispute has received in pursuance of an insurance contract an indemnity in respect of some or all of his or its losses.</p>
+        <p>2. Neither Contracting Party shall pursue through diplomatic channels any dispute referred to the Centre unless;</p>
+        <p>(i) The Secretary-General of the Centre, or a conciliation commission or an arbitral tribunal constituted by it decides that the dispute is not within the Jurisdiction of the Centre, or</p>
+        <p>(ii) The other Contracting Party should fall to abide by or to comply with any award rendered by an arbitral tribunal.</p>
+      </div>
+      <div type="article" num="10" title="Settlement of disputes between the contracting parties">
+        <p>1. Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>2. If a dispute between the Contracting Parties cannot thus be settled, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>3. Such an arbitral tribunal shall be constituted for each individual case in the following way. Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third State who on approval by the two Contracting Parties shall be appointed Chairman of the tribunal The Chairman shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>4. If within the periods specified in paragraph (3) of this Article the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he too is prevented from discharging: the said function, the Member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>5. The arbitral tribunal shall reach its decision by a majority of votes. Such decision shall be binding on both Contracting Parties, Each Contracting Party shall bear the cost of its own member of the tribunal and of its representation in the arbitral proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two Contracting Parties. The tribunal shall determine its own precedure.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, duration and termination">
+        <p>1. This Agreement shall enter into force on the day the Governments of the two Contracting Parties notify each other that their constitutional requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>2. This Agreement shall remain in force for a period of fifteen years and shall continue in force thereafter unless, after the expiry of the initial period of fourteen years, either Contracting Party notifies in writing the other Contracting Party of its intention to terminate this Agreement. The notice of termination shall become effective one year after it has been received by the other Contracting Party.</p>
+        <p>3. In respect of investments made prior to the date when the notice of termination of this Agreement becomes effective, the provisions of Article 1 to 10 shall remain in force for a further period of fifteen years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the undersigned, duly authorised thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done in Kuala Lumpur this sixth day of November 1984 in six original copies, two each in Bahasa Malaysia, Norwegian Language and English, all three texts being equally authentic. In the case of divergence between the texts of this Agreement, the English text shall prevail.</p>
+    </conclusion>
+  </main>
+</treaty>

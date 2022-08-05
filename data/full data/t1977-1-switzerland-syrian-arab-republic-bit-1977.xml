@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Switzerland - Syrian Arab Republic BIT (1977)</name>
+    <code>T1977-1</code>
+    <partyisocode n="0">CHE</partyisocode>
+    <partyisocode n="1">SYR</partyisocode>
+    <date_signed>1977-06-22</date_signed>
+    <date_into_force>1978-08-10</date_into_force>
+    <date_terminated>2008-07-01</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>2989</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{CHE,SYR}_1977-06-22.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACED_BY" document-code="T2007-25">Switzerland - Syrian Arab Republic BIT (2007)</relation>
+    <relation type="IT_REPLACING" document-code="T2007-25">Switzerland - Syrian Arab Republic BIT (2007)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Switzerland and Syrian Arab Republic Agreement on the Promotion and Reciprocal Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Swiss Confederation and the Government of the Syrian Arab Republic,</p>
+      <p>Desirous of strengthening the economic co-operation between both States,</p>
+      <p>Intending to create favourable conditions for capital investment in both States and to intensify the co-operation between nationals and private and public companies of both States in the field of technology and of productivity.</p>
+      <p>Recognizing the need to protect investments by nationals and companies of both States and to stimulate the flow of capital with a view to the economic prosperity of both States,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each Contracting State shall in its territory promote as far as possible investments made with prior authorization by nationals of companies of the other Contracting Party and admit such investments in accordance with its legislation and its rules and regulations.</p>
+      </div>
+      <div type="article" num="2">
+        <p>(1) Each Contracting Party shall protect within its territory investments made in accordance with its legislation by nationals or companies of the other Contracting Party and shall not impair by unreasonable or discriminatory measures the management, maintenance, use, enjoyment, extension, selling and, should it so happen, liquidation of such investments. Each Contracting Party shall endeavour to grant the necessary permits in connection with such invest ments and with the carrying out of contracts of licence and technical, commercial or administrative assistance. Each Contracting Party shall endeavour also, whenever necessary, to grant the necessary permits in connection with the activities of consultants and other qualified persons of foreign nationality.</p>
+        <p>(2) Each Contracting Party shall, in particular, ensure fair and equitable treatment within its territory for the investments of the nationals or companies of the other Contracting Party. This treatment shall be at least equal to that granted by each Contracting Party to investments made within its territory by its own nationals or companies or nationals or companies of the most favoured nation, if the latter is more favourable.</p>
+        <p>(3) Such treatment shall not apply to privileges and immunities which either Contracting Party accords to nationals of companies of a third State because of its membership in a customs union, a common market, a free trade area or other similar regional association.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Each Contracting Party in the territory of which investments have been made by nationals or companies of the other Contracting Party shall grant those nationals or companies the free transfer:</p>
+        <p>(a) Of interests, dividends, benefits and other current returns;</p>
+        <p>(b) Of amortization and contractual repayments;</p>
+        <p>(c) Of amounts assigned to cover expenses relating to the management of the investment;</p>
+        <p>(d) Of royalties and other payments deriving from rights of licence and commercial, administrative or technical assistance;&nbsp;</p>
+        <p>(e) Of additional contributions of capital necessary for the maintenance or development of the investments;</p>
+        <p>(f) Of the proceeds of selling and of partial or total liquidation of an investment, including possible increment values.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Neither of the Contracting Parties shall take measures of expro priation, nationalization or dispossession, either direct or indirect, against invest ments belonging to nationals or companies of the other Contracting Party, unless the measures are taken in the public interest, are not discriminatory and are in accordance with due process of law and provided that provisions be made for effective and adequate compensation according to international law. The amount of compensation, which shall have been fixed at the time of expropriation, nationalization or dispossession shall be set in the currency of the country of origin and paid without undue delay to the person entitled thereto, regardless of its domicile or head office.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Provisions more favourable than those of this Agreement which have been agreed upon by either of the Contracting Parties with nationals or companies of the other Contracting Party are reserved.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Where one Contracting Party has granted any financial security against non-commercial risks in respect of an investment by a national or company in the territory of the other Contracting Party and payment has been made by the first Contracting Party under that guarantee, the other Contracting Party shall recognize the rights of the first Contracting Party by virtue of the principle of subrogation to the rights of the investor.</p>
+      </div>
+      <div type="article" num="7">
+        <p>For the purposes of this Agreement:</p>
+        <p>a) "nationals"&nbsp;are physical persons who, according to the law of each&nbsp;Contracting Party, are considered as citizens of that State.</p>
+        <p>b)&nbsp; "companies" are:</p>
+        <p>aa)&nbsp;With respect to the Swiss Confederation, companies, institutions, or founda tions with legal personality, as well as partnership firms or limited partner ships and other associations without legal personality in which Swiss nationals have directly or indirectly a substantial interest;</p>
+        <p>bb)&nbsp; With respect to the Syrian Arab Republic, any entity under private or public law. whether or not having legal personality, having as its aim the pursuit of a profit-making activity.</p>
+        <p>c) The term "investment"&nbsp; shall comprise every kind of asset and more particularly, though not exclusively:</p>
+        <p>aa)&nbsp;Movable and immovable property as well as any other rights in rem, such as mortgages, liens, valuable sureties, usufructs and similar rights;</p>
+        <p>bb) Shares or other kinds of interest in companies;</p>
+        <p>cc) Copyrights, industrial property rights (such as patents for inventions,trade marks, trade brands, industrial designs), know-how, trade names andgoodwill;</p>
+        <p>dd) Copyrights, industrial property rights, such as patents, trademarks, industrial designs, trade names, know-how and goodwill;</p>
+        <p>ee) Business concessions under public law, including concessions to search for,extract or exploit natural resources.</p>
+        <p>d) TThe term "returns" shall mean the amounts yielded by an investment asnet profit or interest for a specific period.</p>
+      </div>
+      <div type="article" num="8">
+        <p>(1) Disputes as to the interpretation or application of the provi sions of this Agreement shall be settled by means of diplomatic negotiations.</p>
+        <p>(2) If both Contracting Parties cannot reach an agreement within six months, the dispute shall, upon the request of either Contracting Party, be submitted to an arbitral tribunal of three members. Each Contracting Party shall appoint an arbitrator, and these two arbitrators shall nominate a Chairman who shall be a national of a third State.</p>
+        <p>(3) If either Contracting Party has not appointed its arbitrator and has not followed up on the invitation of the other Contracting Party to make that appoint ment within two months, the arbitrator shall be appointed upon the request of that Contracting Party by the President of the International Court of Justice.</p>
+        <p>(4) If both arbitrators cannot come to an agreement about the choice of the Chairman within two months after their appointment, the latter shall be appointed upon the request of either Contracting Party by the President of the International Court of Justice.</p>
+        <p>(5) If, in the cases specified under paragraphs 3 and 4 of this article, the President of the International Court of Justice is prevented from carrying out the said function or if he is a national of either Contracting Party, the appointment shall be made by the Vice-Pr esident and if the latter is prevented or if he is a national of either Contracting Party, the appointment shall be made by the next senior Judge of the Court who is not a national of either Contracting Party.</p>
+        <p>(6) Subject to other provisions made by the Contracting Parties, the tribunal shall determine its procedure.</p>
+      </div>
+      <div type="article" num="9">
+        <p>(1) This Agreement shall come into force on the date on which both Governments have notified each other that the constitutional requirements for the conclusion and entry into force of international agreements had been completed; it shall remain binding for a period of five years. Unless written notice of termination six months before the expiration of this period is given, it shall be considered as renewed for a period of two years and so forth.</p>
+        <p>(2) In case of termination, the provisions of articles 1to 8 shall continue to be effective for a further period of 10 years for investments made before termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE at Berne, on 22 June 1977, in two originals in the Arabic and French languages. In case of a difference of interpretation, the French text shall constitute the final reference.</p>
+    </conclusion>
+  </main>
+</treaty>

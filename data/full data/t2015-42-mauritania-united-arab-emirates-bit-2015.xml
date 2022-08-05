@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Mauritania - United Arab Emirates BIT (2015)</name>
+    <code>T2015-42</code>
+    <partyisocode n="0">ARE</partyisocode>
+    <partyisocode n="1">MRT</partyisocode>
+    <date_signed>2015-01-01</date_signed>
+    <date_into_force>2016-04-12</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <comments>Signature date not clear, except the year</comments>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+  </meta>
+  <main/>
+</treaty>

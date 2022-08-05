@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>France - Tunisia BIT (1963)</name>
+    <code>T1963-7</code>
+    <partyisocode n="0">FRA</partyisocode>
+    <partyisocode n="1">TUN</partyisocode>
+    <date_signed>1963-08-09</date_signed>
+    <date_into_force>1965-08-09</date_into_force>
+    <date_terminated>1972-06-30</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en,fr</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>3605</docreference>
+    <comments>Treaty is terminated and replaced by a BIT of 1972, also terminated</comments>
+    <source>UNTC</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{FRA,TUN}_1963-08-09.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en,fr</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_REPLACING" document-code="T1972-3">France - Tunisia BIT (1972)</relation>
+    <relation type="TERMINATED_BY_THIRD_TREATY" document-code="T1972-3">France - Tunisia BIT (1972)</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-117">France - Tunisia BIT (1997)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-116">EC - Tunisia Association Agreement (1995)</relation>
+    <relation type="IT_REPLACED_BY" document-code="T1972-3">France - Tunisia BIT (1972)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>CONVENTION BETWEEN THE GOVERNMENT OF THE FRENCH REPUBLIC AND THE GOVERNMENT OF THE REPUBLIC OF TUNISIA ON ECONOMIC RELATIONS AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the French Republic, on the one hand, and the Government of the Republic of Tunisia, on the other hand,</p>
+      <p>Wishing to strengthen economic relations and to intensify cooperation between their two countries with a view to fostering their economic development,</p>
+      <p>Desiring, for that purpose, to protect and stimulate investment,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each of the High Contracting Parties undertakes to ensure that fair and equitable treatment is given in its territory to the investments, property, rights, and interests of nationals of the other Party, whether natural or artificial persons, and to see that the exercise of the right so recognized is not abridged either in law or in fact.</p>
+        <p>To that end, each of the Parties shall accord such investments, property, rights, and interests at least as much security and protection as it does to those of its own nationals.</p>
+      </div>
+      <div type="article" num="2">
+        <p>The preceding provisions are without prejudice to the special agricultural agreements arrived at or which may be arrived at between the two Parties.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Taking into consideration the fact that the two countries belong to the same monetary zone, each of the High Contracting Parties shall ensure the execution of current payments and shall facilitate the transfer of any other category of payment to the territory of the other Party.</p>
+        <p>Consequently, each Party undertakes, taking into account its foreign exchange reserves, to authorize the transfer of the net real profit from interest, dividends or royalties due to natural or artificial persons who are nationals of one of the two countries. Both Parties shall ensure the transfer of an adequate part of the proceeds of the activities of nationals authorized to carry on business in the territory of either of the Parties.</p>
+        <p>With respect to existing industrial or commercial property, Tunisia guarantees, in the event of the sale or liquidation of an enterprise, the transfer of a reasonable portion of the net proceeds of such liquidation, the remainder being paid into a "capital" account transferable to private persons or companies, under conditions to be set by the relevant regulations.</p>
+        <p>As regards agricultural property, and particularly that belonging to French companies other than civil companies, the modalities for transfer of proceeds of any realization provided for under the terms of the agreements of 13 October 1960 and 2 March 1963 remain in force.</p>
+        <p>With respect to investments authorized by either Party, the High Contracting Parties undertake to permit transfer of the proceeds of the total or partial liquidation of the authorized investments by the country in which they are made.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Where one Party expropriates or nationalizes investments, property, rights, or interests belonging to nationals, whether natural or artificial persons, of the other Party, or takes any dispossessory measure with respect thereto, it shall provide for the payment of an effective and adequate indemnity in accordance with the law of nations. The amount of such indemnity, which shall be set at the time of the expropriation, nationalization or dispossession, shall be paid to the beneficiary and transferred without undue delay. However, expropriation, nationalization or dispossession measures shall in no case be discriminatory or contrary to a specific undertaking.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Investments that have been the subject of a specific undertaking by one Party, either towards the other Party or towards nationals, whether natural or artificial persons of that other Party, shall be governed by the terms of that undertaking exclusively.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Natural and artificial persons who are nationals of either Party shall not be subject, in the territory of the other Party, to duties, taxes or rates of any description that are other or higher than those levied on natural and artificial persons, nationals of the latter Party, in the same situation. They shall receive the same tax abatements or exemptions and basic allowances, including the allowances for dependants.</p>
+      </div>
+      <div type="article" num="7">
+        <p>When a question is governed simultaneously by this Convention and by another international agreement between either Party and one or more third States, nationals of each Party may choose to be subject to the provisions of the agreement that is more advantageous to them.</p>
+      </div>
+      <div type="article" num="8">
+        <p>Any dispute concerning the interpretation or application of this Convention that has not been settled within three months, either through the diplomatic channel or by the recommendation of an ad hoc commission established at the request of either Party, may at the request of either Party be submitted to an arbitral tribunal whose membership shall be as follows:</p>
+        <p>Each Party shall designate an arbitrator within one month of the date on which the request for arbitration is received, and shall so notify the other. The two arbitrators thus designated shall, within two months of the later of the two such notifications, choose a third arbitrator, who shall be a national of a third State.</p>
+        <p>Where one of the Parties has not designated its arbitrator within the allotted time, the other Party may ask the President of the International Court of Justice to do so. The same shall apply, at the request of either Party, where no agreement is reached by the two arbitrators on the choice of a third arbitrator.</p>
+        <p>The Parties may agree in advance to designate, for a period of five years, which shall be renewable, the person who shall, in case of disagreement, act as the third arbitrator. The decision of the arbitral tribunal shall be final and fully binding.</p>
+        <p>The arbitral tribunal shall establish its own rules of procedure.</p>
+      </div>
+      <div type="article" num="9">
+        <p>The exchanges of letters annexed hereto shall form an integral part of this Convention.</p>
+      </div>
+      <div type="article" num="10">
+        <p>This Convention is concluded for a period of 10 years, renewable for a further 10 years, unless it is denounced in writing by one of the two Parties one year before the expiry of the current period.</p>
+      </div>
+      <div type="article" num="11">
+        <p>This Convention shall be approved pursuant to the constitutional provisions in effect in each of the two countries.</p>
+        <p>It shall enter into force on the first day of the month following the exchange whereby each Party notifies that it had been approved pursuant to the constitutional procedures of the two Parties.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Tunis on 9 August 1963, in duplicate, both texts being equally authentic.</p>
+      <p>For the Government of the French Republic:</p>
+      <p>[Jean Sauvagnargues]</p>
+      <p>For the Government of the Republic of Tunisia:</p>
+      <p>[Ben Salah]</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" title="Exchanges of letters">
+        <p>I a</p>
+        <p>THE CHAIRMAN OF THE TUNISIAN DELEGATION</p>
+        <p>Tunis, 9 August 1963</p>
+        <p>Sir,</p>
+        <p>I have the honour of recalling that during the negotiations leading up to the conclusion of the Convention signed today, I made a reservation regarding agriculture, in which area separate agreements have been or may be arrived at between our two Governments.</p>
+        <p>That reservation applies first to the procedures defined or provided for in the Convention of 8 May 1957 and in the Franco-Tunisian protocol of 13 October 1960, supplemented by the additional protocol of 2 March 1963.</p>
+        <p>I hereby confirm, moreover, that the Tunisian Government means to exclude agricultural investments belonging to French Societes de capitaiix in Tunisia from the procedure set out in articles 1,4 and 8 of the Convention signed today.</p>
+        <p>In the context of its obligations under the rules of international law with respect to foreign investment, my Government wishes to reserve to itself the option of dealing separately and resolving through negotiation, while respecting the various interests involved, the particular problem that may be posed by integration of the lands in question into the Tunisian sector.</p>
+        <p>Accept, Sir, the assurances of my highest consideration.</p>
+        <p>[Ben Salah]</p>
+        <p>The Chairman of the French Delegation [Jean Sauvagnargues]</p>
+        <p>II a</p>
+        <p>THE CHAIRMAN OF THE FRENCH DELEGATION</p>
+        <p>Tunis, 9 August 1963 Sir,</p>
+        <p>You have been so kind as to send me the following letter:</p>
+        <p>[See letter I a]</p>
+        <p>I have the honour of taking note of its provisions.</p>
+        <p>Accept, Sir, the assurances of my highest consideration.</p>
+        <p>[Jean Sauvagnargues]</p>
+        <p>The Chairman of the Tunisian Delegation</p>
+        <p/>
+        <p>I b</p>
+        <p>THE CHAIRMAN OF THE TUNISIAN DELEGATION</p>
+        <p>Tunis, 9 August 1963</p>
+        <p>Sir,</p>
+        <p>During the discussions leading up to the conclusion of the Convention on economic relations and the protection of investments, you informed me of your Governments concern regarding the continued ability of French nationals to engage in business.</p>
+        <p>I have the honour of conveying to you the following clarification:</p>
+        <p>1)  French nationals, whether natural or artificial persons who were already established in Tunisia on the date this Convention enters into force and engaged in a liberal profession therein, may continue to exercise that profession.</p>
+        <p>2)  The Tunisian Government considers that the Convention signed today fulfils the conditions set out in article 4-1 of decree-law No. 6114 of 30 August 1961. Consequently, French nationals, whether natural or artificial persons, who were already established in Tunisia on that date may continue to exercise their activities in every area that is subject to authorization and shall receive a merchants card for a period of five years, which shall be renewable.</p>
+        <p>French nationals, whether natural or artificial persons, who, on the date this Convention enters into force, were engaged in one of the professions mentioned in article 8 of the aforesaid decree-law, shall enjoy the exemptions provided for in that article for a period of five years, which shall be renewable.</p>
+        <p>3)  The Government of the Republic of Tunisia shall look favourably on applications which may be submitted to it in future by French nationals, whether natural or artificial persons, for permission to engage in a business activity requiring issuance of a permit, or one that is reserved to Tunisian nationals except where a derogation is granted in individual cases.</p>
+        <p>4)  French nationals who are domiciled in Tunisia when the Convention enters into force and engaged in salaried employment there shall receive permission to engage in the salaried employment of their choice for a period of 10 years, which shall be renewable.</p>
+        <p>5)  The Tunisian Government shall look favourably on applications for permission to engage in salaried employment which may be submitted to it in future by French nationals.</p>
+        <p>Accept, Sir, etc.</p>
+        <p>[Ben Salah]</p>
+        <p>The Chairman of the French Delegation</p>
+        <p/>
+        <p>II b</p>
+        <p>THE CHAIRMAN OF THE FRENCH DELEGATION</p>
+        <p>Tunis, 9 August 1963 Sir,</p>
+        <p>You have been so kind as to send me the following letter:</p>
+        <p>[See letter I b]</p>
+        <p>I have the honour of taking note of its provisions.</p>
+        <p>Accept, Sir, etc. '</p>
+        <p>[Jean Sauvagnargues]</p>
+        <p>The Chairman of the Tunisian Delegation</p>
+        <p/>
+        <p>I c</p>
+        <p>THE CHAIRMAN OF THE FRENCH DELEGATION</p>
+        <p>Tunis, 9 August 1963</p>
+        <p>Sir,</p>
+        <p>I have the honour of recalling that during the negotiations leading up to the conclusion of the Convention signed today, it was agreed that, upon its signature and until its entry into force the two countries administrations would, when called upon to make decisions on matters dealt with in this Convention, comply with those of its provisions that came under their authority.</p>
+        <p>I should appreciate it if you would confirm the Tunisian Governments agreement on that score.</p>
+        <p>Accept, Sir, etc. -</p>
+        <p>[Jean Sauvagnargues]</p>
+        <p>The Chairman of the Tunisian Delegation</p>
+        <p>Vol. 1565, 1-27260</p>
+        <p/>
+        <p>II c</p>
+        <p>THE CHAIRMAN OF THE TUNISIAN DELEGATION</p>
+        <p>Tunis, 9 August 1963 Sir,</p>
+        <p>You have been so kind as to send me the following letter:</p>
+        <p>[See letter I c]</p>
+        <p>I have the honour of confirming to you my Governments agreement.</p>
+        <p>Accept, Sir, etc.</p>
+        <p>[Ben Salah]</p>
+        <p>The Chairman of the French Delegation</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

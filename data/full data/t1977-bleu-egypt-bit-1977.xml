@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>BLEU - Egypt BIT (1977)</name>
+    <code>T1977</code>
+    <partyisocode n="0">BLEU</partyisocode>
+    <partyisocode n="1">EGY</partyisocode>
+    <date_signed>1977-02-28</date_signed>
+    <date_into_force>1978-09-20</date_into_force>
+    <date_terminated>2002-05-24</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>483</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BLEU,EGY}_1977-02-28.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T1999-25">BLEU - Egypt BIT (1999)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE ARAB REPUBLIC OF EGYPT ON THE ONE HAND AND THE BELGO-LUXEMBOURG ECONOMIC UNION ON THE OTHER HAND ON THE ENCOURAGEMENT AND RECIPROCAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of Belgium, acting in its own name and on behalf of the Grand Duchy of Luxemburg, under the Convention establishing the Belgo-Luxemburg Economic Union, on the one hand, and the Government of the Arab Republic of Egypt, on the other hand,</p>
+      <p>Desiring to reinforce economic co-operation between both States and to intensify co-operation between private enterprises,</p>
+      <p>Intending to create favourable conditions for investments by nationals and legal persons of either Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognizing that protection of such investments is apt to stimulate the private economic initiatives and to increase the economic prosperity of both Countries,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="I">
+        <p>1) All investments, and goods, rights and interests in connection with such investments, belonging directly or indirectly to nationals or legal persons of one of the Contracting Parties shall enjoy fair and equitable treatment in the territory of the other Contracting Party.</p>
+        <p>2) Such investments, goods, rights and interests shall also enjoy continuous protection and security, excluding all unjustified or discriminatory measures which would de jure or de facto hinder their management, maintenance, utilization, enjoyment or liquidation.</p>
+        <p>3) The protection guaranteed by paragraphs 1 and 2 of this article shall at least be equal to that enjoyed by the nationals or legal persons of any third State and may in no case be less favourable than that recognized by international law.</p>
+        <p>4) Nevertheless, the treatment and protection referred to in the preceding paragraphs shall not be extended to privileges which either Contracting Party accords to nationals or companies of a third country because of its membership in, or association with a customs union, a common market or a free trade area.</p>
+      </div>
+      <div type="article" num="II">
+        <p>1) Each Contracting Party shall admit in its territory investments by nationals or legal persons of the other Contracting Party in accordance with its legislation and shall encourage such investments.</p>
+        <p>2) In particular, each Contracting Party shall authorize the conclusion and execution of licencing contracts and of contracts relating to commercial, administrative or technical assistance, in so far as those activities are connected with investments as mentioned in paragraph 1.</p>
+        <p>3) Nevertheless each Contracting Party may previously submit such investments to an explicit approval in accordance with its legislation.</p>
+      </div>
+      <div type="article" num="III">
+        <p>For the purpose of this Agreement</p>
+        <p>1) The term "investments" shall comprise every direct or indirect contribution of capital and any other kind of assets, invested or reinvested in enterprises in the field of agriculture, industry, mining, forestry, communications and tourism.</p>
+        <p>The following shall more particularly, though not exclusively, be considered as investments within the meaning of the present Agreement:</p>
+        <p>a) Movable and immovable property as well as any other right in rem such as mortgages, pledges, usufructs and similar rights;</p>
+        <p>b) Shares and other kinds of interest in companies;</p>
+        <p>c) Debts and rights to any performance having economic value;</p>
+        <p>d) Copyrights, marks, patents, technical processes, trade-names, trade-marks and goodwill;</p>
+        <p>e) Business concessions under public law, including concessions to search for, extract or exploit natural resources.</p>
+        <p>2) The term "nationals" means: physical persons having the nationality of one of the Contracting Parties.</p>
+        <p>3) The term "companies" means: any legal entity established on the territory of either Contracting Party according to its national legislation and having its seat within its territory.</p>
+        <p>4) The term "returns" means: the amounts yielded by an investment for a definite period, as profits, dividends and interests.</p>
+      </div>
+      <div type="article" num="IV">
+        <p>Each Contracting Party recognizes, as regards to the investments as defined in article 3 , situated in its territory which belong to nationals or legal persons of the other Contracting Party, the principle of the freedom of transfer, in favor of such nationals or legal persons or their beneficiaries, of:</p>
+        <p>&#x2013; Net profits, interests, dividends, royalties, depreciations of capital assets and any current income, accruing from investment activities to nationals or legal persons of the other Contracting Party;</p>
+        <p>&#x2013; The proceeds of the total or partial liquidation of any investment, including possible increases in or additions to these investments, made by nationals or legal persons of the other Contracting Party;</p>
+        <p>&#x2013; Appropriate portion[s] of the earning[s] of nationals or legal persons of a Contracting Party who are authorized to work in the territory of the other Contracting Party;</p>
+        <p>&#x2013; Funds in repayments of loans which the Contracting Parties have recognized as investments.</p>
+      </div>
+      <div type="article" num="V">
+        <p>1) The nationals or legal persons of either Contracting Party may not be deprived, either directly or indirectly, of the property or enjoyment of their investments, and also the goods, rights and interests in connection with such investments and situated in the territory of the other Contracting Party, unless the following conditions are complied with:</p>
+        <p>a) The measures are taken in the public interest and by a legal procedure in accordance with international law;</p>
+        <p>b) They are neither discriminatory nor contrary to a specific engagement;</p>
+        <p>c) They are accompanied by provisions for the payment of full compensation.</p>
+        <p>2) The amount of such compensation as referred to in the first paragraph, letter c) , shall represent the actual value of the affected goods, rights and interests, on the date on which the measure was taken; it shall be paid in the currency of the country of origin of the investment and shall be transferred without delay to the investor entitled thereto.</p>
+        <p>3) The nationals or legal persons of either Contracting Party shall be accorded, in every case, in the territory of the other Contracting Party a treat ment no less favourable than that enjoyed by the nationals of any third State and in no case less favourable than that recognized by international law.</p>
+      </div>
+      <div type="article" num="VI">
+        <p>1) The transfer referred to in articles 4 and 5 shall be effected at the rates of exchange applicable on the date of transfer pursuant to the exchange regulations in force for the various classes of transactions.</p>
+        <p>2) These rates shall in no case be less favourable than those accorded to the nationals or legal persons of third countries, in particular under specific undertakings laid down in agreements or arrangements, concluded in the matter of protection of investments.</p>
+        <p>3) In any event, the rates which are applied shall be fair and equitable, taking into account the usual levies and charges which may be imposed on exchange operations.</p>
+      </div>
+      <div type="article" num="VII">
+        <p>In the event that one of the Contracting Parties, as a result of a financial guarantee given by it for an investment effected in the territory of the other Contracting Party, makes payment to its own nationals, companies or other legal persons, this Party is entitled, by virtue of subrogation, to exercise the rights and actions of these nationals, companies or other legal persons.</p>
+        <p>The subrogation shall also apply to the right of transfer referred to in the above mentioned articles 4 and 5 .</p>
+      </div>
+      <div type="article" num="VIII">
+        <p>Nationals or companies of either Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to revolts, riots, armed conflicts or revolutions shall enjoy, on the part of this latter Party, treatment no less favourable than the treatment that Party accords to its own nationals or companies or those of a third State, as regards restitution, indemnification, compensation or other considerations.</p>
+      </div>
+      <div type="article" num="IX">
+        <p>Each Contracting Party hereby irrevocably and anticipator[il]y gives its consent to submit to conciliation and arbitration any dispute relating to a measure contrary to this Agreement, pursuant to the Convention on the settlement of investment disputes between States and nationals of other States of 18 March 1965, at the initiative of a national or legal person of the other Contracting Party, who considers himself to have been affected by such a measure.</p>
+        <p>This consent implies renunciation of the requirement that the internal administrative or judicial resorts should be exhausted.</p>
+      </div>
+      <div type="article" num="X">
+        <p>In the event of a dispute arising between the Contracting Parties as regards the interpretation or implementation of this Agreement, and if such dispute cannot be satisfactorily settled through the diplomatic channels within a six months' period, it shall be submitted upon the request of either Contracting Party to an arbitral tribunal composed of three members.</p>
+        <p>Each Party shall appoint one arbitrator. The two arbitrators thus appointed shall appoint a third arbitrator who is not a national of either Contracting Party.</p>
+        <p>If one of the Parties fails to appoint its arbitrator and has not proceeded to do so within two months after an invitation from the other Party, the arbitrator shall be appointed, at the request of the latter Party, by the President or Vice-President of the International Court of Justice.</p>
+        <p>If within two months following their appointment the two arbitrators are unable to reach an agreement on the choice of the third arbitrator, the latter shall be appointed at the request of either Party, by the President or Vice-President of the International Court of Justice.</p>
+        <p>The Tribunal shall take its decisions; it may, at any stage of the proceedings, propose to the Parties that the dispute should be settled amicably.</p>
+        <p>If the Parties reach an agreement, the Tribunal shall decide ex aequo et bono.</p>
+        <p>Unless the Parties otherwise decided, the Tribunal shall determine its own rules of procedure. The decisions of the Tribunal, taken by a majority of votes, shall be binding upon the Parties.</p>
+      </div>
+      <div type="article" num="XI">
+        <p>In the event of any matter being provided as well in this Agreement as in an international agreement or in the national regulations of one of the Contracting Parties, no provision of this Agreement shall prevent a national or legal person of one of the Contracting Parties who possesses investments, goods, rights or interests, in the territory of the other Contracting Party, from availing himself of the most favourable provisions.</p>
+      </div>
+      <div type="article" num="XII">
+        <p>In case of termination of the present Agreement, the provisions thereof shall continue to be effective for a period of validity of contracts concluded between the Contracting Party and the investor of the other Contracting Party prior to the notification of termination of the present Agreement.</p>
+      </div>
+      <div type="article" num="XIII">
+        <p>(1) The Contracting Parties will apply provisionally the present Agreement as from the date of its signature and definitely as from the exchange by Contracting Parties of diplomatic notes confirming the fulfillment of their constitutional requirements.</p>
+        <p>(2) The present Agreement shall remain for a period of fifteen years. Unless either of the Contracting Parties shall have given notice of terminating twelve months before the expiry of the current period, the validity of the present Agreement shall be deemed to have been tacitly extended for a further term of fifteen years.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof, the undersigned representatives, duly authorized thereto, have signed the present Agreement.</p>
+      <p>Done at Cairo, on this 28th day of February 1977, in two original copies, in the English language, both of which are authentic.</p>
+      <p>For The Arab Republic of Egypt: [Signed] Dr. ABDEL MONEIM EL-KAISSOUNI Deputy Prime Minister</p>
+      <p>For the Belgo-Luxemburg Economic Union:[Signed] Etienne Knoops Minister of External Trade</p>
+    </conclusion>
+  </main>
+</treaty>

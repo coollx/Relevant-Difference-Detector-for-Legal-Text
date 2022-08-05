@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Libya - Syrian Arab Republic BIT (1993)</name>
+    <code>T1993-118</code>
+    <partyisocode n="0">LBY</partyisocode>
+    <partyisocode n="1">SYR</partyisocode>
+    <date_signed>1993-02-08</date_signed>
+    <date_into_force>1995-10-07</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ar</orig_language>
+    <termination_type/>
+    <docreference>2412</docreference>
+    <comments/>
+    <source>parliament.gov.sy</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>ar</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{LBY,SYR}_1993-02-08.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Governments of the Syrian Arab Republic and The Great Socialist People's Libyan Arab Jamahiriya on encouragament and promotion of investments</p>
+    </title>
+    <preamble>
+      <p>The Governments of the Syrian Arab Republic and The Great Socialist People's Libyan Arab Jamahiriya, upon the instructions of Mr. President Hafiz Al Assad, the President of the Syrian Arab Republic, and the brother Colonel Moamar Al Ghadafi, leader of the Great Al-Fateh Revolution, to strengthen the unity relations between the two brotherly countries.</p>
+      <p>And to achieve the objective of Arab economic integration to achieve the greatest amount of investment of Arab funds in the Arab countries, and the desire of both countries to create the appropriate conditions to encourage and promote investment between them.</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Both countries shall work on strengthening and deepening the cooperation between them in the fields of promoting, protecting and guaranteeing investments through all means and possibilities, in order to achieve the objectives of this agreement.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each country shall provide an appropriate investment climate for the other country and its natural and legal persons who hold its nationality to make investments in the country, in the allowed sectors and in accordance with the regulations and laws applicable in its territory and in a manner not inconsistent with the provisions of this Agreement.</p>
+      </div>
+      <div type="article" num="3">
+        <p>For the purposes of this Agreement</p>
+        <p>1. Investments and returns of an investment employed or to be employed by either Contracting Party or its natural or legal persons in the territory of the other Contracting Party shall be automatically granted treatment that is not less favorable than that granted or could be granted to investments and their returns of any third party. Such treatment shall also apply to the maintenance, exploitation, possession, or disposition of such investments. Such investments, activities related thereto, and returns shall benefit from promotion and protection advantages dedicated to foreign capital in accordance with the valid investment promotion regulations and laws and the unified Arab agreements related to investments in both countries.</p>
+        <p>2. Investments and their returns referred to in Paragraph (1) shall enjoy facilities, benefits, and other forms of promotion including tax exemptions and other fees applicable as per the investment laws and regulations in the countries.</p>
+        <p>3. Each Contracting Party shall permit the repatriation abroad, in the same currency the capital was invested or in any freely convertible currency, freely and without delay, in accordance with the applicable laws and regulations in its territory, of the following:</p>
+        <p>a. Profits, dividends, revenues, capital gains, aid, technical and administrative fees, interest, and other proceeds due from any investment made by an investor from the other country.</p>
+        <p>b. Proceeds from the full or partial liquidation of any investment made by an investor of the other country.</p>
+        <p>c. Repayment of loan installments and its interest obtained from abroad in foreign currencies for the purpose of diversifying or expanding the investments.</p>
+        <p>d. Income of nationals of the other country or its employees permitted to work in fields related to the investment in its territory, in accordance with the provisions of this agreement within the prescribed limits in the applicable investment laws and regulations.</p>
+      </div>
+      <div type="article" num="4" title="Nationalization and expropriation">
+        <p>1. Investments of either Contracting Party or of their natural or legal persons shall not be subject to any measures that would limit the right to own, possess, manage, or benefit from such investments whether permanently or temporarily unless it is within the limit of the applicable laws or a ruling by the competent court.</p>
+        <p>2. Investments of either Contracting Party or of their natural or legal persons shall not be subject, directly or indirectly, to nationalization or expropriation in the territory of the other Contracting Party. In addition, investments shall not be subject to measures having the same effect as nationalization or expropriation unless it is for a public interest and for the public benefit of that country, and in exchange for immediate, sufficient and fair compensation, on the condition that these measures are taken on a non-discriminatory basis in accordance with the applicable laws.</p>
+        <p>3. The compensation shall be based on the equivalent fair market value of the investment, immediately before the announcement of the expropriation decision, or as soon as the expropriation announcement is made to the public. This value shall be based on the recognized principles of fair market value determination. In case the fair market value could not be determined, the compensation value shall be based on the equivalent principles while taking into consideration other matters including the invested capital, depreciation of capital transferred abroad, value of depreciation and Goodwill, in addition to similar matters. (the compensation value shall include interest calculated based on the value of the "Libor" from the expropriation date and until the payment date) In case no agreement is reached between the investor and the host country of the investment, they shall revert to the investment dispute settlement mechanism in accordance with Article (5) of this agreement. Once a compensation amount has been determined, it shall be paid immediately and allowed to be transferred abroad.</p>
+        <p>Wherever there is a provision about this subject that is simultaneously governed by this agreement and other agreements that address any of the subjects of this agreement, where both countries are parties thereto, or it is governed by general legal principles recognized by both countries, or a special law of the host country of the investment, the provisions of this agreement shall not prohibit either country or any of its investors who own investments in the other country from benefitting from any rules that are considered more favorable to their situation.</p>
+      </div>
+      <div type="article" num="5">
+        <p>If a dispute arises regarding the interpretation or application of the provisions of this agreement and the countries are unable to settle it through direct negotiations, it shall be settled through arbitration by reverting to the Arab Investment Guarantee Corporation. If the agreement does not result in the sharing of arbitration, they shall revert to the Arab Investment Court, affiliated to the League of Arab States, or to the national judiciary in the host country of the investment, in doing so they shall take into consideration the investment laws and regulations applicable in its territory and the Arab investment agreements.</p>
+      </div>
+      <div type="article" num="6">
+        <p>To achieve the objectives of this agreement, a joint committee shall be established to promote and protect investments, and shall include representatives from the relevant authorities in both countries. Its responsibilities shall include:</p>
+        <p>1. Following - up on the implementation of the provisions of this agreement and any joint agreements that result therefrom between both countries.</p>
+        <p>2. Finding ways and methods leading to the promotion of investments between both countries.</p>
+        <p>3. Working on the elimination of difficulties hindering the implementation of investments.</p>
+        <p>4. Finding ways and methods for the establishment and financing of joint projects in both countries.</p>
+        <p>5. Studying the suggestions referred to it through the relevant authorities in both countries.</p>
+        <p>The joint committee shall convene yearly on a periodic basis in the Syrian Arab Republic and the Great Socialist People's Libyan Arab Jamahiriya, alternately and whenever necessary with the agreement of both countries.</p>
+      </div>
+      <div type="article" num="7">
+        <p>The agreement shall be in force for an unlimited period of time unless either country notifies the other in writing of its desire to amend, or terminate it. The amendment or termination notification shall be valid a year from its date. The termination of this agreement shall not affect investments that were established in accordance with its provisions and until its completion or liquidation.</p>
+      </div>
+      <div type="article" num="8">
+        <p>This agreement is subject to ratification in accordance with the applicable regulations in both countries, and shall enter into force from the date of exchange of the ratification documents.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done and signed in the city of Tripoli, on 16 Shaaban 1413 H, corresponding to 8 Shubat 1993, in two originals in Arabic.</p>
+      <p>For the Great Socialist People's Libyan Arab Jamahiriya Dr. Mohamed Abdullah Beit Almal Secretary of the General People's Committee for Planning, Trade and Finance</p>
+      <p>For the Syrian Arab Republic Dr. Mohammed Al-Ammadi Minister of Economy and Foreign Trade</p>
+    </conclusion>
+  </main>
+</treaty>

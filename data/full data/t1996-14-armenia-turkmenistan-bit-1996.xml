@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Armenia - Turkmenistan BIT (1996)</name>
+    <code>T1996-14</code>
+    <partyisocode n="0">ARM</partyisocode>
+    <partyisocode n="1">TKM</partyisocode>
+    <date_signed>1996-03-19</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>196</docreference>
+    <comments>On 19.03.1996 two agreements were signed with Turkmenistan: agreement on cooperation in the field of public health &lt;http://www.parliament.am/library/erkoxm/1996-1998/7.pdf&gt;, and an agreement on exchange of legal information &lt;http://www.parliament.am/library/erkoxm/1996-1998/8.pdf&gt;. No BIT</comments>
+    <source>http://www.parliament.am/</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ARM,TKM}_1996-03-19.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main/>
+</treaty>

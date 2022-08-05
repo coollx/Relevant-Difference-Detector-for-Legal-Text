@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Algeria - Syrian Arab Republic BIT (1997)</name>
+    <code>T1997-83</code>
+    <partyisocode n="0">DZA</partyisocode>
+    <partyisocode n="1">SYR</partyisocode>
+    <date_signed>1997-09-14</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>88</docreference>
+    <comments>OCR</comments>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{DZA,SYR}_1997-09-14.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_INCORPORATES" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+    <relation type="IT_INCORPORATES" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the People's Democratic Republic of Algeria and the Government of the Syrian Arab Republic on the Encouragement and Reciprocal Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the People's Democratic Republic of Algeria and the Government of the Syrian Arab Republic;</p>
+      <p>Hereinafter referred to as the Contracting Parties;</p>
+      <p>Convinced of the importance of strengthening cooperation between them;</p>
+      <p>Desiring to enhance the work of investments in their countries through the establishment of a favourable investment climate for investors and businessmen in Algeria and the Syrian to create and establish investment projects in order to strengthen economic development in both countries;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>The Preamble forms an integral part of this Agreement.</p>
+      </div>
+      <div type="article" num="2" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The term "investor" means with respect to the Contracting Parties, the following:</p>
+        <p>a) Natural persons having the nationality of that Contracting Party and carrying out business in the land (territory) of the other party, in accordance with the laws and regulations of the latter party;</p>
+        <p>b) legal persons that are incorporated in one of the Contracting Parties and carry out investment activity in the territory of the other Party, including public, private and mixed companies and enterprises in accordance with the laws and regulations of the latter Party in force;</p>
+        <p>2. The term "investment" means all funds invested as assets after the entry into force of this Agreement by nationals of either Contracting Party in the land (territory) of the other Contracting Party, in accordance with the investment laws and regulations in force, of the latter Party; and includes the following:</p>
+        <p>a) movable and immovable property;</p>
+        <p>b) real property rights such as mortgages, debt securities, and other similar rights;</p>
+        <p>c) shares, stocks, corporate bonds or bonds issued by one of the two countries and whose transaction is authorised in accordance with the laws and regulations in force in each of them;</p>
+        <p>d) Loans and deposits;</p>
+        <p>e) intellectual property rights such as printing and distribution rights, patents, patents for inventions, models or industrial designs, trademarks and other similar rights recognised by the laws of both Contracting Parties.</p>
+        <p>Any alteration of the form in which assets are invested or reinvested shall not affect their quality of investment.</p>
+        <p>3. The term "returns" means the amounts yielded by an investment and in particular, though not exclusively, profits, interests, dividens or rents on capital and profits.</p>
+        <p>4. This Agreement shall apply, in respect of the People's Democratic Republic of Algeria, in the land territory and its maritime area designating the economic zone and the continental shelf extending beyond the limits of the territorial waters and on which it exercises any sovereign rights and jurisdiction in accordance with international law applicable in this area.</p>
+        <p>As regards the Syrian Arab Republic, this Agreement shall apply to its lands, including the territorial sea, the continental land, the soil, and the subsoil, airspace and all other areas that are located beyond the territorial waters and over which it exercises the right of sovereignty, in accordance with international rights for the purposes of extraction and investment of natural, biological, mining and all other resources. other rights relating to the waters and subsoil of the sea.</p>
+      </div>
+      <div type="article" num="3" title="Investment promotion">
+        <p>1. Investments and their income, made by one of the natural or legal persons on the land (territory) of the other Party, shall benefit from the facilities and incentives and other kinds of encouragement, including exemptions from taxes and duties provided for by the investment laws and regulations in force in the host country of the investment. The authorisation shall determine for each such investment the law applicable to it.</p>
+        <p>2. Investors of one of the Contracting Parties shall be permitted to appoint some officials and experts of another nationality, to the extent permitted by the laws of the host country. Both Contracting Parties shall grant all necessary facilities, including the issue of residence permits for such officials and experts and their families, in accordance with the laws and regulations of the host State.</p>
+        <p>3. Each Contracting Party shall ensure fair and equitable treatment on its land (territory) to investments of investors of the other Contracting Party, which shall be determined in accordance with its laws and regulations on the encouragement of investment.</p>
+        <p>Such treatment shall not be less favourable than that accorded and applied to its own nationals.</p>
+      </div>
+      <div type="article" num="4" title="Protection of investments">
+        <p>Neither of the Contracting Parties may cause damage to the investments of the other Contracting Party, with regard to the management, continuity, renewal, sale or liquidation of such investments by procedures contrary to the laws and regulations in force, in accordance with the following:</p>
+        <p>1. No nationalisation, expropriation or freezing of investments of either Contracting Party in the land (territory) of the other Contracting Party, or of investments of their nationals, whether natural or legal persons, may be carried out directly or indirectly.</p>
+        <p>Such investments may also not be the subject of procedures having the same effects as nationalisation, expropriation or limitation of the power to dispose of the right of ownership relating thereto and of their earnings, except in the public interest, in the general interest of that country or in return for fair compensation, and this on non-discriminatory bases and in accordance with the laws in force.</p>
+        <p>Such compensation may be transferred in accordance with Article 5 of this Agreement.</p>
+        <p>2. Without prejudice to the provisions of Article 6 of this Agreement, the investor shall have the right to object to any of the measures referred to in paragraph 1 of this Article. In this context, he has the right to follow the various legal and judicial procedures in force in the host country.</p>
+        <p>3. Compensation will be calculated on the basis of the fair market value of the investment immediately before or as soon as the expropriation decision is made public. This value may be determined in accordance with recognized principles for the determination of market value. If it is impossible to determine the market value, the value of the compensation shall be determined in accordance with equitable principles, taking into account the capital invested, capital depreciation, goodwill and all other similar things.</p>
+        <p>4. Investors of one of the Contracting Parties whose investments suffer losses on the land (territory) of the other Contracting Party as a result of war, armed conflict, revolt, state of emergency or insurrection, shall enjoy treatment no less favourable than that accorded by the other Contracting Party to its own investors, as regards the restitution of their property or compensation or any other investor compensation, shall be entitled to transfer such compensation abroad in accordance with the provisions of Article 5 of this Agreement.</p>
+      </div>
+      <div type="article" num="5" title="Transfer of capital and returns">
+        <p>Each of the Contracting Parties shall permit the transfer abroad of capital and income converted or invested as assets on its land (territory), in the original currency or any other freely convertible currency, without delay, in accordance with the investment laws and regulations in force in each of the two countries, after all tax obligations have been met. This will include, in particular:</p>
+        <p>(a) profits or shares of profits of shares, interest and other income derived from any investment made by an investor in the land (territory) of the other Contracting Party, in accordance with the laws and regulations in force relating to the investment;</p>
+        <p>(b) the proceeds of the total or partial liquidation of any investment made by an investor in the country of the other Contracting Party, in accordance with the laws in force at the time of the transfer;</p>
+        <p>(c) repayments of instalments of loans and interest thereon contracted, in agreement with the host country of the investment, in foreign currencies for the financing or expansion of investments.</p>
+      </div>
+      <div type="article" num="6" title="Settlement of investment disputes between the investors and the host state">
+        <p>Disputes relating to the various aspects of investments and related activities which are the property of one of the Contracting Parties or its nationals shall be settled by conciliation or arbitration or by recourse to the Arab Investment Tribunal, in accordance with the provisions of Chapter 6 of the Unified Convention for the Investment of Arab Capital in the Arab Countries and the Annex thereto, which was approved by the Arab Economic and Social Council by its decision 841 of 10 September 1980, taken at its twenty-ninth session held at Tunis. The investor has the right to resort to local justice in the following cases:</p>
+        <p>1. Disagreement of both parties on recourse to conciliation;</p>
+        <p>2. The conciliator is unable to submit his report within the time limit set;</p>
+        <p>3. Both parties disagree on the acceptance of the solutions recommended in the conciliator's report;</p>
+        <p>4. Disagreement of both parties on the use of arbitration;</p>
+        <p>5. The arbitration decision is not pronounced within the time limit for any reason whatsoever.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>1. If one of the Contracting Parties or one of its national agencies makes payments against damage suffered by one of its investors in the country of the other Contracting Party, pursuant to a guarantee granted individually or in association with the Arab investment guarantee agency or with another party against the risks mentioned in Article 4 of this Agreement, the party that has paid the amount substitutes itself for the investor vis-&#xE0;-vis the other contracting party (the investment host country), within the limits of the payment made by the investor and without exceeding the rights legally provided for in favour of the investor vis-&#xE0;-vis the investment host country.</p>
+        <p>This right of subrogation shall extend to the right of transfer referred to in Article 5 of this Agreement and the right of recourse to the means of dispute settlement provided for in its provisions.</p>
+        <p>2. The other Contracting Party "the host country of the investment" shall have the right to enforce against the guaranteeing Party the obligations which are legally or by agreement incumbent on the investor who has benefited from the compensation.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between the contracting parties">
+        <p>1. Any dispute concerning the interpretation or application of this agreement should, if possible, be settled by mutual agreement.</p>
+        <p>2. If the dispute has not been settled within a period of six months from the date when it was raised by either Contracting Party, it shall be submitted at the request of either Contracting Party to an arbitral tribunal.</p>
+        <p>3. The arbitral tribunal shall be constituted in the following manner:</p>
+        <p>Each Contracting Party shall appoint one arbitrator and these two arbitrators shall designate by common agreement a national of a third State as Chairman of the arbitral tribunal. All members shall be appointed within two months from the date of notification by one party to the other party of its intention to submit the dispute to the arbitral tribunal.</p>
+        <p>4. Where the time limits specified in paragraph 3 above have not been complied with, either Contracting Party shall invite the Secretary-General of the League of Arab States to make the necessary appointments.</p>
+        <p>5. The arbitral tribunal shall establish its own rules of procedures and interpret its decisions. Both Contracting Parties shall bear, in equal shares, the costs of the arbitration proceedings, including the fees of the arbitrators, unless the tribunal decides otherwise for special considerations.</p>
+      </div>
+      <div type="article" num="9" title="Other rules and specific obligations">
+        <p>Investments and returns referred to in article 4 of this Agreement shall enjoy the benefits of the multilateral Arab conventions relating to investment and to which either Contracting Party is a member.</p>
+      </div>
+      <div type="article" num="10" title="Investment field">
+        <p>It shall be permitted to natural and legal persons of either Contracting Party, to invest in the country of the other Contracting Party in various fields of investment that are offered or permitted by the laws and regulations in force, in particular in the fields of industry, agriculture, health, tourism, transport, and others. The investment project may benefit from the protection referred to in this Agreement only after agreement by the competent authorities of the host country.</p>
+      </div>
+      <div type="article" num="11" title="General provisions">
+        <p>a. This Agreement shall enter into force on the date of exchange of notification of its ratification by the competent authorities in accordance with the constitutional procedures of each of the Contracting Parties.</p>
+        <p>b. This Agreement shall be valid for a period of ten years from the date of its entry into force and shall be tacitly renewed for similar periods unless one of the Contracting Parties notifies the other Contracting Party in writing at least six months before the date of expiry of its intention to terminate it.</p>
+        <p>c. The termination of the Agreement shall not affect investments made in accordance with its provisions until their termination or liquidation.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Damascus, on 12 Joumada El Oula 1418 corresponding to 14 September 1997, in two originals in the Arabic language, both texts being equally authentic.</p>
+      <p>For the Government of the People's Democratic Republic of Algeria</p>
+      <p>Dr. Mohamed EL IMADI</p>
+      <p>Ministry of Economy and Foreign Trade</p>
+      <p>For the Government of the Syrian Arab Republic</p>
+      <p>Ahmed ATTAF</p>
+      <p>Minister of Foreign Affairs</p>
+    </conclusion>
+  </main>
+</treaty>

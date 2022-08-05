@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Lao People's Democratic Republic - Malaysia BIT (1992)</name>
+    <code>T1992-100</code>
+    <partyisocode n="0">LAO</partyisocode>
+    <partyisocode n="1">MYS</partyisocode>
+    <date_signed>1992-12-08</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>2342</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{LAO,MYS}_1992-12-08.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2009-8">ASEAN Comprehensive Investment Agreement (2009)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1987">ASEAN Investment Agreement (1987)</relation>
+  </meta>
+  <main/>
+</treaty>

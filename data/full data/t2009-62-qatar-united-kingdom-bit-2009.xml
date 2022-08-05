@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Qatar - United Kingdom BIT (2009)</name>
+    <code>T2009-62</code>
+    <partyisocode n="0">GBR</partyisocode>
+    <partyisocode n="1">QAT</partyisocode>
+    <date_signed>2009-09-18</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>3598</docreference>
+    <comments>On 28.09.2009 UK and Qatar signed a Memorandum of Understanding for cooperation in the development of policing capabilities related to the prevention, detection, and investigation of crimes</comments>
+    <source>http://www.almeezan.qa/AgreementsPage.aspx?id=1505&amp;language=ar</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{GBR,QAT}_2009-09-18.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main/>
+</treaty>

@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Albania - Russian Federation BIT (1995)</name>
+    <code>T1995-3</code>
+    <partyisocode n="0">ALB</partyisocode>
+    <partyisocode n="1">RUS</partyisocode>
+    <date_signed>1995-04-11</date_signed>
+    <date_into_force>1996-05-29</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">al</orig_language>
+    <termination_type/>
+    <docreference>36</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ALB,RUS}_1995-04-11.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>al</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE RUSSIAN FEDERATION AND THE GOVERNMENT OF THE REPUBLIC OF ALBANIA ON THE PROMOTION AND MUTUAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Russian Federation and the Government of the Republic of Albania, hereinafter referred to as the Contracting Parties,</p>
+      <p>Referring to the creation of favorable conditions for investments by investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Considering that the promotion and reciprocal protection of such investments will contribute to the development of mutually beneficial trade-economic and scientific and technical cooperation,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>1.  In this Agreement:</p>
+        <p>a)  The term "investor" means any natural person who is a citizen of the Contracting Parties and any legal entity established in accordance with its legislation;</p>
+        <p>b)  the term "investments" covers all kinds of assets that investors of one Contracting Party investing in the territory of the other Contracting Party in accordance with its legislation, and in particular:</p>
+        <p>Property (buildings, structures, equipment and other tangible assets) and related property rights, including the right to bail;</p>
+        <p>Cash as well as shares, stocks and other forms of participation;</p>
+        <p>The contractual rights to the cash flows that are invested to create economic value, or services having an economic value;</p>
+        <p>Copyrights, inventions, industrial designs, trademarks or service marks, trade names, as well as technology and know-how;</p>
+        <p>Right to engage in entrepreneurial activity, conferred by law or contract, including, in particular, the right to exploration, development and exploitation of natural resources;</p>
+        <p>c)  the term "returns" means the amount obtained by an investment</p>
+        <p>Under subsection "b" of paragraph 1 of this article, in particular, as the income (profit share), dividends, interest, royalties and fees</p>
+        <p>Remuneration, payments for technical assistance and maintenance and other fees.</p>
+        <p>2.  This Agreement shall be valid on the territory of the Russian Federation and the Republic of Albania, its effect also applies to the exclusive economic zone and continental shelf, over which the State exercises, in accordance with international law, sovereign rights and jurisdiction.</p>
+      </div>
+      <div type="article" num="2">
+        <p>1.  Each Contracting Party shall encourage investors of the other Contracting Party to make investments in its territory and in accordance with its law admit such investments.</p>
+        <p>2.  Each Contracting Party shall ensure, in accordance with its legislation full and unconditional legal protection to investments of investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1.  Each Contracting Party shall ensure in its territory investments of investors of the other Contracting Party and activities in connection with the investments fair and equitable treatment, excludes the application of discriminatory measures that would impede the management and disposal of investments.</p>
+        <p>2.  referred to in paragraph 1 of this Article Mode, will be no less favorable than that accorded to the investments and activities in connection with the investments of its own investors or investors of any third state.</p>
+        <p>3.  Each Contracting Party reserves the right to determine the sectors and spheres of activity, which exclude or restrict the activities of foreign investors.</p>
+        <p>4.  Most-favored-nation treatment granted in accordance with paragraph 2 of this Article shall not apply to the advantages which the Contracting Party is providing or will provide in the future:</p>
+        <p>In connection with participation in a free trade area, customs or economic union;</p>
+        <p>By virtue of the agreements of the Russian Federation with the states of the former Union of Soviet Socialist Republics;</p>
+        <p>On the basis of agreements to avoid double taxation or other agreements on taxation.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Investments of investors of either Contracting Party made in the territory of another Contracting Party shall not be nationalized or subjected to measures equally on the consequences of nationalization (hereinafter referred to as "the nationalization"), except in cases where such measures are taken in the public interest, in accordance with legislation, They are not discriminatory and are accompanied by payment of prompt, adequate and effective compensation. Compensation should reflect the actual cost of the nationalized investment immediately before the date when the official was aware of the actual or impending nationalization. Compensation will be paid without unreasonable delay in freely convertible currency and be freely transferable from the territory of one Contracting Party in the territory of the other Contracting Party. Until the payment of the amount of compensation will bear interest according to the interest rate of the Contracting Party in whose territory the investments were made.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party shall guarantee to investors of the other Contracting Party after the payment of the relevant taxes and duties free transfer abroad of payments in connection with the investments, and in particular:</p>
+        <p>a)  income, as defined in sub-paragraph "c" of paragraph 1 of Article 1 of this Agreement;</p>
+        <p>b)  the amounts in repayment of loans, recognized by both Contracting Parties as investments;</p>
+        <p>c)  the amounts received by the investor in connection with the partial or total liquidation or sale of investments;</p>
+        <p>g)  the compensation provided for in Article 4 of this Agreement.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Disputes between a Contracting Party and an investor of the other Contracting Party arising in connection with the implementation</p>
+        <p>Investments, including disputes over the size of the issues, conditions, or order the payment of compensation shall be settled as far as possible by negotiations.</p>
+        <p>If so the dispute is not resolved within six months from the date of its origin, its consideration may be referred to:</p>
+        <p>a)  the competent court or tribunal of the Contracting Party in whose territory the investments were made;</p>
+        <p>b)  The Arbitration Institute of the Stockholm Chamber of Commerce;</p>
+        <p>c)  the arbitration court ah hoc in accordance with the Arbitration Rules of the International Trade Law of the United Nations Commission (UNCITRAL).</p>
+      </div>
+      <div type="article" num="7">
+        <p>The Contracting Parties on the proposal of any of them may be consulted on matters relating to the interpretation or application of this Agreement.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1.  Disputes between the Contracting Parties concerning the interpretation or application of this Agreement shall be resolved through negotiations.</p>
+        <p>If so the dispute is not resolved, then at the request of one of the Contracting Parties, it shall be referred to an arbitral tribunal.</p>
+        <p>2.  The arbitral tribunal will be created separately for each case. The Contracting Parties shall appoint one member of the court, as well as co-national of a third State as chairman of the court. The members of the Court shall be appointed within two months and the chairman of the court - within three months from the date when one of the Contracting Parties declares its intention to submit the dispute to an arbitral tribunal.</p>
+        <p>3.  If specified in paragraph 2 of this article the terms are not observed, in the absence of any other agreement, either Contracting Party may call upon the UN Secretary-General to make the necessary appointment.</p>
+        <p>4.  The arbitral tribunal shall render its decision by majority vote. Such decision shall be binding. Each Contracting Party shall bear the expenses related to the activities of its designated member of the court; costs associated with the chairman of the court activity, and other expenses The Contracting Parties shall bear in equal shares. For all other matters the arbitral tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="9">
+        <p>This Agreement shall apply to all investments made by investors of either Contracting Party in the territory of the other Contracting Party since 1 January 1995.</p>
+      </div>
+      <div type="article" num="10">
+        <p>1.  This Agreement shall enter into force on the date of the last written notification about the fulfillment by the Contracting Parties of the necessary domestic procedures.</p>
+        <p>2.  This Agreement is concluded for a period of fifteen years. It shall be automatically renewed for successive five-year periods, unless either Contracting Party notifies in writing the other Contracting Party at least twelve months prior to the expiry of the period of its intention to terminate this Agreement.</p>
+        <p>3.  In respect of investments made prior to the date of termination of this Agreement, the provisions of this Agreement shall remain in force for a period of fifteen years from that date.</p>
+        <p>Done in Moscow on 11 April 1995 in two copies, each in the Russian and Albanian languages, both texts being equally authentic.</p>
+      </div>
+    </body>
+  </main>
+</treaty>

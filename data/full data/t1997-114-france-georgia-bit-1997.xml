@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>France - Georgia BIT (1997)</name>
+    <code>T1997-114</code>
+    <partyisocode n="0">FRA</partyisocode>
+    <partyisocode n="1">GEO</partyisocode>
+    <date_signed>1997-02-03</date_signed>
+    <date_into_force>2000-04-13</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <translated>yes</translated>
+    <termination_type/>
+    <docreference>1553</docreference>
+    <comments/>
+    <source>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000765874?init=true&amp;page=1&amp;query=G%C3%A9orgie+investissements&amp;searchField=ALL&amp;tab_selection=all</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_TRANSLATED>yes</IT_TRANSLATED>
+    <IT_FILE_NAME_REFERENCE>{FRA,GEO}_1997-02-03.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1996-129">EC - Georgia Cooperation Agreement (1996)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2014-26">EU - Georgia Association Agreement (2014)</relation>
+    <relation type="TERMINATED_BY_THIRD_TREATY" document-code="T1996-129">EC - Georgia Cooperation Agreement (1996)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of Republic of France and the Government of Georgia concerning the Encouragement and Reciprocal Protection of Investment</p>
+    </title>
+    <preamble>
+      <p>The Government of the French Republic and the Government of Georgia, hereinafter referred to as "the Contracting Parties"</p>
+      <p>Desiring to strengthen economic cooperation between the two States and to create favourable conditions for French investments in Georgia and Georgian investments in France</p>
+      <p>Convinced that the encouragement and protection of such investments are likely to stimulate the transfer of capital and technology between the two countries in the interest of their economic development, have agreed on the following provisions:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The term "Investment" means all assets, such as property rights and interests of all kinds, and particularly but not limited to:</p>
+        <p>a) Movable and immovable property as well as any other rights in rem such as mortgages, liens, usufructs, guarantees and any other similar rights;</p>
+        <p>b) Shares, stocks and other forms of participation, even indirect minority, or to companies established in the territory of one of the Contracting Parties;</p>
+        <p>c) The obligations and rights, claims to any performance having economic value;</p>
+        <p>d) Intellectual property rights, commercial and industrial such as copyrights, patents, licences, trademarks, industrial designs or models, technical processes, trade names, know-how and goodwill;</p>
+        <p>e) Concessions granted by law or under contract, including concessions to search for, culture, extract or exploit natural resources including those of the maritime area situated in Contracting Parties.</p>
+        <p>It is understood that such assets must be or have been invested in accordance with the law of the Contracting Party in the territory or maritime area in which the investment is made before or after the entry into force of this Agreement.</p>
+        <p>Any alteration of the form in which assets are invested shall not affect their classification as investment, provided that such change is not contrary to the legislation of the Contracting Party in the territory or maritime area in which the investment is made.</p>
+        <p>2. The term "national" means natural persons having the nationality of one of the Contracting Parties.</p>
+        <p>The term "companies" means any legal person incorporated in the territory of one of the Contracting Parties, in accordance with the laws of that Party and having its registered office there, or controlled directly or indirectly by nationals of one of the Contracting Parties, or by legal persons having their registered office in the territory of one of the Contracting Parties and incorporated in accordance with the laws of that Party.</p>
+        <p>3. The term "income" means all sums produced by an investment, such as profits, royalties or interest, during a given period.</p>
+        <p>The income from the investment and, in the case of reinvestment, the income from its reinvestment shall enjoy the same protection as the investment.</p>
+        <p>5. This Agreement shall apply to the territory of each Contracting Party as well as to the maritime area of each Contracting Party, hereinafter defined as the economic zone and the continental shelf which extend beyond the limits of the territorial waters of each Contracting Party and over which they have, in accordance with international law, sovereign rights and jurisdiction for the purpose of exploring, exploiting and conserving natural resources.</p>
+      </div>
+      <div type="article" num="2" title="Encouragement of Investments">
+        <p>Each Contracting Party shall, within the framework of its legislation and the provisions of this Agreement, admit and encourage investments made by the nationals and companies of the other Party in its territory and in its maritime zone.</p>
+      </div>
+      <div type="article" num="3" title="Fair and Equitable Treatment">
+        <p>Each Contracting Party undertakes to ensure, in its territory and maritime area, fair and equitable treatment, in accordance with the principles of international law, of investments of nationals and companies of the other Party and to ensure that the exercise of the right thus recognised to fair and equitable treatment is not impeded in law or in fact. In particular, although not exclusively, any restriction on the purchase and transport of raw and auxiliary materials, energy and fuel, and means of production and operation of any kind, any impediment to the sale and transport of products within the country and abroad, and any other measures having a similar effect, shall be deemed to be impediments in law or in fact to fair and equitable treatment.</p>
+        <p>The Contracting Parties shall, within the framework of their domestic legislation, give sympathetic consideration to applications for entry and authorisation to reside, work and travel made by nationals of a Contracting Party in connection with an investment made in the territory or maritime area of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="4" title="National Treatment and Most-favoured-nation Treatment">
+        <p>Each Contracting Party shall apply, in its territory and maritime zone, to the nationals or companies of the other Party, in respect of their investments and activities related to such investments, treatment no less favourable than that accorded to its nationals or companies, or the treatment accorded to the nationals or companies of the most favoured nation, whichever is more favourable. In this connection, nationals authorised to work in the territory and maritime area of one of the Contracting Parties must be able to enjoy appropriate material facilities for the exercise of their professional activities.</p>
+        <p>This treatment shall not, however, extend to the privileges which a Contracting Party grants to the nationals or companies of a third State by virtue of its participation in or association with a free trade area, a customs union, a common market or any other form of regional economic organisation.</p>
+        <p>The provisions of this Article shall not apply to fiscal matters.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation and Compensation">
+        <p>1. Investments made by nationals or companies of either Contracting Party shall enjoy full protection and security in the territory and maritime area of the other Contracting Party.</p>
+        <p>2. The Contracting Parties shall not take any measures of expropriation or nationalization or any other measures the effect of which is to dispossess, directly or indirectly, the nationals and companies of the other Party of investments belonging to them in their territory and maritime area, except in the public interest and provided that such measures are not discriminatory or contrary to any particular undertaking.</p>
+        <p>Any measures of dispossession which may be taken shall give rise to the payment of prompt and adequate compensation, the amount of which, equal to the real value of the investments concerned, shall be assessed by reference to a normal economic situation prior to any threat of dispossession.</p>
+        <p>This compensation, its amount and the way in which it is to be paid shall be fixed at the latest on the date of the dispossession. Such compensation shall be effectively realizable, paid without delay and freely transferable. It shall bear interest until the date of payment at the appropriate market rate.</p>
+        <p>3. Nationals or companies of one of the Contracting Parties whose investments have been lost as a result of war or any other armed conflict, revolution, state of national emergency or revolt in the territory or maritime area of the other Contracting Party shall receive from the latter treatment no less favourable than that accorded to its own nationals or companies or to those of the most favoured nation.</p>
+      </div>
+      <div type="article" num="6" title="Free Transfer">
+        <p>Each Contracting Party shall, in the territory or maritime area of which investments have been made by nationals or companies of the other Contracting Party, grant to such nationals or companies freedom of transfer :</p>
+        <p>a) Interest, dividends, profits and other current income;</p>
+        <p>b) Royalties arising from the intangible rights referred to in paragraph 1 (d) and (e) of Article 1;&nbsp;</p>
+        <p>c) Payments made for the repayment of loans regularly contracted;</p>
+        <p>d) Proceeds from the disposal or liquidation of the investment in whole or in part, including capital gains on the investment;</p>
+        <p>e) Compensation for loss of possession or for loss provided for in Article 5, paragraphs 2 and 3 above.</p>
+        <p>Nationals of each Contracting Party who have been authorised to work in the territory or maritime area of the other Contracting Party in connection with an approved investment shall also be authorised to transfer to their country of origin an appropriate proportion of their remuneration.</p>
+        <p>The transfers referred to in the preceding paragraphs shall be made without delay at the normal rate of exchange officially applicable on the date of transfer.</p>
+      </div>
+      <div type="article" num="7" title="Settlement of Disputes between an Investor and a Contracting Party">
+        <p>Any investment dispute between one of the Contracting Parties and a national or company of the other Contracting Party shall be settled amicably between the two parties concerned.</p>
+        <p>If such a dispute has not been settled within six months from the time it was raised by either party to the dispute, it shall be submitted at the request of either party to arbitration by the International Centre for Settlement of Investment Disputes (ICSID), established by the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, signed in Washington on 18 March 1965.</p>
+      </div>
+      <div type="article" num="8" title="Guarantee and Subrogation">
+        <p>1.&nbsp;To the extent that the regulations of one of the Contracting Parties provide for a guarantee for investments made abroad, such guarantee may be granted, on a case-by-case basis, to investments made by nationals or companies of that Party in the territory or maritime zone of the other Party.</p>
+        <p>2.&nbsp;Investments by nationals and companies of one of the Contracting Parties in the territory or maritime area of the other Party may only obtain the guarantee referred to in the above paragraph if they have first obtained the approval of the latter Party.</p>
+        <p>3. If one of the Contracting Parties, by virtue of a guarantee given for an investment made in the territory or maritime area of the other Party, makes payments to one of its nationals or to one of its companies, it is thereby subrogated to the rights and actions of that national or that company.</p>
+        <p>4.&nbsp;Such payments shall not affect the rights of the beneficiary of the guarantee to have recourse to the ICSID or to pursue actions brought before it until the proceedings have been completed.</p>
+      </div>
+      <div type="article" num="9" title="Specific Commitments">
+        <p>Investments which have been the subject of a specific undertaking by one of the Contracting Parties in respect of the nationals and companies of the other Contracting Party shall be governed, without prejudice to the provisions of this Agreement, by the terms of that undertaking in so far as it contains provisions more favourable than those laid down in this Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Settlement of Disputes between Contracting Parties">
+        <p>1. Disputes concerning the interpretation or application of this Agreement shall be settled, if possible, through diplomatic channels.</p>
+        <p>2.&nbsp;If the dispute is not settled within six months of its being raised by either Contracting Party, it shall be submitted, at the request of either Contracting Party, to an arbitration tribunal.</p>
+        <p>3.&nbsp;The said tribunal shall be constituted for each particular case in the following manner: each Contracting Party shall appoint one member, and the two members shall appoint, by mutual agreement, a national of a third State who shall be appointed Chairman of the tribunal by both Contracting Parties. All members shall be appointed within two months of the date on which one Contracting Party has notified the other Contracting Party of its intention to submit the dispute to arbitration.</p>
+        <p>4.&nbsp;If the time limits laid down in paragraph 3 above have not been observed, either Contracting Party shall, in the absence of any other agreement, invite the Secretary-General of the United Nations to make the necessary appointments. If the Secretary-General is a national of either Contracting Party or is otherwise prevented from exercising this function, the most senior Under-Secretary-General who is not a national of one of the Contracting Parties shall make the necessary appointments.</p>
+        <p>5.&nbsp;The Arbitration Tribunal shall take its decisions by majority vote. These decisions are final and binding on the Contracting Parties.</p>
+        <p>The tribunal shall determine its own rules. It shall interpret the award at the request of either Contracting Party.  Unless the Tribunal decides otherwise, taking into account special circumstances, the costs of the arbitration proceedings, including the fees of the arbitrators, shall be shared equally by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="11" title="Entry Into Force and Duration">
+        <p>Each Party shall notify the other of the completion of the internal procedures required for the entry into force of this Agreement.</p>
+        <p>The Agreement shall enter into force one month after the date of receipt of the last notification.</p>
+        <p>The Agreement is concluded for an initial period of ten years. It shall remain in force after this period unless one of the Parties denounces it through diplomatic channels with one year's notice.</p>
+        <p>At the end of the period of validity of this Agreement, investments made while it was in force shall continue to enjoy the protection of its provisions for a further period of twenty years.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Paris, this 3rd day of February 1997, in two originals, each in the English, French and Georgian languages, all three texts being equally authentic.</p>
+      <p>For the Government of the French Republic: </p>
+      <p>Yves Galland </p>
+      <p>Deputy Minister of Finance and Foreign Trade</p>
+      <p>For the Government of Georgia: </p>
+      <p>Konstantine Zaldastanichvili </p>
+      <p>Minister of Foreign Trade and Economic Relations</p>
+    </conclusion>
+  </main>
+</treaty>

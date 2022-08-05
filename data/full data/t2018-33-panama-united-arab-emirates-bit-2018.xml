@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Panama - United Arab Emirates BIT (2018)</name>
+    <code>T2018-33</code>
+    <partyisocode n="0">ARE</partyisocode>
+    <partyisocode n="1">PAN</partyisocode>
+    <date_signed>2018-02-28</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+  </meta>
+  <main/>
+</treaty>

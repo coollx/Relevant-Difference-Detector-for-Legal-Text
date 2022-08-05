@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>BLEU - Mongolia BIT (1992)</name>
+    <code>T1992-16</code>
+    <partyisocode n="0">BLEU</partyisocode>
+    <partyisocode n="1">MNG</partyisocode>
+    <date_signed>1992-03-03</date_signed>
+    <date_into_force>2000-04-15</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr,mn</orig_language>
+    <termination_type/>
+    <docreference>513</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{BLEU,MNG}_1992-03-03.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>fr,mn</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Belgian-Luxembourg Economic Union and the Republic of Mongolia on the reciprocal encouragement and protection of investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of Belgium, acting in the name and on behalf of the Government of the Grand Duchy of Luxembourg, under existing agreements,</p>
+      <p>And the Government of the Republic of Mongolia,</p>
+      <p>Desiring to intensify economic cooperation by creating favourable conditions for the achievement of equal investments by nationals of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement,</p>
+        <p>1. the term "investors" means:</p>
+        <p>a) Any natural person who, according to the laws of Belgium or Luxemburg, Mongolia is considered as a citizen of the Kingdom of Belgium, the Grand-Duchy of Luxembourg or of the Republic of Mongolia respectively;</p>
+        <p>b) Any legal person constituted under the laws of Belgium or Luxemburg, Mongolian and having its registered office in the territory of the Kingdom of Belgium, the Grand-Duchy of Luxembourg or of the Republic of Mongolia respectively.</p>
+        <p>2. The term "investments" means any asset any and all direct or indirect, in cash, or in-kind, invested or reinvested services in any sector of the economy, provided that the investment has been made in accordance with the laws of the Contracting Party in whose territory it is located. the following shall be considered in particular, though not exclusively, as investments within the meaning of this Agreement:</p>
+        <p>a) Movable and immovable property as well as any other rights in rem such as mortgages, liens, pledges, usufruct and similar rights;</p>
+        <p>b) Shares, stocks and any other forms of participation, or even indirect minority, company established in the territory of one of the contracting parties;</p>
+        <p>c) The obligations, rights, and claims to any performance having an economic value;</p>
+        <p>d) Copyrights, industrial property rights, technical processes, trade names and goodwill;</p>
+        <p>e) The concessions under public law or under contract, including those relating to prospecting, culture, extract or exploit natural resources.</p>
+        <p>Any alteration of the form in which assets and capital invested or reinvested shall not affect their classification as an equal investment within the meaning of this Agreement.</p>
+        <p>3. The term "returns" means the amounts yielded by an investment equal and in particular, though not exclusively, interests, profits, capital increases, dividends, royalties or fees.</p>
+      </div>
+      <div type="article" num="2" title="Promotion of investments">
+        <p>1. Each Contracting Party shall encourage equal investments in its territory by investors of the other Contracting Party and admits such investments in accordance with its legislation.</p>
+        <p>2. In particular, each Contracting Party shall permit the conclusion and the carrying out of licensing agreements and contracts for commercial, administrative or technical assistance, provided that these activities have a bearing on the investments.</p>
+      </div>
+      <div type="article" num="3" title="Protection of investments">
+        <p>1. All investments made directly or indirectly by investors of one of the Contracting Parties shall, in the territory of the other Contracting Party fair and equitable treatment.</p>
+        <p>2. Subject to the measures necessary for the maintenance of public order, these investments enjoy security and equal protection constant, excluding any unjustified or discriminatory measure which could adversely affect, in law or in fact, management, maintenance, use, enjoyment or disposal.</p>
+        <p>3. The treatment and protection set out in paragraphs 1 and 2 shall be at least equal to those enjoyed by investors of a third country and shall in no case be less favourable than those accorded by international law.</p>
+        <p>4. However, this treatment and protection shall not extend to the privileges which either Contracting Party accords to investors of a third State by virtue of its association or participation in a free trade area, customs union or common market, other forms of regional economic organizations.</p>
+      </div>
+      <div type="article" num="4" title="Deprivation or restriction of property">
+        <p>1. Each Contracting Party undertakes not to take any measure of expropriation or nationalization or any other measure the purpose of which is directly or indirectly dispossessing investors of the other contracting party of their own investments in its territory.</p>
+        <p>2. If the requirements of public security or national interest justify derogation from paragraph 1, the following conditions shall be satisfied:</p>
+        <p>a) The measures shall be taken under due process;</p>
+        <p>b) They are neither discriminatory nor contrary to a specific commitment;</p>
+        <p>c) They are accompanied by provisions for the payment of adequate and effective compensation.</p>
+        <p>3. The amount of compensation will correspond to the real value of the investment concerned to be equal before the date on which the measures are taken or to be made public.</p>
+        <p>The compensations shall be paid in the currency of the Member State to which the investor or in any other convertible currency. They shall be made without delay and freely transferable. It shall include interest at a normal commercial rate from the date of establishment until the date of payment.</p>
+        <p>4. Investors of one Contracting Party whose investments have suffered losses due to war or any other armed conflict, revolution, state of emergency or national revolt in the territory of the other Contracting Party benefit, on the part of this latter, from a treatment not less favourable than that accorded to the investors of the most favoured nation treatment as regards restitution, indemnification, compensation or other remedies.</p>
+        <p>5. For the matters governed by this Article, each Contracting Party shall accord to investors of the other Party, treatment no less than that which the reservation in its territory for investors of the most favoured nation. This treatment shall in no case be less favourable than that recognised by international law.</p>
+      </div>
+      <div type="article" num="5" title="Transfers">
+        <p>1. Each Contracting Party in whose territory the investment equal have been made by investors of the other Contracting Party shall grant those investors the free transfer of their liquid assets and in particular:</p>
+        <p>a) Income investments interests, including profits, dividends, royalties, capital;</p>
+        <p>b) The amounts required for the repayment of loans contracted regularly;</p>
+        <p>c) Claims of the recovery of the proceeds of the total or partial liquidation of investments, including capital gains or increases in the capital invested;</p>
+        <p>d) Compensation paid pursuant to article 4;</p>
+        <p>e) Royalties and other payments deriving from the licence fees and commercial or administrative assistance.</p>
+        <p>2. The nationals of either Contracting Party who are authorised to work in connection with an investment approved in the territory of the other Contracting Party shall also be authorised to transfer their country of origin an appropriate proportion of remuneration.</p>
+        <p>3. Each Contracting Party shall issue the required authorisations to ensure the execution of transfers without undue delay and without any fees or other charges that the usual costs.</p>
+        <p>The guarantees provided for by this article shall be at least equal to those accorded to investors in like circumstances of the most favoured nation.</p>
+      </div>
+      <div type="article" num="6" title="Exchange rate">
+        <p>1. The transfers referred to in articles 4 and 5 of this Agreement shall be made at the rate of exchange applicable on the date of the latter and in accordance with the foreign exchange regulations in force in the State in whose territory the investment has been made.</p>
+        <p>2. These rates shall in no case be less favourable than those accorded to investors of the most favoured nation, including by virtue of specific commitments, provided for in the agreements or arrangements concluded in any protection of investments.</p>
+        <p>3. In all cases, the rates shall be fair and equitable.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>1. If one of the Contracting Parties or a public agency thereof pays compensation to its own investors under a guarantee given in respect of an investment equal, the other Contracting Party acknowledges that the rights of the indemnified investors have been transferred to the Contracting Party or to the public body, as the insurer.</p>
+        <p>In the same way as investors, and within the limits of the rights so transferred, the insurer may, by virtue of subrogation to exercise the rights and assert the claims of investors and those relating thereto.</p>
+        <p>The rights of subrogation shall also apply to the transfer of rights and to arbitration referred to in Articles 5 and 10.</p>
+        <p>These rights and actions may be exercised by the insurer within the limits the number of covered by the contract of guarantee, and by the investor to guarantee the recipient, within the limits of the risk that is not covered by the contract.</p>
+        <p>2. As far as the transferred rights, the other Contracting Party shall be entitled to plead against the insurer, subrogated into the rights of the investors indemnified the obligations under a legal or contractual relationship with them.</p>
+      </div>
+      <div type="article" num="8" title="Applicable rules">
+        <p>Where a matter relating to investments simultaneously is governed by this Agreement and by the national legislation of either Contracting Party or under existing international conventions or undertaken by the parties in the future, investors of the other contracting party may avail itself of the provisions that are most favourable.</p>
+      </div>
+      <div type="article" num="9" title="Specific agreements">
+        <p>1. The investments which have been the subject of a special agreement between investors of one Contracting Party and the other party shall be governed by the provisions of this Agreement and in accordance with the provisions of this Agreement.</p>
+        <p>2. Each Contracting Party shall at all times compliance with the commitments it has made to investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="10" title="Settlement of investment disputes">
+        <p>1. Any dispute concerning investments between an investor of one Contracting Party and the other Contracting Party, shall be the subject of a written notification, accompanied by an aide-memoire sufficiently detailed, by the most expeditious party.</p>
+        <p>To the extent possible, the dispute shall be settled amicably between the parties to the dispute and otherwise by conciliation between the Contracting Parties through diplomatic channels.</p>
+        <p>2. In the absence of an amicable settlement by direct arrangement between the parties to the dispute by conciliation or through diplomatic channels within six months of its notification, the dispute shall be submitted to the exclusion of any other legal remedy to international arbitration by the International Centre for Settlement of Investment Disputes (ICSID), established by the Convention on the Settlement of Investment Disputes between States and nationals of other States, opened for signature at Washington, on 18 March 1965.</p>
+        <p>To this end, each Contracting Party consents advance irrevocable and that any dispute to the Centre. This consent implies that they shall waive the requirement of exhaustion of administrative or judicial remedies.</p>
+        <p>3.&nbsp;No Contracting Party, party to a dispute, shall raise an objection at any stage of the arbitration proceedings or the enforcement of an arbitration award on the ground that the investor, the adverse party to the dispute, has allegedly received compensation covering all or part of its losses under an insurance policy or under the guarantee provided for in Article 7 of this Agreement. </p>
+        <p>4. The arbitral tribunal shall decide on the basis of the national law of the Contracting Party involved in the dispute in whose territory the investment equal is located, including the rules relating to conflicts of law, the provisions of this Agreement, the terms of the specific agreement which would be reached on the investment, as well as the Principles of International Law</p>
+        <p>5. The arbitration awards shall be final and binding on the parties to the dispute. each Contracting Party undertakes to execute the award according to its national law.</p>
+      </div>
+      <div type="article" num="11" title="Most favoured nation">
+        <p>For all matters relating to the treatment of investments, investors of either Contracting Party shall enjoy, in the territory of the other Party, the most-favoured-nation treatment.</p>
+      </div>
+      <div type="article" num="12" title="Settlement of disputes between contracting parties">
+        <p>1. Any dispute concerning the interpretation or application of this agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>2. In the absence of rules through diplomatic channels, the dispute is submitted to a joint commission composed of representatives of both sides, which shall meet at the request of either party diligent and without undue delay.</p>
+        <p>3. If the Joint Commission cannot settle the dispute shall be submitted, at the request of either of the Contracting Parties, to arbitration proceedings implemented for each individual case in the following way:</p>
+        <p>Each Contracting Party shall appoint an arbitrator within two months from the date on which either Contracting Party has informed the other of its intention to submit the dispute to arbitration. Within two months after their appointment, the two arbitrators shall appoint by mutual agreement a national of a third State who shall be Chairman of the Panel of Arbitrators.</p>
+        <p>If the time limits have not been made, either Contracting Party may invite the President of the International Court of Justice to make the appointment of the arbitrator or arbitrators not appointed.</p>
+        <p>If the President of the International Court of Justice is a national of either Contracting Party or of a State with which either contracting party does not maintain diplomatic relations or if he is otherwise prevented from exercising this function, the Vice-President of the International Court of Justice shall be invited to make the appointment.</p>
+        <p>4. The Panel thus constituted shall determine its own rules of procedure. Its decisions shall be taken by a majority of the votes; they shall be final and binding on the contracting parties.</p>
+        <p>5. Each Contracting Party shall bear the costs of its appointed arbitrator. The costs resulting from the appointment of the third arbitrator and operating expenses of the panel shall be borne in equal parts by the contracting parties.</p>
+      </div>
+      <div type="article" num="13" title="Existing investment">
+        <p>This Agreement shall also apply to investments made prior to its entry into force by investors of one Contracting Party in the territory of the other Contracting Party in accordance with its laws and regulations.</p>
+      </div>
+      <div type="article" num="14" title="Entry into force and duration">
+        <p>1. This Agreement shall enter into force one month after the date on which the Contracting Parties have exchanged their instruments of ratification. It shall remain in force for a period of ten years.</p>
+        <p>2. It shall be renewed for an indefinite period, if neither Contracting Party shall notify in writing to the other party of its intention to terminate this, at least one year before the expiration of the period specified in paragraph 1 of this Article.</p>
+        <p>3. After the expiry of the initial period of validity of this Agreement, either Contracting Party may at any time decide to terminate, provided in writing to notify the other party with advance notice of at least one year.</p>
+        <p>4. As regards the investments made prior to the date of termination of this Agreement, the provisions of this Agreement shall remain in force for a period of twenty years from such date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Brussels on 3 March 1992 in two originals in the French, Dutch and Mongolian languages, all texts being equally authentic.</p>
+      <p>For the Belgo-Luxembourg Economic Union: </p>
+      <p>Robert Urbain, Minister of Foreign Trade.</p>
+      <p>For the Government of the Republic of Mongolia: </p>
+      <p>Sed-Ochiryn Bayarbaatar, Minister of Trade and Industry.&nbsp;</p>
+    </conclusion>
+  </main>
+</treaty>

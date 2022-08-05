@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Albania - Switzerland BIT (1992)</name>
+    <code>T1992</code>
+    <partyisocode n="0">ALB</partyisocode>
+    <partyisocode n="1">CHE</partyisocode>
+    <date_signed>1992-09-22</date_signed>
+    <date_into_force>1993-04-30</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">de</orig_language>
+    <termination_type/>
+    <docreference>42</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ALB,CHE}_1992-09-22.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>de</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Swiss Federal Council and the Government of the Republic of Albania on the Promotion and Reciprocal Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Swiss Federal Council and the Government of the Republic of Albania,</p>
+      <p>Desirous of reinforcing economic cooperation between the two States for mutual benefit,</p>
+      <p>In the endeavor to create and maintain favorable conditions for investment by investors of one Contracting Party in the field of the other Contracting Parties,</p>
+      <p>Recognizing that the promotion and protection of investment contribute to the increase in economic prosperity in both countries,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>(1) The term "investor" refers to both contracting parties</p>
+        <p>(a) Natural persons who are considered as nationals under the legislation of the Contracting Party concerned;</p>
+        <p>(b) Legal entities, including companies, corporations, commercial associations and other organizations constituted under the law of the Contracting Party concerned, or otherwise legally organized, having their head office in the territory of the same Contracting Party and having a genuine economic activity there;</p>
+        <p>(c) Legal entities established under the law of any State and controlled directly or indirectly by nationals of the Contracting Party concerned or by legal entities established in the territory of the Contracting Party concerned and which have a genuine economic activity there.</p>
+        <p>(2) The term "investment" covers all types of assets and assets, in particular</p>
+        <p>(a) Movable and immovable assets, as well as all rights in rem in the form of mortgages, mortgages, liens and usufructuaries;</p>
+        <p>(b) Shares, shares and other forms of participation in companies;</p>
+        <p>(c) Claims on money or on any service having an economic value;</p>
+        <p>(d) Intellectual property rights such as, in particular, copyrights, patents, utility models, industrial designs, trademarks, trade names, business and trade secrets, as well as technical procedures, know-how and goodwill;</p>
+        <p>(e) Rights to pursue an economic activity, including those for the prospection, extraction and exploitation of natural resources, as well as all other rights granted by law, contract or decision of an authority under the law.</p>
+        <p>(3) The term "territory" shall include territory, territorial waters and the exclusive economic zone and the mainland base, provided that the international law of the respective Contracting Parties permits the exercise of sovereign rights or sovereign powers in these territories.</p>
+      </div>
+      <div type="article" num="2" title="Scope of application">
+        <p>This Agreement shall be applicable to investments in the territory of a Contracting Party effected by investors of the other Contracting Parties in accordance with its laws and regulations.</p>
+      </div>
+      <div type="article" num="3" title="Promotion">
+        <p>(1) Each Contracting Party shall, as far as possible, encourage investments from investors of the other Contracting Parties in its territory and shall allow such investments in accordance with its laws and regulations.</p>
+        <p>(2) If a Contracting Party has authorized an investment in its territory, it shall issue the necessary authorizations for the investment, including those for the implementation of technical, commercial or administrative support contracts. Each Contracting Party shall endeavor to grant the authorizations necessary for the activities of consultants and other qualified persons of foreign nationality.</p>
+      </div>
+      <div type="article" num="4" title="Protection">
+        <p>Each Contracting Party shall, in its territory, protect the investment made in accordance with its legislation by investors of the other Contracting Party and shall prohibit unjustified or discriminatory administration, maintenance, maintenance, use, extension, sale and, Measures. In particular, each Contracting Party shall issue the authorizations referred to in Article 3, paragraph (2) of this Agreement.</p>
+      </div>
+      <div type="article" num="5" title="National treatment and most-favored-nation treatment">
+        <p>(1) Each Contracting Party shall ensure fair and equitable treatment of the investments and investors of the other Contracting Parties in its territory.</p>
+        <p>(2) No Contracting Party may treat investments from investors of the other Contracting Parties less favorably than investments from its own investors or third countries, provided that the treatment of the latter is more favorable.</p>
+        <p>(3) No Contracting Party may treat investors of the other Contracting Parties less favorably with regard to their activities in connection with investments than their own investors or investors of third States.</p>
+        <p>(4) The most-favored-nation treatment does not relate to the advantages which a contracting party may provide to investors of a third country on the basis of a double-taxation agreement or an agreement establishing a free-trade area, a customs union or a common market.</p>
+      </div>
+      <div type="article" num="6" title="Free transfer">
+        <p>Each Contracting Party on whose territory investors of the other Contracting Parties have made investments grants such investors the free transfer of payments relating to such investments, in particular:</p>
+        <p>(a) Interest, dividends, profits and other current income;</p>
+        <p>(b) Repayments of loans;</p>
+        <p>(c) Amounts intended to cover the cost of investment management;</p>
+        <p>(d) (C), (d) and (e) of this Agreement ;</p>
+        <p>(e) Additional capital required for the maintenance or expansion of investments;</p>
+        <p>(f) Proceeds from the sale or partial or complete liquidation of an investment, including any appreciation.</p>
+      </div>
+      <div type="article" num="7" title="Ownership">
+        <p>(1) No Contracting Party may directly or indirectly undertake expropriation or nationalization measures or any other measures of the same nature or effect against investments owned by the other Contracting Parties unless such measures have been in the public interest and are not discriminatory and comply with the legal requirements And provided that a reasonable and actually recoverable compensation is provided. The compensation amount including interest shall be paid in the currency of the country of origin of the investment and shall be transferred to the beneficiary without delay and irrespective of his place of residence or business.</p>
+        <p>(2) Investors of a Contracting Party whose investment has been damaged as a result of a war or other armed conflict, revolution, exceptional or rebellious situation on the territory of the other Contracting Party shall be entitled to benefit from the latter pursuant to Article 5 (2) and (3) Paragraph (3) of this Agreement. Paragraph (2) and paragraph (3) of this Agreement.</p>
+      </div>
+      <div type="article" num="8" title="Investments made before the agreement">
+        <p>This Agreement shall also apply to investments made lawfully by investors of the other Contracting Parties prior to its entry into force in the territory of a Contracting Party.</p>
+      </div>
+      <div type="article" num="9" title="More favorable conditions">
+        <p>Notwithstanding the provisions of this Agreement, more favorable conditions have been agreed between a Contracting Party and an investor of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="10" title="Subrogation principle">
+        <p>If a Contracting Party makes a payment to an investor in fulfillment of a guarantee obligation entered into with respect to an investment in the territory of the other Contracting Party, the latter Contracting Party shall recognize the transfer of all rights or claims of the investor to the first Contracting Party and its entry into the rights concerned; Claims.</p>
+      </div>
+      <div type="article" num="11" title="Disputes between a contracting party and an investor of the other contracting parties">
+        <p>(1) To resolve disputes over investment between a Contracting Party and an investor of the other Contracting Parties, discussions between the parties concerned shall take place, without prejudice to Article 12 of this Agreement (disagreements between Contracting Parties) .Article 12 of this Agreement (disagreements between Contracting Parties) Parties.</p>
+        <p>(2) If these consultations do not reach a solution within six months, the investor may submit the differences of opinion to an arbitration board. This arbitral tribunal shall be appointed as follows:</p>
+        <p>(a) The arbitral tribunal shall be formed from case to case. Subject to a different understanding between the parties involved, each of them shall appoint an arbitrator and these two arbitrators shall elect a third-country national as chairman. The names of the arbitrators shall be referred to as arbitration within two months of receipt of the request and the chairman shall be elected within the next two months.</p>
+        <p>(b) If the deadlines laid down in subparagraph (a) have not been complied with, each Contracting Party, subject to a different agreement, may request the President of the Court of Arbitration of the International Chamber of Commerce in Paris to make the necessary appointments. If the President is prevented from exercising his mandate or if he is a national of either Contracting Party, Article 12 (5) of this Agreement shall apply mutatis mutandis. (A) any time limits laid down may be waived, subject to a different agreement President of the Court of Arbitration of the International Chamber of Commerce in Paris to make the necessary appointments. If the President is prevented from exercising his mandate or is a national of either Contracting Party, Article 12 (5) of this Agreement shall apply mutatis mutandis.</p>
+        <p>(c) Subject to a different agreement between the parties, the arbitral tribunal shall settle its own proceedings. Its decisions shall be final and binding. Each Contracting Party shall ensure the recognition and enforcement of arbitration.</p>
+        <p>(d) Each Party shall bear the costs of its own arbitrator and its representation in arbitration. The costs of the chairman and other expenses shall be borne equally by the parties. However, the arbitral tribunal may make a different distribution of the costs in its arbitration award; Such a decision is binding on both parties.</p>
+        <p>(3) If both Contracting Parties to the Washington Convention of 18 March 19651 have intervened to resolve disputes between States and nationals of other States, at the request of the investor, disagreements in accordance with this Article may be submitted to the International Center for the resolution of disputes (1) have intervened in disputes between states and nationals of other countries, the International Center for Settlement of Investment Disputes may, at the request of the investor, submit to the International Center for Dispute Disputes in accordance with this Article, instead of the arbitration referred to in paragraph (2)</p>
+        <p>(4) The Contracting Party involved in the dispute can not raise any objection to the fact that the investor has an indemnity for part or all of the damage suffered as a result of an insurance contract at no stage in the proceedings under paragraph (2) or paragraph (3) of this Article or the enforcement proceedings (2) or paragraph (3) of this Article or the enforcement proceedings of the relevant judgment, the objection that the investor has received an indemnity for part or all of the damage resulting from an insurance contract.</p>
+        <p>(5) No Contracting Party shall pursue a dispute which has been submitted to an arbitration tribunal by diplomatic means, unless the other Contracting Party fails to comply with the arbitration award issued by an arbitral tribunal.</p>
+      </div>
+      <div type="article" num="12" title="Disagreements between contract parties">
+        <p>(1) Disputes between the Contracting Parties regarding the interpretation or application of the provisions of this Agreement shall be settled by diplomatic means.</p>
+        <p>(2) If the two Contracting Parties are unable to reach an agreement within twelve months of the dispute, they shall, at the request of the other Contracting Party, submit to an arbitration tribunal consisting of three members. Each Contracting Party designates an arbitrator; These two arbitrators appoint a third-country national as their chairman.</p>
+        <p>(3) If a Contracting Party fails to designate its arbitrator and does not comply with the request of the other Contracting Party to do so within two months, the arbitrator shall be appointed by the President of the International Court of Justice at the request of the latter Contracting Party.</p>
+        <p>(4) If the two arbitrators can not agree on the election of the chairman within two months of their designation, the chairman shall be appointed by the President of the International Court of Justice at the request of one of the two Contracting Parties.</p>
+        <p>(5) If the President of the International Court of Justice is prevented from exercising his mandate in the cases referred to in paragraph (3) and paragraph (4), or if he is a national of either Contracting Party, the appointments shall be made by the Vice-President. If the latter is also prevented from becoming a national or a national of either Contracting Party, the appointments shall be made by the most senior member of the Court which is not a national of a Contracting Party. (3) and paragraph (4) One of the two Contracting Parties, the appointments shall be made by the Vice-President. If the latter is also prevented from becoming a national of either Contracting Party, the appointments shall be made by the most senior member of the Court of Justice who is not a national of a Contracting Party.</p>
+        <p>(6) Unless the Contracting Parties determine otherwise, the arbitral tribunal shall regulate its own procedures.</p>
+        <p>(7) The decisions of the arbitral tribunal shall be final and binding for the Contracting Parties.</p>
+      </div>
+      <div type="article" num="13" title="Compliance with obligations">
+        <p>Each Contracting Party shall at all times ensure compliance with the commitments it has entered into regarding the investments of the investors of the other Contracting Parties.</p>
+      </div>
+      <div type="article" num="14" title="Final provisions">
+        <p>(1) This Agreement shall enter into force on the date on which the two Governments notify that the constitutional requirements for the conclusion and entry into force of international agreements are fulfilled and shall be valid for a period of ten years. If it is not terminated by written notification six months before the expiration of this period, its maturity extends by a further five years.</p>
+        <p>(2) In the case of termination of this Agreement, the provisions set out in Articles 1 to 13 shall continue to apply for investments made prior to its termination for a period of ten years.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>For the Swiss Federal Council:</p>
+      <p>Silvio Arioli</p>
+      <p>For the Government of the Republic of Albania:</p>
+      <p>Naske Afezolli</p>
+    </conclusion>
+  </main>
+</treaty>

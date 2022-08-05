@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Indonesia - Singapore BIT (1990)</name>
+    <code>T1990-49</code>
+    <partyisocode n="0">IDN</partyisocode>
+    <partyisocode n="1">SGP</partyisocode>
+    <date_signed>1990-08-28</date_signed>
+    <date_into_force>1990-08-28</date_into_force>
+    <date_terminated>2006-06-20</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>1999</docreference>
+    <comments/>
+    <source>http://treaty.kemlu.go.id/</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{IDN,SGP}_1990-08-28.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1987">ASEAN Investment Agreement (1987)</relation>
+    <relation type="IT_REPLACED_BY" document-code="T2005-66">Indonesia - Singapore BIT (2005)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2009-8">ASEAN Comprehensive Investment Agreement (2009)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1987">ASEAN Investment Agreement (1987)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2009-8">ASEAN Comprehensive Investment Agreement (2009)</relation>
+    <relation type="IT_REPLACED_BY" document-code="T2005-66">Indonesia - Singapore BIT (2005)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE REPUBLIC OF SINGAPORE ON THE PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>THE Government of the Republic of Indonesia and the Government of the Republic of Singapore (hereinafter referred to as the Parties);</p>
+      <p>CONSIDERING Articles 1 and 2 of the Basic Agreement on Economic and Technical Cooperation between the Government of the Republic of Indonesia and the Government of the Republic of Singapore signed on 29th of August 1974;</p>
+      <p>FURTHER CONSIDERING: Articles 2, 3 and 4 of the Agreement between the Government of the Republic of Indonesia and the Government of the Republic of Singapore on the Economic Cooperation in the Framework of the Development of Batam signed on the 31st of October 1980 (referred to in this Agreement as the Batam Agreement);</p>
+      <p>Articles 3, 4, 5, 6, 7 and 8 of the Agreement between the Government of the Republic of Indonesia and the Government of the Republic of Singapore on Economic Cooperation in the Framework of the Development of the Riau Province signed on the 28th of August 1990 (referred to in this Agreement as the Riau Agreement);</p>
+      <p>DESIRING to create favourable conditions for greater economic cooperation between the two Parties, and in particular to encourage and create favourable conditions for investments by nationals and companies of one Party in the territory of the other Party;</p>
+      <p>RECOGNISING the Agreement among the Governments of Brunei Darussalam, the Republic of Indonesia, Malaysia, the Republic of the Philippines, the Republic of Singapore and the Kingdom of Thailand for the Promotion and Protection of Investments signed on the 15th of December 1987 (referred to in this Agreement as the ASEAN Agreement);</p>
+      <p>HAVE AGREED as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>The term "companies" in the ASEAN Agreement shall mean:</p>
+        <p>1) In respect of the Republic of Indonesia, any company, with a limited liability incorporated in the territory of the Republic of Indonesia, cooperatives or any juridical person constituted in accordance with its legislation.</p>
+        <p>2) In respect of the Republic of Singapore, corporations, cooperative societies, firms or associations incorporated or registered under the law in force in Singapore or any juridical person constituted in accordance with its legislation.</p>
+      </div>
+      <div type="article" num="2">
+        <p>The provisions of the ASEAN Agreement shall also apply to all investments undertaken in Batam and the Riau Province by nationals and companies of the Republic of Singapore under Articles 2, 3 and 4 of the Batam Agreement and Articles 3, 4, 5, 6, 7, and 8 of the Riau Agreement as long as they have been granted admission in accordance with the Foreign Capital Investment Law No. 1 of 1967 or any law amending or replacing it.</p>
+      </div>
+      <div type="article" num="3">
+        <p>This Agreement may be amended by mutual consent and shall become effective upon acceptance by the Parties.</p>
+      </div>
+      <div type="article" num="4">
+        <p>This Agreement shall enter into force on the date of signing. This Agreement shall remain in force for a period of ten years and shall thereafter remain in force unless terminated by either Party by giving not less than 6 (six) months notice in writing to the other Party.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF the undersigned, duly authorised by their respective Governments, have signed this Agreement.</p>
+      <p>DONE at Batam on the twenty-eighth day of August, 1990.</p>
+      <p>Signed</p>
+      <p>RADIUS PRAWIRO</p>
+      <p>Coordinating Minister for Economy, Finance, Industry and Development Supervision For the Government of the Republic of Indonesia</p>
+      <p>Signed</p>
+      <p>LEE HSIEN LOONG</p>
+      <p>Minister for Trade and Industry</p>
+      <p>For the Government of the Republic of Singapore</p>
+    </conclusion>
+  </main>
+</treaty>

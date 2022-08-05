@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Kuwait - Tunisia BIT (1973)</name>
+    <code>T1973-8</code>
+    <partyisocode n="0">KWT</partyisocode>
+    <partyisocode n="1">TUN</partyisocode>
+    <date_signed>1973-09-14</date_signed>
+    <date_into_force>1975-12-06</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr,ar</orig_language>
+    <termination_type/>
+    <docreference>2320</docreference>
+    <comments/>
+    <source>JORT (fr), UNCTAD(ar)</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{KWT,TUN}_1973-09-14.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>fr,ar</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+    <relation type="IT_REPLACED_BY" document-code="T2003-86">Kuwait - Tunisia BIT (2003)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2003-86">Kuwait - Tunisia BIT (2003)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Economic Agreement between the Government of the Republic of Tunisia and the Government of the State of Kuwait</p>
+    </title>
+    <preamble>
+      <p>The Governments of the Republic of Tunisia and the State of Kuwait, desiring to strengthen the bonds of friendship and brotherhood and to develop the economic relations between the two countries on the basis of common interests and mutual benefits as well as to ensure the conditions to encourage investments between the two countries, have agreed as follows</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each of the Contracting Parties shall freely permit the export of industrial products, natural resources, handicrafts and foodstuffs of local origin and origin to the country of the other Party and free importation provided that they are not not among those whose export or import is prohibited by local regulations.</p>
+      </div>
+      <div type="article" num="2">
+        <p>A) Customs duties shall be granted on agricultural products, anomalies, natural resources and handicrafts originating in the country of one of the two Contracting Parties and imported by the other Party.</p>
+        <p>B) The industrial products of one of the two countries shall enjoy customs preferences at the rates approved by the delegates of the two countries to the Joint Committee provided for in Article 12 of this Agreement. Excluded from these preferences are the products listed in the lists established by one of the two countries and which form an integral part of the Agreement. Whenever necessary and with the consent of both countries, preferential rates and excepted lists will be re-examined.</p>
+      </div>
+      <div type="article" num="3">
+        <p>A) Industrial products will be considered of Tunisian or Kuwaiti origin if the cost of raw materials of Arab origin and the local labor included therein are not lower than 40% of the cost of production.</p>
+        <p>B) Any product eligible for customs exemption under this Agreement shall be accompanied by a certificate of origin certified by the competent authorities of the exporting country and indicating the proportion of local production in accordance with the preceding paragraph.</p>
+      </div>
+      <div type="article" num="4">
+        <p>The two Contracting Parties shall encourage the transfer of capital and their investment in their countries and the public and private deposits of one Contracting Party in the financial institutions of the other Party taking into account the laws and regulations in force in one of the Contracting Parties. of the two contracting countries.</p>
+      </div>
+      <div type="article" num="5">
+        <p>In order to encourage projects in industry, construction and tourism in one of the two countries, the two Contracting Parties will make every effort to create joint ventures and enterprises which will continue to operate in the various economic sectors. in accordance with the legislation in force in both States.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Each of the two Contracting Parties shall encourage the investment of capital in tourism projects of the other Party and shall open to establish joint projects. They will facilitate joint formalities and take any measures which would increase the tourist activity between the two States.</p>
+      </div>
+      <div type="article" num="7">
+        <p>A) Neither Contracting Party may expropriate investments made by the other Party or its nationals within its borders for just compensation and paid without delay in the same currency as the original investment.</p>
+        <p>B) Capital invested by nationals of one of the two Contracting Parties or by its nationals in the country of the other Party shall enjoy all the rights and privileges accorded to the capital invested by any third country in accordance with the laws and regulations in force. each of the two countries.</p>
+        <p>C) Each Contracting Party shall guarantee to natural and legal persons of the other Party who have invested capital therein the freedom to transfer dividends and annual profits and repatriation of capital in the same currency originally used for the investment.</p>
+      </div>
+      <div type="article" num="8">
+        <p>For the purposes of this Agreement, the rate of exchange shall be determined in accordance with the official rates agreed upon by the International Monetary Fund. Failing this, the exchange rate will be determined in relation to gold, the dollar or any other convertible currency.</p>
+      </div>
+      <div type="article" num="9">
+        <p>Each Contracting Party shall seek to participate in international exhibitions and fairs set up in the other Party and shall authorize it to mount exhibitions on its territory. To this end, it shall grant him all the necessary facilities, within the limits of the laws and regulations in force in the two Parties.</p>
+      </div>
+      <div type="article" num="10">
+        <p>Each Contracting Party shall encourage cooperation and the exchange of visits between chambers of commerce, industry and similar bodies, and between financiers and contractors in one of the two countries.</p>
+      </div>
+      <div type="article" num="11">
+        <p>A) Any dispute concerning the interpretation or application of this Agreement, which can not be settled by direct negotiations between the two Parties, shall be submitted at the request of either Party to an arbitral tribunal.</p>
+        <p>B) The arbitral tribunal shall consist of three members. Each Contracting Party shall nominate one member and the Secretary General of the Arab League shall appoint the third arbitrator. He shall not be a national of one of the two Contracting Parties, possess economic interests in the object of the dispute, or be a national of a State not having diplomatic relations with the two Contracting Parties. The third arbitrator will preside over the arbitral tribunal.</p>
+        <p>C) The arbitral tribunal shall apply in its proceedings the provisions and rules of law and international custom as well as the rules of commercial practice relating to the subject of the dispute.</p>
+        <p>D) Les sentences du tribunal arbitral seront ex&#xE9;cutoires pour les deux Parties Contractantes.</p>
+      </div>
+      <div type="article" num="12">
+        <p>For the purpose of the application of this Agreement, a Joint Commission shall be established, consisting of representatives of both countries. This commission shall meet, at the request of one of the two Contracting Parties, alternately in Tunis and Kuwait. It will present its recommendations to the governments of both countries to decide on the appropriate measures.</p>
+        <p>This Agreement shall enter into force on the date of the exchange of the instruments of ratification and shall remain in force until one of the two Contracting Parties notifies the other in writing that it wishes to terminate it for one year. monthly in advance. The provisions of this Agreement shall continue to govern investments made during the period of validity until the liquidation of the rights and duties relating thereto during the period necessary for the liquidation, to be agreed between the two Parties.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in Tunis on September 14, 1973, 17 Chaabane 1393 in double original in Arabic language. Each Party shall retain an equally authentic copy.</p>
+    </conclusion>
+  </main>
+</treaty>

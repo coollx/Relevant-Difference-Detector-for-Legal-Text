@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Gambia - Spain BIT (2008)</name>
+    <code>T2008-38</code>
+    <partyisocode n="0">ESP</partyisocode>
+    <partyisocode n="1">GMB</partyisocode>
+    <date_signed>2008-12-17</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1652</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{ESP,GMB}_2008-12-17.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT</p>
+      <p>ON RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENTS</p>
+      <p>BETWEEN</p>
+      <p>THE GOVERNMENT OF THE REPUBLIC OF THE GAMBIA</p>
+      <p>AND</p>
+      <p>THE GOVERNMENT OF THE KINGDOM OF SPAIN</p>
+      <p>PREAMBLE</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of the Gambia and the Government of the Kingdom of Spain hereinafter referred to as the Contracting Parties</p>
+      <p>Desiring to intensify economic cooperation to the mutual benefit of both States;</p>
+      <p>Intending to utilize their economic resources and potential facilities in the area of investments as well as to create and maintain favourable conditions for investments of the nationals of the contracting parties in each others territory and;</p>
+      <p>Recognizing the need to promote and protect investments of the nationals of the contracting parties in each others territory;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of the Agreement, the meanings of the terms used therein are as follows:</p>
+        <p>1.  The term investment refers to every kind of property or asset,</p>
+        <p>Including the following, invested by the investors of one contracting party in the territory of the other contracting party (hereinafter referred to as the host contracting party):</p>
+        <p>(a)  Movable and immovable property as well as the rights related thereto;</p>
+        <p>.....</p>
+        <p>(b)  Shares or any kind of participation companies</p>
+        <p>R</p>
+        <p>(c)  Money and/or receivables;</p>
+        <p>(d: Industrial and intellectual property rights such as patent; utility</p>
+        <p>Models, industrial designs or models, trade marks and names, know-how and goodwill;</p>
+        <p>(e)  Rights to search for extract or exploit natural resources.</p>
+        <p>2.  The term investors refers to the following persons who invest in the territory o'the other contracting party within the framework of this agreement:</p>
+        <p>(a)  Natural persons who, according to the laws of either contracting Party, are considered to be its national and have not the nationality of the host contracting party.</p>
+        <p>(b)  Legal persons of either contracting party which are established under the laws of that contracting party and their headquarters or their real economic activities are located in the territory of that contracting party.</p>
+        <p>3.  The term returns refers to the amounts legally yielded by an investment including profit derived from investments, dividends, royalties and fees.</p>
+        <p>4.  The term territory refers to areas under the sovereignty or jurisdiction of either contracting party, as the case may be, and includes their maritime areas.</p>
+      </div>
+      <div type="article" num="2" title="Promotion of investments">
+        <p>1.  Either contracting party shall encourage its nationals to invest in the territory of the other contracting party.</p>
+        <p>2.  Either contracting party shall, within the framework of its laws and regulations, create favourable conditions for attraction of investments of nationals of the other contracting party in its territory.</p>
+      </div>
+      <div type="article" num="3" title="Admission of investments">
+        <p>1.  Either contracting party shall admit investments of natural and legal</p>
+        <p>Persons of the other contracting party in its territory in accordance with its laws and regulations.</p>
+        <p>2.  When an investment is admitted, either contracting party shall, in accordance with its laws and regulations, grant all necessary permits for the real ization of such an investment</p>
+      </div>
+      <div type="article" num="4" title="Protection of investments">
+        <p>Investments of natural and legal persons of either contracting party effected within the territory of the other contracting party, shall receive the host contracting partys full legal protection and fair treatment not less favourable than that accorded to its investors or to investors of any third state who are in a comparable situation.</p>
+      </div>
+      <div type="article" num="5" title="More favourable provisions">
+        <p>Notwithstanding the terms set forth in this Agreement, more favourable provision which have been or may be agreed upon by either of the Contracting Parties with an investor of the other Contracting Party are applicable.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation and compensation">
+        <p>1.  Investments of natural and legal persons of either contracting party shall not be nationalized, confiscated, expropriated or subject to similar measures by the other contracting party except such measures are taken for public purposes, in accordance with due process of law, in a non-discriminatory manner, and upon payment of prompt and effective compensation.</p>
+        <p>2.  The amount of compensation shall be equivalent to the Market value of the investment immediately before the action of nationalization, confiscation or expropriation was taken.</p>
+      </div>
+      <div type="article" num="7" title="Losses">
+        <p>Investors of either contracting party whose investments suffer losses due to any armed conflict, revolution or similar state of emergency in the territory of the other contracting party shall be accorded by the other contracting party treatment no less favourable than that accorded to its own investors or to investors of any third country.</p>
+      </div>
+      <div type="article" num="8" title="Repatriation and transfer">
+        <p>1.  Each contracting party shall, in accordance with its laws and</p>
+        <p>Regulations, permit in good faith the following transfers related to investments referred to in this Agreement, to be made freely and without delay out of its territory:</p>
+        <p>(a)  returns;</p>
+        <p>(b)  proceeds from the sale and/or liquidation of all or part of an investment;</p>
+        <p>(c)  royalties and fees related to transfer of technology agreement;</p>
+        <p>(d)  sums paid pursuant to Articles 6 and/ or 7 of the Agreement;</p>
+        <p>(e)  loan installments related to an investment provided that they are paid out of such investment activities;</p>
+        <p>(f)  monthly salaries and wages received by the employees of an investor who have obtained in the territory o the host contracting party, the corresponding work permits related to that investments;</p>
+        <p>(g)  payments arising from a decision of the authority referred to in Article 12.</p>
+        <p>2.  The above transfers shall be effected in a convertible currency and at the current rate of exchange in accordance with the exchange regulations prevailing on the date of transfer.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>If a contracting party or its designated agency, within the framework of a legal system, subrogates an investor pursuant to a payment made under an insurance or guarantee agreement against non-commercial risks:</p>
+        <p>a.  Such subrogation shall be recognized, by the other contracting party;</p>
+        <p>b.  The subrogee shall not be entitled to exercise any rights other than the rights which the investor would have been entitled to exercise:</p>
+        <p>c.  Disputes between the subrogee and the host contracting party shall be settled in accordance with Article 12 of this Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Observance of commitments">
+        <p>Either contracting party shall guarantee the observance of the commitments it has entered into with respect to investments of natural or legal persons of the other contracting party.</p>
+      </div>
+      <div type="article" num="11" title="Scope of the agreement">
+        <p>This Agreement shall apply to investments approved by the competent authority of the host contracting party.</p>
+        <p>The competent authority in the Republic of the Gambia is the Department of Sate for Trade, Industry and Employment or any other authority which may succeed it.</p>
+        <p>The competent authority in the Kingdom of Spain is.....</p>
+      </div>
+      <div type="article" num="12" title="Settlement of disputes between a contracting parfy and investtor(s) of the other contracting party">
+        <p>1.  If any dispute arises between the host contracting party and investor; s) of the other contracting party with respect to an investment, the host contracting party and the investor(s) shall primarily endeavour to settle the dispute in an amicable manner through negotiation and consultation.</p>
+        <p>2.  In the event that the host contracting party and the investor(s) c an not T agree within six months from the date of notification of the claim by one party to the other, either of them may refer the dispute to the competent courts of the host contracting party or with due regard to their own laws and regulations to an arbitral tribunal of three members referred to in paragraph 5 below.</p>
+        <p>3.  A dispute primarily referred to the competent courts of the host Contracting Party, as long as it is pending, cannot be referred to arbitration save with the parties agreement; and in the event that a final judgment is rendered, it cannot be referred to arbitration.</p>
+        <p>4.  National courts shall not have jurisdictions over any dispute referred to arbitration. However, the provisions of this paragraph do not bar the winning party to seek for the enforcement of the arbitral award before national courts.</p>
+        <p>5.  The host contracting party or the investor(s) of the other contracting party who desires to refer the dispute to the arbitration shall appoint an arbitrator through a written notice sent to the other party. The other party shall appoint an arbitrator within sixty days from the date of receipt of the said notice and the appointed arbitrators shall within sixty days from the date of the last appointment, appoint the umpire. In the event that each party fails to appoint its arbitrator within the mentioned period and/or the appointed arbitrators fail to agree on the umpire, each of the parties may request the Secretary General of the Permanent Court of Arbitration to appoint the failing partys arbiter or the umpire as the case may be. However, the umpire shall be appointed from amongst nationals of a state having diplomatic relations with both contracting parties, at the time of appointment.</p>
+      </div>
+      <div type="article" num="13" title="Settlement of dispute between the contracting">
+        <p>PARTIES</p>
+        <p>1.  All disputes arising between the contracting parties relating to the interpretation or application of this Agreement shall, in the first place, be settled amicably by consultation. In case of disagreement, either contracting party may subject to its laws and regulations, while sending a notice to the other party, refer the case to an arbitral tribunal of three members consisting of two arbitrators appointed by the contracting parties and an umpire.</p>
+        <p>2.  In case the dispute is referred to the arbitral tribunal, either contracting party shall appoint an arbitrator within sixty days from the receipt of the notification and the arbitrator appointed by the contracting parties shall appoint the umpire within sixty days from the date of last appointment. If either contracting party does not appoint its own arbitrator or the appointed arbitrators do not agree on the appointment of the umpire within the said periods, each contracting party may request the President of the International Court of Justice, to appoint the arbitrator of the failing party or the umpire, as the case may be. However the umpire shall be a national of a state having diplomatic relations with both contracting parties at the time of the appointment.</p>
+        <p>3.  In case the umpire is to be appointed by the President of the International Court of Justice, if the President of the International Court of Justice is prevented from carrying out the said function or if he is a national of either contracting party, the appointment shall be made by the Vice-president of the International Court of Justice, and if the Vice-President is also prevented from carrying out the said function or he is a national of either contracting party, the appointment shall be made by the senior member of the said court who is not a national of either contracting party.</p>
+        <p>4.  Subject to other provisions agreed by the contracting parties, the arbitral tribunal shall determine its procedure and the place of arbitration.</p>
+        <p>5. The decisions of the arbitral tribunal shall be binding on the contracting parties.</p>
+      </div>
+      <div type="article" num="14" title="Validity of the agreement">
+        <p>1.  This Agreement shall be approved/ ratified by the competent authorities of each contracting party in accordance with their laws and regulations.</p>
+        <p>2.  This Agreement shall enter into force for a period of ten years after 30 days from the date of the last notification of either contracting party to the other contracting party that it has fulfilled necessary measures in accordance with its laws and regulations for the entry into force of this Agreement. After the said period, this Agreement shall remain in force thereafter unless one of the contracting parties notifies the other contracting party in writing of its unwillingness to continue with it, six months prior to the expiration or termination thereof.</p>
+        <p>3.  After the expiration of the validity or termination of this agreement its provisions shall apply to investments under this Agreement for a further period of ten years.</p>
+      </div>
+      <div type="article" num="15" title="Languahe and number of the text">
+        <p>This agreement is done in duplicate in the English and Spanish languages, both texts being equally authentic.</p>
+        <p>Signed in..... by representative of the Government</p>
+        <p>Of the Republic of the Gambia and Government of the Kingdom of Spain.</p>
+        <p>For the</p>
+        <p>Government of the Republic of the Gambia</p>
+        <p>For the</p>
+        <p>Government of the Kingdom of Spain</p>
+      </div>
+    </body>
+  </main>
+</treaty>

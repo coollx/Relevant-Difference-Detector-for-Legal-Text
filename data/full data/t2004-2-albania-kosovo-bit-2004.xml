@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Albania - Kosovo BIT (2004)</name>
+    <code>T2004-2</code>
+    <partyisocode n="0">ALB</partyisocode>
+    <partyisocode n="1">RKS</partyisocode>
+    <date_signed>2004-02-19</date_signed>
+    <date_into_force>2005-02-07</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>20041</docreference>
+    <comments>treaty listed but text not available</comments>
+    <source>http://cefta.int/</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ALB,RKS}_2004-02-19.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACED_BY" document-code="T2016">Albania - Kosovo BIT (2016)</relation>
+  </meta>
+  <main/>
+</treaty>

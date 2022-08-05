@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Costa Rica - Paraguay BIT (1998)</name>
+    <code>T1998-77</code>
+    <partyisocode n="0">CRI</partyisocode>
+    <partyisocode n="1">PRY</partyisocode>
+    <date_signed>1998-01-29</date_signed>
+    <date_into_force>2001-05-25</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">es</orig_language>
+    <termination_type/>
+    <docreference>1050</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>es</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{CRI,PRY}_1998-01-29.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF COSTA RICA AND THE GOVERNMENT OF THE REPUBLIC OF PARAGUAY FOR THE RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Costa Rica and the Government of the Republic of Paraguay, hereinafter referred to as the "Contracting Parties",</p>
+      <p>Desiring to intensify economic cooperation in the mutual benefit of both States;</p>
+      <p>Aiming to create favourable conditions for investments by investors of either Contracting Party in the territory of the other party; and</p>
+      <p>Recognizing that the promotion and protection of investments under this Agreement stimulate initiatives in this field,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="I" title="Definitions">
+        <p>For the purposes of this Agreement, the following definitions shall apply to the terms set out below:</p>
+        <p>1. "Investment" means every kind of asset invested by an investor of one Contracting Party in the territory of the other Contracting Party in accordance with the laws and regulations of the latter.</p>
+        <p>The term designates in particular, though not exclusively:</p>
+        <p>a) Movable and immovable property as well as any other rights in rem, such as mortgages, liens and pledges usufructs and similar rights;</p>
+        <p>b) Shares, securities, debentures and other kinds of interests in companies or joint ventures capital;</p>
+        <p>c) Claims of titles and rights to any provision of economic value directly linked to a specific investment;</p>
+        <p>d) Intellectual property rights, including in particular copyrights and related rights, industrial property rights such as patents, drawings, industrial models, trademarks and geographical indications;</p>
+        <p>e) Rights to undertake economic and commercial activities conferred by law or under contract, including concessions to prospecting, cultivate, extract or exploit natural resources.</p>
+        <p>Any change in the form in which assets are invested shall not affect their classification as investment, provided that such change is made in accordance with the law of that Contracting Party.</p>
+        <p>2. "Investors" means with regard to either Contracting Party, the following subjects who has made investments in the territory of the other Contracting Party in accordance with this Agreement and the legislation of the latter:</p>
+        <p>a) Any natural person who is a national of one of the Contracting Parties, in accordance with its legislation.</p>
+        <p>b) Any legal entity companies including associations of companies, corporations, corporations, branches and any other organization constituted in accordance with the laws and regulations of one Contracting Party and having its registered office or headquarters in the territory of that Contracting Party, regardless of whether or not its activities are non-profit-making.</p>
+        <p>3. "Proceeds" means the amounts yielded by an investment made in accordance with this Agreement, such as profits, dividends, royalties, interests.</p>
+        <p>4. "Territory" means:</p>
+        <p>a) In relation to the Republic of Paraguay, the land area, including the airspace of the State over which it exercises sovereignty or jurisdiction in accordance with International Law.</p>
+        <p>b) In respect of the Republic of Costa Rica, the land territory, airspace and territorial sea as well as the exclusive economic zone and the continental shelf over which it exercises, in accordance with international law, sovereign rights and jurisdiction.</p>
+      </div>
+      <div type="article" num="II" title="Scope">
+        <p>This Agreement shall apply to investments in the territory of one of the Contracting Parties, made in accordance with its laws, before or after the entry into force of this Agreement. Notwithstanding the above, the present Agreement shall not have a retroactive effect. This Agreement shall not apply to any dispute, claim or dispute which have been initiated prior to its entry into force.</p>
+      </div>
+      <div type="article" num="III" title="Promotion and Admission of Investments">
+        <p>1. Each Contracting Party shall encourage conditions favourable for investments in its territory by investors of the other Contracting Party and shall admit such investments in accordance with its laws.</p>
+        <p>2.&nbsp;The Contracting Party that has admitted an investment in its territory shall grant in accordance with its laws and regulations the necessary permits in connection with such investment as well as those required for the execution of technical, commercial or administrative assistance and licensing contracts. Subject to its national legislation concerning the entry and stay of foreigners, each Contracting Party shall permit the entry into and stay in its territory of investors of the other Contracting Party and persons employed by them, by virtue of occupying senior management positions or by virtue of their specialized knowledge, for the purpose of establishing, developing, managing or advising on the operation of the investment made.</p>
+        <p>3. With the aim of increasing investment flows, either Contracting Party may, at the request of the other Contracting Party, inform the investment opportunities in its territory.</p>
+      </div>
+      <div type="article" num="IV" title="Protection of Investments">
+        <p>1. Investments made by investors of one Contracting Party in the territory of the other Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in accordance with international law.</p>
+        <p>2. Each Contracting Party shall protect within its territory investments made in accordance with its laws and regulations by investors of the other Contracting Party and shall not restrict in any way arbitrary discriminatory measures or through the management, maintenance, use, enjoyment, sale and if the case the liquidation of such investments.</p>
+      </div>
+      <div type="article" num="V" title="National Treatment and Most-favoured-nation Clause">
+        <p>1. Each Contracting Party shall accord, in accordance with its national legislation, to investments made in its territory by investors of the other Contracting Party, treatment no less favorable than that accorded to investments made by its own investors.</p>
+        <p>2. Each Contracting Party shall accord to investments made in its territory by investors of the other Contracting Party treatment no less favorable than that accorded to investments made by investors of a third State.</p>
+        <p>3. Each Contracting Party shall accord, as between national treatment and most-favored-nation treatment, the treatment that is most favorable to the investor's investment.</p>
+        <p>4. The treatment accorded under this Article shall not extend to such privileges as a Contracting Party may accord to investors of a third State by virtue of its present or future association with or participation in a free trade area, customs union, common market, economic and monetary union or other institutions of similar economic integration.</p>
+        <p>5. The treatment accorded under this Article shall not extend to deductions, tax exemptions or other similar privileges granted by either Contracting Party to the investment of investors of third countries under an agreement for the avoidance of double taxation or any other taxation agreement.</p>
+      </div>
+      <div type="article" num="VI" title="Transfers">
+        <p>1. Each Party shall allow investors of the other Contracting Party, in accordance with its legislation, the free transfer of payments related to such investments, and in particular but not limited to:</p>
+        <p>(a) Profits;</p>
+        <p>(b) Repayments of loans linked to an investment;</p>
+        <p>c) Amounts intended to cover expenses related to the administration of investments;</p>
+        <p>d) Initial capital and additional sums necessary for the maintenance or development of the investments;</p>
+        <p>e) The proceeds from the sale or partial or total liquidation of an investment;</p>
+        <p>f) Compensations or indemnities provided for in Articles VII and VIII;</p>
+        <p>g) Payments resulting from the settlement of disputes.</p>
+        <p>2. The transfers referred to in this Agreement shall be made in accordance with national legislation, without delay, in freely convertible currency at the rate of exchange prevailing on the day of transfer. In particular, no more than three months shall elapse from the date on which the investor has duly submitted the request necessary to effect the transfer until the date on which such transfer is actually effected.</p>
+        <p>3. Notwithstanding the provisions of this Article, the Contracting Parties may take measures, on an equitable, non-discriminatory and good faith basis, under their legislation to prevent fraudulent actions and to ensure compliance with tax obligations.</p>
+        <p>4. Notwithstanding the provisions of the first paragraph of this Article, each Contracting Party shall have the right, in circumstances of exceptional or serious balance of payments difficulties, to limit transfers temporarily, on an equitable and non-discriminatory basis, in accordance with internationally accepted criteria. Limitations adopted or maintained by a Contracting Party in accordance with this paragraph, as well as their elimination, shall be promptly notified to the other Contracting Party.</p>
+      </div>
+      <div type="article" num="VII" title="Expropriation and Compensation">
+        <p>1. Neither Contracting Party shall take, directly or indirectly, measures of expropriation, nationalization or any other measure of the same nature or effect against investments of investors of the other Contracting Party, hereinafter "expropriation", except for reasons of public interest or public utility, including the social interest, in accordance with the respective national constitutions and legal systems and provided that such measures are not discriminatory and that they give rise to the payment of adequate, prompt and effective compensation in accordance with the legal provisions in force.</p>
+        <p>2. Compensation shall be equivalent to the actual value that the expropriated investment had immediately before the expropriation measure was taken or before the imminence of the measure became public knowledge, whichever is earlier. The compensation shall include, when applicable, the payment of interest calculated from the day of the dispossession of the expropriated property until the day of the effective payment. Such interest shall be calculated on the basis of the average passive rate of the national banking system of the Party where the expropriation took place. The compensation shall be paid without delay, in convertible currency and shall be effectively realizable and freely transferable.</p>
+        <p>3. The affected investor shall be entitled, in accordance with the law of the Contracting Party carrying out the expropriation, to prompt review by the competent judicial authority of such Contracting Party of his case and of the valuation, in accordance with the principles set forth in this Article.</p>
+      </div>
+      <div type="article" num="VIII" title="Compensation for Losses">
+        <p>1. Investors of one Contracting Party who suffer losses on their investments established in the territory of the other Contracting Party as a result of war or other armed conflict, revolution, state of national emergency, rebellion, insurrection, riot or any other similar event of internal disturbance, shall be accorded, by way of restitution, indemnification, compensation or other relief, treatment no less favorable than that which the latter Contracting Party accords to investments of its own investors or to investments of investors of any third State, whichever is more favorable to the investment of the affected investor.</p>
+        <p>2. The payment received by the investors shall, if possible, be in convertible and freely transferable currency.</p>
+      </div>
+      <div type="article" num="IX" title="Subrogation">
+        <p>Where a Contracting Party or one of its authorized agencies has provided a guarantee or insurance to cover non-commercial risks in connection with an investment made by one of its investors in the territory of the other Contracting Party, the latter Contracting Party shall, in accordance with its law, recognize the subrogation of the first Contracting Party or its authorized agencies in the same rights of the investor as recognized by the law of the party receiving the investment, provided that the first Contracting Party has made a payment under such guarantee. Such subrogation shall make it possible for the first Contracting Party or its designated agency to be the direct beneficiary of any compensation payments to which the initial investor may be entitled.</p>
+      </div>
+      <div type="article" num="X" title="Settlement of Disputes between a Contracting Party and an Investor of the other Contracting Party">
+        <p>1. Any investment dispute arising between a Contracting Party and an investor of the other Contracting Party concerning matters governed by this Agreement shall be notified in writing, including detailed information, by the investor to the Contracting Party receiving the investment. To the extent possible, the Parties to the dispute shall attempt to settle such disputes by amicable agreement.</p>
+        <p>2. If these consultations do not result in the settlement of the dispute within six months from the date of written notification referred to in paragraph 1, the investor may refer the dispute to the competent courts of the Contracting Party in whose territory the investment was made, or to international arbitration. In the latter case the investor has the following options:</p>
+        <p>(a) The International Centre for Settlement of Investment Disputes (ICSID) created by the "Convention on the Settlement of Investment Disputes between States and Nationals of other States", opened for signature in Washington D.C., on March 18, 1965, when each State Party to this Agreement has acceded to that Convention. In the event that one of the Contracting Parties is not a Contracting State to ICSID, the dispute shall be settled under the Additional Facility for the Administration of Conciliation, Arbitration and Fact-Finding Proceedings by the ICSID Secretariat;</p>
+        <p>b) an ad hoc arbitral tribunal established in accordance with the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL), where none of the Contracting Parties is a party to ICSID.</p>
+        <p>3. Once the investor has submitted the dispute to the competent court of the Party in whose territory the investment was made or to an arbitral tribunal, the choice of one or the other of these procedures shall be final.</p>
+        <p>4. The arbitral tribunal may decide on the basis of this Agreement and other relevant Agreements between the Contracting Parties; on the basis of the terms of any specific agreement that may be concluded in connection with the investment; on the basis of the law of the Contracting Party that is a party to the dispute, including its conflict of laws rules; such principles and rules of international law as may be applicable.</p>
+        <p>5. Arbitral decisions shall be final and binding on the parties to the dispute. Each Contracting Party undertakes to enforce the awards in accordance with its national law.</p>
+        <p>6. The Contracting Parties may not deal through diplomatic channels with matters related to disputes submitted to judicial proceedings or to international arbitration, in accordance with the provisions of this Article, until the corresponding proceedings are concluded. Once the judicial proceedings or international arbitration, as the case may be, have been concluded, a Contracting Party shall not engage in any diplomatic channels in connection with the dispute, except in the event that the disputing Party has not complied with the judgment of the court or the decision of the arbitral tribunal.</p>
+      </div>
+      <div type="article" num="XI" title="Settlement of Disputes between the Contracting Parties">
+        <p>1. Disputes between the Contracting Parties concerning the interpretation or application of the provisions of this Agreement shall be settled, as far as possible, through diplomatic channels.</p>
+        <p>2. If the Contracting Parties fail to reach agreement within six months from the commencement of negotiations, it shall, at the request of either of them, be submitted to an arbitral tribunal.</p>
+        <p>3. The arbitral tribunal shall be constituted as follows: each Contracting Party shall appoint one arbitrator and these two arbitrators shall choose a citizen of a third State as chairman. The arbitrators shall be appointed within three months and the chairman within five months of the date on which either Contracting Party informs the other Contracting Party of its intention to submit the dispute to an arbitral tribunal.</p>
+        <p>4. If the necessary appointments have not been made within the time limits provided for in paragraph 3 of this Article, either Contracting Party may, in the absence of other agreement, invite the President of the International Court of Justice to make the necessary appointments. If the President of the International Court of Justice is unable to perform such function or is a national of any of the Contracting Parties, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is unable to perform this function or is a national of any of the Contracting Parties, the designations shall be made by the Member of the International Court of Justice next in seniority who is not a national of any of the Contracting Parties.</p>
+        <p>5. The arbitral tribunal shall render its decision on the basis of the rules contained in this Agreement or in other agreements in force between the Contracting Parties, and on the universally recognized principles of international law.</p>
+        <p>6. The arbitral tribunal shall reach its decision by majority vote and its decision shall be final and binding on both Contracting Parties.</p>
+        <p>7. Unless otherwise agreed by the Contracting Parties, the tribunal shall establish its own procedure.</p>
+        <p>8. Each Contracting Party shall bear the expenses of the arbitrator appointed by it and those related to its representation in the arbitral proceedings. All other expenses, including those of the Chairman, shall be borne equally by both Contracting Parties.</p>
+      </div>
+      <div type="article" num="XII" title="General Exceptions">
+        <p>The Contracting Parties agree that any dispute regarding distribution or administration of export quotas in the domestic market, arising from the application of quantitative restrictions by a Contracting Party or a third State is a matter of a commercial nature. Accordingly, it shall be resolved by trade rules applicable between the Contracting Parties.</p>
+      </div>
+      <div type="article" num="XIII" title="Additional Provisions">
+        <p>1. Each Contracting Party shall at all times respect the obligations it has undertaken with respect to the investments of the other Contracting Party.</p>
+        <p>2. If the provisions of the legislation of any Contracting Party or the obligations of international law existing or to be established in the future between the Contracting Parties, in addition to this Agreement, contain a general or special regulation, which would entitle investments of investors of the other Contracting Party to treatment more favorable than that provided for in this Agreement, such regulation shall prevail over this Agreement.</p>
+      </div>
+      <div type="article" num="XIV" title="Entry Into Force, Duration and Termination">
+        <p>1. This Agreement shall enter into force on the date of the last notification in which the Contracting Parties have notified each other through diplomatic channels that the respective constitutional formalities required for the entry into force of international agreements have been completed.</p>
+        <p>It shall remain in force for an initial period of ten years and shall be extended indefinitely unless either Contracting Party denounces it in accordance with paragraph (2) of this Article.</p>
+        <p>2. After the expiration of the first period, each Contracting Party reserves the right to denounce this Agreement, upon giving at least twelve months' prior notice through diplomatic channels.</p>
+        <p>3. With respect to investments made prior to the date of denunciation of this Agreement, the provisions contained in the remaining Articles of this Agreement shall remain in force for an additional period of ten years from the date of denunciation.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned, duly authorized to that effect by their respective Governments, have signed this Agreement.</p>
+      <p>Done in the city of San Jos&#xE9;, Costa Rica, on the 29th day of January 1998, in two originals in the Spanish language, both texts being equally authentic.</p>
+      <p>FOR THE GOVERNMENT OF THE REPUBLIC OF COSTA RICA</p>
+      <p>Fernando E. Naranjo</p>
+      <p>MINISTER OF FOREIGN AFFAIRS</p>
+      <p>FOR THE GOVERNMENT OF THE REPUBLIC OF PARAGUAY</p>
+      <p>Rub&#xE9;n Melgarejo Lanzoni</p>
+      <p>MINISTER OF FOREIGN AFFAIRS</p>
+      <p>Jos&#xE9; Manuel Salazar X.</p>
+      <p>MINISTER OF FOREIGN TRADE</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" num=" " title="PROTOCOL">
+        <p>At the signing of the Agreement for the Promotion and Reciprocal Protection of Investments, the Republic of Costa Rica and the Republic of Paraguay agreed on the following provisions, which constitute an integral part of the Agreement.</p>
+        <div type="article" title="Ad Article VII">
+          <p>For the purposes of Article VII, paragraph 2) the Contracting Parties agree that in the case of Costa Rica "real value" means the concept of fair price which shall be equivalent to the amount of compensation to be determined in the following manner:</p>
+          <p>The opinion shall include all the data necessary to individualize the property being valued.</p>
+          <p>In the case of real property, the report shall contain the valuation independently of the land, crops, buildings, tenements, leases, commercial rights, rights for exploitation of deposits and any other property or rights susceptible of compensation.</p>
+          <p>In the case of movable property, each shall be valued separately and the characteristics that influence its valuation shall be indicated.</p>
+          <p>The appraisals will take into account only the real permanent damages. Future events or legal expectations affecting the property shall not be included or taken into account. Capital gains derived from the project giving rise to the expropriation may not be recognized either.</p>
+          <p>All expert opinions must indicate, in a broad and detailed manner, the elements of judgment on which the value assigned to the property is based and the methodology used.</p>
+        </div>
+      </div>
+    </attachments>
+  </main>
+</treaty>

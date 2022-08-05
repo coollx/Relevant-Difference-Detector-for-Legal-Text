@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Sierra Leone - United Kingdom BIT (1981)</name>
+    <code>T1981-8</code>
+    <partyisocode n="0">GBR</partyisocode>
+    <partyisocode n="1">SLE</partyisocode>
+    <date_signed>1981-12-08</date_signed>
+    <date_into_force/>
+    <date_terminated>2001-11-20</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>2902</docreference>
+    <comments/>
+    <source>Kluwer Arbitration</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{GBR,SLE}_1981-12-08.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACED_BY" document-code="T2000-79">Sierra Leone - United Kingdom BIT (2000)</relation>
+  </meta>
+  <main/>
+</treaty>

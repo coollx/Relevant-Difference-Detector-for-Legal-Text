@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Kyrgyzstan - Pakistan BIT (1995)</name>
+    <code>T1995-163</code>
+    <partyisocode n="0">KGZ</partyisocode>
+    <partyisocode n="1">PAK</partyisocode>
+    <date_signed>1995-08-26</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2332</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{KGZ,PAK}_1995-08-26.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2005-45">ECO Investment Agreement</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE KYRGYZ REPUBLIC AND THE GOVERNMENT OF THE ISLAMIC REPUBLIC OF PAKISTAN ON THE RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENT</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kyrgyz Republic and the Government of the Islamic Republic of Pakistan hereinafter referred to as Parties,</p>
+      <p>&#x2013; desiring to create favourable conditions for investments by investors of one Party on the territory of the other Party,</p>
+      <p>&#x2013; taking into account that reciprocal promotion and protection of such investment shall encourage development of mutually beneficial trade, economic, scientific and technological cooperation,</p>
+      <p>&#x2013; agreeing that a favourable and fair status of investments is desirable in order to maintain a stable framework of investment and maximum effective utilization of economic resources, and</p>
+      <p>&#x2013; having resolved to conclude an agreement concerning the encouragement and reciprocal protection of investment</p>
+      <p>Hereby have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>1. For the present Agreement the following terms shall stand for:</p>
+        <p>(a) "Investor" &#x2013; any physical entity being citizen of either Party and any legal entity constituted in accordance with either Party's legislation;</p>
+        <p>(b) "Investment" shall encompass all types of property values which the "Investors" of either Party shall invest on the territory of either Party in conformity with its legislation and in particular;</p>
+        <p>i) Invested property, whether movable or immovable and any property rights,</p>
+        <p>ii) Monetary values as well as shares, stocks and other forms of participation in companies.</p>
+        <p>iii) Rights of pledging for money invested to operate economic values or for services having economic value;</p>
+        <p>iv) Movable property including patent rights, trademarks, industrial samples as well as technology and know-how;</p>
+        <p>v) Rights for business activities rendered according to legislation or contracts including in particular the rights for exploration, elaboration and exploitation of natural resources.</p>
+        <p>(c) "Returns" &#x2013; the amounts yielded by an investment according to subparagraph (b) paragraph 1 of the present Article, in particular payments, as well as those for technical assistance and technical services and other payments;subparagraph (b) paragraph 1 of the present Article, in particular payments, as well as those for technical assistance and technical services and other payments;</p>
+        <p>2. The present Agreement shall be valid on the territory of the Kyrgyz Republic and the Islamic Republic of Pakistan.</p>
+      </div>
+      <div type="article" num="2">
+        <p>1. Each Party shall encourage investors of the other Party to invest on its territory and in accordance with it legislation admit such investments.</p>
+        <p>2. Each Party guarantees full and unconditional legal protection to the other Party's investments, in accordance with the national legislation of the Parties.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1. Each Party shall ensure a fair and equitable regime excluding discriminative measures preventing from management and disposing investments, for the other Party's investment on its territory.</p>
+        <p>2. The rights indicated in paragraph 1 of the present Article cannot be less favourable than that granted to its own or any third country investors for investments and similar activities.</p>
+        <p>In accordance with the rules and regulations of both Parties relating to entry, sojourn and employment of aliens;</p>
+        <p>(a) Nationals of either Party shall be permitted to enter and remain on the territory of the other Party for purposes of establishing, developing, administering or advising on the operation of an instruments to which they, or an investor of the first Party that employ them, have committed or are in the process of committing a substantial amount of capital or other resources;</p>
+        <p>(b) Legal entities legally constituted under the rules and regulations of one Party, and which are investors of the other Party, shall be permitted to employ management and technical personnel of their choice;</p>
+        <p>3. Each Party shall receive the right to determine branches of economy and spheres of activities restricted of limited for foreign investment;</p>
+        <p>4. The regime of most favourable nation granted in accordance with paragraph 2 of the present Article shall not be applied to favours granted or to be granted by the Party in future;paragraph 2 of the present Article shall not be applied to favours granted or to be granted by the Party in future;</p>
+        <p>- in connection with participation in a free economic zone, customs or economic unions;</p>
+        <p>- on the basis of a double taxation prevention agreement or any other taxation accords.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Investments of either Party accomplished on the other Party's territory shall not be subject for nationalization or measures of similar effect (herein after referred to as "Nationalization") except for cases when such measures are taken in public interests, as stipulated by legislation in a non-discriminatory manner, upon payment of prompt, adequate and effective compensation. Compensation shall be equivalent to the real value of nationalized investment at the moment of practical nationalization of future nationalization being promulgated. Until the moment of payment, interest shall be put down to the compensation sum according to the interest rate of the Party hosting the investment.</p>
+      </div>
+      <div type="article" num="5">
+        <p>1. Each Party guarantees to the other Party's investors free transfer of money resulting from investments after all relevant taxes and duties paid, in particular those of;</p>
+        <p>(a) Returns as stipulated in sub-paragraph (c), paragraph 1, Article 1 of the present Agreement;sub-paragraph (c), paragraph 1, Article 1 of the present Agreement;</p>
+        <p>(b) Sums paid off for loans recognized by the Parties as investments;</p>
+        <p>(c) Proceeds from partial or full liquidation of sale of investments;</p>
+        <p>(d) Salaries, wages and other remunerations earned by those nationals of a Party having received permission for employment connected with investments on territory of the other Party;</p>
+        <p>(e) Compensation pursuant to Article 4 of the present Agreement;Article 4 of the present Agreement;</p>
+        <p>(f) Payments arising from investment disputes.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Disputes between one of the Parties and an investor of the other Party, arising from investment, including disputes over measures, conditions or procedures of compensation, payments shall be settled, preferably, through negotiations. In case a dispute is not resolved in that manner within six months from the moment of its origin, the dispute may be submitted to:</p>
+        <p>(a) A competent court of arbitration of the Party hosting the investment;</p>
+        <p>(b) One of the internationally recognized organs of arbitration according to mutual agreement of the disputing Parties;</p>
+        <p>(c) An Ad Hoc court of arbitration laid down under the Arbitration Rules of Procedure of the United Nations Commission for International Trade Law (UNCITRAL)Arbitration Rules of Procedure of the United Nations Commission for International Trade Law (UNCITRAL)</p>
+      </div>
+      <div type="article" num="7">
+        <p>At the request of either Party they may hold consultations on issues of the interpretation or application of the present Agreement.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1. Disputes between the Parties concerning interpretation and application of the present agreement shall be resolved through negotiation.</p>
+        <p>In case a dispute is not resolved in that manner at the request of either Party it may be submitted to an arbitration court.</p>
+        <p>2. The arbitration court shall be established separately for each concrete case. The Parties shall appoint one member of the court and jointly a national of a third country as the court Chairman.</p>
+        <p>Members of the court shall be appointed within two months and chairman -within three months from the moment when either Party declares its intention to submit the issue to arbitration court.</p>
+        <p>3. The court of arbitration shall take decisions by majority vote. This decision shall be imperative for the Parties. Each of the Parties shall bear expenses originating from activities of relevant court members appointed by them Expenses relating to the Chairman's activities as well an parts. The court of arbitration shall take independent decisions on all other issues of its procedure.</p>
+      </div>
+      <div type="article" num="9">
+        <p>The present Agreement shall enter into force on the fifth day after the Parties notify each other on fulfilment of their necessary constitutional procedures to that end.</p>
+        <p>The present Agreement shall remain valid for 10 years.</p>
+        <p>The Agreement may be terminated through notification by either of the Parties six months before the date of expiry.</p>
+        <p>In relation to investments accomplished before the date of termination of the present Agreement, provisions of Article 1-9 shall remain valid for further 10 years after the date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Bishkek on August 23, 1995, in two origingals, each in Kyrgyz, Russian and English, all texts being equally valid.</p>
+      <p>On behalf of the Government of the Kyrgyz Republic</p>
+      <p>On behalf of the Government of the Islamic Republic of Pakistan</p>
+    </conclusion>
+  </main>
+</treaty>

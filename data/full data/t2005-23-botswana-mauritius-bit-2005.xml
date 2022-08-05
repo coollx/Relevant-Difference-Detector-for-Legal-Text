@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Botswana - Mauritius BIT (2005)</name>
+    <code>T2005-23</code>
+    <partyisocode n="0">BWA</partyisocode>
+    <partyisocode n="1">MUS</partyisocode>
+    <date_signed>2005-08-17</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>639</docreference>
+    <comments>Text is listed at UNCTAD, and there is a text at Kluwer, but it is not reported in the official page of Mauritius: http://www.edbmauritius.org/africa-strategy/investment-promotion-and-protection-agreements/</comments>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BWA,MUS}_2005-08-17.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2006-87">SADC Investment Protocol (2006)</relation>
+  </meta>
+  <main/>
+</treaty>

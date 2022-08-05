@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Denmark - Korea, Republic of BIT (1988)</name>
+    <code>T1988-17</code>
+    <partyisocode n="0">DNK</partyisocode>
+    <partyisocode n="1">KOR</partyisocode>
+    <date_signed>1988-06-02</date_signed>
+    <date_into_force>1988-06-02</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1261</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{DNK,KOR}_1988-06-02.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2010-36">EU - Korea FTA</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BElWEEN THE GOVERNMENT OF THE KINGDOM OF DENMARK AND THE GOVERNMENT OF THE REPUBLIC OF KOREA CONCERNING THE ENCOURAGEMENT AND THE RECIPROCAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Korea and the Government of the Kingdom of Denmark,</p>
+      <p>DESIRING to create favourable conditions for investments in both states and to intensify the co-operation between private enterprises in both states with a view to stimulating the productive use of resources,</p>
+      <p>RECOGNIZING that a fair and equitable treatment of investments on a reciprocal basis will serve this aim,</p>
+      <p>HAVE AGREED as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement,</p>
+        <p>(1)</p>
+        <p>(a) "Investment" means any right of participation in any company including any share of the capital to which nationals or companies are entitled as well as any capital appreciation and in particular, but not exclusively: (i) Shares, parts or any other form of participation in companies incorporated in the territory of one Contracting Party,</p>
+        <p>(ii) Returns reinvested, claims to money or other rights relating to services having a financial value,</p>
+        <p>(iii) Goods movable and immovable, as well as any other real rights as mortgages, privileges, guarantees and any other similar right as defined in conformity with the law of the Contracting Party in the territory of which the good in question is situated,</p>
+        <p>(iv) Industrial and intellectual property rights, technology, trademarks, goodwill, know-how and any other similar rights,</p>
+        <p>(v) Business concessions conferred by law or by contract, including the concessions related to national resources.</p>
+        <p>(b) The said term shall refer:</p>
+        <p>To all investments in companies made for the purpose of establishing lasting economic relations between the investor and the company and giving the investor the possibility of exercising significant influence on the management of the company concerned. The term "investments" covers all investments made in the territory of a Contracting Party by nationals or companies of the other Contracting Party before or after the entry into force of this Agreement.</p>
+        <p>(2) "Returns" means the amounts yielded by an investment and in particular though not exclusively, includes profit, interest, capital gains, dividends, royalties or fees.</p>
+        <p>(3) "Nationals" means:</p>
+        <p>(a) In respect of the Republic of Korea:</p>
+        <p>Physical persons deriving their status as nationals of the Republic of Korea according to its law.</p>
+        <p>(b) In respect of the Kingdom of Denmark:</p>
+        <p>Physical persons deriving their status as Danish nationals from Danish law.</p>
+        <p>(4) "Companies" means:</p>
+        <p>(a) In respect of the Republic of Korea:</p>
+        <p>Corporations, firms or associations incorporated or constituted under the law in force in any part of the Republic of Korea.</p>
+        <p>(b) In respect of the Kingdom of Denmark:</p>
+        <p>Corporations, firms or associations incorporated or constituted under the law in force in any part of the Kingdom of Denmark.</p>
+        <p>(5) "Territory" means in respect of each Contracting Party the territory under its sovereignty and the sea and submarine areas over which the Contracting Party exercises, in conformity with international law, sovereignty, sovereign rights or jurisdiction. The present Agreement shall not apply to the Faroe Islands and Greenland.</p>
+      </div>
+      <div type="article" num="2" title="Promotion of investment">
+        <p>Each Contracting Party shall admit the investment by nationals and companies of the other Contracting Party in accordance with its laws and regulations, and promote such investments as far as possible.</p>
+      </div>
+      <div type="article" num="3" title="Protection of investment">
+        <p>(1) Investments of nationals or companies of either Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party. Neither Contracting Party shall in any way impair by unreasonable or discriminatory measures the management, maintenance, use, enjoyment or disposal of investments in its territory of nationals or companies of the other Contracting Party, Each Contracting Party shall observe any obligation it may have entered into with regard to investments of nationals or companies of the other Contracting Party.</p>
+        <p>(2) Neither Contracting Party shall in its territory subject investments made by nationals or companies of the other Contracting Party or returns of such investments to treatment less favourable than that which it accords to investments or returns of its own nationals or companies or to investments or returns of nationals or companies of any third State (whichever of these standards is the more favourable from the point of view of the investor).</p>
+        <p>(3) Neither Contracting Party shall in its territory subject nationals or companies of the other Contracting Party, as regards their management, maintenance, use, enjoyment or disposal of their investments or returns, to treatment less favourable than that which it accords to its own nationals or companies or to nationals or companies of any third State (whichever of these standards is the more favourable from the point of view of the investor).</p>
+        <p>(4) The provisions of this Article shall have no effect in relation to international agreements entered into by either of the Contracting Parties relating wholly, or mainly to taxation.</p>
+      </div>
+      <div type="article" num="4" title="Expropriation and compensation">
+        <p>(1) Investments or returns of nationals or companies of either Contracting Party shall not be nationalised, expropriated or subjected to measures having effect equivalent to nationalisation or expropriation ( hereinafter referred to as "expropriation") in the territory of the other Contracting Party except for a public purpose related to the internal needs of the expropriating Party, on a basis of non-discrimination and against prompt, adequate and effective compensaion. Such compensation shall amount to the value of the investment or returns expropriated immediately before the expropriation or impending expropriation became public knowledge, shall be made without delay and shall include interest at a normal rate until the date of payment, be effectively realisable and be freely transferable. There shall be legal provision giving a national or company concerned a right to prompt review of the legality of the measure taken against the investment or return and of their valuation in accordance with the principles set out in this paragraph by due process of law in the territory of the Contracting Party making the expropriation.</p>
+        <p>(2) Where a Contracting Party expropriates the assets of a company which is incorporated or constituted under the law in force in any part of its own territory, and in which nationals or companies of the other Contracting Party own shares or debentures, it shall ensure that the provisions of paragraph (1) of this Article are applied to the extent necessary to guarantee prompt, adequate and effective compensation in respect of their investment to the owners of these shares or debentures.</p>
+      </div>
+      <div type="article" num="5" title="Compensation for losses">
+        <p>(1) Nationals or companies of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection or riot in the territory of the latter Contracting Party, shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which the latter Contracting Party accords to its own nationals or companies or to nationals or companies of any third State (whichever of these standards is the more favourable from the point of view of the investor).</p>
+        <p>(2) Without prejudice to paragraph (1) of this Article nationals and companies of either Contracting Party who in any of the situations referred to in paragraph (1) suffer losses in the territory of the other Contracting Party resulting from:</p>
+        <p>(a) Requisitioning of their property by its forces or authorities;</p>
+        <p>(b) Destruction of their property by its forces or authorities which was not caused in combat action and was not required by the necessity of the situation; shall in any event be accorded restitution or adequate compensation.</p>
+        <p>(3) Payments resulting from any provision in this Article shall be freely transferable, made without delay and shall include interest at a normal rate until the day of payment and be effectively realisable.</p>
+      </div>
+      <div type="article" num="6" title="Repatriation and transfer of capital and returns">
+        <p>(1) Each Contracting Party shall, subject to the right of each Contracting Party to exercise equitably, in good faith and on a non-discriminatory basis the powers conferred by its laws, allow without delay the transfer of:</p>
+        <p>(a) The invested capital or the proceeds of total or partial liquidation or alienation of the investment;</p>
+        <p>(b) The returns realized;</p>
+        <p>(c) The payments made for the reimbursement of the credits for investments and interests due;</p>
+        <p>(d) An adequate portion of the earnings of the citizens who are allowed to work in an investment made in the territory of the other Contracting Party.</p>
+        <p>(2) Transfers of currency pursuant to Article 4, 5 and section (1) of this Article shall be made in the convertible currency in which the investment has been made or in any convertible currency if so agreed by the investor, at the official rate of exchange in force at the date of transfer.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>If a Contracting Party makes payment to its own nationals or companies under a guarantee it has accorded in respect of an investment in the territory of the other Contracting Party, the latter Contracting Party shall recognize:</p>
+        <p>(a) The assignment, whether under the law or pursuant to a legal transaction in that country, of any right or claim by the investor to the former Contracting Party, as well as</p>
+        <p>(b) That the former Contracting Party is entitled by virtue of subrogation to exercise the rights and enforce the claims of that investor and shall assume the obligations related to the investment.</p>
+      </div>
+      <div type="article" num="8" title="Arbitration and conciliation">
+        <p>(1) Any dispute which may arise between a national or a company of one Contracting Party and the other Contracting Party in connection with an investment on the territory of that other Contracting Party shall be subject to negotiations between the parties in dispute.</p>
+        <p>(2) If any dispute between an investor of one Contracting Party and the other Contracting Party continues to exist after a period of three months, either party to the dispute shall be entitled to submit the case to the International Centre for Settlement of Investment Disputes for conciliation or arbitration under the Convention on the Settlement of Investment Disputes between States and Nationals of other States, opened for signature at Washington on 18th March 1965.</p>
+      </div>
+      <div type="article" num="9" title="Disputes between the contracting parties">
+        <p>(1) Disputes between the Contracting Parties Concerning the interpretation and application of this Agreement should, as far as possible, be settled through negotiations between the Contracting Parties. If such a dispute cannot be settled within three months from the beginning of negotiation, it shall upon the request of either Contracting Party, be submitted to an arbitral tribunal.</p>
+        <p>(2) Such an arbitral tribunal shall be constituted for each individual case in the following way: Within three months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third State, who on approval by the Contracting Parties shall be appointed Chairman of the tribunal. The Chairman shall be appointed within three months from the date of appointment of the other two members. If within any of the periods specified the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments, If the Vice-President is a national of either Contracting Party or if he, too, is prevented from discharging the said function, the Member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>(3) The arbitral tribunal shall apply the provisions of this Agreement, other Agreements concluded between the Contracting Parties, and the procedural standards called for by international law. It shall reach its decision by a majority of votes. Such decision shall be final and binding on both Contracting Parties.</p>
+        <p>(4) Each Contracting Party shall bear the cost of its own member of the tribunal and of its representation in the arbitral proceedings. The cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties.</p>
+        <p>(5) The arbitral tribunal determines its own procedure.</p>
+      </div>
+      <div type="article" num="10" title="Entry into force, duration and termination">
+        <p>(1) This Agreement shall enter into force upon signature.</p>
+        <p>(2) This Agreement shall remain in force for a period of ten years and shall continue in force thereafter unless, after the expiry of the initial period of ten years, either Contracting Party notifies in writing the other Contracting Party of its intention to terminate this Agreement. The notice of termination shall become effective one year after it has been received by the other Contracting Party.</p>
+        <p>(3) In respect of investments made prior to the date when the notice of termination of this Agreement becomes effective, the provisions of Articles 1 to 9 shall remain in force for a further period of ten years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF the undersigned, duly authorized thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done in duplicate at SEOUL on 2 JUNE 1988 in the Korean, Danish and English languages, all texts being equally authentic.</p>
+      <p>In the case of divergence of interpretation, the English text shall prevail.</p>
+      <p>For the Government of the, Kingdom of Denmark HANS J . ASSING</p>
+      <p>For the Government of the Republik of Korea CHOI KWANG Soo</p>
+    </conclusion>
+  </main>
+</treaty>

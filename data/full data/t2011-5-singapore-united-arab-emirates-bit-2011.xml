@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Singapore - United Arab Emirates BIT (2011)</name>
+    <code>T2011-5</code>
+    <partyisocode n="0">ARE</partyisocode>
+    <partyisocode n="1">SGP</partyisocode>
+    <date_signed>2011-06-24</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>3472</docreference>
+    <comments/>
+    <source>R Polanco database</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ARE,SGP}_2011-06-24.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2008-46">GCC - Singapore FTA</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT</p>
+      <p>BETWEEN</p>
+      <p>THE GOVERNMENT OF THE REPUBLIC OF SINGAPORE</p>
+      <p>AND</p>
+      <p>THE GOVERNMENT OF THE UNITED ARAB EMIRATES</p>
+      <p>ON</p>
+      <p>THE PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Singapore and the Government of the United Arab Emirates (hereinafter referred to individually as "Contracting Party" and collectively as "Contracting Parties"),</p>
+      <p>DESIRING to create favourable conditions for greater economic cooperation between them and in particular for investments by investors of one Contracting Party in the territory in accordance with the laws and regulations of the other Contracting Party based on the principles of equality and mutual benefit;</p>
+      <p>RECOGNISING that the encouragement and reciprocal protection of such investments will be conducive to stimulating business initiative and increasing prosperity in both Contracting Parties;</p>
+      <p>HAVE AGREED AS FOLLOWS</p>
+    </preamble>
+    <body>
+      <div type="chapter" num="I" title="General provisions">
+        <div type="article" num="1" title="Definitions">
+          <p>For the purposes of this Agreement:</p>
+          <p>1.  investment means every kind of asset that an investor owns or controls, directly or indirectly, that was made in accordance with the laws and regulations of the other Contracting Party in whose territory the investment is made, including but not limited to the following:</p>
+          <p>a.  an enterprise;</p>
+          <p>b.  shares, stock, and other forms of equity participation in an enterprise, including rights derived therefrom;</p>
+          <p>c.  bonds, debentures, and other debt instruments;</p>
+          <p>d.  turnkey, construction, management, production, concession, revenue-sharing, and other similar contracts;</p>
+          <p>e.  claims to money or to any contractual performance having an economic value;</p>
+          <p>f.  intellectual property rights and goodwill;</p>
+          <p>g.  licenses, authorisations, permits, and similar rights conferred pursuant to applicable domestic law; and</p>
+          <p>h.  other tangible or intangible, movable or immovable property, and related property rights, such as leases, mortgages, liens, and pledges;</p>
+          <p>2.  investor means:</p>
+          <p>a.  the Government and governmental agencies of a Contracting Party;</p>
+          <p>b.  an enterprise of a Contracting Party; or</p>
+          <p>c.  a natural person who resides in the territory of a Contracting Party or elsewhere and who under the law of that Contracting Party:</p>
+          <p>i)  is a national of that Contracting Party; or</p>
+          <p>ii)  has the right of permanent residence in the case of Singapore,</p>
+          <p>That has made an investment;</p>
+          <p>3.  enterprise means any entity constituted or organised under applicable law, whether or not for profit, and whether privately or govemmentally owned or controlled, including a corporation, trust, partnership, sole proprietorship, joint venture, association, or similar organisation, and a branch of an enterprise;</p>
+          <p>4.  freely usable currency means "freely usable currency" as determined by the International Monetary Fund under its Articles of Agreement and any amendments thereto;</p>
+          <p>5.  ICSID means the International Centre for Settlement of Investment Disputes;</p>
+          <p>6.  ICSID Additional Facility Rules means the Rules Governing the Additional Facility for the Administration of Proceedings by the Secretariat of the ICSID, as may be amended;</p>
+          <p>7 ICSID Convention means the Convention on the Settlement of Investment Disputes between States and Nationals of other States, done at Washington on March 18, 1965, as may be amended;</p>
+          <p>8.  returns means an amount yielded by or derived from an investment, including profits, dividends, interest, capital gains, royalty payments, and payments in connection with intellectual property rights. For the purposes of the definition of "investment", returns that are invested shall be treated as investments and any alteration of the form in which assets are invested or reinvested shall not affect their character as investments provided that the change is in accordance with the laws and regulations of the Contracting Parties;</p>
+          <p>9. Territory means:</p>
+          <p>a.  In respect of the Republic of Singapore: its land territory, internal waters and territorial sea, as well as any maritime area situated beyond the territorial sea which has been or might in the future be designated under its national law, in accordance with international law, as an area within which Singapore may exercise sovereign rights or jurisdiction with regards to the sea, the sea-bed, the subsoil and the natural resources;</p>
+          <p>b.  In respect of the United Arab Emirates: when used in a geographical sense, the territory of the United Arab Emirates as well as the area outside its territorial water, airspace and submarine areas over which the United Arab Emirates exercises sovereign and jurisdictional rights in respect of any activity carried on its water, sea-bed and subsoil in connection with the exploration for natural resource by virtue of its law and international law; and</p>
+          <p>10.  UNCITRAL Arbitration Rules means the arbitration rules of the United Nations Commission on International Trade Law, recommended by the United Nations General Assembly on December 15, 1976, as may be amended.</p>
+        </div>
+        <div type="article" num="2" title="Applicability of agreement">
+          <p>1.  Each Contracting Party shall admit the entry of investments made by investors of the other Contracting Party pursuant to its applicable laws and regulations.</p>
+          <p>2.  The provisions of this Agreement shall apply to all investments made by investors of one Contracting Party in the territory of the other Contracting Party, whether made before or after the coming into force of this Agreement, but shall not apply to any dispute concerning an investment which arose, or any claim which was settled, before its entry into force.</p>
+          <p>3.  The provisions of this Agreement shall not apply to matters of taxation in the territory of either Contracting Party. Such matters shall be governed by any Avoidance of Double Taxation Treaty between the two Contracting Parties and the domestic laws of each Contracting Party.</p>
+          <p>4.  Concessions to search for, cultivate, extract or exploit energy resources in the energy resources sector shall not be covered by this Agreement. The term "energy resources sector" shall mean all hydrocarbons such as oil, gas, and condensates, derivatives and primary by-products thereof with respect to ownership, management, exploration, development and production, exploitation (including reservoir management), transportation, storage, refining and processing, and distribution up to and including retail distribution.</p>
+        </div>
+      </div>
+      <div type="chapter" num="II" title="Protection">
+        <div type="article" num="3" title="Promotion and protection of investments">
+          <p>1.  Each Contracting Party shall encourage and create favourable conditions for investors of the other Contracting Party to make investments in its territory and shall admit such investments in accordance with its laws and regulations.</p>
+          <p>2.  Investments made by investors of each Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party. Neither Contracting Party shall in any way impair by unreasonable or discriminatory measures the operation, management, maintenance, use, enjoyment, conduct, and sale or other disposition of investments in its territory by investors of the other Contracting Party</p>
+        </div>
+        <div type="article" num="4" title="National treatment and most-favoured nation">
+          <p>TREATMENT</p>
+          <p>1.  With regards to the operation, management, maintenance, use, enjoyment, conduct, and sale or other disposition of investments, each Contracting Party shall in its territory accord investors of the other Contracting Party and their investments treatment no less favourable than that it accords, in like circumstances:</p>
+          <p>a.  to investors of any third party and their investments; or</p>
+          <p>b.  to its own investors and their investments, whichever is more favourable.</p>
+          <p>2.  The provisions of this Agreement relating to the grant of treatment not less favourable than that accorded to the investors of any third party shall not be construed so as to oblige one Contracting Party to extend to investors of the other Contracting Party and their investments the benefit of any treatment, preference or privilege resulting from:</p>
+          <p>a.  any existing or future customs union, free trade area, free trade arrangement, common market, monetary union or similar international agreement or other forms of regional cooperation to which either of the Contracting Parties is or may become a party; or the adoption of an agreement designed to lead to the formation or extension of such a union, area or arrangement,</p>
+          <p>b.  any existing bilateral investment agreements,</p>
+          <p>E any arrangement with a third party or parties in the same geographical region designed to promote regional cooperation in the economic, social, labour, industrial or monetary fields within the framework of specific projects.</p>
+          <p>3.  For greater certainty, paragraph la shall not be construed as granting to investors options or procedures for the settlement of disputes other than those set out in this Agreement.</p>
+        </div>
+        <div type="article" num="5" title="Expropriation">
+          <p>1.  Neither Contracting Party shall nationalise, expropriate or subject to measures having effect equivalent to nationalisation or expropriation (hereinafter referred to as "expropriation") the investments of investors of the other Contracting Party unless the expropriation is:</p>
+          <p>a.  for a public purpose;</p>
+          <p>b.  carried out on a non-discriminatory basis;</p>
+          <p>c.  in accordance with due process of law; and</p>
+          <p>d.  upon payment of compensation in accordance with this Article.</p>
+          <p>2.  The expropriation shall be accompanied by the payment of prompt, adequate and effective compensation. Compensation shall be equivalent to the fair market value of the expropriated investment immediately before the expropriation or impending expropriation became public knowledge, whichever is earlier. Such compensation shall be effectively realisable, in freely usable currency, and freely transferable in accordance with Article 7 (Transfers) and made without undue delay. The compensation shall include interest at a commercially reasonable rate for that currency, accrued from the date of expropriation until the date of payment.</p>
+          <p>3.  Where the fair market value cannot be readily ascertained, the compensation shall be determined in accordance with the generally recognised international principles of valuation.</p>
+          <p>4.  Notwithstanding paragraphs 1 and 2, any measure of expropriation relating to land, which shall be as defined in the existing domestic legislation of the expropriating Contracting Party on the date of entry into force of this Agreement, shall be for a purpose and upon payment of compensation in accordance with the aforesaid legislation and any subsequent amendments thereto relating to the amount of compensation.</p>
+          <p>5.  Any measure of expropriation or valuation may, at the request of the investors affected, be reviewed by a judicial or other independent authority of the Contracting Party taking the measure in the manner prescribed by its laws.</p>
+        </div>
+        <div type="article" num="6" title="Compensation for losses">
+          <p>Investors of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, a state of national emergency, revolt, insurrection, riot or other similar situations in the territory of the latter Contracting Party, shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, if any, no less favourable than that which the latter Contracting Party accords to investors of any third party or to its own investors, whichever is more favourable. Any resulting compensation shall be made in freely usable currency and be freely transferable in accordance with Article 7 (Transfers).</p>
+        </div>
+        <div type="article" num="7" title="Transfers">
+          <p>1.  Each Contracting Party shall permit all transfers relating to investments in its territory of an investor of the other Contracting Party to be made freely and without undue delay into and out of its territory. Such transfers shall include:</p>
+          <p>a.  contributions to capital;</p>
+          <p>b.  proceeds from the sale of all or any part of the investment or from the partial or complete liquidation of the investment;</p>
+          <p>c.  profits, dividends, capital gains, interest, royalty payments and other current income accruing from an investment;</p>
+          <p>d.  management fees, and technical assistance and other fees;</p>
+          <p>e.  payments made under a contract entered into by the investor,</p>
+          <p>Or its investment, including payments made pursuant to a loan agreement;.</p>
+          <p>f.  payments made pursuant to Article 5 (Expropriation) and Article 6 (Compensation For Losses); and</p>
+          <p>g.  payments arising under Chapter III (Dispute Settlement).</p>
+          <p>2.  Each Contracting Party shall permit such transfers to be made in a freely usable currency at the market rate of exchange prevailing at the time of transfer.</p>
+          <p>3.  Notwithstanding paragraphs 1 and 2, a Contracting Party may prevent a transfer through the equitable, non-discriminatory, and good faith application of its laws relating to:</p>
+          <p>a.  bankruptcy, insolvency, or the protection of the rights of creditors;</p>
+          <p>b.  issuing, trading, or dealing in securities, futures, options, or derivatives;</p>
+          <p>c.  financial reporting or record keeping of transfers when necessary to assist law enforcement or financial regulatory authorities;</p>
+          <p>d.  criminal or penal offenses;</p>
+          <p>e.  ensuring compliance with adjudicatory decisions; or</p>
+          <p>f.  social security, public retirement or compulsory savings schemes.</p>
+          <p>4.  In case of a serious balance of payments difficulty or of a threat thereof, a Contracting Party may temporarily restrict transfers provided that such a Contracting Party implements measures or a programme in accordance with the Articles of Agreement of the International Monetary Fund. These restrictions should be imposed on an equitable, non-discriminatory and in a good faith manner.</p>
+        </div>
+        <div type="article" num="8" title="Subrogation">
+          <p>1.  In the event that either Contracting Party (or any agency, institution, statutory body or corporation designated by it) as a result of an indemnity it has given in respect of an investment or any part thereof makes payment to its own investors in respect of any of their claims under this Agreement, the other Contracting Party acknowledges that the former Contracting Party (or any agency, institution, statutory body or corporation designated by it) is entitled by virtue of subrogation to exercise the rights and assert the claims of its own investors. The subrogated rights or claims shall not be greater than the original rights or claims of the said investor.</p>
+          <p>2.  Any payment made by one Contracting Party (or any agency, institution, statutory body or corporation designated by it) to its investors shall not affect the right of such investors to make their claims against the other Contracting Party in accordance with Section One of Chapter III (Dispute Settlement).</p>
+          <p>3.  Notwithstanding paragraphs 1 and 2, subrogation shall take place after prior consent of the Contracting Party in whose territory the investment is made.</p>
+        </div>
+      </div>
+      <div type="chapter" num="III" title="Dispute settlement"/>
+      <div type="section" num="ONE">
+        <p>"SETTLEMENT OF DISPUTES BETWEEN A CONTRACTING PARTY AND AN INVESTOR OF THE OTHER</p>
+        <p>CONTRACTING PARTY</p>
+        <div type="article" num="9" title="Purpose">
+          <p>This Section shall apply to disputes between a Contracting Party and an investor of the other Contracting Party arising from this Agreement.</p>
+        </div>
+        <div type="article" num="10" title="Procedures">
+          <p>1.  The disputing parties should first attempt to settle a claim through consultations and negotiations.</p>
+          <p>2.  Where the dispute cannot be resolved within three (3) months from the date of request for consultations and negotiations, the investor shall, where required by the disputing Contracting Party, go through any applicable domestic procedure specified in the laws and regulations of the disputing Contracting Party. Notwithstanding the foregoing, upon the expiry of six (6) months from the date of submission of the dispute under the domestic procedure required by the disputing Contracting Party, the investor shall be permitted to submit the dispute for settlement to:</p>
+          <p>a.  ICSID for conciliation or arbitration, if both Contracting Parties are parties to the ICSID Convention;</p>
+          <p>b.  ICSID under the ICSID Additional Facility Rules, provided that either the Contracting Party of the investor, or the disputing Contracting Party, but not both, is a party to the ICSID Convention;</p>
+          <p>c.  arbitration under the rules of the UNCITRAL; or</p>
+          <p>d.  any other arbitral institutions or in accordance with any other arbitral rules, if the parties to the dispute so agree.</p>
+          <p>3.  Each Contracting Party hereby consents to the submission of a dispute to conciliation or arbitration under paragraph 2 in accordance with the provisions of this Article.</p>
+          <p>4.  Any arbitral award shall be final and binding upon the parties to the dispute. Each Contracting Party shall ensure the recognition and enforcement of the award in accordance with its relevant laws and regulations.</p>
+        </div>
+      </div>
+      <div type="section" num="TWO">
+        <p>"SETTLEMENT OF DISPUTES BETWEEN THE CONTRACTING PARTIES</p>
+        <div type="article" num="11" title="Scope">
+          <p>. This Section applies to the settlement of disputes between the Contracting Parties arising from the interpretation or application of the provisions of this Agreement.</p>
+        </div>
+        <div type="article" num="12" title="Settlement of disputes between the contracting parties">
+          <p>1.  The Contracting Parties shall, as far as possible, settle any dispute concerning the interpretation or application of this Agreement through consultations or other diplomatic channels.</p>
+          <p>2.  If the dispute has not been settled within six (6) months following the date on which such consultations or other diplomatic channels were requested by either Contracting Party and unless the Contracting Parties otherwise agree in writing, either Contracting Party may, by written notice to the other Contracting Party, submit the dispute to an ad hoc arbitral tribunal in accordance with the following provisions of this Article.</p>
+          <p>3.  The arbitral tribunal shall be constituted as follows: each Contracting Party shall appoint one member, and these two members shall agree upon a third member to act as Chairman of the arbitral tribunal to be appointed by the two Contracting Parties. The members of the arbitral tribunal shall be nationals) of third parties with whom both Contracting Parties have diplomatic relations. Such members shall be appointed within two (2) months, and such Chairman within four (4) months, from the date on which either Contracting Party has informed the other Contracting Party that it intends to submit the dispute to an arbitral tribunal.</p>
+          <p>4.  If the periods specified in paragraph 3 above have not been complied with, either Contracting Party may, in the absence of any other arrangement, invite the President of the International Court of Justice to make the necessary appointments. If the President of the International Court of Justice is a national of either Contracting Party or is otherwise prevented from discharging the said function, the Vice-President of the International Court of Justice shall be invited to make necessary appointments. If the Vice-President of the International Court of Justice is a national of either Contracting Party or is otherwise prevented from discharging the said function, the member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+          <p>5.  The arbitral tribunal shall take its decision by a majority of votes. Such decision shall be made in accordance with this Agreement and such recognised rules of international law as may be applicable and shall be final and binding on both Contracting Parties. Each Contracting Party shall bear the costs of the member of the arbitral tribunal appointed by the Contracting Party, as well as the costs for its representation in the arbitration proceedings. The expenses of the Chairman as well as any other costs of the arbitration proceedings shall be borne in equal parts by the two Contracting Parties. In all other respects, the arbitral tribunal shall determine its own procedures.</p>
+        </div>
+        <div type="chapter" num="IV" title="Final provisions">
+          <div type="article" num="13" title="Other obligations">
+            <p>If the legislation of either Contracting Party or international obligations existing at present or established hereafter between the Contracting Parties in addition to this Agreement, result in a position entitling investments by investors of the other Contracting Party to treatment more favourable than is provided for by this Agreement, such position shall not be affected by this Agreement.</p>
+          </div>
+          <div type="article" num="14" title="Denial of benefits">
+            <p>The Contracting Parties may decide jointly in consultation to deny the benefits of this Agreement to an investor of a Contracting Party that is an enterprise of such Contracting Party and to investments of such an investor where the denying Contracting Party establishes that the enterprise is owned or controlled by persons of a third party, or of the denying Contracting Party, and has no substantive business operations in the territory of the other Contracting Party.</p>
+          </div>
+          <div type="article" num="15" title="Amendments">
+            <p>Either Contracting Party may, at any time, request the amendment of this Agreement by giving prior written notice through diplomatic channels to the other Contracting Party. This Agreement shall be amended with the agreement of the Contracting Parties, and the amendments shall enter into force on such date or dates as may be agreed between them.</p>
+          </div>
+          <div type="article" num="16" title="Entry into force, duration and termination">
+            <p>1.  Each Contracting Party shall notify the other Contracting Party of the fulfillment of its internal legal procedures required for the bringing into force of this Agreement. This Agreement shall enter into force on the thirtieth day from the date of notification of the later Contracting Party.</p>
+            <p>2.  This Agreement shall remain in force for a period of fifteen (15) years and shall continue in force thereafter unless, after the expiry of the initial period of fourteen (14) years, either Contracting Party notifies in writing the other Contracting Party of its intention to terminate this Agreement. The notice of termination shall become effective one (1) year after it has been received by the other Contracting Party.</p>
+            <p>3.  In respect of investments made prior to the date when the notice of termination of this Agreement becomes effective, the provisions of this Agreement shall remain in force for a further period of fifteen (15) years from that date.</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE at Singapore, on this 24 th day of June 2011, in duplicate, in the Arabic and English languages, each text being equally authentic. In case of dispute of interpretation, the English text shall prevail.</p>
+      <p>FOR THE GOVERNMENT OF FOR THE GOVERNMENT OF THE</p>
+      <p>THE REPUBLIC OF SINGAPORE</p>
+      <p>UNITED ARAB EMIRATES</p>
+      <p>&lt;r</p>
+      <p>LEE YI SHYAN Minister of State for Trade Industry and National Development</p>
+      <p>OBAID HUMAID AL TAYER Minister of State for Financial Affairs</p>
+      <p>W</p>
+      <p>W</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>China - France BIT (1984)</name>
+    <code>T1984-5</code>
+    <partyisocode n="0">CHN</partyisocode>
+    <partyisocode n="1">FRA</partyisocode>
+    <date_signed>1984-05-30</date_signed>
+    <date_into_force>1999-11-06</date_into_force>
+    <date_terminated>2010-08-20</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>900</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CHN,FRA}_1984-05-30.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T2007-28">China - France BIT (2007)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the People's Republic of China and the Government of the Republic of France on the Promotion and Reciprocal Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of People's Republic of China and the Government of the Republic of France (hereinafter referred to as the "Contracting Parties"), desiring to strengthen economic cooperation between the two countries and for this purpose, to create favourable investments conditions for Chinese investors in France and French investors in China, have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purpose of this Agreement,</p>
+        <p>1. The term "investment" means any kind of property used as investment in territory and sea area of either Contracting Party which accepts the investment in accordance with its law concerned including, in particular:</p>
+        <p>(a) Movable and immovable property as well as other property rights such as mortgages, usufructs, guarantees and other similar right;</p>
+        <p>(b) Stocks and other forms of direct or indirect shares as well as minor shares in a company within the territory of either Contracting Party;</p>
+        <p>(c) Debentures, creditors' rights, and various claims for payments that have an economic value;</p>
+        <p>(d) Copy rights, industrial property rights (such as patents of invention, licenses, registered trademarks) know-how, technical processes, trade names and goodwill;</p>
+        <p>(e) Concessions conferred by law, especially concession for cultivation, exploring, exploiting and developing natural resources, including concessions for natural resources in sea areas of either Contracting Party.</p>
+        <p>Any alteration in the form of assets an investment shall not affect their nature as investment provided that such alteration is not in conflict with the legislation of either Contracting Party which accepts the investment in its territory or sea areas.</p>
+        <p>2. The term "returns" means profits, interest or other legitimate incomes derived from investments within a definite period.</p>
+        <p>Returns from investment and from possible reinvestment shall enjoy the same protection as investment.</p>
+        <p>3. The term "investor" means:</p>
+        <p>(a) Natural persons possessing the nationality of either Contracting Party;</p>
+        <p>(b) Any economic entity or legal person constituted and sets up head office in the territory of either Contracting Party according to the legislation of that Contracting Party, and any economic entity or legal person controlled directly or indirectly by the nationals of either Contracting Party or by the economic entity or person constituted and sets up head office in the territory of that Contracting Party according to the latter's legislation.</p>
+        <p>4. The term "sea areas" means marine space and submarine areas over which either Contracting Party has the sovereignty, sovereign rights or jurisdiction in accordance with the related international law.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting Party shall, in line with its legislation and within the scope of the provision as stipulated in this Agreement, admit and encourage investments in its territory and sea areas by investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1. Each Contracting Party shall extend fair and equitable treatment to investments made in its territory and sea area by investors of the other Contracting Party.</p>
+        <p>2. Each Contracting party shall accord treatment to investments made in its territory or sea areas by investors of the other Contracting Party no less favorable than that accorded to investors of any third country.</p>
+        <p>3. The treatment mentioned above shall not include privileges granted by either Contracting Party to investors of a third country by virture of its participation in a free trade areas, customs union, common market or any other forms of regional economic organization.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1. The investments made by investors of either Contracting Party in the territory or sea areas of the other Contracting Party shall enjoy full protection and guarantee.</p>
+        <p>2. Neither Contracting Party shall take any expropriation and nationalization measures or any other measures that have the same effect in its territory or sea areas against investments made by investors of the other Contracting Party, except those measures which are carried out for public purpose, on the basis of non-discriminatory nature, in line with relevant legal procedures and with compensation in case the expropriation measure is adopted, appropriate compensation shall be given. The principle and rules for calculating the amount of compensation and governing the form of payment shall be determined not later than the date on which the expropriation is implemented. The compensation shall be actually realizable, be paid without undue delay and be freely transferred. The formula for calculating the compensation payment and the specific methods shall be formulated in the Annex which shall be constituted as part of this Agreement.</p>
+        <p>3. Investors of either Contracting Party whose investments have suffered losses owing to war or other armed conflict, a national state of emergency or revolt occurring in the territory or sea areas of the other Contracting Party shall enjoy appropriate treatment from the latter Contracting Party no less favorable than that accorded to investors of the most favored nation.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party shall permit investors of the other Contracting Party who have made investments in its territory or sea areas to freely transfer the following proceeds:</p>
+        <p>(a) Interest, dividends, profits and other daily income;</p>
+        <p>(b) Royalties derived from incorporeal rights as defined in Article 1 (d) and (e);Article 1 (d) and (e);</p>
+        <p>(c) Repayment of loans which have been obtained through normal formalities;</p>
+        <p>(d) Income from wholly or partly transfer or liquidation of investment, including increased value from the capital invested;</p>
+        <p>(e) Compensation payments mentioned in Article 4.</p>
+        <p>Nationals of either Contracting Party, who have been allowed to work in the territory or sea areas of the other Contracting Party on an approved investment project, shall be permitted to transfer an appropriate proportion of their earnings to their country of origin.</p>
+        <p>The transfer referred to in the foregoing paragraphs shall be conducted within a reasonable period at the official exchange rate being applied on the date of transfer.</p>
+      </div>
+      <div type="article" num="6">
+        <p>1. In the event that the regulations of either Contracting Party contain a guarantee for investments, this guarantee may be accorded, on the basis of examining each particular case, to investments made by its investors in the territory or sea areas of the other Contracting Party upon prior approval of the other Contracting Party.</p>
+        <p>2. If a Contracting Party makes payment to its investors under a guarantee it has been accorded in respect of an investment project in the territory or sea areas of the other Contracting Party, the latter Contracting Party recognize subrogation of the former Contracting Party to the rights of the investors and the litigation rights. However, the rights by virtue of subrogation shall not exceed the rights that the investors originally entitled and subrogation shall not impair the original rights of the other Contracting Party to the investors concerned.</p>
+        <p>The transfer of proceeds thereby by virtue of subrogation shall be conducted under the relevant provisions of Article 4 (2) and Article 5.</p>
+      </div>
+      <div type="article" num="7">
+        <p>The present Agreement shall also apply to investment projects made prior to the going into effect of this Agreement by investors of France in the territory or sea areas of the People's Republic of China according to the laws and regulations of the People's Republic of China, and investment projects made by investors of China in the territory or sea areas of the Republic of France according to the laws and regulations of the Republic of France.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1. Any dispute concerning investment between investors of one Contracting Party and other Contracting Party shall be settled amicably as far as possible by the two parties concerned.</p>
+        <p>2. If the dispute cannot be settled within six months from the date on which either related party files a request for settlement it shall be resolved by either one of the following procedures chosen by the investors:</p>
+        <p>(a) Filing a complaint with the competent administrative authority of the Contracting Party which accepts the investment;</p>
+        <p>(b) Filing a complaint with the court of justice that has jurisdiction over the Contracting Party which accepts the investment.</p>
+        <p>3. A dispute arising from disagreement on the amount of compensation payments as provided in Article 4 (2) can resort to the procedures specified in paragraphs 1 and 2 above.Article 4 (2) can resort to the procedures specified in paragraphs 1 and 2 above.</p>
+        <p>In case the dispute cannot be settled satisfactorily by the two parties concerned within one year from the date on which either related party files a request for settlement, it shall be referred to the arbitral procedures formulated in the Annex of this Agreement. However, if the investor has resorted to the procedures mentioned in (b) of paragraph 2 above and the court of justice has made its final decision within one year from the date on which either related party files a request for settlement, the provision of this paragraph shall not be applicable.</p>
+      </div>
+      <div type="article" num="9">
+        <p>Investments made by investors of either Contracting Party under a special commitment to the other Contracting Party shall be governed, without prejudice to the provision of this Agreement, by the terms of the said commitment if it contains provisions which are more favorable than that of the present Agreement.</p>
+      </div>
+      <div type="article" num="10">
+        <p>1. Disputes between the Contracting Parties concerning the interpretation or application of this Agreement shall be settled amicably as far as possible through diplomatic channels.</p>
+        <p>2. If a dispute cannot be settled within six months from the date on which the matter is raised by either Contracting Party it shall, upon the request of either Contracting party, by submitted to an arbitral tribunal.</p>
+        <p>3. An arbitral tribunal shall be constituted for each individual case in the following way:</p>
+        <p>Each Contracting Party shall appoint one arbitrator and the two arbitrators shall select a national of a third State, who, with the approval of the two Contracting Parties, shall be appointed as the chief arbitrator, The arbitrators shall be appointed within two months from the date when either Contracting Party notifies the other Contracting Party of its request on submitting the dispute for arbitration, while the chief arbitrator shall be appointed within two months from the date after the two arbitrators are appointed.</p>
+        <p>4. If the appointment of arbitrators and chief arbitrator have not been made within the time limit as specified in paragraph (3) above, either Contracting Party shall invite the Secretary-General of the United Nations to make any necessary appointment. If the Secretary-General of the United Nations is a national of either Contracting Party or otherwise prevented from performing the said duty; a Deputy Secretary-General of seniority who is not a national of either Contracting Party shall be invited to make the necessary appointment.</p>
+        <p>5. The arbitral tribunal shall formulate its own rules and adjudicate by a majority of votes. The final decision will be binding on both Contracting Parties and the arbitral tribunal shall interprete its decision at the request of either Contracting Party.</p>
+        <p>6. Each Contracting Party shall bear the expenses for its own arbitrator and representation in the arbitral proceedings. The expenses for the chief arbitrator and other relevant expenses shall be borne equally by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="11">
+        <p>Each Contracting Party shall notify the other Contracting Party upon completion of its internal legal procedures which are required for putting this Agreement into effect. This Agreement shall enter into force one month after the date of receipt of the final notification.</p>
+        <p>This Agreement shall be in force for a period of tenyears and shall remain in force thereafter, unless either Contracting Party terminates this Agreement by giving a written notice one year in advance through diplomatic channels.</p>
+        <p>In Case of termination of this agreement, investments made during the term of validity shall continue to enjoy the protection covered by the provisions of this Agreement for a further period of 15 years.</p>
+      </div>
+      <div type="article" num="12">
+        <p>The application rules of some of the Articles of this Agreement are specified in the Annex which is regarded as an integral part of this Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>For the Government of the French Republic (Pierre Mauroy) Prime Minister</p>
+      <p>(Zhao Ziyang) Premier of the State Council For the Government of the People's Republic of China.</p>
+    </conclusion>
+    <attachments>
+      <p>1. With Respect to Article 3:</p>
+      <p>(a) All the activities in connection with purchasing, marketing and transportation of raw materials and auxiliary materials, energy and fuels, as well as means of Production and management, shall be accorded treatment no less favorable than that accorded to activities associated with investments of investors of a third State. The aforesaid activities shall not be impeded under the observance of the laws and regulations of either Contracting Party which accepts the investments as well as the provisions of this Agreement.</p>
+      <p>(b) The nationals who are permitted to work in the territory or sea areas of either Contracting Party shall be provided with appropriate materials and facilities for their special activities.</p>
+      <p>(c) Within the framework of its internal legislation, either Contracting Party shall give sympathetic consideration to applications for entry, sojourn, work and travel permits by investors of the other Contracting Party who intend to take party in investment in the territory of the former Contracting Party.</p>
+      <p>2. With Respect to Article 4:</p>
+      <p>The amount of compensation mentioned in Article 4 (2) shall be equivalent to the real value of the relevant investment.</p>
+      <p>3. With Respect to Article 5:</p>
+      <p>(i) Regarding the free transfer of proceeds mentioned in Article 5 (a), (b), (c) and (d), in the People's Republic of China, such proceeds shall be paid out of the foreign exchange account possessed exclusively by the investor in the People's Republic of China or through the foreign exchange account owned by a Sino-foreign joint Venture in the People's Republic of China.</p>
+      <p>The competent department of the Chinese Government shall, under the following conditions, render guarantee to investors on the transfer of proceeds mentioned in Article 5 (a), (b), (c) and (d), no matter whether the aforesaid foreign exchange account held by a French investor in the People's Republic of China has sufficient foreign exchange or not:</p>
+      <p>(a) The competent department of the Chinese Government has specially approved the exchange for foreign currency;</p>
+      <p>(b) The contract approved by the Chinese Government specifies the source of foreign exchange;</p>
+      <p>(c) The investor has been specially authorized, at the time of making investment or on a decision made afterwards, to sell its products or services in an unconvertible currency;</p>
+      <p>(d) Payment of amount mentioned in Article 5 (c), which has been guaranteed by the Bank of China;</p>
+      <p>(e) Proceeds mentioned in Article 5 (b) and (d).</p>
+      <p>(ii) The exchange and free transfer of payment mentioned in Article 5 (e) shall be guaranteed by the competent department of the Chinese Government.</p>
+      <p>The foregoing provisions shall be exercised fairly and in good faith without discrimination.</p>
+      <p>(iii) The reasonable period mentioned in Article 5 means a period normally required for the completion of transfer formalities according to international financial practice.Article 5 means a period normally required for the completion of transfer formalities according to international financial practice.</p>
+      <p>4. With Respect to Article 8:</p>
+      <p>The arbitral procedures mentioned in Articles 8 (3) shall be as follows:</p>
+      <p>(a) The arbitral tribunal shall be consisted of three arbitrators. Each party concerned shall appoint an arbitrator and the two arbitrators shall jointly appoint a third arbitrator whose nationality is of a third state which has diplomatic relations with the Contracting Parties to this Agreement.</p>
+      <p>All the members of the arbitral tribunal shall be appointed within three months from the date on which the first arbitrator is appointed.</p>
+      <p>(b) If either Party has failed to appoint an arbitrator, or the two arbitrators have failed to appoint a third arbitrator within the period specified above, the other party may request the Chairman of the Stockholm Chamber of Commerce to make the necessary appointment.</p>
+      <p>(c) The arbitral tribunal shall hold its meetings in a third state jointly chosen by the Parties. If the choice is not made after 45 days from the date on which the last arbitrator is appointed, the meeting shall be held in City of Stockholm. The arbitral tribunal shall make its decision by a majority of votes.</p>
+      <p>The arbitral procedures shall be formulated in line with the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL). The arbitral tribunal shall the reasons for its decision which shall be binding on the Parties. The arbitral tribunal will interprete its decision at the request of either Party if necessary.</p>
+      <p>Each party shall bear the expenses for its own arbitrator and representation in the arbitral proceedings. The expenses for the third arbitrator and other relevant Expenses shall be borne equally by the two parties.</p>
+      <p>Done at Paris on May 30, 1984.</p>
+      <p>For the Government of the French Republic (Pierre Mauroy) Prime Minister</p>
+      <p>(Zhao Ziyang) Premier of the State Council For the Government of the People's Republic of China.</p>
+    </attachments>
+  </main>
+</treaty>

@@ -1,0 +1,828 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Georgia - Japan BIT (2021)</name>
+    <code>T2021-1</code>
+    <partyisocode n="0">GEO</partyisocode>
+    <partyisocode n="1">JPN</partyisocode>
+    <date_signed>2021-01-29</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en,jp</orig_language>
+    <termination_type/>
+    <comments/>
+    <source>https://www.mofa.go.jp/press/release/press4e_002969.html</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en,jp</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN JAPAN AND GEORGIA FOR THE LIBERALISATION, PROMOTION AND PROTECTION OF INVESTMENT</p>
+    </title>
+    <preamble>
+      <p>Japan and Georgia (hereinafter referred to as "the Contracting Parties"), </p>
+      <p>Desiring to further promote investment in order to strengthen the economic relationship between the Contracting Parties; </p>
+      <p>Recognising that a stable framework for investment will maximise effective utilisation of economic resources; </p>
+      <p>Recognising the growing importance of the progressive liberalisation of investment for stimulating initiative of investors and for promoting prosperity in the Contracting Parties; </p>
+      <p>Recognising that these objectives can be achieved without relaxing health, safety and environmental measures of general application; and </p>
+      <p>Recognising the importance of the cooperative relationship between labour and management in promoting investment between the Contracting Parties; </p>
+      <p>Have agreed as follows: </p>
+    </preamble>
+    <body>
+      <div type="chapter" num="I" title="INVESTMENT">
+        <div type="article" num="1" title="Definitions">
+          <p>For the purposes of this Agreement:</p>
+          <p>(a) the term "investment" means every kind of asset owned or controlled, directly or indirectly, by an investor of a Contracting Party, that is made in the Territory of the other Contracting Party in accordance with applicable laws and regulations of the other Contracting Party, and that has the characteristics of an investment, including such characteristics as the commitment of capital or other resources, the expectation of gain or profit, or the assumption of risk. Forms that an investment may take shall include: </p>
+          <p>(i) an enterprise and a branch of an enterprise; </p>
+          <p>(ii) shares, stocks or other forms of equity participation in an enterprise; </p>
+          <p>(iii) bonds, debentures, loans and other forms of debt; </p>
+          <p>(iv) futures, options and other derivatives; </p>
+          <p>(v) rights under contracts, including turnkey, construction, management, production or revenue-sharing contracts; </p>
+          <p>(vi) claims to money and to any performance under contract having a financial value; </p>
+          <p>(vii) intellectual property rights, including copyrights and related rights, patent rights and rights relating to utility models, trademarks, industrial designs, layout- designs of integrated circuits, new varieties of plants, trade names, indications of source or geographical indications and undisclosed information; </p>
+          <p>(viii) rights conferred pursuant to laws and regulations or contracts such as concessions, licences, authorisations and permits, including those for the exploration and exploitation of natural resources; and </p>
+          <p>(ix) any other tangible and intangible, movable and immovable property, and any related property rights, such as leases, mortgages, liens and pledges; </p>
+          <p>A change in the form in which assets are invested does not affect their character as an investment. </p>
+          <p>For the purposes of this Agreement, investment does not mean an order or judgement entered in a judicial or administrative action or an arbitral award rendered with regard to an investment. </p>
+          <p>(b) the term "investor of a Contracting Party" means: </p>
+          <p>(i) a natural person having the nationality of that Contracting Party in accordance with its laws and regulations; or </p>
+          <p>(ii) an enterprise of that Contracting Party, </p>
+          <p>that seeks to make, is making or has made investments in the Territory of the other Contracting Party; </p>
+          <p>(c) the term "enterprise" means any legal entity duly constituted or organised under the applicable laws and regulations, whether or not for profit, and whether private or government owned or controlled, including any corporation, trust, partnership, sole proprietorship, joint venture, association, organisation or company; </p>
+          <p>(d) the term "enterprise of a Contracting Party" means an enterprise duly constituted or organised under the applicable laws and regulations of that Contracting Party; </p>
+          <p>(e) the term "investment activities" means establishment, acquisition, expansion, operation, management, maintenance, use, enjoyment and sale or other disposal of investments; </p>
+          <p>(f) the term "Territory" means: </p>
+          <p>(i) with respect to Georgia, the territory defined in accordance with Georgian legislation, including land territory, its subsoil and the air space over them, and internal waters and territorial sea including the seabed, its subsoil and the air space over them, in respect of which Georgia exercises sovereignty in accordance with international law, as well as the contiguous zone, the exclusive economic zone and the continental shelf, in respect of which Georgia may exercise its sovereign rights or jurisdiction in accordance with international law; and </p>
+          <p>(ii) with respect to Japan, the territory of Japan, and the exclusive economic zone and the continental shelf with respect to which Japan exercises sovereign rights or jurisdiction in accordance with international law; </p>
+          <p>(g) the term "existing" means being in effect on the date of entry into force of this Agreement; </p>
+          <p>(h) the term "freely usable currency" means freely usable currency as defined under the Articles of Agreement of the International Monetary Fund; </p>
+          <p>(i) the term "the WTO Agreement" means the Marrakesh Agreement Establishing the World Trade Organization, done at Marrakesh, April 15, 1994; </p>
+          <p>(j) the term "the TRIPS Agreement" means the Agreement on Trade-Related Aspects of Intellectual Property Rights in Annex 1C to the WTO Agreement; </p>
+          <p>(k) the term "claimant" means an investor of a Contracting Party that is a party to an investment dispute with the other Contracting Party; </p>
+          <p>(l) the term "respondent" means the Contracting Party that is a party to an investment dispute; </p>
+          <p>(m) the term "disputing party" means either the claimant or the respondent; </p>
+          <p>(n) the term "disputing parties" means the claimant and the respondent; </p>
+          <p>(o) the term "non-disputing Party" means the Contracting Party that is not a party to an investment dispute; </p>
+          <p>(p) the term "ICSID" means the International Centre for Settlement of Investment Disputes; </p>
+          <p>(q) the term "ICSID Additional Facility Rules" means the Rules Governing the Additional Facility for the Administration of Proceedings by the Secretariat of the International Centre for Settlement of Investment Disputes; </p>
+          <p>(r) the term "ICSID Convention" means the Convention on the Settlement of Investment Disputes between States and Nationals of other States, done at Washington, March 18, 1965; </p>
+          <p>(s) the term "New York Convention" means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, done at New York, June 10, 1958; and </p>
+          <p>(t) the term "UNCITRAL Arbitration Rules" means the Arbitration Rules of the United Nations Commission on International Trade Law, as revised in 2010.</p>
+        </div>
+        <div type="article" num="2" title="National Treatment">
+          <p>1. Each Contracting Party shall in its Territory accord to investors of the other Contracting Party and to their investments treatment no less favourable than the treatment it accords in like circumstances to its own investors and to their investments with respect to investment activities. </p>
+          <p>2. Paragraph 1 shall not be construed to prevent a Contracting Party from adopting or maintaining a measure that prescribes special formalities in connection with investment activities of investors of the other Contracting Party in its Territory, provided that such special formalities do not impair the substance of the rights of such investors under this Agreement. </p>
+        </div>
+        <div type="article" num="3" title="Most-Favoured-Nation Treatment">
+          <p>1. Each Contracting Party shall in its Territory accord to investors of the other Contracting Party and to their investments treatment no less favourable than the treatment it accords in like circumstances to investors of a non- Contracting Party and to their investments with respect to investment activities. </p>
+          <p>2. For greater certainty, the treatment referred to in paragraph 1 does not encompass international dispute settlement procedures or mechanisms under this and any other international agreement. </p>
+          <p>3. The provisions of this Article shall not be construed so as to oblige a Contracting Party to extend to investors of the other Contracting Party and to their investments any preferential treatment by virtue of any existing or future regional economic integration union or customs union to which the former Contracting Party is a party. </p>
+        </div>
+        <div type="article" num="4" title="General Treatment">
+          <p>Each Contracting Party shall in its Territory accord to investments of investors of the other Contracting Party fair and equitable treatment and full protection and security in accordance with customary international law. </p>
+        </div>
+        <div type="article" num="5" title="Access to the Courts of Justice">
+          <p>Each Contracting Party shall in its Territory accord to investors of the other Contracting Party treatment no less favourable than the treatment which it accords in like circumstances to its own investors or investors of a non-Contracting Party with respect to access to the courts of justice and administrative tribunals and agencies in all degrees of jurisdiction, both in pursuit and in defence of such investors' rights. </p>
+        </div>
+        <div type="article" num="6" title="Prohibition of Performance Requirements">
+          <p>1. Neither Contracting Party may impose or enforce any of the following requirements, or enforce any commitment or undertaking, in connection with investment activities of an investor of a Contracting Party or of a non-Contracting Party in its Territory: </p>
+          <p>(a) to export a given level or percentage of goods or services; </p>
+          <p>(b) to achieve a given level or percentage of domestic content; </p>
+          <p>(c) to purchase, use or accord a preference to goods produced or services provided in its Territory, or to purchase goods or services from a natural person or an enterprise in its Territory; </p>
+          <p>(d) to relate in any way the volume or value of imports to the volume or value of exports or to the amount of foreign exchange inflows associated with an investment of the investor; </p>
+          <p>(e) to restrict sales of goods or services in its Territory that an investment of the investor produces or provides by relating such sales in any way to the volume or value of its exports or foreign exchange earnings; </p>
+          <p>(f) to restrict the exportation or sale for export; </p>
+          <p>(g) to appoint, as executives, managers or members of board of directors, natural persons of any particular nationality; </p>
+          <p>(h) to adopt: </p>
+          <p>(i) a given rate or amount of royalty under a licence contract; or </p>
+          <p>(ii) a given duration of the term of a licence contract, </p>
+          <p>in regard to any licence contract freely entered into between the investor and a natural person or an enterprise in its Territory, whether it has been entered into or not, provided that the requirement is imposed or the commitment or undertaking is enforced by an exercise of governmental authority of the Contracting Party; </p>
+          <p>Note: A "licence contract" referred to in this subparagraph means any licence contract concerning transfer of technology, a production process, or other proprietary knowledge. </p>
+          <p>(i) to locate the headquarters of the investor for a specific region or the world market in its Territory; </p>
+          <p>(j) to hire a given number or percentage of its nationals; or </p>
+          <p>(k) to supply one or more of the goods that the investor produces or the services that the investor provides to a specific region or the world market, exclusively from its Territory. </p>
+          <p>2. Neither Contracting Party may condition the receipt or continued receipt of an advantage, in connection with investment activities of an investor of a Contracting Party or of a non-Contracting Party in its Territory, on compliance with any of the following requirements: </p>
+          <p>(a) to achieve a given level or percentage of domestic content; </p>
+          <p>(b) to purchase, use or accord a preference to goods produced in its Territory, or to purchase goods from a natural person or an enterprise in its Territory; </p>
+          <p>(c) to relate in any way the volume or value of imports to the volume or value of exports or to the amount of foreign exchange inflows associated with an investment of the investor; </p>
+          <p>(d) to restrict sales of goods or services in its Territory that an investment of the investor produces or provides by relating such sales in any way to the volume or value of its exports or foreign exchange earnings; or </p>
+          <p>(e) to restrict the exportation or sale for export. </p>
+          <p>3. (a) Subparagraph 1(h) shall not apply when the requirement is imposed or the commitment or undertaking is enforced by a court of justice, administrative tribunal or competition authority to remedy an alleged violation of competition laws. </p>
+          <p>(b) Subparagraphs 2{a) and 2(b) shall not apply to requirements imposed by an importing Contracting Party relating to the content of goods necessary to qualify for preferential tariffs or preferential quotas. </p>
+          <p>4. Paragraphs 1 and 2 shall not apply to any requirement other than the requirements set out in those paragraphs. </p>
+        </div>
+        <div type="article" num="7" title="Non-Conforming Measures">
+          <p>1. Articles 2, 3 and 6 shall not apply to:</p>
+          <p>(a) any existing non-conforming measure that is maintained by the central government or a regional or a prefectural government of a Contracting Party, as set out in the Schedule of each Contracting Party in Annex I; </p>
+          <p>(b) any existing non-conforming measure that is maintained by a local government other than a regional or a prefectural government of a Contracting Party referred to in subparagraph (a); </p>
+          <p>(c) the continuation or prompt renewal of any non- conforming measure referred to in subparagraphs (a) and (b); or </p>
+          <p>(d) an amendment or modification to any non- conforming measure referred to in subparagraphs (a) and (b), provided that the amendment or modification does not decrease the conformity of the measure, as it existed immediately before the amendment or modification, with Articles 2, 3 and 6. </p>
+          <p>2. Articles 2, 3 and 6 shall not apply to any measure that a Contracting Party adopts or maintains with respect to sectors, sub-sectors or activities set out in its Schedule in Annex II. </p>
+          <p>3. Neither Contracting Party shall, under any measure adopted after the date of entry into force of this Agreement and covered by its Schedule in Annex II, require an investor of the other Contracting Party, by reason of its nationality, to sell or otherwise dispose of an investment that exists at the time when the measure becomes effective. </p>
+          <p>4. In cases where a Contracting Party makes an amendment or a modification to any existing non-conforming measure set out in its Schedule in Annex I or where a Contracting Party adopts any new or more restrictive measure with respect to sectors, sub-sectors or activities set out in its Schedule in Annex II after the date of entry into force of this Agreement, the Contracting Party shall, prior to the implementation of the amendment or modification or the new or more restrictive measure, or in exceptional circumstances, as soon as possible thereafter: </p>
+          <p>(a) notify the other Contracting Party of detailed information on such amendment or modification, or such measure; and </p>
+          <p>(b) hold, upon request by the other Contracting Party, consultations in good-faith with the other Contracting Party with a view to achieving mutual satisfaction. </p>
+          <p>5. Each Contracting Party shall endeavour, where appropriate, to reduce or eliminate the non-conforming measures specified in its Schedules in Annexes I and II respectively. </p>
+          <p>6. Articles 2 and 3 shall not apply to any measure covered by the exceptions to, or derogations from, obligations under Articles 3 and 4 of the TRIPS Agreement, as specifically provided in Articles 3 through 5 of the TRIPS Agreement. </p>
+          <p>7. Articles 2, 3 and 6 shall not apply to any measure that a Contracting Party adopts or maintains with respect to government procurement. </p>
+        </div>
+        <div type="article" num="8" title="Transparency">
+          <p>1. Each Contracting Party shall promptly publish, or otherwise make publicly available, its laws, regulations, administrative procedures, administrative rulings and judicial decisions of general application as well as international agreements which pertain to or affect the implementation and operation of this Agreement. </p>
+          <p>2. Each Contracting Party shall, upon request by the other Contracting Party, promptly respond to specific questions and provide that other Contracting Party with information on matters set out in paragraph 1. </p>
+          <p>3. Paragraphs 1 and 2 shall not be construed so as to oblige either Contracting Party to disclose confidential information, which is designated as confidential, or the disclosure of which would impede law enforcement or otherwise be contrary to the public interest, or which would prejudice privacy or legitimate commercial interests. </p>
+        </div>
+        <div type="article" num="9" title="Measures against Corruption">
+          <p>Each Contracting Party shall ensure that measures and efforts are undertaken to prevent and combat corruption regarding matters covered by this Agreement in accordance with its laws and regulations. </p>
+        </div>
+        <div type="article" num="10" title="Entry, Sojourn and Residence of Investors">
+          <p>Each Contracting Party shall, in accordance with its laws and regulations, give sympathetic consideration to applications for entry, sojourn and residence of a natural person having the nationality of the other Contracting Party and a personnel employed by, and an executive, a manager and a member of the board of directors of, an enterprise of the other Contracting Party, who wishes to enter the territory of the former Contracting Party and remain therein for the purpose of investment activities. </p>
+        </div>
+        <div type="article" num="11" title="Expropriation and Compensation">
+          <p>1. Neither Contracting Party shall expropriate or nationalise an investment in its Territory of an investor of the other Contracting Party or take any measure equivalent to expropriation or nationalisation (hereinafter referred to as "expropriation") except: </p>
+          <p>(a) for a public purpose; </p>
+          <p>(b) in a non-discriminatory manner; </p>
+          <p>(c) upon payment of prompt, adequate and effective compensation in accordance with paragraphs 2 and 3; and </p>
+          <p>(d) in accordance with due process of law. </p>
+          <p>2. The compensation shall be equivalent to the fair market value of the expropriated investments at the time when the expropriation was publicly announced or when the expropriation occurred, whichever is earlier. The fair market value shall not reflect any change in value occurring because the expropriation had become publicly known earlier. </p>
+          <p>3. The compensation shall be paid without delay and shall include interest at a commercially reasonable rate, taking into account the length of time until the time of payment. It shall be effectively realisable and freely transferable and shall be freely convertible into the currency of the Contracting Party of the investors concerned, and into freely usable currency, at the market exchange rate prevailing on the date of expropriation. </p>
+          <p>4. Non-discriminatory regulatory actions by a Contracting Party that are designed and applied to protect legitimate public welfare objectives, such as public health, safety and the environment, do not constitute expropriation, except in rare circumstances. </p>
+          <p>5. This Article does not apply to the issuance of compulsory licences granted in relation to intellectual property rights in accordance with the TRIPS Agreement, or to the revocation, limitation or creation of intellectual property rights, to the extent that such issuance, revocation, limitation or creation is consistent with the TRIPS Agreement. </p>
+        </div>
+        <div type="article" num="12" title="Protection from Strife">
+          <p>1. Each Contracting Party shall accord to investors of the other Contracting Party that have suffered loss or damage relating to their investments in the Territory of the former Contracting Party due to armed conflict or a state of emergency such as revolution, insurrection, civil disturbance or any other similar event in the Territory of that former Contracting Party, treatment, as regards restitution, indemnification, compensation or any other settlement, that is no less favourable than that which it accords to its own investors or to investors of a non- Contracting Party, whichever is more favourable to the investors of the other Contracting Party. </p>
+          <p>2. Any payment as a means of settlement referred to in paragraph 1 shall be effectively realisable, freely transferable and freely convertible at the market exchange rate into freely usable currencies. </p>
+          <p>3. Neither Contracting Party shall derogate from its obligation under paragraph 1 by reason of its measures taken pursuant to paragraph 2 of Article 15. </p>
+        </div>
+        <div type="article" num="13" title="Subrogation">
+          <p>If a Contracting Party or its designated agency makes a payment to any investor of that Contracting Party under an indemnity, guarantee or insurance contract, pertaining to an investment of such investor in the Territory of the other Contracting Party, the latter Contracting Party shall recognise the assignment to the former Contracting Party or its designated agency of any right or claim of such investor on account of which such payment is made and shall recognise the right of the former Contracting Party or its designated agency to exercise by virtue of subrogation any such right or claim to the same extent as the original right or claim of the investor. As regards payment to be made to that former Contracting Party or its designated agency by virtue of such assignment of right or claim and the transfer of such payment, the provisions of Articles 11, 12 and 14 shall apply mutatis mutandis. </p>
+        </div>
+        <div type="article" num="14" title="Transfers">
+          <p>1. Each Contracting Party shall ensure that all transfers relating to investments in its Territory of an investor of the other Contracting Party may be freely made into and out of its Territory without delay. Such transfers shall include, in particular: </p>
+          <p>(a) the initial capital and additional amounts to maintain or increase investments; </p>
+          <p>(b) profits, interest, capital gains, dividends, royalties, fees or other current incomes accruing from investments; </p>
+          <p>(c) payments made under a contract including loan payments in connection with investments; </p>
+          <p>(d) proceeds of the total or partial sale or liquidation of investments; </p>
+          <p>(e) earnings and remuneration of personnel from abroad who work in connection with investments in the Territory of the former Contracting Party; </p>
+          <p>(f) payments made in accordance with Articles 11 and 12; and </p>
+          <p>(g) payments arising out of a dispute. </p>
+          <p>2. Each Contracting Party shall further ensure that such transfers may be made without delay in freely usable currencies at the market exchange rate prevailing on the date of the transfer. </p>
+          <p>3. Notwithstanding paragraphs 1 and 2, a Contracting Party may delay or prevent a transfer through the equitable, non-discriminatory and good-faith application of its laws and regulations relating to: </p>
+          <p>(a) payment of taxes; </p>
+          <p>(b) bankruptcy, insolvency or the protection of the rights of creditors; </p>
+          <p>(c) issuing, trading or dealing in securities, futures, options or derivatives; </p>
+          <p>(d) criminal or penal offences; </p>
+          <p>(e) reporting or record keeping of transfers of currency or other monetary instruments when necessary to assist law enforcement or financial regulatory authorities; or </p>
+          <p>(f) ensuring compliance with orders or judgements in adjudicatory proceedings. </p>
+        </div>
+        <div type="article" num="15" title="General and Security Exceptions">
+          <p>1. Subject to the requirement that such measures are not applied by a Contracting Party in a manner which would constitute a means of arbitrary or unjustifiable discrimination against, or a disguised restriction on investors of the other Contracting Party and their investments in the Territory of the former Contracting Party, nothing in this Agreement shall be construed so as to prevent the former Contracting Party from adopting or enforcing measures: </p>
+          <p>(a)&nbsp;necessary to protect human, animal or plant life or health;</p>
+          <p>(b) necessary to protect public morals or to maintain public order, provided that the public order exception may only be invoked where a genuine and sufficiently serious threat is posed to one of the fundamental interests of society; </p>
+          <p>(c) necessary to secure compliance with the laws or regulations which are not inconsistent with the provisions of this Agreement including those relating to: </p>
+          <p>(i) the prevention of deceptive and fraudulent practices or to deal with the effects of a default on contract; </p>
+          <p>(ii) the protection of the privacy of the individual in relation to the processing and dissemination of personal data and the protection of confidentiality of personal records and accounts; or </p>
+          <p>(iii) safety; or </p>
+          <p>imposed for the protection of national treasures of artistic, historic or archaeological value. </p>
+          <p>2. Subject to paragraph 3 of Article 12, nothing in this Agreement shall be construed to prevent a Contracting Party from adopting or enforcing measures: </p>
+          <p>(a) which it considers necessary for the protection of its essential security interests: </p>
+          <p>(i) taken in time of war, armed conflict, or other emergency in that Contracting Party or in international relations; or </p>
+          <p>(ii) relating to the implementation of national policies or international agreements respecting the non-proliferation of weapons; or </p>
+          <p>(b) in pursuance of its obligations under the United Nations Charter for the maintenance of international peace and security. </p>
+          <p>3. Nothing in this Agreement shall be construed to require a Contracting Party to furnish or allow access to any information the disclosure of which it determines to be contrary to its essential security interests. </p>
+        </div>
+        <div type="article" num="16" title="Temporary Safeguard Measures">
+          <p>1. A Contracting Party may adopt or maintain restrictive measures with regard to cross-border capital transactions as well as payments or transfers including transfers referred to in Article 14 for transactions related to investments: </p>
+          <p>(a) in the event of serious balance-of-payments and external financial difficulties or threat thereof; or </p>
+          <p>(b) in exceptional cases where movements of capital cause or threaten to cause serious difficulties for macroeconomic management, in particular monetary and exchange rate policies. </p>
+          <p>2. Restrictive measures referred to in paragraph 1 shall:</p>
+          <p> (a) be applied in such a manner that the other Contracting Party is treated no less favourably than any non-Contracting Party; </p>
+          <p>(b) be consistent with the Articles of Agreement of the International Monetary Fund; </p>
+          <p>(c) not exceed those necessary to deal with the circumstances set out in paragraph 1; </p>
+          <p>(d) be temporary and be phased out progressively as the situation specified in paragraph 1 improves; </p>
+          <p>(e) be promptly notified to the other Contracting Party; and </p>
+          <p>(f) avoid unnecessary damages to the commercial, economic and financial interests of the other Contracting Party. </p>
+        </div>
+        <div type="article" num="17" title="Prudential Measures">
+          <p>1. Notwithstanding any other provisions of this Agreement, a Contracting Party shall not be prevented from taking measures relating to financial services for prudential reasons, including measures for the protection of investors, depositors, policy holders or persons to whom a fiduciary duty is owed by an enterprise supplying financial services, or to ensure the integrity and stability of its financial system. </p>
+          <p>2. Where the measures taken by a Contracting Party pursuant to paragraph 1 do not conform with this Agreement, they shall not be used as a means of avoiding the obligations of the Contracting Party under this Agreement. </p>
+        </div>
+        <div type="article" num="18" title="Intellectual Property Rights">
+          <p>1. The Contracting Parties shall grant and ensure the adequate and effective protection of intellectual property rights, and promote efficiency and transparency in intellectual property protection system. For this purpose, the Contracting Parties shall promptly consult with each other at the request of either Contracting Party. Depending on the results of the consultation, each Contracting Party shall, in accordance with its laws and regulations, take appropriate measures to remove the factors which are recognised as having adverse effects to the investments of investors of the other Contracting Party. </p>
+          <p>2. Nothing in this Agreement shall affect the rights and obligations of the Contracting Parties under multilateral agreements in respect of protection of intellectual property rights to which the Contracting Parties are parties. </p>
+          <p>3. Nothing in this Agreement shall be construed so as to oblige either Contracting Party to extend to investors of the other Contracting Party and to their investments treatment accorded to investors of a non-Contracting Party and to their investments by virtue of multilateral agreements in respect of protection of intellectual property rights, to which the former Contracting Party is a party. </p>
+        </div>
+        <div type="article" num="19" title="Taxation Measures">
+          <p>1. Nothing in this Agreement shall affect the rights and obligations of either Contracting Party under any tax convention. In the event of any inconsistency between this Agreement and any such convention, that convention shall prevail to the extent of the inconsistency. </p>
+          <p>2. Articles 2, 3 and 6 shall not apply to taxation measures. </p>
+        </div>
+        <div type="article" num="20" title="Health, Safety and Environmental Measures and Labour Standards">
+          <p>Each Contracting Party recognises that it is inappropriate to encourage investment by investors of the other Contracting Party and of a non-Contracting Party by relaxing its health, safety or environmental measures, or by lowering its labour standards. To this effect, each Contracting Party should not waive or otherwise derogate from such measures or standards as an encouragement for the establishment, acquisition or expansion of investments in its Territory by investors of the other Contracting Party and of a non-Contracting Party. </p>
+        </div>
+        <div type="article" num="21" title="Denial of Benefits">
+          <p>1. A Contracting Party may deny the benefits of this Agreement to an investor of the other Contracting Party that is an enterprise of the other Contracting Party and to its investments if the enterprise is owned or controlled by a natural person or an enterprise of a non-Contracting Party and the denying Contracting Party: </p>
+          <p>(a) does not maintain diplomatic relations with the non-Contracting Party; or </p>
+          <p>(b) adopts or maintains measures with respect to the non-Contracting Party that prohibit transactions with the enterprise or that would be violated or circumvented if the benefits of this Agreement were accorded to the enterprise or to its investments. </p>
+          <p>2. A Contracting Party may deny the benefits of this Agreement to an investor of the other Contracting Party that is an enterprise of the other Contracting Party and to its investments if the enterprise is owned or controlled by a natural person or an enterprise of a non-Contracting Party or of the denying Contracting Party and the enterprise of the other Contracting Party has no substantial business activities in the Territory of the other Contracting Party. </p>
+          <p>3. For the purpose of this Article, an enterprise is: </p>
+          <p>(a) "owned" by a natural person or an enterprise of a Contracting Party or of a non-Contracting Party if more than 50 percent of the equity interest in it is beneficially owned by the natural person or the enterprise; and </p>
+          <p>(b) "controlled" by a natural person or an enterprise of a Contracting Party or of a non-Contracting Party if the natural person or the enterprise has the power to name a majority of its directors or otherwise to legally direct its actions. </p>
+        </div>
+      </div>
+      <div type="chapter" num="II" title="DISPUTE SETTLEMENT">
+        <div type="article" num="22" title="Settlement of Dispute between the Contracting Parties">
+          <p>1. Each Contracting Party shall accord sympathetic consideration to, and shall afford adequate opportunity for consultation regarding, such representations as the other Contracting Party may make with respect to any matter affecting the implementation of this Agreement. </p>
+          <p>2. Any dispute between the Contracting Parties as to the interpretation and application of this Agreement, not satisfactorily resolved by consultations through diplomatic channels, shall be referred for decision to an arbitration board. Such arbitration board shall be constituted for each dispute in the following way. Within 60 days from the date of receipt by either Contracting Party from the other Contracting Party of a note requesting arbitration of the dispute, each Contracting Party shall appoint an arbitrator. The two arbitrators shall select a third arbitrator who, upon approval by the Contracting Parties, shall be appointed as the Chairperson, provided that the third arbitrator shall not be a national of either Contracting Party. The Chairperson shall be appointed within 60 days from the date of appointment of the other two arbitrators. </p>
+          <p>3. If the necessary appointments referred to in paragraph 2 have not been made within the periods referred to in that paragraph, either Contracting Party may, unless otherwise agreed, request the Secretary-General of the Permanent Court of Arbitration at The Hague to make such appointments. </p>
+          <p>4. The arbitration board shall determine its own procedural rules, after consultation with the Contracting Parties. The arbitration board shall decide the dispute in accordance with this Agreement and the rules and principles of international law applicable to the subject matter. The arbitration board shall within a reasonable period of time reach its decision by a majority of votes. Such decision shall be final and binding. </p>
+          <p>5. Each Contracting Party shall bear the cost of the arbitrator of its choice and its representation in the arbitral proceedings. The cost of the Chairperson of the arbitration board in discharging his or her duties and the remaining costs of the arbitration board shall be borne equally by the Contracting Parties, unless the arbitration board decides otherwise. </p>
+        </div>
+        <div type="article" num="23" title="Settlement of Investment Disputes between a Contracting Party and an Investor of the other Contracting Party">
+          <p>1. In the event of an investment dispute between the claimant and the respondent, they should initially seek to resolve the dispute through consultation and negotiation, which may include the use of non-binding, third-party procedures. </p>
+          <p>2. In the event that a disputing party considers that an investment dispute cannot be settled by consultation and negotiation, the claimant may submit to arbitration under this Article a claim: </p>
+          <p>(a) that the respondent has breached an obligation under Chapter I; and </p>
+          <p>(b) that the claimant has incurred loss or damage by reason of, or arising out of, that breach. </p>
+          <p>3. Each Contracting Party hereby consents to the submission of a claim to arbitration under this Article in accordance with this Agreement. </p>
+          <p>4. Notwithstanding paragraph 2, an investor of a Contracting Party may not submit to arbitration under this Article: </p>
+          <p>(a) an investment dispute with respect to the establishment, acquisition or expansion of its investments; or </p>
+          <p>(b) a claim based on paragraph 1 of Article 8. </p>
+          <p>5. At least 90 days before submitting any claim to arbitration under this Article, a claimant shall deliver to the respondent a written notice of its intention to submit the claim to arbitration (hereinafter referred to as "notice of intent"). The notice of intent shall specify: </p>
+          <p>(a) the name and address of the claimant; </p>
+          <p>(b) for each claim, the provision of Chapter I alleged to have been breached and any other relevant provisions; </p>
+          <p>(c) the legal and factual basis for each claim; and </p>
+          <p>(d) the relief sought and the approximate amount of damages claimed. </p>
+          <p>6. Provided that six months have elapsed since the events giving rise to the claim, a claimant may submit a claim referred to in paragraph 2 to the arbitration: </p>
+          <p>(a) under the ICSID Convention, provided that the Contracting Parties are parties to the ICSID Convention; </p>
+          <p>(b) under the ICSID Additional Facility Rules, provided that either Contracting Party, but not both, is a party to the ICSID Convention; </p>
+          <p>(c) under the UNCITRAL Arbitration Rules; or </p>
+          <p>(d) if the disputing parties agree, under any other arbitration institution or arbitration rules. </p>
+          <p>7. A claim shall be deemed submitted to arbitration under this Article when the claimant&#xE2;'s notice of or request for arbitration (hereinafter referred to in this Article as "notice of arbitration"): </p>
+          <p>(a) referred to in paragraph 1 of Article 36 of the ICSID Convention is received by the Secretary- General of ICSID; </p>
+          <p>(b) referred to in Article 2 of Schedule C of the ICSID Additional Facility Rules is received by the Secretary-General of ICSID; </p>
+          <p>(c) referred to in Article 3 of the UNCITRAL Arbitration Rules, together with the statement of claim referred to in Article 20 of the UNCITRAL Arbitration Rules, is received by the respondent; or </p>
+          <p>(d) under any other arbitration institution or arbitration rules selected under subparagraph 6(d) is received by the respondent, unless otherwise specified by such institution or in such rules. </p>
+          <p>8. Notwithstanding paragraph 3, no claim may be submitted to arbitration under this Article if more than three years have elapsed from the date on which the claimant first acquired, or should have first acquired, knowledge of the breach alleged under paragraph 2 and knowledge that the claimant has incurred loss or damage. </p>
+          <p>9. Notwithstanding paragraph 3, no claim may be submitted to arbitration under this Article unless: </p>
+          <p>(a) the claimant consents in writing to arbitration in accordance with the procedures set out in this Article; and </p>
+          <p>(b) the claimant waives in writing any right to initiate or continue before any administrative tribunal or court of justice under the law of either Contracting Party, or other dispute settlement procedures, any proceedings with respect to any measure alleged to constitute a breach referred to in subparagraph 2 (a). </p>
+          <p>10. The waiver provided pursuant to subparagraph 9(b) shall cease to apply where the arbitral tribunal rejects the claim on the basis of a failure to meet the requirements of paragraphs 5, 6, 8 or 9, or on any other procedural or jurisdictional grounds. </p>
+          <p>11. Notwithstanding subparagraph 9(b), the claimant may initiate or continue an action that seeks interim injunctive relief that does not involve the payment of monetary damages before an administrative tribunal or court of justice under the law of the respondent. </p>
+          <p>12. When a claim is submitted to arbitration under this Article, the arbitral tribunal shall decide the issues in dispute in accordance with this Agreement and applicable rules of international law.</p>
+          <p>13. The respondent shall deliver to the non-disputing Party: </p>
+          <p>(a) notice of arbitration no later than 30 days after the date on which the claim was submitted; and </p>
+          <p>(b) copies of all pleadings filed in the arbitration. </p>
+          <p>14. The non-disputing Party may, upon written notice to the disputing parties, make submissions to the arbitral tribunal on a question of interpretation of this Agreement. </p>
+          <p>15. In an arbitration under this Article, the respondent shall not assert, as a defence, counterclaim, right of setoff or otherwise, that the claimant has received or will receive indemnification or other compensation for all or part of the alleged damages pursuant to an insurance or guarantee contract. </p>
+          <p>16. The arbitral tribunal may award only: </p>
+          <p>(a) a judgement whether or not there has been a breach by the respondent of any obligation under Chapter I, subject to paragraph 4, with respect to the claimant and its investments; and </p>
+          <p>(b) one or both of the following remedies, only if there has been such a breach: </p>
+          <p>(i) monetary damages including applicable interest; and </p>
+          <p>(ii) restitution of property, in which case the award shall provide that the respondent may pay monetary damages including any applicable interest, in lieu of restitution. </p>
+          <p>The arbitral tribunal may also award cost and attorney's fees in accordance with applicable arbitration rules. </p>
+          <p>17. Unless the disputing parties agree otherwise, the place of arbitration shall be in a country that is a party to the New York Convention. </p>
+          <p>18. The award rendered by the arbitral tribunal shall be final and binding upon the disputing parties. This award shall be executed in accordance with the applicable laws and regulations, as well as relevant international law including the ICSID Convention and the New York Convention, concerning the execution of award in force in the country where such execution is sought. </p>
+        </div>
+        <div type="article" num="24" title="Service of Documents">
+          <p>1. Notices and other documents relating to arbitration under this Chapter shall be served on a Contracting Party by delivery to: </p>
+          <p>(a) with respect to Japan, Economic Affairs Bureau, the Ministry of Foreign Affairs; and </p>
+          <p>(b) with respect to Georgia, Ministry of Justice of Georgia. </p>
+          <p>2. A Contracting Party shall promptly make publicly available and notify to the other Contracting Party any change to the name of the authority referred to in paragraph 1. </p>
+          <p>3. Each Contracting Party shall make publicly available the address of its authority referred to in paragraphs 1 and 2. </p>
+        </div>
+      </div>
+      <div type="chapter" num="III" title="JOINT COMMITTEE">
+        <div type="article" num="25" title="Joint Committee">
+          <p>1. The Contracting Parties shall establish a Joint Committee (hereinafter referred to as "the Committee") with a view to accomplishing the objectives of this Agreement. The functions of the Committee shall be: </p>
+          <p>(a) to discuss and review the implementation and operation of this Agreement; </p>
+          <p>(b) to review the non-conforming measures maintained, amended or modified pursuant to paragraph 1 of Article 7 for the purpose of contributing to the reduction or elimination of such non-conforming measures; </p>
+          <p>(c) to discuss the non-conforming measures adopted or maintained pursuant to paragraph 2 of Article 7 for the purpose of encouraging favourable conditions for investors of the Contracting Parties; </p>
+          <p>(d) to exchange information on and to discuss investment-related matters within the scope of this Agreement which relate to improvement of investment environment; and </p>
+          <p>(e) to discuss any other investment-related matters concerning this Agreement. </p>
+          <p>2. The Committee may, as necessary, make appropriate recommendations by consensus to the Contracting Parties for the more effective functioning or the attainment of the objectives of this Agreement. </p>
+          <p>3. The Committee shall be composed of representatives of the Contracting Parties. The Committee may, upon mutual consent of the Contracting Parties, invite representatives of relevant entities other than the Governments of the Contracting Parties with the necessary expertise relevant to the issues to be discussed, and hold joint meetings with the private sectors. </p>
+          <p>4. The Committee shall determine its own rules of procedure to carry out its functions. </p>
+          <p>5. The Committee shall meet upon the request of either Contracting Party. </p>
+        </div>
+      </div>
+      <div type="chapter" num="IV" title="FINAL PROVISIONS">
+        <div type="article" num="26" title="Headings">
+          <p>The headings of the Chapters and Articles of this Agreement are inserted for convenience of reference only and shall not affect the interpretation of this Agreement. </p>
+        </div>
+        <div type="article" num="27" title="Amendments">
+          <p>This Agreement may be amended by mutual written consent of the Contracting Parties, and amendments shall enter into force in the manner as described in paragraph 1 of Article 28 of this Agreement. </p>
+        </div>
+        <div type="article" num="28" title="Final Provisions">
+          <p>1. The Contracting Parties shall notify each other, through diplomatic channels, of the completion of their respective internal procedures necessary for the entry into force of this Agreement. This Agreement shall enter into force on the 30th day after the latter of the dates of receipt of the notifications. It shall remain in force for a period of 10 years after its entry into force and shall continue in force unless terminated as provided for in paragraph 2. </p>
+          <p>2. A Contracting Party may, by giving one year advance notice in writing to the other Contracting Party, terminate this Agreement at the end of the initial 10 year period or at any time thereafter. </p>
+          <p>3. This Agreement shall also apply to all investments of investors of either Contracting Party acquired in the Territory of the other Contracting Party in accordance with the laws and regulations of that other Contracting Party prior to the entry into force of this Agreement. However, this Agreement shall not apply to claims or disputes arising out of events which occurred prior to its entry into force. </p>
+          <p>4. In respect of investments acquired prior to the date of termination of this Agreement, the provisions of this Agreement shall continue to be effective for a period of 10 years from the date of termination of this Agreement. </p>
+          <p>5. The Annexes to this Agreement shall form an integral part of this Agreement.</p>
+        </div>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Agreement. </p>
+      <p>DONE in duplicate at Tbilisi, on this twenty-ninth day of January, 2021 in the English language. </p>
+      <p>FOR JAPAN: </p>
+      <p>FOR GEORGIA: </p>
+    </conclusion>
+    <attachments>
+      <div type="annex" num="Annex I" title="Existing Non-Conforming Measures referred to in subparagraph 1(a) of Article 7">
+        <p>1. The Schedule of a Contracting Party sets out, pursuant to subparagraph l(a) of Article 7, its existing measures that are not subject to some or all of the obligations imposed by: </p>
+        <p>(a) Article 2;</p>
+        <p>(b) Article 3; or</p>
+        <p>(c) Article 6</p>
+        <p>2. Each&nbsp;Schedule entry sets out the following elements:</p>
+        <p>(a) "Sector" refers to the sector for which the entry is made; </p>
+        <p>(b) "Sub-Sector", where referenced, refers to the specific sub-sector for which the entry is made; </p>
+        <p>(c) "Industry Classification", where referenced, and only for transparency purposes, refers to the activity covered by the non-conforming measure, according to domestic or international industry classification codes; </p>
+        <p>(d) "Obligations Concerned" specifies the obligations referred to in paragraph 1 that, pursuant to subparagraph l(a) of Article 7, do not apply to the listed measure(s); </p>
+        <p>(e) "Measures" identifies the laws, regulations or other measures for which the entry is made. A measure cited in the "Measures" element: </p>
+        <p>(i) means the measure as amended, continued or renewed as of the date of entry into force of this Agreement; and </p>
+        <p>(ii) includes any subordinate measure adopted or maintained under the authority of and consistent with the measure; and </p>
+        <p>(f) "Description" sets out the non-conforming measure or provides a general non-binding description of the measure for which the entry is made. </p>
+        <p>3. In the interpretation of an entry, all elements of the entry shall be considered. An entry shall be interpreted in the light of the relevant provisions of this Agreement against which the entry is made, and the &#xE2;&#x80;&#x9C;Measures&#xE2;&#x80;&#x9D; element shall prevail over all the other elements. </p>
+        <p>4. For the purposes of this Annex: </p>
+        <p>(a) the term "JSIC" means Japan Standard Industrial Classification set out by the Ministry of Internal Affairs and Communications of Japan, and revised on October 30, 2013; and </p>
+        <p>(b) the term "Classification of Economic Activity GNC006-2016/Rev.2" means Georgian Classification of Types of Economic Activity set out by the National Statistics Office of Georgia in 2016.</p>
+      </div>
+      <div type="annex" title="Schedule of Japan">
+        <p>Sector:&nbsp;Agriculture, Forestry and Fisheries, and Related Services (except those covered by the entry No.8 in the Schedule of Japan in Annex II)</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification:&nbsp;JSIC 01 Agriculture JSIC 02 Forestry JSIC 03 Fisheries, except aquaculture&nbsp;JSIC 04 Aquaculture&nbsp;JSIC 6324 Agricultural&nbsp;cooperatives JSIC 6325 Fishery and fishery processing cooperatives JSIC 871 Agriculture, forestry and fisheries cooperative associations, n.e.c.</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures: Foreign Exchange and Foreign&nbsp;Trade Law (Law No. 228 of 1949), Article 27 Cabinet Order on Foreign Direct&nbsp;Investment (Cabinet Order No. 261 of 1980), Article 3</p>
+        <p>Description:&nbsp;The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign&nbsp;investors who intend to make&nbsp;investments in agriculture, forestry and fisheries, and related services&nbsp;(except those covered by the entry&nbsp;No. 8 in the Schedule of Japan in&nbsp;Annex II) in Japan.</p>
+        <div type="foot_note">(1)&nbsp;For transparency purposes, entries in this Schedule may include measures taken by Japan in accordance with Article 15.</div>
+        <p/>
+        <p>Sector:&nbsp;Finance</p>
+        <p>Sub-Sector:&nbsp;Banking</p>
+        <p>Industry Classification:&nbsp;JSIC 622 Banks, except central bank JSIC 631 Financial institutions for small-businesses</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Deposit Insurance Law (Law No. 34 of 1971), Article 2</p>
+        <p>Description: The deposit insurance system only covers financial institutions which have their head offices within the jurisdiction of Japan. The deposit insurance system does not cover deposits taken by branches of foreign banks.</p>
+        <p/>
+        <p>Sector:&nbsp;Heat Supply</p>
+        <p>Sub-Sector:&nbsp;</p>
+        <p>Industry Classification:&nbsp;JSIC 3511 Heat supply</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27 Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3</p>
+        <p>Description: The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in the heat supply industry in Japan.</p>
+        <p/>
+        <p>Sector:&nbsp;Information and Communications Telecommunications</p>
+        <p>Sub-Sector: </p>
+        <p>Industry&nbsp; Classification:&nbsp;JSIC 3700 Head offices primarily engaged in managerial operations  JSIC 3711 Regional telecommunications, except wired broadcast telephones  JSIC 3731 Services incidental to telecommunications  </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)  Prohibition of Performance Requirements (Article 6)</p>
+        <p>Measures:&nbsp;Law concerning Nippon Telegraph and Telephone Corporation, etc. (Law No. 85 of 1984), Articles 6 and 10</p>
+        <p>Description: </p>
+        <p>1. Nippon Telegraph and Telephone Corporation may not enter the name and address in its register of shareholders if the aggregate of the ratio of the voting rights directly or indirectly held by the persons set forth in subparagraphs (a) through (c) reaches or exceeds one- third: </p>
+        <p>(a) a natural person who does not have Japanese nationality; </p>
+        <p>(b) a foreign government or its representative; and </p>
+        <p>(c) a foreign legal person or a foreign entity. </p>
+        <p>2. Any natural person who does not have Japanese nationality may not assume the office of member of the board of directors or auditor of Nippon Telegraph and Telephone Corporation, Nippon Telegraph and Telephone East Corporation and Nippon Telegraph and Telephone West Corporation.</p>
+        <p/>
+        <p>Sector:&nbsp;Information and Communications</p>
+        <p>Sub-Sector:&nbsp;Telecommunications and Internet Based Services</p>
+        <p>Industry Classification:&nbsp;JSIC 3711 Regional telecommunications, except wired broadcast telephones  JSIC 3712 Long-distance telecommunications  JSIC 3713 Wired broadcast telephones  JSIC 3719 Miscellaneous fixed telecommunications  JSIC 3721 Mobile telecommunications  JSIc 4011 Web portal providers  JSIC 4012 Application services providers  JSIC 4013 Internet support services </p>
+        <p> Note: The activities covered by this entry under JSIC 4011 or 4012 are limited to the activities which are subject to the registration obligation under Article 9 of the Telecommunications Business Law (Law No. 86 of 1984).</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Articles 27 and 28.  Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Articles 3 and 4</p>
+        <p>Description: The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in telecommunications and Internet based services in Japan.</p>
+        <p/>
+        <p>Sector:&nbsp;Manufacturing and Information and Communications</p>
+        <p>Sub-Sector:&nbsp;Manufacture of Electronic Parts, Devices and Electronic Circuits and Information Services</p>
+        <p>Industry Classification:&nbsp;&nbsp;JSIC 2814 Integrated circuits&nbsp;JSIC 2831 Semiconductor memory media&nbsp;JSIC 2832 Optical discs and&nbsp;magnetic tapes and&nbsp;discs&nbsp;JSIC 2842 Electronic circuit&nbsp;implementation board&nbsp;JSIC 3011 Communication equipment&nbsp;wired&nbsp;JSIC 3012 Mobile phone and PHS&nbsp;JSIC 3013 Radio communication&nbsp;equipment&nbsp;JSIC 3031 Computer, except&nbsp;personal computer&nbsp;JSIC 3032 Personal computer&nbsp;&nbsp;JSIC 3033 External storages&nbsp;JSIC 3911 Custom software&nbsp;services&nbsp;JSIC 3912 Embedded software&nbsp;services&nbsp;JSIC 3913 Package software&nbsp;services&nbsp;JSIC 3921 Data processing&nbsp;services</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Articles 27 and 28.&nbsp;Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Articles 3 and 4</p>
+        <p>Description:&nbsp;The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in manufacturing industry of electronic parts, devices and electronic circuits and information service industry in Japan.</p>
+        <p/>
+        <p>Sector:&nbsp;Manufacturing</p>
+        <p> Sub-Sector:&nbsp;Drugs and Medicines and Medical Devices Manufacturing</p>
+        <p>Industry Classification:&nbsp;JSIC 165 Medicines JSIC 1653 Biological preparations Pharmaceutical intermediates in JSIC Division E (Manufacturing), which relate to JSIC 165 and 1653. JSIC 274 Medical instruments and apparatus, and medical supplies JSIC 296 Electronic equipment JSIC 2973 Medical measuring instruments </p>
+        <p>Note: The activities covered by this entry under JSIC 165, 274, 296 or 2973 are limited to the activities related to manufacturing industry of agents against pathogenic organisms and parasites, their pharmaceutical intermediates and specially- controlled medical devices.</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27. Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3 </p>
+        <p>Description: The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in biological preparations manufacturing industry, manufacturing industry of agents against pathogenic organisms and parasites, and their pharmaceutical intermediates and manufacturing industry of specially-controlled medical devices and their accessories, and components of specially-controlled medical devices or their accessories in Japan. </p>
+        <p>For the purposes of this entry: </p>
+        <p>(a) "biological preparations manufacturing industry" deals with economic activities in an establishment which produces vaccine, serum, toxoid, antitoxin and some preparations similar to the aforementioned products, or blood products; </p>
+        <p>(b) "agents against pathogenic organisms and parasites" means the pharmaceutical products which are categorised as agents against pathogenic organisms and parasites, and which have received marketing approval, under the laws and regulations of Japan; and </p>
+        <p>(c) "specially-controlled medical devices" means medical devices which have received marketing approval or certification as specially-controlled medical devices under the laws and regulations of Japan.</p>
+        <p/>
+        <p>Sector:&nbsp;Manufacturing</p>
+        <p>Sub-Sector:&nbsp;Leather and Leather Products&nbsp;Manufacturing</p>
+        <p>Industry Classification:&nbsp;JSIC 1189 Textile apparel and accessories, n.e.c.  JSIC 1694 Gelatine and adhesives  JSIC 192 Rubber and plastic footwear and its findings  JSICc 2011 Leather tanning and finishing  JSIC 2021 Mechanical and industrial leather products, except gloves and mittens  JSIC 2031 Cut stock and findings for leather footwear  JSIC 2041 Leather footwear  JSIC 2051 Leather gloves and mittens  JSIC 2061 Baggage  JSIC 207 Handbags and small cases  JSIC 2081 Fur skins  JSIC 2099 Miscellaneous tanning leather products  JSIC 3253 Sporting and athletic goods </p>
+        <p> Note 1: The activities covered by  this entry under JSIC 1189 or 3253 are limited to the activities related to leather and leather products manufacturing.&nbsp;</p>
+        <p>Note 2: The activities covered by this entry under JSIC 1694 are limited to the activities related to animal glue (nikawa) and gelatine manufacturing.</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27. Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3</p>
+        <p>Description: The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in leather and leather products manufacturing industry in Japan.</p>
+        <p/>
+        <p>Sector:&nbsp;Matters Related to the Nationality of a Ship</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Measures:&nbsp;Ship Law (Law No. 46 of 1899), Article 1</p>
+        <p>Description: The Japanese nationality shall be given to a ship whose owner is a Japanese national, or a company established under the laws and regulations of Japan, of which all the representatives and not less than two-thirds of the executives administering the affairs are Japanese nationals. </p>
+        <p/>
+        <p>Sector:&nbsp;Mining</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification:&nbsp;JSIC 05 Mining and quarrying of stone and gravel</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Mining Law (Law No. 289 of 1950), Chapters 2 and 3</p>
+        <p>Description: Only a Japanese national or a Japanese legal person may have mining rights or mining lease rights. </p>
+        <p/>
+        <p>Sector:&nbsp;Oil Industry</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification:&nbsp;JSIC 053 Crude petroleum and&nbsp;natural gas production&nbsp;JSIC 1711 Petroleum refining&nbsp;JSIC 1721 Lubricating oils and&nbsp;greases (not made in&nbsp;petroleum refineries)&nbsp;JSIC 1741 Paving materials&nbsp;JSIC 1799 Miscellaneous petroleum&nbsp;and coal products&nbsp;JSIC 4711 Ordinary warehousing,&nbsp;except refrigerated&nbsp;warehousing&nbsp;JSIC 4721 Refrigerated&nbsp;warehousing&nbsp;JSIC 5331 Petroleum&nbsp;JSIC 6051 Gasoline stations&nbsp;JSIC 6052 Fuel stores, except&nbsp;gasoline stations&nbsp;JSIC 9299 Miscellaneous business&nbsp;services, n.e.c.</p>
+        <p>Note 1: The activities covered by&nbsp;this entry under JSIC 1741,&nbsp;1799, 4711, 4721 or 6052&nbsp;are limited to those&nbsp;related to the oil&nbsp;industry.</p>
+        <p>Note 2: The activities covered by&nbsp;this entry under JSIC 9299&nbsp;are limited to those&nbsp;related to the liquefied&nbsp;petroleum gas industry.</p>
+        <p>Obligations Concerned: National Treatment (Article 2) </p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27. Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3</p>
+        <p>Description: The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in the oil industry in Japan. All organic chemicals such as ethylene, ethylene glycol and polycarbonates are outside the scope of the oil industry. Therefore, the prior notification under the Foreign Exchange and Foreign Trade Law is not required for the investments in the manufacture of these products. </p>
+        <p/>
+        <p>Sector:&nbsp;Security Guard Services</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification:&nbsp;JSIC 923 Guard services</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27.Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3</p>
+        <p>Description: The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in security guard services in Japan. </p>
+        <p/>
+        <p>Sector:&nbsp;Transport</p>
+        <p>Sub-Sector:&nbsp;Air Transport</p>
+        <p>Industry Classification:&nbsp;JSIC 4600 Head offices primarily engaged in managerial operations JSIC 4611 Air transport</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)  Most-Favoured-Nation Treatment {Article 3)  Prohibition of Performance Requirements (Article 6)</p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27. Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3.Civil Aeronautics Law (Law No. 231 of 1952), Chapters 7 and 8</p>
+        <p>Description: </p>
+        <p>1. The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in air transport business in Japan. </p>
+        <p>2. Permission of the Minister of Land, Infrastructure, Transport and Tourism for conducting air transport business as a Japanese air carrier is not granted to the following natural persons or entities applying for the permission: </p>
+        <p>(a) a natural person who does not have Japanese nationality; </p>
+        <p>(b) a foreign country, or a foreign public entity or its equivalent; </p>
+        <p>(c) a legal person or other entity constituted under the laws and regulations of any foreign country; and </p>
+        <p>(d) a legal person represented by the natural persons or entities referred to in subparagraph (a), (6) or (c); a legal person of which one-third or more of the directors are composed of the natural persons or entities referred to in subparagraph (a), (bo) or (c); or a legal person of which one-third or more of the voting rights are held by the natural persons or entities referred to in subparagraph (a), (b) or (c). </p>
+        <p>In the event that an air carrier becomes a natural person or an entity referred to in subparagraphs (a) through (d), the permission will lose its effect. The conditions for the permission also apply to companies, such as holding companies, which have substantial control over the air carriers. </p>
+        <p>3. A Japanese air carrier or a company having substantial control over such air carrier, such as a holding company, may reject the request from a natural person or an entity set forth in subparagraphs 2({a) through 2(c), who owns equity investments in such air carrier or company, to enter its name and address in the register of shareholders, in the event that such air carrier or company becomes a legal person referred to in subparagraph 2(d) by accepting such request. </p>
+        <p>4, Foreign air carriers are required to obtain permission of the Minister of Land, Infrastructure, Transport and Tourism to conduct international air transport business. </p>
+        <p>5. Permission of the Minister of Land, Infrastructure, Transport and Tourism is required for the use of foreign aircraft for air transportation of passengers or cargoes to and from Japan for remuneration. </p>
+        <p>6. A foreign aircraft may not be used for a flight between points within Japan. </p>
+        <p/>
+        <p>Sector:&nbsp;Transport</p>
+        <p>Sub-Sector:&nbsp;Air Transport</p>
+        <p>Industry Classification:&nbsp;JSIC 4600 Head offices primarily engaged in managerial operations  JSIC 4621 Aircraft service, except air transport</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27. Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3.Civil Aeronautics Law (Law No. 231 of 1952), Chapters 7 and 8</p>
+        <p>Description: </p>
+        <p>1. The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in aerial work business in Japan. </p>
+        <p>2. Permission of the Minister of Land, Infrastructure, Transport and Tourism for conducting aerial work business is not granted to the following natural persons or entities applying for the permission: </p>
+        <p>(a) a natural person who does not have Japanese nationality; </p>
+        <p>(b) a foreign country, or a foreign public entity or its equivalent; </p>
+        <p>(c) a legal person or other entity constituted under the laws and regulations of any foreign country; and </p>
+        <p>(d) a legal person represented by the natural persons or entities referred to in subparagraph (a), (6) or (c); a legal person of which one-third or more of the directors are composed of the natural persons or entities referred to in subparagraph (a), (cb) or (c); or a legal person of which one-third or more of the voting rights are held by the natural persons or entities referred to in subparagraph (a), (b) or (c). </p>
+        <p>In the event that a person conducting aerial work business becomes a natural person or an entity referred to in subparagraphs (a) through (d), the permission will lose its effect. The conditions for the permission also apply to companies, such as holding companies, which have substantial control over the person conducting aerial work business. </p>
+        <p>3. A foreign aircraft may not be used for a flight between points within Japan. </p>
+        <p/>
+        <p>Sector:&nbsp;Transport</p>
+        <p>Sub-Sector:&nbsp;Registration of Aircraft in the National Register</p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Measures:&nbsp;Civil Aeronautics Law (Law No. 231 of 1952), Chapter 2</p>
+        <p>Description: </p>
+        <p>1. An aircraft owned by any of the following natural persons or entities may not be registered in the national register: </p>
+        <p>(a) a natural person who does not have Japanese nationality; </p>
+        <p>(b) a foreign country, or a foreign public entity or its equivalent; </p>
+        <p>(c) a legal person or other entity constituted under the laws and regulations of any foreign country; and </p>
+        <p>(d) a legal person represented by the natural persons or entities referred to in subparagraph (a), (6) or (c); a legal person of which one-third or more of the directors are composed of the natural persons or entities referred to in subparagraph (a), (cb) or (c); or a legal person of which one-third or more of the voting rights are held by the natural persons or entities referred to in subparagraph (a), (b) or (c). </p>
+        <p>2. A foreign aircraft may not be registered in the national register. </p>
+        <p/>
+        <p>Sector:&nbsp;Transport</p>
+        <p>Sub-Sector:&nbsp;Freight Forwarding Business {excluding freight forwarding business using air transportation)</p>
+        <p>Industry Classification:&nbsp;JSIC 4441 Collect-and-deliver freight transport JSIC 4821 Freight transport, except collect-and- deliver freight transport</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;&nbsp;Freight Forwarding Business Law&nbsp;(Law No. 82 of 1989), Chapters 2&nbsp;through 4. Enforcement Regulation of Freight&nbsp;Forwarding Business Law (Ministerial&nbsp;Ordinance of the Ministry of&nbsp;Transport No. 20 of 1990)</p>
+        <p>Description:&nbsp;The following natural persons or&nbsp;entities are required to be&nbsp;registered with, or to obtain&nbsp;permission or approval of, the&nbsp;Minister of Land, Infrastructure,&nbsp;Transport and Tourism for conducting&nbsp;freight forwarding business using&nbsp;international shipping. Such&nbsp;registration shall be made, or such&nbsp;permission or approval shall be&nbsp;granted, on the basis of&nbsp;reciprocity:</p>
+        <p/>
+        <p/>
+        <p/>
+        <p>(a) a natural person who does not have Japanese nationality; </p>
+        <p>(b) a foreign country, or a foreign public entity or its equivalent; </p>
+        <p>(c) a legal person or other entity constituted under the laws and regulations of any foreign country; and </p>
+        <p>(d) a legal person represented by the natural persons or entities referred to in subparagraph (a), (cb) or (c); a legal person of which one-third or more of the directors are composed of the natural persons or entities referred to in subparagraph (a), (bo) or (c); or a legal person of which one-third or more of the voting rights are held by the natural persons or entities referred to in subparagraph (a), (b) or (c). </p>
+        <p/>
+        <p>Sector:&nbsp;Transport</p>
+        <p>Sub-Sector:&nbsp;Freight Forwarding Business (only freight forwarding business using air transportation)</p>
+        <p>Industry Classification:&nbsp;JSIC 4441 Collect-and-deliver freight transport JSIC 4821 Freight transport, except collect-and- deliver freight transport</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Measures:&nbsp;Freight Forwarding Business Law (Law No. 82 of 1989), Chapters 2 through 4.Enforcement Regulation of Freight Forwarding Business Law (Ministerial Ordinance of the Ministry of Transport No. 20 of 1990)</p>
+        <p>Description: </p>
+        <p>1. The following natural persons or entities may not conduct freight forwarding business using air transportation between points within Japan: </p>
+        <p>(a) a natural person who does not have Japanese nationality; </p>
+        <p>(b) a foreign country, or a foreign public entity or its equivalent; </p>
+        <p>(c) a legal person or other entity constituted under the laws and regulations of any foreign country; and </p>
+        <p>(d) a legal person represented by the natural persons or entities referred to in subparagraph (a), (cb) or (c); a legal person of which one-third or more of the directors are composed of the natural persons or entities referred to in subparagraph (a), (cb) or (c); or a legal person of which one-third or more of the voting rights are held by the natural persons or entities referred to in subparagraph (a), (b) or (c). </p>
+        <p>2. The natural persons or entities referred to in paragraph 1 are required to be registered with, or to obtain permission or approval of, the Minister of Land, Infrastructure, Transport and Tourism for conducting freight forwarding business using international air transportation. Such registration shall be made, or such permission or approval shall be granted, on the basis of reciprocity. </p>
+        <p/>
+        <p>Sector:&nbsp;Transport</p>
+        <p>Sub-Sector:&nbsp;Railway Transport</p>
+        <p>Industry Classification:&nbsp;JSIC 421 Railway transport JSIC 4851 Railway facilities services</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27.Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3</p>
+        <p>Description: </p>
+        <p>1. The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in railway transport industry in Japan. </p>
+        <p>2. The manufacture of vehicles or parts and components for the railway transport industry is not included in railway transport industry. Therefore, the prior notification under the Foreign Exchange and Foreign Trade Law is not required for the investments in the manufacture of these products. </p>
+        <p/>
+        <p>Sector:&nbsp;Transport&nbsp;</p>
+        <p>Sub-Sector:&nbsp;Road Passenger Transport</p>
+        <p>Industry Classification:&nbsp;JSIC 4311 Common omnibus operators</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27. Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3</p>
+        <p>Description: </p>
+        <p>1. The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in the omnibus industry in Japan. </p>
+        <p>2. The manufacture of vehicles or parts and components for the omnibus industry is not included in the omnibus industry. Therefore, the prior notification under the Foreign Exchange and Foreign Trade Law is not required for the investments in the manufacture of these products. </p>
+        <p/>
+        <p>Sector:&nbsp;Transport</p>
+        <p>Sub-Sector:&nbsp;Water Transport</p>
+        <p>Industry Classification:&nbsp;JSIC 452 Coastwise transport JSIC 453 Inland water transport JSIC 4542 Coastwise ship leasing</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27.Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3</p>
+        <p>Description: The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in the water transport industry in Japan. For greater certainty, &#xE2;&#x80;&#x9C;water transport industry&#xE2;&#x80;&#x9D; refers to oceangoing or seagoing transport, coastwise transport (i.e. maritime transport between ports in Japan), inland water transport and ship leasing industry. However, oceangoing or seagoing transport industry and ship leasing industry excluding coastwise ship leasing industry are exempted from the prior notification requirement under the Foreign Exchange and Foreign Trade Law. </p>
+        <p/>
+        <p>Sector:&nbsp;Transport</p>
+        <p>Sub-Sector:&nbsp;Water Transport</p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3)</p>
+        <p>Measures:&nbsp;Ship Law (Law No. 46 of 1899), Article 3</p>
+        <p>Description: Unless otherwise specified in the laws and regulations of Japan, or international agreements to which Japan is a party, ships not flying the Japanese flag are prohibited from entering the ports in Japan which are not open to foreign commerce and from carrying cargoes or passengers between ports in Japan. </p>
+        <p/>
+        <p>Sector:&nbsp;Water Supply and Waterworks</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification:&nbsp;JSIC 3611 Water for end users, except industrial users</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27.Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3</p>
+        <p>Description: The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in water supply and waterworks industry in Japan. </p>
+        <p/>
+        <p>Sector:&nbsp;Aerospace Industry</p>
+        <p>Sub-Sector:&nbsp;Aircraft Manufacturing and Repairing Industry</p>
+        <p>Industry Classification:&nbsp; JSIC 16 Manufacture of chemical and allied products&nbsp;&nbsp;JSIC 18 Manufacture of plastics products, except otherwise classified&nbsp;&nbsp;JSIC 19 Manufacture of rubber products JSIC 21 Manufacture of ceramic,&nbsp;&nbsp;stone and clay products&nbsp;&nbsp;JSIC 23 Manufacture of non- ferrous metals and products&nbsp;&nbsp;JSIC 24 Manufacture of fabricated metal products&nbsp;&nbsp;JSIC 25 Manufacture of general purpose machinery&nbsp;&nbsp;JSIC 27 Manufacture of business oriented machinery&nbsp;&nbsp;JSIC 28 Electronic parts, devices and electronic circuits&nbsp;&nbsp;JSIC 29 Manufacture of electrical machinery, equipment and supplies&nbsp;&nbsp;JSIC 30 Manufacture of information and communication electronics equipment&nbsp;&nbsp;JSIC 31 Manufacture of transportation equipment&nbsp;&nbsp;JSIC 39 Information services&nbsp;JSIC 90 Machine, etc. repair services, except otherwise classified</p>
+        <p>Note: The activities covered by this entry under JSIC 16, 18, 19, 21, 23, 24, 25, 27, 28, 29, 30, 31, 39 or 90 are limited to those related to aerospace industry.</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Measures:&nbsp;Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Articles 27, 28 and 30. Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Articles 3 through 5. Aircraft Manufacturing Industry Law {Law No. 237 of 1952), Articles 2 through 5</p>
+        <p>Description: </p>
+        <p>1. The prior notification requirement under the Foreign Exchange and Foreign Trade Law applies to foreign investors who intend to make investments in aircraft industry in Japan. </p>
+        <p>2. A technology introduction contract between a resident anda non-resident related to the aircraft industry is subject to the prior notification requirement under the Foreign Exchange and Foreign Trade Law. </p>
+        <p>3. The number of licences conferred to manufactures and service suppliers in those sectors may be limited. </p>
+        <p>4, An enterprise which intends to produce aircraft and supply repair services is required to establish a factory related to manufacture or repair aircraft under the laws and regulations of Japan.</p>
+      </div>
+      <div type="annex" title="Schedule of Georgia">
+        <p>Sector:&nbsp;All</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Measures:&nbsp;Constitution of Georgia (amended on October 13, 2017), Article 19, paragraph 4.&nbsp;Organic Law of Georgia on "Agricultural Land Ownership" (June 25, 2019). Law of Georgia on "State Property" (July 21, 2010). Law of Georgia on "Determination of the Designated Purpose of Land and on Sustainable Management of Agricultural Land" (June 25, 2019)</p>
+        <p>Description: Agricultural land shall only be owned by the State, self-governing entity, citizen of Georgia or union of Georgian citizens, as well as by an alien or a legal entity established in Georgia under its private law in accordance with the requirements prescribed by the domestic legislation. </p>
+        <p>Only a citizen of Georgia, ora legal entity registered in Georgia pursuant to its private laws, has the right to acquire ownership over the state-owned agricultural land plot. </p>
+        <p/>
+        <p>Sector:&nbsp;Fishing</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification:&nbsp;Classification of Economic Activity GNC 006-2016/Rev.2 A 03.1 - Fishing</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Resolution No. 138 of the Government of Georgia on "Approval of Regulations on Rules and Conditions on Issuance of Fishing Licence" (August 11, 2005), Article 4.</p>
+        <p>Description: Fishing licence can only be granted to a natural or a legal person who is a resident of Georgia. </p>
+        <p/>
+        <p>Sector:&nbsp;Agriculture</p>
+        <p>Sub-Sector:&nbsp;Agricultural Cooperation</p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Law of Georgia on "Agricultural Cooperatives" (July 12, 2013)</p>
+        <p>Description: A member of an agricultural cooperative may be an 18-year-old or older citizen of Georgia and/or other agricultural cooperative, that directly participates in agricultural activities carried out by the cooperative and owns membership shares. </p>
+        <p>An 18-year-old or older citizen of Georgia or foreign countries and/or a legal entity registered in Georgia or abroad, that has contributed membership fee, in accordance with the law of Georgia on "Agricultural Cooperatives" and a decision of the cooperative members' assembly, has a right to be an associated member of the agricultural cooperative. </p>
+        <p>The associated member may participate in an assembly only with the right of deliberative vote. </p>
+        <p>The associated member has the right to receive dividends from the contributed membership fee and can be elected as the member of the supervisory board or executive council. </p>
+        <p>The associated member may not be directly involved in agricultural activities carried out by the agricultural cooperative. </p>
+        <p/>
+        <p>Sector:&nbsp;Financial Services - Insurance</p>
+        <p>Sub-Sector:&nbsp;All insurance and insurance-related services</p>
+        <p>Industry Classification:&nbsp;Classification of Economic Activity GNC 006-2016/Rev.2 K 65 - Insurance, reinsurance and pension funding, except compulsory social security</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3)</p>
+        <p>Measures:&nbsp;Law of Georgia on "Insurance" (May 2, 1997), Articles 2, 7 and 22</p>
+        <p>Description: The below-listed entities have the right to carry out only insurance activities such as life insurance, insurance (non-life) and/or reinsurance in Georgia: </p>
+        <p>(a) A legal person registered in Georgia as joint stock company, established for the implementation of insurance activities and licensed by Legal Entity of Public Law Insurance State Supervision Service of Georgia; </p>
+        <p>(b) A branch (representative office) founded in Georgia, by insurance and reinsurance companies registered and licensed in member states of the Organisation for Economic Cooperation and Development (OECD). Such branch can conduct all the above- mentioned types of insurance activities in Georgia on the basis of the licence of its founder insurance company without being obliged to obtain another licence in Georgia. Thus, a licence held by a founder insurance company shall have the same legal status as a licence issued on the basis of the legislation of Georgia and no one shall have the right to request the branch (representative office) to obtain an appropriate licence. </p>
+        <p/>
+        <p>Sector:&nbsp;Financial Services - Insurance</p>
+        <p>Sub-Sector:&nbsp;Services auxiliary to insurance (including insurance brokering and insurance agency services)</p>
+        <p>Industry Classification:&nbsp;Classification of Economic Activity GNC 006-2016/Rev.2 K 66.1 - Activities auxiliary to financial services and insurance activities K 66.2 - Activities auxiliary to insurance and pension funding</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Law of Georgia on "Insurance" (May 2, 1997), Article 7</p>
+        <p>Description: A legal person registered ina foreign country shall carry out insurance brokerage activity in Georgia through a branch {representative office) duly registered in Georgia.</p>
+        <p/>
+        <p>Sector:&nbsp;Broadcasting&nbsp;</p>
+        <p>Sub-Sector:&nbsp;Over-the-air broadcasting</p>
+        <p>Industry Classification:&nbsp;Classification of Economic Activity GNC 006-2016/Rev.2&nbsp;J 60 - Programming and broadcasting activities</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Measures:&nbsp;Law of Georgia on "Broadcasting" (December 23, 2004), Articles 37 and 43</p>
+        <p>Description: A licence holder and/or authorised person to conduct the types of broadcasting which are described below shall be a citizen of Georgia or a natural or a legal person who is a resident of Georgia. </p>
+        <p>(a) Radio broadcasting: </p>
+        <p>A licence is required for radio broadcasting only when it is carried out by means of broadcast transmitters using the radio frequency spectrum. </p>
+        <p>(b) TV broadcasting: </p>
+        <p>TV broadcaster, except Public Broadcaster, shall be subject to authorisation. Building a TV multiplex platform requires a licence.</p>
+      </div>
+      <div type="annex" num="Annex II" title="Non-Conforming Measures referred to in paragraph 2 of Article 7">
+        <p>1. The Schedule of a Contracting Party sets out, pursuant to paragraph 2 of Article 7, the specific sectors, sub- sectors or activities for which that Contracting Party may maintain existing, or adopt new or more restrictive, measures that do not conform with obligations imposed by:</p>
+        <p>(a) Article 2;</p>
+        <p>(b) Article 3; or</p>
+        <p>(c) Article 6.</p>
+        <p>2. Each Schedule entry sets out the following elements:</p>
+        <p>(a) &#x201C;Sector&#x201D; refers to the sector for which the entry&nbsp;is made;</p>
+        <p>(b) &#x201C;Sub-Sector&#x201D;, where referenced, refers to the&nbsp;specific sub-sector for which the entry is made;</p>
+        <p>(c) &#x201C;Industry Classification&#x201D;, where referenced, and&nbsp;only for transparency purposes, refers to the&nbsp;activity covered by the non-conforming measure,&nbsp;according to domestic or international industry&nbsp;classification codes;</p>
+        <p>(d) &#x201C;Obligations Concerned&#x201D; specifies the obligations&nbsp;referred to in paragraph 1 that, pursuant to&nbsp;paragraph 2 of Article 7, do not apply to the&nbsp;sectors, sub-sectors or activities listed in the&nbsp;entry;</p>
+        <p>(e) &#x201C;Description&#x201D; sets out the scope or nature of the&nbsp;sectors, sub-sectors or activities covered by the&nbsp;entry; and</p>
+        <p>(f) &#x201C;Existing Measures&#x201D;, where specified, identifies,&nbsp;for transparency purposes, a non-exhaustive list&nbsp;of existing measures that apply to the sectors,&nbsp;sub-sectors or activities covered by the entry.</p>
+        <p>3. In the interpretation of an entry, all elements of the entry shall be considered. The "Description" element shall prevail over all other elements. </p>
+        <p>4. For the purposes of this Annex: </p>
+        <p>(a) the term &#x201C;JSIC&#x201D; means Japan Standard Industrial&nbsp;Classification set out by the Ministry of&nbsp;Internal Affairs and Communications of Japan, and&nbsp;revised on October 30, 2013; and</p>
+        <p>(b) the term &#x201C;CPC&#x201D; means the Provisional Central&nbsp;Product Classification (Statistical Papers Series&nbsp;M No. 77, Department of International Economic&nbsp;and Social Affairs, Statistical Office of the United Nations, New York, 1991).</p>
+      </div>
+      <div type="annex" num="Annex II" title="Schedule of Japan">
+        <p> Sector: All </p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned: National Treatment (Article 2) Prohibition of Performance Requirements (Article 6) </p>
+        <p>Description: When transferring or disposing of its equity interests in, or the assets of, a state enterprise or a governmental entity, Japan reserves the right to: </p>
+        <p>(a) prohibit or impose limitations on the ownership of such interests or assets by investors of Georgia or their investments; </p>
+        <p>(b) impose limitations on the ability of investors of Georgia or their investments as owners of such interests or assets to control any resulting enterprise; or </p>
+        <p>(c) adopt or maintain any measure relating to the nationality of executives, managers or members of the board of directors of any resulting enterprise. </p>
+        <p>Existing Measures: </p>
+        <div type="foot_note">(1) For transparency purposes, entries in this Schedule may include measures taken by Japan in accordance with Article 15.</div>
+        <p/>
+        <p>Sector:&nbsp;All</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment {Article 3) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Japan reserves the right to adopt or maintain any measure relating to investment in telegraph services, betting and gambling services, manufacture of tobacco products, manufacture of Bank of Japan notes, minting and sale of coinage and postal service in Japan.</p>
+        <p>Existing Measures: </p>
+        <p/>
+        <p>Sector:&nbsp;All</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;Most-Favoured-Nation Treatment (Article 3)</p>
+        <p>Description: Japan reserves the right to adopt or maintain any measure that accords differential treatment to countries under any bilateral or multilateral agreement involving: </p>
+        <p>(a) aviation; </p>
+        <p>(b) fisheries; or </p>
+        <p>(c) maritime matters, including salvage.</p>
+        <p>Existing Measures:</p>
+        <p/>
+        <p>Sector:&nbsp;All</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment {Article 3)</p>
+        <p>Description:&nbsp;National Treatment and Most- Favoured-Nation Treatment may not be accorded to investors of Georgia and their investments with respect to subsidies.</p>
+        <p>Existing Measures: </p>
+        <p/>
+        <p>Sector:&nbsp;Aerospace Industry</p>
+        <p>Sub-Sector:&nbsp;Space Industry</p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Japan reserves the right to adopt or maintain any measure relating to investment in space industry.</p>
+        <p>Existing Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Articles 27, 28 and 30 </p>
+        <p>Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Articles 3 through 5</p>
+        <p/>
+        <p>Sector:&nbsp;Arms and Explosives Industry</p>
+        <p>Sub-Sector:&nbsp; Arms Industry. Explosives Manufacturing Industry</p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Japan reserves the right to adopt or maintain any measure relating to investment in arms industry and explosives manufacturing industry.</p>
+        <p>Existing Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Articles 27, 28 and 30 </p>
+        <p>Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Articles 3 through 5</p>
+        <p/>
+        <p>Sector:&nbsp;Energy</p>
+        <p>Sub-Sector:&nbsp;Electricity Utility Industry. Gas Utility Industry. Nuclear Energy Industry</p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Japan reserves the right to adopt or maintain any measure relating to investment in the energy industry listed in the "Sub-Sector" element.</p>
+        <p>Existing Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Articles 27, 28 and 30 </p>
+        <p>Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Articles 3 through 5</p>
+        <p/>
+        <p>Sector:&nbsp;Fisheries</p>
+        <p>Sub-Sector:&nbsp;Fisheries within the Territorial Sea, Internal Waters, Exclusive Economic Zone and Continental Shelf</p>
+        <p>Industry Classification:&nbsp;JSIC 031 Marine fisheries  JSIC 032 Inland water fisheries  JSIC 041 Marine aquaculture  JSIC 042 Inland water aquaculture JSIC 8093 Recreational fishing guide business</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description: Japan reserves the right to adopt or maintain any measure relating to investment in fisheries in the territorial sea, internal waters, exclusive economic zone and continental shelf of Japan. </p>
+        <p>For the purposes of this entry, the term "fisheries" means the work of taking and cultivation of aquatic resources, including the following fisheries related activities: </p>
+        <p>(a) investigation of aquatic resources without taking such resources; </p>
+        <p>(b) luring of aquatic resources; </p>
+        <p>(c) preservation and processing of fish catches; </p>
+        <p>(d) transportation of fish catches and fish products; and </p>
+        <p>(e) provision of supplies to other vessels used for fisheries. </p>
+        <p>Existing Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27 </p>
+        <p>Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3 </p>
+        <p>Law for Regulation of Fishing Operation by Foreign Nationals (Law No. 60 of 1967), Articles 3, 4 and 6 </p>
+        <p>Law concerning the Exercise of Sovereign Rights concerning Fisheries in the Exclusive Economic Zones (Law No. 76 of 1996), Articles 4, 5, 7 through 12 and 14 </p>
+        <p/>
+        <p>Sector:&nbsp;Information and Communications&nbsp;</p>
+        <p>Sub-Sector:&nbsp;Broadcasting Industry</p>
+        <p>Industry Classification:&nbsp;JSIC 380 Establishments engaged in administrative or ancillary economic activities  JSIC 381 Public broadcasting, except cablecasting  JSIC 382 Private-sector broadcasting, except cablecasting  JSIC 383 Cablecasting</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Japan reserves the right to adopt or maintain any measure relating to investment in broadcasting industry.</p>
+        <p>Existing Measures: Foreign Exchange and Foreign Trade Law (Law No. 228 of 1949), Article 27 </p>
+        <p>Cabinet Order on Foreign Direct Investment (Cabinet Order No. 261 of 1980), Article 3 </p>
+        <p>Radio Law (Law No. 131 of 1950), Chapter 2 </p>
+        <p>Broadcast Law (Law No. 132 of 1950), Chapters 5 and 8 </p>
+        <p/>
+        <p>Sector:&nbsp;Land Transaction</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment {Article 3)</p>
+        <p>Description:&nbsp;With respect to the acquisition or lease of land properties in Japan, prohibitions or restrictions may be imposed.</p>
+        <p>Existing Measures: Alien Land Law (Law No. 42 of 1925), Article 1 </p>
+        <p/>
+        <p>Sector:&nbsp;Public Law Enforcement and Correctional Services and Social Services</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment {Article 3) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Japan reserves the right to adopt or maintain any measure relating to investment in public law enforcement and correctional services, and in social services such as income security or insurance, social security or insurance, social welfare, public training, health, child care and public housing.</p>
+        <p>Existing Measures: </p>
+        <p/>
+        <p>Sector:&nbsp;Transport</p>
+        <p>Sub-Sector:&nbsp;Air Transport</p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Japan reserves the right to adopt or maintain any measure with respect to investment in airports or airport operation services.</p>
+        <p>For the purposes of this entry, the term "airport operation services" means the supply of air terminal, airfield and other airport infrastructure operation services on a fee or contract basis. Airport operation services do not include air navigation services.</p>
+        <p>Existing Measures: </p>
+        <p/>
+        <p>Sector:&nbsp;Education and Learning Support</p>
+        <p>Sub-Sector:&nbsp;Primary and Secondary Educational Services</p>
+        <p>Industry Classification:&nbsp;JSIC 811 Kindergartens JSIC 812 Elementary schools JSIC 813 Lower secondary schools JSIC 814 Upper secondary schools, secondary schools JSIC 815 Schools for special needs education JSIC 819 Integrated centres for early childhood education and care</p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2)</p>
+        <p>Description:&nbsp;Japan reserves the right to adopt or maintain any measure relating to investment in primary and secondary educational services.</p>
+        <p>Existing Measures: Fundamental Law of Education (Law No. 120 of 2006), Article 6 </p>
+        <p>School Education Law (Law No. 26 of 1947), Article 2 </p>
+        <p>Private School Law (Law No. 270 of 1949), Article 3 </p>
+        <p>Law concerning Advancement of Comprehensive Service Related to Education, Child Care, etc. of Preschool Children (Law No. 77 of 2006) </p>
+        <p/>
+        <p>Sector:&nbsp;All</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment {Article 3) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description: </p>
+        <p>Existing Measures: </p>
+        <p>1. Japan reserves the right to adopt or maintain any measure relating to investment in industries other than those recognised or other than those that should have been recognised by the Government of Japan owing to the circumstances on the date of entry into force of this Agreement. </p>
+        <p>2. Any industries classified positively and explicitly in JSIC or CPC, on the date of entry into force of this Agreement should have been recognised by the Government of Japan on that date. </p>
+        <p>3. Japan reserves the right to adopt or maintain any measure relating to investment in industries which were not technically feasible on the date of entry into force of this Agreement.</p>
+      </div>
+      <div type="annex" num="Annex II" title="Schedule of Georgia">
+        <p>Sector: All </p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned: National Treatment (Article 2) Most-Favoured-Nation Treatment {Article 3) </p>
+        <p>Description: Georgia reserves the right to adopt or maintain any measure, which may not accord to investors of Japan and their investments National Treatment or Most Favoured-Nation Treatment with respect to subsidies or grants, including governmental-supported loans, guarantees and insurance, provided that it is not inconsistent with Georgia&#xE2;&#x80;&#x99;s obligations under the WTO Agreement. </p>
+        <p>Existing Measures: </p>
+        <p>Sector:&nbsp;All</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment (Article 3) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Georgia reserves the right to adopt or maintain any measure indicated in its Horizontal Commitments of the Schedule of Specific Commitments in Service under the WTO Agreement (GATS/SC/129,2000 (I Horizontal Commitments)).</p>
+        <p>Existing Measures: Schedule of Specific Commitments in Service under the WTO Agreement (GATS/SC/129,2000 (I Horizontal Commitments) } </p>
+        <p/>
+        <p>Sector:&nbsp;Public law enforcement and correctional services and social services</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment {Article 3) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Georgia reserves the right to adopt or maintain any measure relating to investment in public law enforcement and correctional services, medical service and mother and child healthcare, provided that it is not inconsistent with Georgia's obligations under the WTO Agreement.</p>
+        <p>Existing Measures: </p>
+        <p/>
+        <p>Sector:&nbsp;Construction and Related Engineering Activities</p>
+        <p>Sub-Sector: </p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Georgia reserves the right to adopt or maintain any measure relating to investment in construction and related engineering activities that not less than 50 percent of the entire staff must be citizens of Georgia.</p>
+        <p>Existing Measures: </p>
+        <p/>
+        <p>Sector:&nbsp;Tourism</p>
+        <p>Sub-Sector:&nbsp;Tourist Guides</p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Most-Favoured-Nation Treatment {Article 3) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Georgia reserves the right to adopt or maintain any measure relating to qualification requirements and procedures, technical standards and licensing requirements and procedures for tourist guides and guide services.</p>
+        <p>Existing Measures: </p>
+        <p/>
+        <p/>
+        <p>Sector:&nbsp;Power and Energy</p>
+        <p>Sub-Sector:&nbsp;Electricity, Gas and Oil</p>
+        <p>Industry Classification: </p>
+        <p>Obligations Concerned:&nbsp;National Treatment (Article 2) Prohibition of Performance Requirements (Article 6)</p>
+        <p>Description:&nbsp;Georgia reserves the right to adopt or maintain any measure relating to investment in the power and energy sector listed in the "Sub-Sector" element.</p>
+        <p>Existing Measures: </p>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+      </div>
+    </attachments>
+  </main>
+</treaty>

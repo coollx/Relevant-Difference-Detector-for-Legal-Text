@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Egypt - Somalia BIT (1982)</name>
+    <code>T1982-9</code>
+    <partyisocode n="0">EGY</partyisocode>
+    <partyisocode n="1">SOM</partyisocode>
+    <date_signed>1982-05-29</date_signed>
+    <date_into_force>1983-04-16</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ar</orig_language>
+    <translated>yes</translated>
+    <termination_type/>
+    <docreference>1398</docreference>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>ar</IT_ORIGIN_LANGUAGE>
+    <IT_TRANSLATED>yes</IT_TRANSLATED>
+    <IT_FILE_NAME_REFERENCE>{EGY,SOM}_1982-05-29.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the Arab Republic of Egypt and the Government of the Democratic Republic of Somalia on the promotion and protection of investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Arab Republic of Egypt and the Government of the Democratic Republic of Somalia,</p>
+      <p>Desiring to consolidate economic cooperation between the two countries and in order to create conditions for private investments of the two countries, and taking into account that the promotion and protection of investments will increase the flow of capital in order to achieve economic prosperity in both countries and also recognizing protecting the investments will activate the economic initiatives -have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="One">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The word "investment" is a term that includes all direct and indirect shares in capital, also includes any investor' assets or re-invested in agricultural projects, industrial and tourism as well as the special projects in mines, forests, transportation and includes, in particular, and is not limited to the following:</p>
+        <p>A. Movable and immovable properties, any other rights in rem such as right mortgage and property rights, deposit in-kind, usufruct, or any other similar rights.</p>
+        <p>B. The partners' shares in the capital and other types of sharing in companies.</p>
+        <p>C. Copyright and industrial property rights and technical operations and brand names.</p>
+        <p>D. Franchises including special franchising regarding to exploration, extraction, and exploitation of natural wealth.</p>
+        <p>2 The word "national" means natural persons who hold the nationality of one of the Contracting Parties in accordance with the laws in force.</p>
+        <p>3. The term "company" means an entity, institutions or companies with legal personality in accordance with the applicable legislation of the two Contracting Parties.</p>
+        <p>4. The word "person" means a natural person also a legal person alike.</p>
+      </div>
+      <div type="article" num="Two">
+        <p>Both Contracting Parties have to accept and to encourage in their territories, in accordance with its legislation, the investment by any person who is a national of the other party.</p>
+        <p>Each Contracting Party undertakes to provide full protection for investment being done in its territory by any person who is a national of the other party, also ensure fair treatment for this investment to achieve the intended purpose, each Contracting Party enables the other Contracting Party to benefit from the same treatment which is granted for investment protection and done by its nationals or nationals of other countries, and on the basis of reciprocity. This treatment does not include the advantages granted by either Contracting Party to nationals of a third country because of virtue membership or for being a customs union, common market, or membership to a free trade zone.</p>
+      </div>
+      <div type="article" num="Three">
+        <p>It is not allowed to implement measures of expropriation or nationalization upon investments from by citizens or companies of either Contracting Party in the territory of the other Contracting Party or subject these investments to measures having the same effects of nationalization (hereinafter referred to it as expropriation) except for public interest, and related to the internal needs of the party, and in return there must be fair, adequate, and immediate compensation and this compensation must be estimated at market value of the expropriated investment and calculated depending on the ownership date, or before the date of the formal government announcement for expropriation in the future; whichever is sooner, and payment shall be made without delay on promptly basis in a free convertible currency and for the affected citizen or the company will have the right of obtaining a prompt ruling by the judiciary according to the law of the Contracting Party which made this expropriation, and if whether expropriation falls within the domestic law, as well as the estimation of the investment in accordance with the principles set out in this Article.</p>
+      </div>
+      <div type="article" num="Four">
+        <p>If investments for companies or citizens or nationals of one of the Contracting Parties suffer losses in the other State resulting from war or other military action, or as a result of the general civil disturbances such as revolutions, rebellions, strife and violence of a general nature that have an equivalent effect, the host country of the investments that suffered the damage shall give to the affected party the same treatment it gives to its citizens or its companies that may suffer similar damage, or similar to treatment which will be given to people or companies of other states, to apply the better treatment.</p>
+      </div>
+      <div type="article" num="Five">
+        <p>Both Contracting Parties shall ensure in accordance with the legislation in force in every country the following transfers:</p>
+        <p>1. Net profits and interests, other current incomes arising from any investment owned by nationals or companies of other countries.</p>
+        <p>2. Amounts that collected from the total or partial liquidation of investments, as well as the amount of compensation payable on to any of these investments.</p>
+        <p>3. Premiums of invested loans in their territories which re-exported to outside.</p>
+      </div>
+      <div type="article" num="Six">
+        <p>Each Contracting Party commits to facilitate the conduct of professional activity for the citizens of the other party in accordance with the legislation in force in the field of these activities in both countries.</p>
+      </div>
+      <div type="article" num="Seven">
+        <p>1. The Contracting Parties shall settle any dispute concerning the interpretation or application of this Agreement by diplomatic means and the settlement of investment disputes in the manner as may be agreed between the Contracting Parties.</p>
+        <p>If they cannot settle the dispute by the previous means, then it is up to either of the parties to submit the dispute to an arbitral tribunal.</p>
+        <p>2. For the establishment of the arbitral tribunal, each of the parties to the conflict shall appoint a member, and the mentioned members have to appoint a citizen of a third country as a President.</p>
+        <p>The two members must be chosen within two months and the president within three months from the date of notification by either party to the other party of its intention to submit the dispute to the arbitral tribunal.</p>
+        <p>3. In the case of failure to observe the periods specified in the previous paragraph then any of the Contracting Parties may invite the President of the International Court of Justice to make the necessary appointments. If the President of the International Court of Justice is a national of any of the States or is prevented from performing this task, then the member of International Court of Justice next in seniority may be called to make these necessary appointments. on the conditions of non-dependency (Neutrality) of any of the two Contracting Parties, and if there is nothing that prevents him from performing these tasks.</p>
+        <p>4. The arbitral tribunal issues its decision by a majority voting, and its decision shall be final and binding, and each Contracting Party shall bear the expenses for its member of the Committee, the costs of the President and other expenses and expenditures burden shall be distributed on both parties equally, and the tribunal will be in charge of distributing the portions of expenses; besides that the tribunals has to determine the procedural rules which shall be followed before it.</p>
+      </div>
+      <div type="article" num="Eight">
+        <p>Each of the parties to this Agreement shall inform the other party on the fulfillment of the constitutional procedures necessary to put this Agreement into effect.</p>
+        <p>This Agreement shall remain in force for ten years, renewable for other periods unless one of the parties declares to the other party its intention to terminate the Agreement one year before the expiration of the period of the Agreement.</p>
+        <p>In case of termination, this agreement will remain valid for another twenty years for the investments that have been made before its termination.</p>
+      </div>
+      <div type="article" num="Nine">
+        <p>Done in two originals in Arabic and signed by the representatives of the Government of the Arab Republic of Egypt and the Government of the Democratic Republic of Somalia.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in Mogadishu on 29/05/1982 AD.</p>
+      <p>For the Government of the Arab Republic of Egypt</p>
+      <p>Engineer / Mohamed Abdel-Hadi Samaha</p>
+      <p>Minister of Irrigation and Minister of State for Sudan</p>
+      <p>And</p>
+      <p>For the Government of the Democratic Republic of Somalia</p>
+      <p>Commodore / Ahmed Suleiman Abdullah</p>
+      <p>Minister of National Planning and member of the Political Bureau of the Somali Revolutionary Socialist Party.</p>
+    </conclusion>
+  </main>
+</treaty>

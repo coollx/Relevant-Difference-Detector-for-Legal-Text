@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Romania - Turkey BIT (2008)</name>
+    <code>T2008-77</code>
+    <partyisocode n="0">ROU</partyisocode>
+    <partyisocode n="1">TUR</partyisocode>
+    <date_signed>2008-03-03</date_signed>
+    <date_into_force>2010-07-08</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2836</docreference>
+    <comments/>
+    <source>R Polanco database</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{ROU,TUR}_2008-03-03.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACING" document-code="T1991-81">Romania - Turkey BIT (1996)</relation>
+    <relation type="IT_REPLACING" document-code="T1991-81">Romania - Turkey BIT (1996)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF ROMANIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY ON THE RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of Romania and the Government of the Republic of Turkey, hereinafter referred to as "the Contracting Parties",</p>
+      <p>Desiring to develop the relations of economic co-operation existing between the two countries,</p>
+      <p>Determined to encourage and create favourable conditions for investments of investors of Romania in the territory of the Republic of Turkey and by investors of the Republic of Turkey in the territory of Romania,</p>
+      <p>Recognizing that protection of the investments, under this Agreement, stimulates the initiative in this field and increases the economic prosperity of both countries,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>(a)  The term "investor of a Contracting Party" means, with regard to either Contracting Party, the following subjects who made investments in the territory of the other Contracting Party, in accordance with the national laws and regulations of that Contracting Party:</p>
+        <p>(i)  a natural person who is a citizen of Romania or a national of the Republic of Turkey under their applicable national laws;</p>
+        <p>(ii)  legal persons, including companies, corporations, business associations, which are constituted or otherwise duly organized under the national laws and regulations of that Contracting Party and have their seat, together with their real economic activities in the territory of that Contracting Party.</p>
+        <p>(b)  "investment" means in conformity with the national laws and regulations of the hosting Contracting Party every kind of asset and includes but not exclusively:</p>
+        <p>(i)  shares or any other terms of participation in a company;</p>
+        <p>(ii)  movable and immovable property, and property rights such as mortgages, liens and pledges or similar property rights;</p>
+        <p>(iii)  reinvested returns;</p>
+        <p>(iv)  a claim to money or a claim to performance having financial value and associated</p>
+        <p>With an investment; -</p>
+        <p>(v)  industrial property rights, including rights with respect to patents, trademarks, trade names, industrial designs, know-how and goodwill and intellectual property rights;</p>
+        <p>(vi)  concessions conferred by law or by virtue of a contract, particularly concessions related to prospecting, extracting and exploiting natural resources.</p>
+        <p>The said term shall refer to all direct investments made in accordance with the laws and regulations in the territory of the Contracting Party where the investments are made. The term investments cover all investments made in the territory of a Contracting Party before or after entry into force of this Agreement.</p>
+        <p>(c)  "returns" means the amounts yielded by an investment and in particular though not exclusively, includes profits, dividends, interests, royalties, capital gains or fees.</p>
+        <p>(d)  "territory" means, in respect of each Contracting Party, the land territory, the territorial sea and the air space above them as well as the sea and submarine areas over which the Contracting Party is entitled to exercise, in conformity with international law, sovereignity, sovereign rights or jurisdiction.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>(1)  Each Contracting Party shall promote and admit, in its territory, the investments of the investors of the other Contracting Party in accordance with its national laws and regulations.</p>
+        <p>(2)  Without prejudice to the European Union measures, investments of investors of each Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection in the territory of the other Contracting Party. Neither Contracting Party shall in any way impair by unreasonable or discriminatory measures the management, maintenance, use, enjoyment, extension or disposal of such investments.</p>
+      </div>
+      <div type="article" num="3" title="National and most favoured nation treatment">
+        <p>(1)  Each Contracting Party shall accord, in its territory, to the investment of the investors of the other Contracting Party a treatment not less favourable than that which it accords to investments of its investors or investors of any third State, whichever is the most favourable.</p>
+        <p>(2)  The national and most favoured nation treatment provisions of this Agreement shall not apply to all actual or future advantages accorded by either Contracting Party by virtue of its membership of, or association with, a customs, economic or monetary union, a common</p>
+        <p>A</p>
+        <p>Market or a free trade area to investors of its own, of Member States of such union, common market or free trade area, or of any other third State. Nor shall such treatment relate to any advantage which either Contracting Party accords to investors of a third State by virtue of a double taxation agreement or other agreements on a reciprocal basis regarding tax matters.</p>
+        <p>(3)  Each Contracting Party shall observe any other obligation entered into with regard to investments made in its territory by investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="4" title="Expropriation and compensation">
+        <p>(1)  The investments made by investors of one Contracting Party in the territory of the other Contracting Party shall not be expropriated or nationalized or subjected to other measures having a similar effect, unless the following conditions are fulfilled:</p>
+        <p>(a)  the measures are adopted for public purpose, under due process of law;</p>
+        <p>(b)  the measures are not discriminatory.</p>
+        <p>(2)  The compensation shall correspond to the fair market value of the investment at the time of the expropriation or at the time it became public knowledge, whichever is earlier, and shall be effectively realizable, freely transferable and made without delay. In the event that payment of compensation is delayed, the investor shall receive interest for the period of any undue delay in making payment.</p>
+        <p>(3)  Upon the request of the investor, the amount of compensation can be reassessed by a tribunal or other competent body of the Contracting Party where the investment has been made.</p>
+      </div>
+      <div type="article" num="5" title="Compensation for losses">
+        <p>Investors of one Contracting Party whose investment in the territory of the other Contracting Party suffers losses owing to war or other armed conflict, a state of national emergency, revolt, insurrection or riot, in the territory of the latter Contracting Party, shall be accorded by the latter Contracting Party treatment, as regards compensation or other settlement, not less favourable than that which the latter Contracting Party accords to its own investors or investors of any third State. Without prejudice to the measures adopted by the European Union, payments, if any, resulting from this Article shall be freely transferable.</p>
+        <p>R"</p>
+      </div>
+      <div type="article" num="6" title="Settlement of investment disputes">
+        <p>(1)  For the purposes of this Article, an investment dispute is defined as a dispute involving:</p>
+        <p>(a)  interpretation or application of any investment authorization granted by a Contracting Party's foreign investment authority to an investor of the other Contracting Party, or</p>
+        <p>(b)  a breach of any right conferred or created by this Agreement with respect to an investment.</p>
+        <p>(2)  Any dispute between one Contracting Party and an investor of the other Contracting Party, concerning an investment of that investor in the territory of the former Contracting Party shall be settled, as far as possible amicably, by consultations and negotiations between the parties to the dispute.</p>
+        <p>(3)  If the dispute cannot be settled by consultations and negotiations within six months from the date of request for settlement then the dispute shall be submitted to, as the investor may choose to:</p>
+        <p>(a)  the International Center for Settlement of Investment Disputes (ICSID) set up by the " Convention on Settlement of Investment Disputes Between States and Nationals of other States" done at Washington, on March 16, 1965, in case both Contracting Parties become signatories of this Convention,</p>
+        <p>(b)  an ad hoc court of arbitration laid down under the Arbitration Rules of Procedure of the United Nations Commission for International Trade Law (UNCITRAL).</p>
+        <p>(4)  The submission of the investment disputes to the International Center for the Settlement of Investment Disputes will be done in accordance with the procedure provided for in the Convention on the Settlement of Investment Disputes between States and Nationals of other States, opened for signature at Washington on March 18, 1965.</p>
+        <p>(5)  The arbitral tribunal shall decide on the basis of the law, taking into account the sources of law in the following precedence:</p>
+        <p>-the provisions of this Agreement and other relevant Agreements between the Contracting Parties;</p>
+        <p>-the law in force in the Contracting Party concerned;</p>
+        <p>-the provisions of special agreements relating to investments;</p>
+        <p>-the general principles of international law as recognized by both Contracting Parties.</p>
+        <p>(6)  Notwithstanding the provisions of paragraphs 3 and 4 of this Article;</p>
+        <p>In accordance with the notification submitted by the Republic of Turkey to the International Center for the Settlement of Investment Disputes (ICSID), hereinafter referred as "the Center", on March 3, 1989, pursuant to Article 25 (4) of the</p>
+        <p>"Convention on the Settlement of Investment Disputes between States and Nationals of other States";</p>
+        <p>a)  only the disputes arising directly out of investment activities which have obtained necessary permission, if any, in conformity with the relevant legislation of the Republic of Turkey on foreign capital, and that effectively started, shall be subject to the jurisdiction of the Center or any other international dispute settlement mechanism; and</p>
+        <p>b)  the disputes, related to the property and real rights upon the real estates are totally under the jurisdiction of the Turkish courts and therefore shall not be submitted to jurisdiction of the Center or any other international dispute settlement mechanism; and</p>
+        <p>(c)  With regard to the Article 64 of the "Convention on the Settlement of Investment</p>
+        <p>Disputes between States and Nationals of other States":</p>
+        <p>The Republic of Turkey shall not accept the referral of any disputes arising between the Republic of Turkey and any other Contracting State concerning the interpretation or application of "Convention on the Settlement of Investment Disputes between States and Nationals of other States", which is not settled by negotiation, to the International Court of Justice.</p>
+        <p>(7)  The arbitration awards shall be final and binding for all parties in dispute. Each Contracting Party commits itself to execute the award according to its national law.</p>
+      </div>
+      <div type="article" num="7" title="Transfers">
+        <p>(1)  Without prejudice to the measures adopted by the European Union, each Contracting Party shall permit in good faith all transfers related to an investment to be made freely and without delay into and out of its territory. Such transfers shall include:</p>
+        <p>(a)  returns;</p>
+        <p>(b)  proceeds of the total or partial sale or liquidation of the investment;</p>
+        <p>(c)  the payments made for the reimbursement of the credits for investments and interest due;</p>
+        <p>(d)  management and technical assistance fees;</p>
+        <p>(e)  the net earnings of the nationals who are allowed to work in the investment made in the territory of the other Contracting Party.</p>
+        <p>(2)  Transfers shall be made without delay in the convertible currency in which the investment has been made or in any convertible currency, if so agreed, by the investors and at the rate of exchange at the date of transfer.</p>
+        <p>&#xA3;</p>
+      </div>
+      <div type="article" num="8" title="Subrogation">
+        <p>(1)  If the investments of an investor of one Contracting Party are insured against noncommercial risks under a system established by law, any subrogation of the insurer into the rights, claims and actions of the said investor pursuant to the terms of such insurance shall be recognized by the other Contracting Party. However, by subrogating its rights to the insurer the investor will not be relieved from its obligations concerning the investments.</p>
+        <p>(2)  If one of the Contracting Parties, by virtue of a guarantee given against noncommercial risks for an investment made in the territory of the other Contracting Party, makes payments to its own investors, it is subrogated in the rights, claims and actions of the said investor as well as in the obligations in connection with such rights, pursuant to the terms of such guarantee.</p>
+        <p>(3)  The insurer or guarantor shall not be entitled to exercise any rights other than the rights which the investor would have been entitled to exercise.</p>
+        <p>(4)  Disputes between a Contracting Party and an insurer or guarantor shall be settled in accordance with the provisions of Article 6 or 10 of this Agreement, whichever is appropriate.</p>
+      </div>
+      <div type="article" num="9" title="Existing investments">
+        <p>Investments made by investors of one Contracting Party in the territory of the other Contracting Party before this Agreement enters into force shall be also subjected to the provisions of this Agreement. However, this Agreement shall not apply to any disputes that have arisen before its entry into force.</p>
+      </div>
+      <div type="article" num="10" title="Disputes between the contracting parties">
+        <p>(1)  Disputes between the Contracting Parties concerning the interpretation and application of this Agreement should, as far as possible, be settled through direct and meaningful negotiations between the two Contracting Parties. If such a dispute cannot be settled within six months after the commencement of negotiations, then, upon the request of either Contracting Party, the dispute shall be submitted to an arbitral tribunal.</p>
+        <p>(2)  Such an arbitral tribunal shall be constituted for each individual case in the following way: Within three months from the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third State, who on approval by the Contracting Parties shall be appointed Chairman of the tribunal. The Chairman shall be appointed within three months from the date of appointment of the other two members. If within any of the periods specified the necessary appointments</p>
+        <p>Have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make necessary appointments. If the Vice-President is a national of either Contracting Party or if he, too, is prevented from discharging the said function, the Member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>(3)  The arbitral tribunal shall issue its decisions on the basis of the provisions of this Agreement and of other agreements concluded and effective between the Contracting Parties, as well as on the general principles and rules of international law. The arbitral tribunal shall reach its decisions by a majority of votes and its decision shall be final and binding.</p>
+        <p>(4)  Each Contracting Party shall bear the costs of its arbitrator and of its representations in the arbitral proceedings. The costs of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties.</p>
+        <p>(5)  The tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, amendment, duration and termination">
+        <p>(1)  Each Contracting Party shall notify the other Contracting Party in writing of the completion of the internal legal procedures required in its territory for the entry into force of this Agreement. This Agreement shall enter into force on the date of the latter of the two notifications.</p>
+        <p>(2)  This Agreement shall remain in force for a period of ten years and shall continue in force thereafter unless, after the expiry of the initial period of ten years, either Contracting Party notifies in writing the other Contracting Party of its intention to terminate this Agreement. The Notice of termination shall become effective one year after it has been received by the other Contracting Party.</p>
+        <p>(3)  In respect of investments made until the date of expiry of the validity of the Agreement, the provisions of this Agreement shall continue in effect for a period of ten years, beginning with the date of its termination.</p>
+        <p>(4)  By derogation to paragraph 2 of this Article, in case of future evolutions of European Union law or Turkey's accession to the European Union, this Agreement shall be amended, if necessary, by mutual consensus of the Contracting Parties, so as to ensure the conformity of its provisions with Romania's or Turkey's obligations arising from the EU member status.</p>
+        <p>If such consensus cannot be reached, both Contracting Parties shall have the right to denounce this Agreement. The Agreement shall cease to apply 3 months after the receipt of the denunciation note. With respect to investments made or acquired prior to the date of denunciation of this Agreement and to which this Agreement otherwise applies, the provisions</p>
+        <p>Of all of the other Articles of this Agreement shall thereafter continue to be effective for a further period of ten years from such date of denunciation.</p>
+        <p>(5)  The Agreement between the Government of Romania and the Government of the Republic of Turkey for the Reciprocal Promotion and Protection of Investments, signed in Ankara on January 24, 1991, will be terminated on the date of entry into force of this Agreement.</p>
+        <p>Signed at Bucharest on March 3, 2008, in two originals, each in the Romanian, Turkish and English languages, all texts being equally authentic.</p>
+        <p>In case of differences of interpretation, the text in the English language shall prevail.</p>
+        <p>FOR THE GOVERNMENT QFROMAMA</p>
+        <p>Ylu/lAu</p>
+        <p>ZMdKi Silafhi</p>
+        <p>Minister for Small and Medium-Sized Companies, Trade, Tourism and Liberal Professions</p>
+        <p>FOR THE GOVERNMENT OF THE REPUBLIC OF TURKEY</p>
+        <p>Kursad Tuzmen Minister of State</p>
+      </div>
+    </body>
+  </main>
+</treaty>

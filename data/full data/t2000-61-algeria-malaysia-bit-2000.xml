@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Algeria - Malaysia BIT (2000)</name>
+    <code>T2000-61</code>
+    <partyisocode n="0">DZA</partyisocode>
+    <partyisocode n="1">MYS</partyisocode>
+    <date_signed>2000-01-27</date_signed>
+    <date_into_force>2001-07-23</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>69</docreference>
+    <comments>OCR</comments>
+    <source>unctad; http://www.andi.dz/index.php/fr/cadre-juridique/accords-conventions</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{DZA,MYS}_2000-01-27.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the People's Democratic Republic of Algeria and the Government of Malaysia on the promotion and protection of investments.</p>
+    </title>
+    <preamble>
+      <p>The Government of the People's Democratic Republic of Algeria and the Government of Malaysia, hereinafter referred to as the "Contracting Parties";</p>
+      <p>Desiring to develop and strengthen economic and industrial cooperation in the long term and in particular, to create favourable conditions for investments of investors of one Contracting Party in the territory of the other Contracting Party;</p>
+      <p>Recognizing the need to protect investments of investors of both parties and to stimulate the flow of capital and individual business initiatives to promote economic prosperity of both Contracting Parties;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>a) The term "investments" means every kind of asset and shall include in particular though not exclusively:</p>
+        <p>(i) The rights of movable and immovable property and any other property rights such as mortgages and pledges and guarantees;</p>
+        <p>(ii) Shares, titles and parts of a company and any other form of participation in a company or enterprise or interests in the property of such companies;</p>
+        <p>(iii) A claim to money or a claim to any performance having financial value;</p>
+        <p>(iv) Industrial and intellectual property rights including copyrights, patents, trademarks, trade names, industrial designs, trade secrets, processes, technical know-how and goodwill;</p>
+        <p>(v) Concessions conferred by law or under contract including concessions to search for, cultivate, extract or exploit natural resources.</p>
+        <p>b) The term "proceeds" shall mean the amount by yielded an investment and includes in particular, though not exclusively, interests, capital gains, profits, dividends, royalties and fees.</p>
+        <p>c) The term "investor" means:</p>
+        <p>(i) Any natural person having in accordance with the laws of each Contracting Party:</p>
+        <p>-  Algerian nationality for the People's Democratic Republic of Algeria;</p>
+        <p>-  Malisienne citizenship or permanent residents in Mali;</p>
+        <p>(ii) Any corporation, partnership, firm, joint venture, organisation, association or enterprise, established or duly constituted in accordance with the applicable laws of that Contracting Party.</p>
+        <p>d) The term "territory" means:</p>
+        <p>(i) For the People's Democratic Republic of Algeria, the land territory, airspace above, the territorial sea, as well as the maritime areas over which Algeria has jurisdiction or sovereign rights for the purpose of exploitation and exploration for and preservation of natural resources in accordance with international law;</p>
+        <p>(ii) For Malaysia, all land territory comprising the Federation of Malaysia; the territorial sea and its seabed, subsoil and airspace above.</p>
+        <p>e) The term "freely used currency" means the United States dollar, the Pound sterling, the Deutschmark, the French franc, the Japanese yen or any other currency that is widely used for payments of international transactions and widely traded in the principal international exchange markets.</p>
+        <p>f) The term "laws" means all written laws, regulations and rules provided that they are in force for both contracting parties.</p>
+        <p>(i) The term "investment" referred to in paragraph 1 (a), refers only to which all investments are made in accordance with the laws, regulations and national policies of the Contracting Parties.</p>
+        <p>(ii) Any alteration of the form in which assets are invested shall not affect their character as an investment provided that such alteration is not contrary to the authorisation granted to the originally invested assets.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>1. Each Contracting Party shall encourage and create favourable conditions for investors of the other Contracting Party to invest capital in its territory and admit such investments in accordance with its laws, regulations and policies.</p>
+        <p>2. Investments of investors of each Contracting Party shall receive at all times fair treatment and shall enjoy protection and security in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="Most-favoured nation treatment">
+        <p>1. Investments made by investors of one Contracting Party in the territory of the other Contracting Party will receive treatment which is fair and equitable and not less favourable than that accorded to investments made by investors of any third State.</p>
+        <p>2. The provisions of this Agreement relating to the grant of not less favourable treatment than that accorded to investors of any third State shall not be regarded as an obligation of one contracting party to extend to investors of the other Contracting Party the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>(a) Any existing or future customs union, free trade area, common market, monetary union or similar international agreement or other forms of regional cooperation to which either of the Contracting Parties is or becomes a member; or the adoption of an agreement leading to the formation or extension of such a union or area within a reasonable period of time;</p>
+        <p>(b) Any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="4" title="Compensation for losses">
+        <p>Investors of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, revolution, state of national emergency, revolt, riot or insurrection in the territory of the latter Contracting Party, shall enjoy the latter as regards restitution, indemnification, compensation or other settlement, a treatment no less favourable than that which the latter Contracting Party accords to investors of any third State.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>Neither Contracting Party shall take any measures of expropriation, nationalization or dispossession, having other effect equivalent to nationalization or expropriation of an investor against the investment of the other Contracting Party, except under the following conditions:</p>
+        <p>(a) The measures are taken in the public interest and under due process;</p>
+        <p>(b) The measures are non-discriminatory;</p>
+        <p>(c) The measures are accompanied by provisions for the payment of prompt, effective and adequate compensation. such compensation shall be equivalent to the market value of the affected investments immediately before the measure is not known to the public, and it shall be freely transferable in a currency of free from the territory of the Contracting Party. Any unreasonable delay in payment of compensation shall have precedence interest at the official rate of the Special Drawing Right (SDR) as determined by the International Monetary Fund (IMF) no later than three (3) months after receipt of a complete application by the competent authority.</p>
+      </div>
+      <div type="article" num="6" title="Transfers">
+        <p>1. Each Contracting Party shall, subject to its national laws, regulations and policies relating to investments by investors of the other Contracting Party, permit after the fulfillment of all tax obligations within a reasonable period of time, the transfer in any currency freely:</p>
+        <p>(a) The net profits, royalties, dividends, interest and other current income deriving from any investment by investors of the other Contracting Party;</p>
+        <p>(b) The proceeds from the total or partial liquidation of any investment made by investors of the other Contracting Party;</p>
+        <p>(c) The funds in repayment of loans and borrowings lawfully made by investors of one Contracting Party to investors of the other Contracting Party which both Contracting Parties recognise as investments;</p>
+        <p>d) The earnings of nationals of one Contracting Party who are employed and allowed to work in connection with an investment in the territory of the other Contracting Party in accordance with the laws and regulations of the latter Contracting Party;</p>
+        <p>e) The compensation referred to in article 4 and</p>
+        <p>f) Payments arising out of the settlement of a dispute relating to an investment.</p>
+        <p>2. The exchange rates applicable to the transfer mentioned in paragraph 1 of this article shall be the rate of exchange prevailing on the date of transfer. The transfer shall be effected in the currency of the original investment or any other currency to free use.</p>
+        <p>3. The Contracting Parties shall accord to the transfers referred to in paragraph 1 of this article a treatment as favourable as that accorded to the transfer yielded by investors of investments made by any third State.</p>
+      </div>
+      <div type="article" num="7" title="Settlement of investment disputes between a contracting party an investor of the other contracting party">
+        <p>1. Any dispute between a Contracting Party and an investor of another Contracting Party relating to an investment in the territory of the latter Contracting Party, shall, if possible, be settled amicably between the parties to the dispute through consultation and negotiation.</p>
+        <p>2. If any dispute between an investor of one Contracting Party and the other Contracting Party cannot be settled within a period of six (6) months; the investor may submit the case;</p>
+        <p>a) To competent local courts;</p>
+        <p>b) The International Centre for Settlement of Investment Disputes (ICSID) having regard to the applicable provisions of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature at Washington, D.C, On 18 March 1965; or</p>
+        <p>c) An international ad hoc arbitrator or arbitral tribunal established under the Rules of the United Nations Commission on International Trade Law (UNCITRAL). The parties to the dispute may agree in writing to modify these rules. The arbitration award shall be final and binding upon both parties to the dispute.</p>
+        <p>The choice of one of these procedures is final.</p>
+        <p>3. The arbitration award shall be final and binding upon the parties to the dispute. each Contracting Party shall ensure the recognition and enforcement of the decision in accordance with its relevant laws and regulations.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between the contracting parties">
+        <p>1. Any dispute between the Contracting Parties concerning the interpretation or application of this Agreement shall, if possible, be settled through diplomatic channels.</p>
+        <p>2. If any dispute between the Contracting Parties cannot be settled within six months (6) It shall upon the request of either Contracting Party, be submitted to an arbitral tribunal.</p>
+        <p>3. Such an arbitral tribunal shall be constituted for each individual case in the following way. Within two (2) months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the Tribunal.</p>
+        <p>The two members shall then select a national of a third State, who on approval by the two Contracting Parties shall be appointed Chairman of the Tribunal. The Chairman shall be appointed within two (2) months from the date of appointment of the other two members.</p>
+        <p>4. If within the periods specified in paragraph 3 of this article the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. if the Vice-President is a national of either Contracting Party or if he is also prevented from discharging the function, the said member of the International Court of Justice the oldest who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>5. The arbitral tribunal shall reach its decisions by a majority of votes and shall be binding on both contracting parties. each Contracting Party shall assume the costs of its own member of the Tribunal and of its representation in the arbitral proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by the contracting parties.</p>
+        <p>The Tribunal may, however, in its decision that a higher proportion of direct costs shall be borne by one of the two contracting parties, and this decision shall be binding on both contracting parties. the tribunal shall determine its own rules of procedure for all other matters.</p>
+        <p>6. The arbitral tribunal shall make its decision on the basis of this Agreement and any agreement in force between the two parties and international law in general and take into account, as appropriate, the domestic law of the Contracting Party where the investment concerned is located.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>If a Contracting Party or its designated agency makes payment to its own investors by virtue of a guarantee against non-commercial risks it has accorded in respect of an investment made in the territory of the other Contracting Party, the latter Contracting Party shall recognize:</p>
+        <p>a) The assignment of any right or claim of the investor in respect of the first Contracting Party or its designated agency, and also,</p>
+        <p>b) That the first that Contracting Party or its designated agency, is entitled by virtue of subrogation to exercise the rights and that claims of investor and shall assume the obligations related to the investment.</p>
+      </div>
+      <div type="article" num="10" title="Application for investment">
+        <p>This Agreement shall apply to investments made in the territory of each Contracting Party in accordance with its laws and regulations or national policies by investors of the other Contracting Party, before or after the entry into force of this Agreement, but shall not apply to any dispute or any claim concerning an investment born before its entry into force.</p>
+      </div>
+      <div type="article" num="11" title="Consultation and amendment">
+        <p>1. Each Contracting Party may request that consultation be held on any matter that both contracting parties agree to discuss.</p>
+        <p>2. This Agreement may be amended at any time, if deemed necessary, by mutual consent.</p>
+      </div>
+      <div type="article" num="12" title="Entry into force, duration and termination">
+        <p>1. This Agreement shall enter into force thirty (30) days later after the date on which the Governments of the Contracting Parties have notified each other that the constitutional procedures required for the entry into force of this Agreement have been fulfilled. the later date shall refer to the date on which the last notification letter was sent.</p>
+        <p>2. This Agreement shall remain in force for a period of ten (10) years and shall continue for an indefinite period, unless terminated in accordance with paragraph 3 of this article.</p>
+        <p>3. Each Contracting Party shall, after notice in writing one (1) year terminate this Agreement at any time after the date of expiry of the initial period of ten (10) years or at any time thereafter.</p>
+        <p>4. With respect to investments made or acquired prior to the date of termination of this Agreement, the provisions of all of the other articles of this Agreement shall continue to be effective for a period of ten (10) years from the date of termination.</p>
+      </div>
+      <div type="article" num="13" title="Application of other rules and special provisions">
+        <p>1. Where a matter is governed by this Agreement and simultaneously by another international agreement to which both parties are contracting parties, or by general principles of international law, nothing in this Agreement shall prevent either Contracting Party from taking advantage of those rules which are more favourable to his case.</p>
+        <p>2. If the treatment to be accorded by investors of one Contracting Party to the other contracting party, in accordance with its laws and regulations or other specific provisions of contracts is more favourable than that accorded by this Agreement, the more favourable treatment shall be accorded.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Agreement.</p>
+      <p>Done at Algiers on 27 January 2000, in the Arabic, French and English languages, all texts being equally authentic. In the case of divergence of interpretation, the English text shall prevail.</p>
+      <p>For the Government of the People's Democratic Republic of Algeria</p>
+      <p>Youcef YOUSFI.</p>
+      <p>Minister of Foreign Affairs</p>
+      <p>For the Government of Malaysia.</p>
+      <p>Syed Hamid ALBAR</p>
+      <p>Minister of Foreign Affairs</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Nigeria - Uganda BIT (2003)</name>
+    <code>T2003-103</code>
+    <partyisocode n="0">NGA</partyisocode>
+    <partyisocode n="1">UGA</partyisocode>
+    <date_signed>2003-01-15</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>2691</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{NGA,UGA}_2003-01-15.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+  </meta>
+  <main/>
+</treaty>

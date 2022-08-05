@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>France - Morocco BIT (1975)</name>
+    <code>T1975-2</code>
+    <partyisocode n="0">FRA</partyisocode>
+    <partyisocode n="1">MAR</partyisocode>
+    <date_signed>1975-07-15</date_signed>
+    <date_into_force>1976-12-13</date_into_force>
+    <date_terminated>1999-05-30</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>1588</docreference>
+    <comments>OCR</comments>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{FRA,MAR}_1975-07-15.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_REPLACED_BY" document-code="T1996-138">France - Morocco BIT (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-131">EC - Morocco Association Agreement (1996)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the French Republic and the Government of the Kingdom of Morocco on the Protection, encouragement and reciprocal investment</p>
+    </title>
+    <preamble>
+      <p>The Government of the French Republic and the Government of the Kingdom of Morocco,</p>
+      <p>Desiring to promote economic cooperation between the two States and to create favourable conditions for productive investment of nationals of either Contracting Party in the territory of the other party,</p>
+      <p>Recognizing that the protection of productive investment is likely to stimulate private economic initiatives.</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each Contracting Party recognizes and promotes in its territory in accordance with its laws, investments of nationals, natural or legal persons of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting Party shall in its territory fair and equitable treatment to investments by nationals, natural or legal persons of the other party.</p>
+        <p>To this end, each Contracting Party shall accord to such investments the same security and protection of investments as it provides to its own nationals or nationals or juridical persons phyiques or of any other third State.</p>
+        <p>The procedure provided for in the preceding subparagraph does not extend to the privileges granted by either Contracting Party by virtue of its participation in a customs union or association, a common market or a free trade area, or any other form of regional economic organization to nationals, natural or juridical persons of a third State.</p>
+      </div>
+      <div type="article" num="3">
+        <p>The following shall be eligible for prior approval granted by either Contracting Party, within the framework of its laws, productive investments made in its territory by nationals, natural or legal persons of the other party, when they contribute to the social and economic development.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Each Contracting Party shall ensure in compliance with the procedures established by its laws, productive investments of its nationals, whether natural or legal persons, who have been approved in the territory of the other party against the risk of expropriation, nationalization or any other measures taken by the governmental authority having the same effect or character.</p>
+      </div>
+      <div type="article" num="5">
+        <p>The measures of expropriation, nationalization or any other measures of governmental authority having the same nature or the same effect that could be taken by a party against the investments belonging to natural or legal persons who are nationals of the other party, shall not be discriminatory or for reasons other than the public interest.</p>
+        <p>In the event of expropriation, nationalization or any other measures taken by the governmental authority having the same nature or the same effect, each Contracting Party undertakes to pay to nationals of the other party fair and equitable compensation involved.</p>
+        <p>The arrangements for the transfer of the compensation referred to in the preceding paragraph shall be that fixed by the provisions of Article 6 relating to the proceeds of the total or partial liquidation of investments.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The Contracting Parties shall in respect of investments approved the transfer of:</p>
+        <p>The actual net profits, dividends, interests to investors natural or legal persons who are nationals of one of the two countries;</p>
+        <p>Fees and repayments of loans under contracts concluded regularly;</p>
+        <p>The proceeds of the total or partial liquidation of investments.</p>
+        <p>The legal regime governing such transfer shall be that in force at the time of approval for transfers for a period of ten years from the date of approval of investment. however the investor may, at his request, benefit from the system in force at the time of transfer.</p>
+        <p>Such transfer shall be made as soon as permitted by the normal administrative formalities.</p>
+        <p>The exchange rates applicable to transfers that referred to above shall be in force on the date of transfer in the official rate of exchange of the country from which are transfers.</p>
+      </div>
+      <div type="article" num="7">
+        <p>Investments in respect of a particular undertaking of one of the Contracting Parties for nationals, natural or legal persons of the other party shall be governed by the terms of that commitment, insofar as it would be more favourable provisions than those laid down in this Agreement.</p>
+      </div>
+      <div type="article" num="8">
+        <p>Each Party shall facilitate, in accordance with its laws, the ACTI quickly of natural persons who are nationals of the other party when it is necessary to productive investment in its territory.</p>
+      </div>
+      <div type="article" num="9">
+        <p>If one of the Contracting Parties, by virtue of a guarantee given in respect of an investment made in the territory of the other party makes payment to one of its nationals, whether natural or legal persons, it is thereby entered into and outweighed the actions of the national. the rights of subrogation applies to the transfer referred to in articles 5 and 6 above.</p>
+      </div>
+      <div type="article" num="10">
+        <p>Each Party shall accept the jurisdiction of the International Center for Settlement of Investment Disputes (ICSID) for the settlement of disputes which may object to a national of the other party in respect of an investment in productive both prior approval of the first and the second.</p>
+        <p>However, recourse to this body shall be made:</p>
+        <p>- provided that the disputes are of a legal nature and concern the nature or extent of the compensation due for breach of a legal obligation governed by Articles 3 to 7 of this Agreement and</p>
+        <p>- on condition that domestic remedies have been exhausted, this second condition disappearing two years after the date of the first referral to the courts.</p>
+      </div>
+      <div type="article" num="11">
+        <p>Any dispute between the Contracting Parties concerning the interpretation or application of the present Agreement, which cannot be settled through diplomatic channels within six months,</p>
+        <p>It may be submitted at the request of either of the two parties to an arbitral tribunal which shall be constituted in the following manner:</p>
+        <p>Each Contracting Party shall appoint an arbitrator within two months from the date of receipt of the request for arbitration. the two arbitrators thus appointed shall choose, within a period of two months after notification to the party that its arbitrator the latter, a third arbitrator who is a national of a third State.</p>
+        <p>If one of the Contracting Parties has not appointed an arbitrator within the time limit, the other party may Deman der to the Secretary-General of the United Nations to designate. the same shall, at the request of either party, in the absence of agreement on the choice of the third arbitrator by the two arbitrators.</p>
+        <p>The Contracting Parties may agree to designate in advance for a period of five years and may be reappointed, the person nalit&#xE9; which will, in the event of a dispute, as the third arbitrator.</p>
+        <p>The tribunal shall determine its own rules of procedure.</p>
+        <p>The decision of the arbitral tribunal shall be final and binding.</p>
+      </div>
+      <div type="article" num="12">
+        <p>Are only eligible under the provisions of this Agreement productive investment which will take place after the date of its entry into force.</p>
+      </div>
+      <div type="article" num="13">
+        <p>Each Party shall notify the other of the completion of the formalities required in its territory for the entice into force of this Agreement. this Agreement shall enter into force on the date of the later of these notifications.</p>
+        <p>This agreement is concluded for a period of ten years and may be reappointed for the same period, unless terminated in writing by either Contracting Party one year before the expiry of each period.</p>
+        <p>In the event of termination, the present Agreement shall continue to apply to investments made during the period of its validity.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Rabat on 15 July 1975 in duplicate in the Arabic and English languages, both being equally authentic.</p>
+      <p>For the Government of the French Republic:</p>
+      <p>J.-P. Fourcade.</p>
+      <p>Te for Government of the Kingdom of Morocco:</p>
+      <p>Abdel Kader Benslimane.</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" title="Exchange of letters">
+        <p>Rabat on 15 July 1975.</p>
+        <p>Sir,</p>
+        <p>During the negotiations that led to the signing of this day of Te agreement between the Government of the Kingdom of Morocco and the Government of Ta French Republic on the Protection, the encouragement and reciprocal investments, his delegation asked for clarification of the term "legal person" contained in article 1 of this Agreement.</p>
+        <p>In order to address that concern, I have the honour to propose that for the implementation of the Agreement, shall mean any juridical person in the territory of one of the Contracting Parties in accordance with their legislation and having its registered office.</p>
+        <p>Legal entities which does not comply with this tentative defined by mutual agreement may however be equivalent to those referred to in the preceding subparagraph.</p>
+        <p>I would be grateful me whether these proposals have the agreement of your Government.</p>
+        <p>Please accept. Sir, the assurances of my highest consideration.</p>
+        <p>J.-P. Fourcade.</p>
+        <p/>
+        <p>On 15 iuillet Rabat 1975</p>
+        <p>Sir,</p>
+        <p>I have the honour to acknowledge receipt of your letter of today's date worded as follows:</p>
+        <p>"during the talks leading to the signing &#xEE;c, date of the Agreement between the Government of the Kingdom of Morocco and the Government of the French Republic on the Protection, the encouragement and reciprocal investment, his delegation had requested clarification of the meaning of legal person" "contained in article 1 of this Agreement.</p>
+        <p>In order to address that concern, I have the honour to propose that for the implementation of the Agreement, shall mean any juridical person in the territory of one of the Contracting Parties in accordance with their legislation and having its registered office.</p>
+        <p>Legal entities which has the definition would not be satisfied by mutual agreement may however be equivalent to those referred to in the preceding paragraph.</p>
+        <p>I would be grateful silent whether these proposals have the agreement of your Government.</p>
+        <p>I have the honour to confirm that they face my Government's agreement.</p>
+        <p>Please accept, Sir, the assurances of my highest consideration.</p>
+        <p>Abdel Kader Benslimane.</p>
+        <p/>
+        <p>Rabat on 15 July 1975.</p>
+        <p>Sir,</p>
+        <p>During the negotiations leading to the signing of the agreement between our two Governments on the Protection, the encouragement and reciprocal Ta guarantee investissements. you asked me, with the aim of creating the most favourable conditions for investment in Morocco, to confirm the provisions of the Government of Morocco in respect of investments made prior to the signature of the Agreement.</p>
+        <p>I have the honour to inform you that the Government of Morocco will continue to ensure fair and equitable treatment to investments belonging to nationals, whether natural or legal persons, the French Republic, regardless of the date on which the investment has been made.</p>
+        <p>I should be grateful if you could inform me of the agreement of your Government to the terms of the present letter.</p>
+        <p>Abdel Kader Benslimane.</p>
+        <p/>
+        <p>Rabat on 15 July 1975.</p>
+        <p>Sir,</p>
+        <p>I have the honour to acknowledge receipt of your letter of today's date worded as follows:</p>
+        <p>"on the occasion of the negotiations leading to the signing of the agreement between our two Governments on the Protection, the encouragement and reciprocal investment, you asked me, with the aim of creating the most favourable conditions for investment in Morocco, to confirm the provisions of the Government of Morocco in respect of investments made prior to the signature of the Agreement.</p>
+        <p>I have the honour to inform you that the Government of Morocco will continue to ensure fair and equitable treatment to investments belonging to nationals, whether natural or legal persons, the French Republic, regardless of the date on which the investment has been made.</p>
+        <p>I should be grateful if you could inform me of the agreement of your Government to the terms of the present letter ".</p>
+        <p>I have the honour to confirm that these proposals Ren addressing the understanding of my Government.</p>
+        <p>Please accept, Sir, the assurances of my highest consideration.</p>
+        <p>J.-P. Fourcade.</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

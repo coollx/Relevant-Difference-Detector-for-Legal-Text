@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Egypt - United Arab Emirates BIT (1988)</name>
+    <code>T1988</code>
+    <partyisocode n="0">ARE</partyisocode>
+    <partyisocode n="1">EGY</partyisocode>
+    <date_signed>1988-07-19</date_signed>
+    <date_into_force>1998-03-02</date_into_force>
+    <date_terminated>1999-01-11</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ar</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>1416</docreference>
+    <comments/>
+    <source>http://www.arablegalportal.org/</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ARE,EGY}_1988-07-19.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>ar</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T1997-7">Egypt - United Arab Emirates BIT (1997)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on Trade, Economic and Technical Cooperation and Investment Promotion Between The Government of The Arab Republic of Egypt and Government of The State of the United Arab Emirates</p>
+    </title>
+    <preamble>
+      <p>The Government of the Arab Republic of Egypt and the Government of the State of the United Arab Emirates, desiring to strengthen the bonds of friendship between them, and fostering and developing trade, economic and technical cooperation between the two brotherly countries on the basis of mutual interests, their reciprocal benefit, and providing the appropriate conditions for the promotion of investments in both countries, have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>The Contracting Parties shall promote the free export and import of agricultural and industrial products, livestock and natural resources of local origin from and to the other party, provided that that domestic regulations do not prohibit the import and export of these products. In addition, the parties shall seek to grant all possible facilities to support the movement of imports and exports between the countries.</p>
+      </div>
+      <div type="article" num="2">
+        <p>The Contracting Parties shall promote the transport of traded goods between them through the means of transport available to each of them, whenever possible.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Each Contracting Party shall work on participating in exhibitions and international markets held in the other party. In addition, each party shall allow the other party to hold exhibitions in its territory and shall provide it with all the necessary facilities to carry out the same, within the limits of the applicable laws and regulations in each of them.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Each Contracting Party shall work on promoting cooperation and the exchange of visits between commercial and industrial chambers, and other similar institutions, including between businessmen in both countries.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party shall promote cooperation between its institutions and governmental and private agencies of a technical nature, and the exchange of experts and technicians of its nationals to provide technical assistance. The Contracting Parties shall also work on providing training and qualification opportunities to their nationals in economic and technical fields, and shall work on coordinating their efforts in research and economic and technical studies.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The economic and technical cooperation referred to in this agreement shall include the fields of agriculture, livestock, fisheries, industry, energy, transport, construction and any other field to be agreed upon in the future.</p>
+      </div>
+      <div type="article" num="7">
+        <p>A. Each Contracting Party shall promote the movement of capital between their countries subject to the provisions of the Unified Agreement for the Investment of Arab Capital in the Arab States.</p>
+        <p>B. Neither Contracting Party shall have the right to expropriate the investments of the other party or its nationals invested within its boundaries, except against fair and prompt compensation in the same currency of the original invested capital.</p>
+        <p>C. Capital invested by either Contracting Party or its nationals in the territory of the other party shall be granted all the rights, privileges, facilities and guarantees contained in the Unified Agreement for the Investment of Arab Capital in the Arab States completed within the scope of the League of Arab States.</p>
+        <p>D. Each Contracting Party shall guarantee to the natural and legal persons of the other party who invest in its territory the free transfer of interest and annual net profits, in addition to the retransfer of capital in the same currency in which it was invested in the beginning.</p>
+        <p>E. The provisions of the Unified Agreement for the Investment of Arab Capital in the Arab States shall apply to all disputes regarding investments of either Contracting Party or its nationals. The dispute shall be examined by an arbitral tribunal established upon the agreement of both parties.</p>
+      </div>
+      <div type="article" num="8">
+        <p>A. To promote manufacturing, urban and tourism projects in both countries, the Contracting Parties shall provide all the facilities for the establishment of joint companies and organizations to operate in various economic fields in each of them.</p>
+        <p>B. The joint companies and organizations referred to in Paragraph (A) above shall be free to export their products and determine their prices. The Contracting Parties shall, when necessary, exchange lists of goods subject to export and pricing licensing.</p>
+      </div>
+      <div type="article" num="9">
+        <p>For the purpose of this agreement, transactions are to be done in any freely convertible currency.</p>
+      </div>
+      <div type="article" num="10">
+        <p>A joint committee of representatives of both countries shall be established for the proper enforcement of this agreement and to provide recommendations and suggestions in its regard.</p>
+        <p>The joint committee shall hold a meeting annually or upon the request of either Contracting Party, in Cairo or Abu Dhabi, alternately, and its recommendations shall be considered effective following ratification by the competent authorities in both countries.</p>
+        <p>This agreement shall enter into force from the date of exchange of the ratification documents, for a period of five years, renewable automatically, unless either party notifies the other party in writing of its desire to terminate it six months in advance. This agreement shall continue to apply to investments made during its validity until the rights related to it have been liquidated within the period necessary for liquidation, which is to be agreed upon between the Contracting Parties.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>This agreement was signed in Abu Dhabi &#x2013; Tuesday Thi Al Hejah 1408 Hijri, corresponding to 19 July 1988, in two originals in Arabic, each party retains one.</p>
+      <p>For the Government of the Arab Republic of Egypt</p>
+      <p>Dr. Yousri Ali Mostafa</p>
+      <p>Minister of Economy and Foreign Trade</p>
+      <p>For the Government of the State of the United Arab Emirates</p>
+      <p>Seif Ali Aljrwan</p>
+      <p>Minister of Economy and Trade</p>
+    </conclusion>
+  </main>
+</treaty>

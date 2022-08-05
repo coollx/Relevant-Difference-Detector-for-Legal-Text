@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Libya - Tunisia BIT (2005)</name>
+    <code>T2005-78</code>
+    <partyisocode n="0">LBY</partyisocode>
+    <partyisocode n="1">TUN</partyisocode>
+    <date_signed>2005-02-19</date_signed>
+    <date_into_force>2006-05-22</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <relation type="IT_REPLACING" document-code="T1973-10">Libya - Tunisia BIT (1973)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1990-68">Arab Maghreb Union Investment Agreement (1990)</relation>
+  </meta>
+  <main/>
+</treaty>

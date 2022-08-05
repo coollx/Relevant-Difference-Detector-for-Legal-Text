@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Egypt - France BIT (1974)</name>
+    <code>T1974-7</code>
+    <partyisocode n="0">EGY</partyisocode>
+    <partyisocode n="1">FRA</partyisocode>
+    <date_signed>1974-12-22</date_signed>
+    <date_into_force>1975-10-01</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>1343</docreference>
+    <comments/>
+    <source>https://www.senat.fr/leg/1974-1975/i1974_1975_0409.pdf</source>
+    <rev_date_into_force/>
+    <rev_date_signed>1986-03-20</rev_date_signed>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{EGY,FRA}_1974-12-22.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_OVERLAP" document-code="T2001-112">EC - Egypt Association Agreement (2001)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE FRENCH REPUBLIC AND THE GOVERNMENT OF THE ARAB REPUBLIC OF EGYPT ON THE RECIPROCAL ENCOURAGEMENT AND PROTECTION OF INVESTMENTS&nbsp;</p>
+    </title>
+    <preamble>
+      <p>The Government of the French Republic and the Government of the Arab Republic of Egypt</p>
+      <p>Wishing to develop the economic cooperation between the two States and to create favorable conditions for French investments in Egypt and Egyptians investments in France,</p>
+      <p>Convinced that the promotion and protection of such investments will be conducive to stimulating the movement of capital between the two countries in the interest of their economic development,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The term "investment" means assets of every kind and particularly but not limited to:</p>
+        <p>a) Movable and immovable property as well as any other rights in rem such as mortgages, liens, usufruits, deposits and similar rights;</p>
+        <p>b) Shares and other forms of participation by the same minority indirect or to companies established in the territory of one of the Contracting Parties;</p>
+        <p>c) Claims and rights to any performance having an economic value;</p>
+        <p>d) Copyright, industrial property rights, technical processes, registered names and goodwill;</p>
+        <p>e) Industrial concessions granted by law or under contract, including concessions to search for, culture, extract or exploit natural resources including those situated on the continental shelf,</p>
+        <p>Provided that such assets are invested in accordance with the law of the Contracting Party in whose territory the investment is made before or after the entry into force of this Agreement.</p>
+        <p>Any alteration of the form in which assets are invested shall not affect their classification as investment, provided that such change is not contrary to the legislation of the State in whose territory the investment is made or to the approval granted to the initial investment.</p>
+        <p>2. The term "nationals" means natural persons having the nationality of one of the Contracting Parties.</p>
+        <p>3. The term "companies" juridical means any person in the territory of one of the Contracting Parties in accordance with its law and having its registered office.</p>
+        <p>4. The term "returns" means the amounts reported by during any period of time such as an investment, profits, dividends or interests.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting Party shall promote investments made in its territory by nationals and companies of the other party.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Each Contracting Party undertakes to provide in its territory fair and equitable treatment to investments of nationals and companies of the other party and to ensure the enjoyment of the right thus recognized is hampered in either law or in fact.</p>
+        <p>This treatment shall be at least equal to that granted by each Contracting Party to its own nationals or companies or to the treatment accorded to nationals or companies of the most favoured nation, if the latter shall prevail.</p>
+        <p>It shall not, however, extend to privileges which a Contracting Party grants, by virtue of its participation in or association with a customs union, a common market or a free trade area, to nationals and companies of a third State. </p>
+      </div>
+      <div type="article" num="4">
+        <p>Neither Contracting Party shall take measures of expropriation, nationalization or dispossession, other direct or indirect, against investments of nationals or companies of the other Contracting Party except for a public purpose and provided that they are neither discriminatory nor contrary to a specific engagement.</p>
+        <p>The dispossession measures that might be taken shall be subject to the payment of just compensation which shall correspond to the real value on the day of dispossession of the expropriated property rights and interests.</p>
+        <p>This right in the amount and terms of payment will be set at the latest from the date of dispossession must effectively be realizable. It shall be paid without delay and freely transferable.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party in whose territory investments have been made by nationals or companies of the other Contracting Party shall accord to such nationals or companies the free transfer of:</p>
+        <p>a) Income;</p>
+        <p>b) Royalties arising out of intangible rights referred to in Article 1 (1) (d) and (e);&nbsp;</p>
+        <p>c) Payments made for the reimbursement of borrowings;</p>
+        <p>d) The proceeds of the sale of or the partial or total liquidation of the investment including capital gains or increases in the capital invested;</p>
+        <p>e) Compensation of dispossession provided for in article 4 above.</p>
+        <p>The nationals of either Contracting Party who have been authorised to work in the territory of the other Contracting Party shall also be authorised to transfer to their countries of origin an appropriate quantity of remuneration, in accordance with the legislation of each of the Contracting Parties.</p>
+        <p>The transfers referred to in the preceding paragraphs shall be effected without delay and at the official exchange rate applicable on the date of transfer.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Companies and nationals of either Contracting Party shall not be subject in the territory of the other party to the rights, duties and taxes or contributions, any other description or higher than those levied on the companies and nationals of that Party under the same conditions.</p>
+      </div>
+      <div type="article" num="7">
+        <p>Each Contracting Party agrees to submit to the International Centre for Settlement of Investment Disputes (ICSID), the dispute may object to a national or a company of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="8">
+        <p>Insofar as the regulations of one of the Contracting Parties provide for a guarantee for investments made abroad, such guarantee may be granted, on a case-by-case basis, to investments made in the territory of the other Party by nationals or companies of that Party.</p>
+        <p>The investments of nationals and companies of one of the Contracting Parties in the territory of the other Party may not obtain the guarantee referred to in the preceding paragraph unless they have first obtained the approval of the latter Party and have been the subject of a special undertaking on the part of the latter with regard to such nationals or companies, including recourse to the International Centre for the Settlement of Investment Disputes, if, in the event of a dispute, an amicable agreement has not been reached within three months.</p>
+      </div>
+      <div type="article" num="9">
+        <p>If one of the Contracting Parties, by virtue of a guarantee given in respect of an investment made in the territory of the other party makes its payment to one of its nationals or companies, it is thereby entered into the rights and claims of the national or company. The rights of subrogation shall also apply to the transfer of rights referred to in article 5 above.</p>
+        <p>However, in the case of investments referred to in Article 8 of this Agreement, if an action has been brought before ICSID, subrogation to its own nationals and companies of the Contracting Party which has made payments to them shall apply only to the rights recognized to them by the decision of that court.&nbsp;</p>
+      </div>
+      <div type="article" num="10">
+        <p>Investments in respect of a particular undertaking of one of the Contracting Parties, in respect of nationals and companies of the other party shall be governed by the terms of that commitment, insofar as it would include provisions more favourable than those provided for by this Agreement.</p>
+      </div>
+      <div type="article" num="11">
+        <p>Any dispute concerning the interpretation or application of this Agreement which cannot be settled through diplomatic channels within six months may be submitted at the request of either of the two Contracting Parties to an arbitral tribunal which shall be constituted in the following manner:</p>
+        <p>Each Contracting Party shall appoint an arbitrator within one month from the date of receipt of the request for arbitration. the two arbitrators thus appointed shall choose, within a period of two months after notification to the party that its arbitrator the latter, a third arbitrator who is a national of a third State.</p>
+        <p>If one of the Contracting Parties has not appointed an arbitrator within the time limit, the other party may request the Secretary-General of the United Nations to designate. the same shall, at the request of either party, in the absence of agreement on the choice of the third arbitrator by the two arbitrators.</p>
+        <p>The Contracting Parties may agree in advance to designate, for a period of five years and may be reappointed, the individual who perform, in the event of a dispute, as the third arbitrator. the decision of the arbitral tribunal shall be final and binding.</p>
+        <p>The tribunal shall determine its own rules of procedure.</p>
+      </div>
+      <div type="article" num="12">
+        <p>The first two exchanges of letters annexed to this Agreement shall form an integral part thereof.</p>
+      </div>
+      <div type="article" num="13">
+        <p>This Agreement shall enter into force on the first day of the second month following the exchange of instruments of ratification or approval.</p>
+        <p>This agreement is concluded for an initial period of ten years and shall continue in force thereafter the term unless one of the Contracting Parties denounces through diplomatic channels with one year notice.</p>
+        <p>In the event of termination, the present Agreement shall continue to apply to investments made during the period of its validity.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>For the Government of the French Republic: </p>
+      <p>Jean Sauvagnargues </p>
+      <p>For the Government of the Arab Republic of Egypt: </p>
+      <p>Ismail Fahmi.</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" title="EXCHANGE OF LETTERS N&#xB0; 1">
+        <p>ARAB REPUBLIC OF EGYPT</p>
+        <p>The Minister of Foreign Affairs.</p>
+        <p>December 22, 1974.</p>
+        <p>To His Excellency Mr. Jean Sauvagnargues,</p>
+        <p>Minister of Foreign Affairs of the French Republic.</p>
+        <p>Mr. Minister,</p>
+        <p>I have the honour to propose to you that, for the application of the present Convention, the expression "without delay" used in Article 5 shall mean that the transfer shall be effected as rapidly as the normal administrative formalities permit and in any event within two months of the deposit of the request for transfer. However, this term shall not preclude the right of each Party to provide for the split transfer of the proceeds of liquidation in the event of liquidation of an investment. The term "without delay" as used in Article 5 shall apply in such case to each of the partial transfers provided for by the regulations of the country where the investment has been liquidated.</p>
+        <p>In any event, the spread of transfers in the event of liquidation shall not exceed five years and the amounts transferred annually shall not be less than one-fifth of the total amount to be transferred.</p>
+        <p>I would be grateful if you could confirm your agreement to the above.</p>
+        <p>Please accept, Mr. Minister, the assurance of my highest consideration.</p>
+        <p>ISMAIL FAHMI </p>
+        <p>FRENCH REPUBLIC</p>
+        <p>The Minister of Foreign Affairs.</p>
+        <p>To His Excellency Ismail Fahmi, Minister of Foreign Affairs of the Arab Republic of Egypt.</p>
+        <p>Mr. Minister,</p>
+        <p>I have the honor to acknowledge receipt of your letter of today's date which reads as follows</p>
+        <p>"I have the honour to propose to you that for the application of the present Convention, the expression "without delay" used in Article 5 shall mean that the transfer shall be effected as rapidly as normal administrative formalities permit and in any case within two months of the filing of the request for transfer. However, this term shall not preclude the right of each Party to provide for the split transfer of the proceeds of liquidation in the event of liquidation of an investment. The term "without delay" as used in Article 5 shall apply in such case to each of the partial transfers provided for by the regulations of the country where the investment has been liquidated.</p>
+        <p>In any event, the spread of transfers in the event of liquidation shall not exceed five years and the amounts transferred annually shall not be less than one-fifth of the total amount to be transferred.</p>
+        <p>I would be grateful if you could confirm your agreement to the above.</p>
+        <p>I have the honour to confirm my agreement to this text.</p>
+        <p>Please accept, Mr. Minister, the assurance of my highest consideration.</p>
+        <p>JEAN SAUVAGNARGUES. </p>
+      </div>
+      <div type="annex" title="EXCHANGE OF LETTERS N&#xB0; 2">
+        <p>ARAB REPUBLIC OF EGYPT</p>
+        <p>The Minister of Foreign Affairs.</p>
+        <p>To His Excellency Mr. Jean Sauvagnargues,</p>
+        <p>Minister of Foreign Affairs of the French Republic.</p>
+        <p>Mr. Minister,</p>
+        <p>I have the honor to inform you that in order to encourage investments by French companies and nationals in the territory of the Arab Republic of Egypt prior to the entry into force of the Convention between the Government of the Arab Republic of Egypt and the Government of the French Republic on the reciprocal encouragement and protection of investments signed today, the Government of the Arab Republic of Egypt will provisionally apply the provisions of this Convention as of today.</p>
+        <p>The present declaration has no other purpose than to enable the French Government to guarantee the investments which would be made by French companies or nationals in the Arab Republic of Egypt before the entry into force of the Convention.</p>
+        <p>Please accept, Sir, the assurance of my highest consideration.</p>
+        <p>ISMAIL FAHMI. </p>
+        <p>FRENCH REPUBLIC</p>
+        <p>The Minister of Foreign Affairs.</p>
+        <p>To His Excellency Mr. Ismail Fahmi, Minister of Foreign Affairs of the Arab Republic of Egypt.</p>
+        <p>Mr. Minister,</p>
+        <p>I have the honor to acknowledge receipt of your letter of today as follows:</p>
+        <p>"I have the honor to inform you that in order to encourage investments by French companies and nationals in the territory of the Arab Republic of Egypt prior to the entry into force of the Convention between the Government of the Arab Republic of Egypt and the Government of the French Republic on the reciprocal encouragement and protection of investments signed today, the Government of the Arab Republic of Egypt will provisionally apply the provisions of this Convention as of today.</p>
+        <p>The present declaration has no other purpose than to enable the French Government to guarantee the investments which would be made by French companies or nationals in the Arab Republic of Egypt before the entry into force of the Convention.</p>
+        <p>I beg you to accept, Sir, the assurance of my highest consideration.</p>
+        <p>Please accept, Sir, the assurance of my highest consideration.</p>
+        <p>JEAN SAUVAGNARGUES.</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

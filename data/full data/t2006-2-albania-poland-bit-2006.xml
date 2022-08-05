@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Albania - Poland BIT (2006)</name>
+    <code>T2006-2</code>
+    <partyisocode n="0">ALB</partyisocode>
+    <partyisocode n="1">POL</partyisocode>
+    <date_signed>2006-11-01</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>32</docreference>
+    <comments>listed at UNCTAD but text not available</comments>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ALB,POL}_2006-11-01.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_REPLACING" document-code="T1993-4">Albania - Poland BIT (1993)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2006-1">Albania - EC Association Agreement (2006)</relation>
+    <relation type="IT_REPLACING" document-code="T1993-4">Albania - Poland BIT (1993)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2006-1">Albania - EC Association Agreement (2006)</relation>
+  </meta>
+  <main/>
+</treaty>

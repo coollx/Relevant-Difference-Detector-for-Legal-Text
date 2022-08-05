@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Austria - Kazakhstan BIT (2010)</name>
+    <code>T2010-3</code>
+    <partyisocode n="0">AUT</partyisocode>
+    <partyisocode n="1">KAZ</partyisocode>
+    <date_signed>2010-01-12</date_signed>
+    <date_into_force>2012-12-21</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>250</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{AUT,KAZ}_2010-01-12.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1995-112">EC - Kazakhstan Cooperation Agreement</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2015-22">EU - Kazakhstan EPCA</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement for the Promotion and Reciprocal Protection of Investment between the Government of the Republic of Austria and the Government of the Republic of Kazakhstan</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Austria and the Government of the Republic of Kazakhstan, hereinafter referred to as "Parties",</p>
+      <p>Recognising that agreement upon the treatment to be accorded to investors and their investments will contribute to the efficient utilisation of economic resources, the creation of employment opportunities and the improvement of living standards;</p>
+      <p>Emphasising that fair, transparent and predictable investment regimes based on the rule of law both complement and benefit the world trading system;</p>
+      <p>Desiring to strengthen their ties of friendship and to promote greater economic co-operation between them with respect to investment by nationals and enterprises of one Party in the territory of the other;</p>
+      <p>Emphasising the necessity for all governments and civil actors alike to adhere to international anti corruption efforts, most notably the UN Convention against Corruption (2003);</p>
+      <p>Acknowledging that investment agreements and multilateral agreements on the protection of environment, human rights or labour rights are meant to foster global sustainable development and that any possible inconsistencies there should be resolved without relaxation of standards of protection;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement</p>
+        <p>(1) "investor of a Party" means: (a) A natural person having the effective nationality of a Party in accordance with its applicable law making or having made an investment in the other Party's territory, or</p>
+        <p>(b) A legal person, constituted or organised under the applicable law of a Party, whether or not for profit, and whether private or government owned or controlled, e.g. a corporation, partnership, joint venture, enterprise or any other association, as well as a trust, a sole proprietorship, or a branch located in the territory of a Party and carrying out substantive business there, making or having made an investment in the other Party's territory.</p>
+        <p>(2) "investment by an investor of a Party" means every kind of assets in the territory of one Party, owned or controlled, directly or indirectly, by an investor of the other Party. Investments are understood to have specific characteristics such as the commitment of capital or other resources, or the expectation of gain or profit, or the assumption of risk, and include in particular:</p>
+        <p>(a) A legal person as defined in subparagraph (1) (b) of this Article;</p>
+        <p>(b) Shares, stocks and other forms of equity participation in an enterprise as referred to in subparagraph (2) (a) of this Article, and rights derived there from;</p>
+        <p>(c) Bonds, debentures, loans and other forms of debt instruments and rights derived there from;</p>
+        <p>(d) Any right or claim to money or performance whether conferred by law or contract, including turnkey construction, management or revenue-sharing contracts, and concessions, licences, authorisations or permits to undertake an economic activity;</p>
+        <p>(e) Intellectual property rights and intangible assets having an economic value, including industrial property rights, copyright, trademarks, trade dresses; patents, geographical indications, industrial designs and technical processes, trade secrets, trade names, know-how and goodwill;</p>
+        <p>(f) Any other tangible or intangible, movable or immovable property, or any related property rights, such as leases, mortgages, liens, pledges or usufructs.</p>
+        <p>(3) "returns" means the amounts yielded by an investment including profits, interests, capital gains, dividends, royalties, licence fees, management fees, technical assistance fees and other fees.</p>
+        <p>(4) "without delay" means such period as is normally required for the completion of necessary formalities for the payments of compensation or for the transfer of payments. This period shall commence for payments of compensation on the day of expropriation and for transfers of payments on the day on which the request for transfer has been submitted. It shall in no case exceed one month.</p>
+        <p>(5) "territory" means with respect to either of the Parties, the land territory, internal waters, maritime and airspace under its state sovereignty, including internal waters, the territorial sea, the exclusive economic zone and the continental shelf where the Republic of Austria and the Republic of Kazakhstan respectively exercises jurisdiction, in conformity with international law,</p>
+        <p>(6) "New York Convention" means the United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted in New York on June 10, 1958.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and admission of investment">
+        <p>(1) Each Party shall, according to its applicable law, promote and admit investments by investors of the other Party.</p>
+        <p>(2) Any alteration of the form in which assets are invested or reinvested shall not affect their character as an investment provided that such alteration is in accordance with the applicable law of the Party in whose territory the investments were made.</p>
+      </div>
+      <div type="article" num="3" title="Treatment of investments">
+        <p>(1) Each Party shall accord to investments by investors of the other Party fair and equitable treatment and full and constant protection and security.</p>
+        <p>(2) A Party shall not unduly or discriminatory impair the management, operation, maintenance, use, enjoyment, sale and liquidation of an investment by investors of the other Party.</p>
+        <p>(3) Each Party shall accord to investors of the other Party and to their investments or returns treatment no less favourable than that it accords to its own investors and their investments or to investors of any third State and their investments or returns with respect to the management, operation, maintenance, use, enjoyment, sale and liquidation as well as dispute settlement of their investments or returns, whichever is more favourable to the investor.</p>
+        <p>(4) No provision of this Agreement shall be construed</p>
+        <p>(a) As to prevent a Party from taking any action in pursuance of its obligations under the United Nations Charter for the maintenance of international peace and security;</p>
+        <p>(b) As to prevent a Party from fulfilling its obligations as a member of an economic integration agreement such as a free trade area, customs union, common market, economic community, monetary union, e.g. the European Union, or as to oblige a Party to extend to the investors of the other Party and to their investments or returns the present or future benefit of any treatment, preference or privilege by virtue of its membership in such an agreement or any multilateral agreement on investment;</p>
+        <p>(c) As to oblige a Party to extend to the investors of the other Party and to their investments or returns the present or future benefit of any treatment, preference or privilege resulting from obligations of a Party under an international agreement, international arrangement or national legislation regarding taxation.</p>
+      </div>
+      <div type="article" num="4" title="Investment and environment">
+        <p>The Parties do not encourage an investment by weakening the requirements of its national legislation in the field of environment.</p>
+      </div>
+      <div type="article" num="5" title="Labour laws">
+        <p>(1) The Parties do not encourage an investment by weakening the requirements of its national legislation in the field of labour.</p>
+        <p>(2) For the purposes of this Article, national legislation in the field of labour is directly related to the following internationally recognised labour rights:</p>
+        <p>(a) The right of association;</p>
+        <p>(b) The right to organise and to bargain collectively;</p>
+        <p>(c) A prohibition on the use of any form of forced or compulsory labour;</p>
+        <p>(d) Labour protections for children and young people, including a minimum age for the employment of children and the prohibition and elimination of the worst forms of child labour,</p>
+        <p>(e) Acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health,</p>
+        <p>(f) Elimination of discrimination in employment and occupation.</p>
+      </div>
+      <div type="article" num="6" title="Transparency">
+        <p>(1) Each Party shall promptly publish in accordance with its national legislation and otherwise make publicly available, its laws, regulations, procedures, as well as international agreements which may affect the operation of the Agreement.</p>
+        <p>(2) Each Party shall promptly respond to specific questions and provide, upon request, information to the other Party on any measures and matters referred to in paragraph (1) of this Article.</p>
+        <p>(3) No Party shall be required to furnish or allow access to information concerning particular investors or investments the disclosure of which would impede law enforcement or would be contrary to its laws and regulations protecting confidentiality.</p>
+      </div>
+      <div type="article" num="7" title="Expropriation and compensation">
+        <p>(1) A Party shall not expropriate or nationalise directly or indirectly an investment of an investor of the other Party or take any measures having equivalent effect (hereinafter referred to as expropriation) except:</p>
+        <p>(a) For a purpose which is in the public interest,</p>
+        <p>(b) On a non-discriminatory basis,</p>
+        <p>(c) In accordance with due process of law,</p>
+        <p>(d) Accompanied by payment of prompt, adequate and effective compensation in accordance with paragraphs (2) and (3) of this Article.</p>
+        <p>(2) Compensation shall:</p>
+        <p>(a) Be paid without delay. In case of delay any exchange rate loss arising from this delay shall be borne by the host State.</p>
+        <p>(b) Be equivalent to the fair market value of the expropriated investment before the expropriation occurred. The fair market value shall not reflect any change in value occurring because the expropriation had become publicly known earlier.</p>
+        <p>(c) Be paid and made freely transferable to the State designated by the claimants concerned and in the currency of the State of which the claimants are nationals or in any freely convertible currency accepted by the claimants.</p>
+        <p>(d) Include interest at a commercial rate established on a market basis for the currency of payment from the date of expropriation until the date of actual payment.</p>
+        <p>(3) An investor of a Party which claims to be affected by expropriation by the other Party shall have the right to prompt review of its case, including the valuation of its investment and the payment of compensation in accordance with the provisions of this Article, by a judicial authority or another competent and independent authority of the latter Party.</p>
+      </div>
+      <div type="article" num="8" title="Compensation for losses">
+        <p>(1) An investor of a Party who has suffered a loss relating to its investment in the territory of the other Party due to war or to other armed conflict, state of emergency, revolution, insurrection, civil disturbance, or any other similar event, or acts of God or force majeure, in the territory of the latter Party, shall be accorded by the latter Party, as regards restitution, indemnification, compensation or any other settlement, treatment no less favourable than that which it accords to its own investors or to investors of any third state, whichever is most favourable to the investor.</p>
+        <p>(2) An investor of a Party who in any of the events referred to in paragraph (1) of this Article suffers loss resulting from:</p>
+        <p>(a) Requisitioning of its investment or part thereof by the authorities or forces acting on the territory of the other Party, or</p>
+        <p>(b) Destruction of its investment or part thereof by the forces or authorities of the other Party, which was not required by the necessity of the situation,</p>
+        <p>Shall in any case be accorded by the latter Party restitution or compensation which in either case shall be prompt, adequate and effective and, with respect to compensation, shall be in accordance with paragraphs 2 and 3 of Article 7 of this Agreement.</p>
+      </div>
+      <div type="article" num="9" title="Transfers">
+        <p>(1) Each Party, on whose territory the investments are made, after fulfilling all tax obligations by the investor, in accordance with the national legislation of that Party, shall ensure free transfer of payments relating to an investment which include, in particular, but not exclusively:</p>
+        <p>(a) The initial capital and additional amounts to maintain or increase an investment;</p>
+        <p>(b) Returns;</p>
+        <p>(c) Payments made under a contract including a loan agreement;</p>
+        <p>(d) Proceeds from the sale or liquidation of all or any part of an investment;</p>
+        <p>(e) Payments of compensation under Articles 7 and 8 of this Agreement;</p>
+        <p>(f) Payments arising out of the settlement of a dispute;</p>
+        <p>(g) Earnings and other remuneration of personnel engaged from abroad in connection with an investment.</p>
+        <p>(2) Each Party shall further guarantee that such transfers may be made in a freely convertible currency at the market rate of exchange prevailing on the date of transfer in the territory of the Party from which the transfer is made.</p>
+        <p>(3) In the absence of a market for foreign exchange, the rate to be used shall be the most recent exchange rate for conversion of currencies into Special Drawing Rights of the International Monetary Fund (IMF).</p>
+        <p>(4) Notwithstanding paragraphs (1) &#x2013; (3) of this Article and without prejudice to measures adopted by a Party in pursuance of its international obligations as mentioned in paragraph 4 of Article 3 of this Agreement, a Party may also prevent a transfer through the equitable, non-discriminatory and good faith application of laws and regulations on bankruptcy, insolvency or the protection of rights of creditors, on the issuing, trading and dealing in securities, futures, options and derivatives, on reports or records of transfer, on the prevention of money laundering or terrorist financing, or in connection with criminal offences and orders or judgements in administrative and adjudicatory proceedings, provided that such measures and their application shall not be used as a means of avoiding the Party's commitments or obligations under this Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Subrogation">
+        <p>If a Party or its designated agency makes a payment under an indemnity, guarantee or contract of insurance given in respect of an investment by an investor in the territory of the other Party, the latter Party shall recognise without prejudice to the rights of the investor under Articles 13-18 of this agreement the assignment of any right or claim of such investor to the former Party or its designated agency and the right of the former Party or its designated agency to exercise by virtue of subrogation any such right and claim to the same extent as its predecessor in title.</p>
+      </div>
+      <div type="article" num="11" title="Other obligations">
+        <p>(1) Each Party shall observe any obligation it may have entered into with regard to specific investments by investors of the other Party.</p>
+        <p>This means, amongst others, that the breach of a contract between the investor and the host State will amount to a violation of this Agreement. (2) If the law of either Party or obligations under international law existing at present or established hereafter between the Parties in addition to the present Agreement contain rules, whether general or specific, entitling investments by investors of the other Party to a treatment more favourable than is provided for by the present Agreement, such rules shall to the extent that they are more favourable prevail over the present Agreement.</p>
+      </div>
+      <div type="article" num="12" title="Denial of benefits">
+        <p>A Party may deny the benefits of this Agreement to an investor of the other Party and to its investments, if investors of any third State own or control the first mentioned investor and that investor has no substantial business activity in the territory of the Party under whose law it is constituted or organised.</p>
+      </div>
+      <div type="article" num="13" title="Settlement of disputes between an investor and a party">
+        <p>(1) Articles 13-18 apply to disputes between a Party and an investor of the other Party concerning an alleged breach of an obligation of the former under this Agreement which causes loss or damage to the investor or his investment.</p>
+        <p>(2) A dispute between a Party and an investor of the other Party shall, if possible, be settled by negotiation or consultation. If it is not so settled, the claimant may choose to submit it for resolution:</p>
+        <p>(a) To the competent courts of the State of the Party, party to the dispute;</p>
+        <p>(b) In accordance with any applicable previously agreed dispute settlement procedure; or</p>
+        <p>(c) In accordance with this Article to:</p>
+        <p>(i) The International Centre for Settlement of Investment Disputes (ICSID), established pursuant to the Convention of the Settlement of Investment Disputes between States and Nationals of other States, signed in Washington on March 18, 1965 (ICSID Convention), if the Party of the investor and the Party, party to the dispute, are both parties to the ICSID Convention;</p>
+        <p>(ii) The Centre under the rules governing the Additional Facility for the Administration of Proceedings by the Secretariat of the Centre, if the Party of the investor or the Party, party to the dispute, but not both, is a party to the ICSID Convention;</p>
+        <p>(iii) A sole arbitrator or an ad hoc arbitration tribunal established under the Arbitration Rules of the United Nations Commission on International Trade Law ("UNCITRAL");</p>
+        <p>(iv) The International Chamber of Commerce, by a sole arbitrator or an ad hoc tribunal under its rules of arbitration;</p>
+        <p>(v) Or any other previously specified ad hoc tribunal.</p>
+        <p>(3) A dispute may be submitted for resolution pursuant to paragraph 2 (c) of this Article after sixty (60) days from the date of notice of intent to do so was provided to the Party, party to the dispute, but not later than five (5) years from the date the investor first acquired or should have acquired knowledge of the events which gave rise to the dispute.</p>
+      </div>
+      <div type="article" num="14" title="Party consent">
+        <p>(1) Each Party hereby gives its unconditional consent to the submission of a dispute to international arbitration in accordance with Article 13 of this Agreement.</p>
+        <p>(2) The consent referred to in paragraph (1) of this Article implies the renunciation of the requirement that the internal administrative or juridical remedies should be exhausted.</p>
+      </div>
+      <div type="article" num="15" title="Place of arbitration">
+        <p>Any arbitration under Articles 13-18 of this Agreement shall, at the request of any party to the dispute, be held in a State that is party to the New York Convention. Claims submitted to arbitration under Articles 13-18 of this Agreement shall be considered to arise out of a commercial relationship or transaction for purposes of Article 1 of the New York Convention.</p>
+      </div>
+      <div type="article" num="16" title="Indemnification">
+        <p>The fact, that indemnification or other compensation for all or part of the alleged damages has been received or will be received pursuant to an indemnity, guarantee or insurance contract shall not be asserted by a party to a dispute as a defence, counter-claim, right of set-off or for any other reason.</p>
+      </div>
+      <div type="article" num="17" title="Applicable law">
+        <p>(1) An arbitration tribunal established under Articles 13-18 of this Agreement shall decide the dispute in accordance with this Agreement and applicable rules and principles of international law.</p>
+        <p>(2) Issues in dispute under Article 11 of this Agreement shall be decided, absent other agreement, in accordance with the law of the Party, party to the dispute, the law governing the authorisation or agreement and such rules of international law as may be applicable.</p>
+      </div>
+      <div type="article" num="18" title="Awards and enforcement">
+        <p>(1) Arbitration awards, which may include an award of interest, shall be final and binding upon the parties to the dispute and may provide the following forms of relief:</p>
+        <p>(a) A declaration that the Party has failed to comply with its obligations under this Agreement;</p>
+        <p>(b) Pecuniary compensation, which shall include interest from the time the loss or damage was incurred until time of payment;</p>
+        <p>(c) Restitution in kind in appropriate cases, provided that the Party may pay pecuniary compensation in lieu thereof where restitution is not practicable; and</p>
+        <p>(d) With the agreement of the parties to the dispute, any other form of relief.</p>
+        <p>(2) Each Party shall make provision for the effective enforcement of awards made pursuant to this Article and shall carry out without delay any such award issued in a proceeding to which it is party.</p>
+      </div>
+      <div type="article" num="19" title="Settlement of disputes between the parties">
+        <p>Disputes between the Parties concerning the interpretation or application of this Agreement shall, as far as possible, be settled amicably or through consultations.</p>
+      </div>
+      <div type="article" num="20" title="Scope, consultations, mediation and conciliation">
+        <p>(1) At the request of either Party a dispute concerning the interpretation or application of this Agreement may be submitted to an arbitration tribunal for decision not earlier than 60 days after such request has been notified to the other Party.</p>
+        <p>(2) A Party shall not initiate proceedings under Articles 19-25 of this Agreement for a dispute regarding the infringement of rights of an investor which that investor has submitted to arbitration under Articles 13-18 of this Agreement, except for the cases when the Party has failed to abide by and comply with the award or those proceedings have terminated without resolution by an arbitration tribunal of the investor's claim.</p>
+      </div>
+      <div type="article" num="21" title="Formation of tribunal">
+        <p>The ad hoc arbitration tribunal shall be constituted as follows:</p>
+        <p>(1) Each Party shall appoint one member and these two members shall agree upon a national of a third state as their chairman. Such members shall be appointed within two (2) months from the date one Party has informed the other Party of its intention to submit the dispute to an arbitration tribunal, the chairman of which shall be appointed within two (2) further months.</p>
+        <p>(2) If the periods specified in paragraph (1) of this Article are not observed, either Party may, in the absence of any relevant arrangement, invite the President of the International Court of Justice to make the necessary appointments. If the President of the International Court of Justice is a national of either of the Parties or if he/she is otherwise prevented from discharging the said function, the Vice-President or in case of his/her inability the member of the International Court of Justice next in seniority should be invited under the same conditions to make the necessary appointments.</p>
+        <p>(3) Members of an arbitration tribunal shall be independent and impartial.</p>
+      </div>
+      <div type="article" num="22" title="Applicable law, default rules">
+        <p>(1) The arbitration tribunal will decide disputes in accordance with this Agreement and the applicable rules and principles of international law.</p>
+        <p>(2) Unless the Parties to the dispute decide otherwise, the Permanent Court of Arbitration Optional Rules for Arbitrating Disputes shall apply where applicable to matters not governed by the provisions of Articles 19-25 of this Agreement.</p>
+      </div>
+      <div type="article" num="23" title="Awards">
+        <p>(1) The arbitration tribunal, in its award, shall set out its findings of law and fact, together with the reasons therefore, and may, at the request of a Party, award the following forms of relief:</p>
+        <p>(a) A declaration that an action of a Party is in contravention of its obligations under this Agreement;</p>
+        <p>(b) A recommendation that a Party brings its actions into conformity with its obligations under this Agreement;</p>
+        <p>(c) Pecuniary compensation for any loss or damage to the requesting Party's investor or its investment; or</p>
+        <p>(d) Any other form of relief to which the Party against whom the award is made consents, including restitution in kind to an investor.</p>
+        <p>(2) The arbitration award shall be final and binding upon the Parties.</p>
+      </div>
+      <div type="article" num="24" title="Costs">
+        <p>Each Party shall pay the costs of its representation in the proceedings. The costs of the arbitration tribunal shall be paid for equally by the Parties unless the arbitration tribunal directs that they be shared differently.</p>
+      </div>
+      <div type="article" num="25" title="Enforcement">
+        <p>Pecuniary awards which have not been complied with within one year from the date of the award may be enforced in the courts of either Party with jurisdiction over assets of the defaulting Party.</p>
+      </div>
+      <div type="article" num="26" title="Scope of application of the agreement">
+        <p>(1) This Agreement shall apply to investments made in the territory of either Party in accordance with its legislation by investors of the other Party prior to as well as after the entry into force of this Agreement.</p>
+        <p>(2) This Agreement shall not apply to claims which have been settled or procedures in accordance with Article 13 of this Agreement which have been initiated prior to its entry into force.</p>
+      </div>
+      <div type="article" num="27" title="Consultations">
+        <p>Each Party may propose to the other Party consultations on any matter relating to this Agreement. These consultations shall be held at a place and at a time agreed upon through diplomatic channels.</p>
+      </div>
+      <div type="article" num="28" title="Amendments and additions">
+        <p>Amendments and additions to this Agreement made by the mutual consent of the Parties form integral part of the present Agreement and shall be made in the form of separate Protocols and shall enter into force according to the procedures provided for under this Agreement</p>
+      </div>
+      <div type="article" num="29" title="Entry into force and duration">
+        <p>(1) This Agreement shall enter into force sixty days after the date of the receipt through diplomatic channels of the latest written notification informing that the procedures required by its law for the entry into force of this Agreement have been completed.</p>
+        <p>(2) This Agreement shall remain in force for a period of ten years. After that, the effect of this Agreement is automatically prolonged for an uncertain period and ceases to be effective after the expiration of twelve months from the date of reception through diplomatic channels by one Party of the notice in writing of other Party about its intention to terminate it.</p>
+        <p>(3) In respect of investments made prior to the date of termination of the present Agreement the provisions of Articles 1-26 of the present Agreement shall continue to be effective for a further period of ten years from the date of termination of the present Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in duplicate at Vienna, on 12 January 2010 in the English language.</p>
+      <p>For the Government of the Republic of Austria For the Government of the Republic of Kazakhstan</p>
+      <p>Michael Spindelegger Kanat Saudabajew</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Germany - Yemen BIT (1974)</name>
+    <code>T1974-6</code>
+    <partyisocode n="0">DEU</partyisocode>
+    <partyisocode n="1">YEM</partyisocode>
+    <date_signed>1974-06-21</date_signed>
+    <date_into_force>1978-12-19</date_into_force>
+    <date_terminated>2008-03-28</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>1780</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{DEU,YEM}_1974-06-21.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>Treaty between the Federal Republic of Germany and the Yemen Arab Republic concerning the Encouragement and Reciprocal Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Federal Republic of Germany and the Yemen Arab Republic</p>
+      <p>DESIRING to intensify economic cooperation between both States,</p>
+      <p>INTENDING to create favourable conditions for investments by nationals and companies of either State in the territory of the other State, and</p>
+      <p>RECOGNIZING that encouragement and contractual protection of such investments are apt to stimulate private business initiative and to increase the prosperity of both nations,</p>
+      <p>HAVE AGREED AS FOLLOWS:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each Contracting Party shall in its territory promote as far as possible the investment of capital by nationals or companies of the other Contracting Party and admit such investments in accordance with its legislation. It shall in any case accord such investments fair and equitable treatment.</p>
+      </div>
+      <div type="article" num="2">
+        <p>(1) Neither Contracting Party shall in its territory subject investments owned or controlled by nationals or companies of the other Contracting Party, to treatment less favourable than it accords to investments of its own nationals or companies or to investments of nationals or companies of any third State.</p>
+        <p>(2) Neither Contracting Party shall in its territory subject nationals or companies of the other Contracting Party, as regards their activity in connexion with investments, to treatment less favourable than it accords to its own nationals or companies or to nationals or companies of any third State.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Investments by nationals or companies of either Contracting Party shall enjoy full protection as well as security in the territory of the other Contracting Party.</p>
+        <p>(2) Investments by nationals or companies of either Contracting Party shall not be expropriated in the territory of the other Contracting Party except for the public benefit and against compensation. Such compensation shall represent the equivalent of the investment expropriated; it shall be actually realizable, freely transferable, and shall be made without delay. Provision shall have been made in an appropriate manner at or prior to the time of expropriation for the determination and the giving of such compensation. The legality of any such expropriation and the amount of compensation shall be subject to review by due process of law in the country where the investment has been made.</p>
+        <p>(3) Nationals or companies of either Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to war or other armed conflict, revolution, a state of national emergency, or revolt, shall be accorded treatment no less favourable by such other Contracting Party than that Party accords to its own nationals or companies, as regards restitution, indemnification, compensation or other valuable consideration. Such payments shall be freely transferable.</p>
+        <p>(4) Nationals or companies of either Contracting Party shall enjoy most-favoured-nation treatment in the territory of the other Contracting Party in respect of the matters provided for in the present Article.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Either Contracting Party shall in respect of investments guarantee to nationals or companies of the other Contracting Party the free transfer of the capital, of the returns from it and, in the event of liquidation, of the proceeds from such liquidation.</p>
+      </div>
+      <div type="article" num="5">
+        <p>If either Contracting Party makes payment to any of its nationals or companies under a guarantee it has assumed in respect of an investment in the territory of the other Contracting Party, the latter Contracting Party shall, without prejudice to the rights of the former Contracting Party under Article 11, recognize the assignment, whether under a law or pursuant to a legal transaction, of any right or claim from such national or company to the former Contracting Party. The latter Contracting Party shall furthermore recognize the subrogation of the former Contracting Party to any such right or claim, which that Contracting Party shall be entitled to assert to the same extent as its predecessor in title according to the provisions of this Treaty. As regards the transfer of payments to be made to the Contracting Party concerned by virtue of such assignment, paragraphs 2 and 3 of Article 3 as well as Article 4 shall apply mutatis mutandis.</p>
+      </div>
+      <div type="article" num="6">
+        <p>(1) To the extent that those concerned have not made another arrangement admitted by the appropriate agencies of the Contracting Party in whose territory the investment is situated, transfers under paragraphs 2 or 3 of Article 3, under Article 4 or Article 5 shall be made without delay and at the rate of exchange effective for current transactions on the day the transfer is made.</p>
+        <p>(2) The rate of exchange effective for current transactions shall be based on the par value agreed with the International Monetary Fund and shall lie within the margins above or below parity admitted under section 3 of Article IV of the Articles of Agreement of the International Monetary Fund.</p>
+        <p>(3) If at the date of transfer no rate of exchange within the meaning of paragraph 2 above exists in respect of either Contracting Party, the official rate fixed by such Contracting Party for its currency in relation to the US Dollar or to another freely convertible currency or to gold shall be applied. If no such rate has been fixed, the appropriate agencies of the Contracting Party in whose territory the investment is situated shall admit a rate of exchange that is fair and equitable.</p>
+      </div>
+      <div type="article" num="7">
+        <p>(1) If the legislation of either Contracting Party or international obligations existing at present or established hereafter between the Contracting Parties in addition to the present Treaty, contain a regulation, whether general or specific, entitling investments by nationals or companies of the other Contracting Party to a treatment more favourable than is provided for by the present Treaty, such regulation shall prevail over the present Treaty.</p>
+        <p>(2) Either Contracting Party shall fulfill any other obligation it may have entered into with regard to investments in its territory made by nationals or companies of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="8">
+        <p>(1) The term "investment" shall comprise every kind of asset, and more particularly, though not exclusively,</p>
+        <p>a) Movable and immovable property as well as any other rights in rem, such as mortgages, liens, pledges, usufructs and similar rights;</p>
+        <p>b) Shares of companies and other kinds of interest;</p>
+        <p>c) Claims to money or to any performance having an economic value;</p>
+        <p>d) Copyrights, industrial property rights, technical processes, trade-names, and good will;</p>
+        <p>e) Business concessions under public law, including concessions to search for, extract or exploit natural resources.</p>
+        <p>Any alteration of the form in which assets are invested shall not affect their classification as investment.</p>
+        <p>(2) The term "returns" shall mean the amounts yielded by an investment for a definite period as profit or interest.</p>
+        <p>(3) The term "nationals" shall mean</p>
+        <p>a) In respect of the Federal Republic of Germany:</p>
+        <p>Germans within the meaning of the Basic Law for the Federal Republic of Germany;</p>
+        <p>b) In respect of the Yemen Arab Republic:</p>
+        <p>Yemeni nationals as defined by the Constitution and related laws of the Yemen Arab Republic.</p>
+        <p>(4) The term "companies" shall mean</p>
+        <p>a) In respect of the Federal Republic of Germany:</p>
+        <p>Any juridical person as well as any commercial or other company or association with or without legal personality, having its seat in the territory of the Federal Republic of Germany and lawfully existing consistent with legal provisions, irrespective of whether the liability of its partners, associates or members is limited or unlimited and whether or not its activities are directed at profit;</p>
+        <p>b) In respect of the Yemen Arab Republic:</p>
+        <p>Juridical persons or commercial associations and organizations as defined by the related laws of the Yemen Arab Republic.</p>
+      </div>
+      <div type="article" num="9">
+        <p>The present Treaty shall also apply to investments made prior to its entry into force by nationals or companies of either Contracting Party in the territory of the other Contracting Party consistent with the latter's legislation. This provision shall not affect the Agreement of 27 February 1953 on German External Debts.</p>
+      </div>
+      <div type="article" num="10">
+        <p>Either Contracting Party shall within the framework of the present Treaty grant national treatment as referred to in Article 2 of this Treaty to nationals and companies of the other Contracting Party in consideration of the fact that national treatment in like matters is also granted by the other Contracting Party.</p>
+      </div>
+      <div type="article" num="11">
+        <p>(1) Disputes concerning the interpretation or application of the present Treaty should, if possible, be settled by the Governments of the two Contracting Parties.</p>
+        <p>(2) If a dispute cannot thus be settled, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>(3) Such arbitral tribunal shall be constituted for each individual case as follows: Each Contracting Party shall appoint one member, and these two members shall agree upon a national of a third State as their chairman to be appointed by the Governments of the two Contracting Parties. Such members shall be appointed within two months, and such chairman within three months, from the date on which either Contracting Party has informed the other Contracting Party that it wants to submit the dispute to an arbitral tribunal.</p>
+        <p>(4) If the periods specified in paragraph 3 above have not been observed, either Contracting Party may, in the absence of any other relevant agreement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President should make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he, too, is prevented from discharging the said function, the Member of the International Court of Justice next in seniority who is not a national of either Contracting Party should make the necessary appointments.</p>
+        <p>(5) The arbitral tribunal shall reach its decisions by a majority of votes. Such decisions shall be binding. Each Contracting Party shall bear the cost of its own member and of its counsel in the arbitral proceedings: the cost of the Chairman and the remaining costs shall be borne in equal parts by both Contracting Parties. The arbitral tribunal may make a different regulation concerning costs. In all other respects, the arbitral tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="12">
+        <p>The provisions of the present Treaty shall remain in force also in the event of a conflict arising between the Contracting Parties, without prejudice to the right of taking such temporary measures as are permitted under the general rules of international law. Measures of this kind shall be repealed not later than on the date of the actual termination of the conflict, irrespective of whether or not diplomatic relations have been re-established.</p>
+      </div>
+      <div type="article" num="13">
+        <p>With the exception of the provisions in paragraph 7 of the Protocol, referring to air transport, the present Treaty shall also apply to Land Berlin, provided that the Government of the Federal Republic of Germany has not made a contrary declaration to the Government of the Yemen Arab Republic within three months from the entry into force of the present Treaty.</p>
+      </div>
+      <div type="article" num="14">
+        <p>(1) The present Treaty shall be ratified; the instruments of ratification shall be exchanged as soon as possible in Sanaa (Yemen Arab Republic).</p>
+        <p>(2) The present Treaty shall enter into force one month after the day of exchange of the instruments of ratification. It shall remain in force for a period of ten years and shall continue in force thereafter for an unlimited period except if denounced in writing by either Contracting Party one year before its expiration. After the expiry of the period of ten years the present Treaty may be denounced at any time by either Contracting Party giving one year's notice.</p>
+        <p>(3) In respect of investments made prior to the date of termination of the present Treaty, the provisions of Articles 1 to 13 shall continue to be effective for a further period of twenty years from the date of termination of the present Treaty.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE at Bonn on June 21, 1974 in duplicate in the German, Arabic and English languages, all texts being authentic. In case of a divergent interpretation of the German and Arabic texts the English text shall prevail.</p>
+      <p>For the Federal Republic of Germany</p>
+      <p>Hans-Georg Sachs</p>
+      <p>For the Yemen Arab Republic</p>
+      <p>Ahmed Kaid Barakat</p>
+    </conclusion>
+    <attachments>
+      <p>On signing the Treaty concerning the Encouragement and Reciprocal Protection of Investments, concluded between the Federal Republic of Germany and the Yemen Arab Republic the undersigned plenipotentiaries have, in addition, agreed on the following provisions which should be regarded as an integral part of the said Treaty:</p>
+      <p>(1) Ad Article 1</p>
+      <p>Investments made in accordance with the laws and regulations of either Contracting Party within the area of application of that Party's legal system by nationals or companies of the other Contracting Party, shall enjoy the full protection of the present Treaty.</p>
+      <p>(2) Ad Article 2</p>
+      <p>a) The following shall more particularly, though not exclusively, be deemed "activity" within the meaning of paragraph 2 of Article 2: the management, maintenance, use, and enjoyment of an investment. The following shall, in particular, be deemed "treatment less favourable" within the meaning of paragraph 2 of Article 2: restricting the purchase of raw or auxiliary materials, of power or fuel or of means of production or operation of any kind, impeding the marketing of products inside or outside the country, as well as any other measures having similar effects. Measures that have to be taken for reasons of public security and order, public health or morality shall not be deemed "treatment less favourable" within the meaning of Article 2.</p>
+      <p>b) Paragraph 2 of Article 2 shall not apply to entry, sojourn, and activity as an employee. Each Contracting Party shall, however, within the scope of its national legislation show as much sympathetic consideration as possible in taking decisions on the entry into or residence in its territory by nationals of the other Contracting Party who seek residence and paid employment there on investment projects undertaken under this Treaty, the same sympathetic consideration shall be shown in taking decisions on the issue of work permits.</p>
+      <p>(3) Ad Article 3</p>
+      <p>The provisions of paragraph 2 of Article 3 shall also apply to the transfer of an investment to public ownership, to the subjection of an investment to public control, or to similar interventions by public authorities. Expropriation shall mean the taking away or restricting of any property right which in itself or in conjunction with other rights constitutes an investment.</p>
+      <p>(4) Ad Article 4</p>
+      <p>"Liquidation" within the meaning of Article 4 shall be deemed to include any disposal effected for the purpose of completely or partly giving up the investment concerned.</p>
+      <p>(5) Ad Article 6</p>
+      <p>A transfer shall be deemed to have been made "without delay" within the meaning of paragraph 1 of Article 6 if made within such period as is normally required for the completion of transfer formalities. The said period shall commence on the day on which the relevant request has been submitted and may on no account exceed two months.</p>
+      <p>(6) Ad Article 8</p>
+      <p>a) Returns from an investment, as well as returns from re-invested returns, shall enjoy the same protection as the original investment.</p>
+      <p>b) Without prejudice to any other method of determining nationality, any person as defined in Article 8 paragraph 3 in possession of a national passport issued by the appropriate authorities of either Contracting Party shall be deemed to be a national of that Party.</p>
+      <p>(7) Whenever goods or persons connected with the making of investments are to be transported, either Contracting Party shall neither exclude nor hinder transports of the other Contracting Party and shall issue permits as required to carry out such transports. This includes the transportation of</p>
+      <p>a) Goods directly intended for an investment within the meaning of the present Treaty or acquired in the territory of either Contracting Party or of any third State by or on behalf of an enterprise in which assets within the meaning of the present Treaty are invested;</p>
+      <p>b) Persons travelling in connection with the milking of investments.</p>
+      <p>DONE at Bonn on June 21, 1974 in duplicate in the German, Arabic and English languages, all three texts being authentic. In case of a divergent interpretation of the German and Arabic texts the English text shall prevail.</p>
+      <p>For the Federal Republic of Germany</p>
+      <p>Hans-Georg Sachs</p>
+      <p>For the Yemen Arab Republic</p>
+      <p>Ahmed Kaid Barakat</p>
+    </attachments>
+  </main>
+</treaty>

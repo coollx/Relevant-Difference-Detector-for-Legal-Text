@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Greece - Hungary BIT (1989)</name>
+    <code>T1989-34</code>
+    <partyisocode n="0">GRC</partyisocode>
+    <partyisocode n="1">HUN</partyisocode>
+    <date_signed>1989-05-26</date_signed>
+    <date_into_force>1992-02-01</date_into_force>
+    <date_terminated>2021-10-29</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Terminated by consent</termination_type>
+    <docreference>1799</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Terminated by consent</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{GRC,HUN}_1989-05-26.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T2020-2">Agreement for the Termination of Bilateral Investment Treaties Between the Member States of the European Union (2020)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE HELLENIC REPUBLIC AND THE GOVERNMENT OF THE HUNGARIAN PEOPLE'S REPUBLIC FOR THE ENCOURAGEMENT AND RECIPROCAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Hellenic Republic and the Government of the Hungarian People's Republic</p>
+      <p>DESIRING to intensify economic cooperation to the mutual benefit of both countries,</p>
+      <p>INTENDING to create favourable conditions for investments by investors of either Party in the territory of the other Party,</p>
+      <p>And</p>
+      <p>RECOGNIZING that encouragement and protection of investments on the basis of the present Agreement stimulates the initiative in this field</p>
+      <p>HAVE AGREED AS FOLLOWS:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of the present Agreement:</p>
+        <p>1 . the term "investments" shall comprise every kind of asset connected with the participation in companies and joint ventures, more particularly, though not exclusively:</p>
+        <p>a) Movable and immovable property as well as any other rights in rem in respect of every kind of asset;</p>
+        <p>b) Rights derived from shares, bonds and other kinds of interests in companies;</p>
+        <p>c) Title to money, goodwill and other assets and to any per formance having an economic value;</p>
+        <p>d) Rights in the field of intellectual property, technical processes and know-how;</p>
+        <p>2 . the term "investor" shall comprise with regard to either Contracting Party:</p>
+        <p>a) Natural persons having the nationality of that Contracting Party in accordance with its law;</p>
+        <p>b) Legal persons constituted in accordance with the law of that Contracting Party.</p>
+      </div>
+      <div type="article" num="2">
+        <p>1 . Each Contracting Party shall in its territory promote investments by investors of the other Contracting Party and admit such investments in accordance with its legislation.</p>
+        <p>2 . The present Agreement shall apply to investments made by investors of either Contracting Party in conformity with the provisions of law of the other Contracting Party in its territory from the first January 1973.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1 . Each Contracting Party shall ensure fair and equitable treatment to the investments of investors of the other Contracting Party and shall not impair, by unreasonable or discriminatory measures, the operation, management, maintenance, use, enjoyment or disposal thereof by those investors.</p>
+        <p>2 . More particularly, each Contracting Party shall accord to such investments full security and protection which in any case shall not be less than that accorded to investments of investor of any third State.</p>
+        <p>3 . If a Contracting Party has accorded special advantages to investors of any third State by virtue of agreements establishing customs unions, economic unions or similar institutions, or on the basis of interim agreements leading to such unions or institutions, that Contracting Party shall not be obliged to accord such advantages to investors of the other Contracting Party.</p>
+        <p>4 . The treatment granted under the present Article shall not extend to taxes, fees, charges and to fiscal deductions and exemptions granted by either Contracting Party to investor of third States by virtue of a double taxation agreement or other agreements regarding matters of taxation, or on the basis of reciprocity with a third State.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1 . Neither Contracting Party shall take any measures depriving, directly or indirectly, investors of the other Contracting Party of their investments unless the following conditions are complied with:</p>
+        <p>a) The measures are taken in the public interest and under due process of law;</p>
+        <p>b) The measures are not discriminatory or contrary to any undertaking which the former Contracting Party may have given;</p>
+        <p>c) The measures are accompanied by provision for the payment of just compensation. Such compensation shall be paid and made transferable without undue delay.</p>
+        <p>2 . Investors of either Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to war or other armed conflict, state of emergency, revolt or riot, shall be accorded treatment no less favourable by such other Contracting Party than that Party accords to investors of any third State as regards restitution, indemnification, compensation or other valuable consideration. Such payments shall be freely transferable between the two Contracting Parties.</p>
+      </div>
+      <div type="article" num="5">
+        <p>The Contracting Parties shall guarantee the transfer of pay ments related to an investment. The transfers shall be made in a freely convertible currency, without undue restriction and delay in accordance with laws and regulations in force at the date of transfer in the territory of the host country. Such transfers include in particular, though not exclusively:</p>
+        <p>a) Capital and additional amounts to maintain or increase the investment;</p>
+        <p>b) Profits, interest, dividends and other current income;</p>
+        <p>c) Funds in repayment of loans;</p>
+        <p>d) Royalties or fees;</p>
+        <p>e) Proceeds of sale or liquidation of the investment.</p>
+      </div>
+      <div type="article" num="6">
+        <p>If the investments of an investor of the one Contracting Party are insured against non-commercial risks under a system established by law, any subrogation of the insurer or re-insurer into the rights of the said investor pursuant to the terms of such insurance shall be recognized by the other Contracting Party.</p>
+      </div>
+      <div type="article" num="7">
+        <p>If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to the present Agreement contain a regulation, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided for by the present Agreement, such regulation shall to the extend that it is more favourable prevail over the present Agreement.</p>
+      </div>
+      <div type="article" num="8">
+        <p>Either Contracting Party may propose the other Party to consult on any matter affecting the operation of the present Agreement. The other Party shall accord sympathetic consideration to and shall afford adequate opportunity for such consultation.</p>
+      </div>
+      <div type="article" num="9">
+        <p>1 . Any dispute between the Contracting Parties concerning the interpretation or application of the present Agreement shall as far as possible be settled by the Governments of the two Contracting Parties.</p>
+        <p>2 . If the dispute cannot thus be settled within six months from the beginning of the negotiations, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>3 . The arbitral tribunal shall be constituted as follows: each Contracting Party shall appoint one arbitrator and these two arbitrators shall agree upon a national of a third State as chairman. The arbitrators shall be appointed within three months, the chairman within five months from the date on which either Contracting Party has informed the other Contracting Party that it intends to submit the dispute to an arbitral tribunal.</p>
+        <p>4 . If one of the Parties fails to appoint its arbitrator and has not proceeded to do so within the specified period, the other Party may invite the Secretary General of the United Nations to make the necessary appointment.</p>
+        <p>If the two arbitrators are unable to reach an agreement, in the specified period, on the choice of the third arbitrator, either Party may invite the Secretary General of the United Nations to make the necessary appointment.</p>
+        <p>5 . The arbitral tribunal shall decide on the basis of respect for the law, including particularly the present Agreement and other relevant agreements existing between the two Contracting Parties and the generally acknowledged rules and principles of international law.</p>
+        <p>6 . Unless the Parties decide otherwise, the tribunal shall determine its own procedure.</p>
+        <p>7 . The tribunal shall reach its decision by a majority of votes. Such decision shall be final and binding on the Parties.</p>
+        <p>8 . Each Contracting Party shall bear the cost of the arbitrator appointed by itself and of its representation. The cost of the chairman as well as the other costs will be born in equal parts by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="10">
+        <p>1 . Any dispute between either Contracting Party and the investor of the other Contracting Party concerning expropriation or nationalization of an investment shall as far as possible be settled by the disputing parties in an amicable way.</p>
+        <p>2 . If such disputes cannot be settled within six months from the date either party requested amicable settlement, it shall upon request of the investor be submitted to:</p>
+        <p>a) The Arbitration Institute of the Arbitral Tribunal of the Chamber of Commerce in Stockholm;</p>
+        <p>b) The Arbitral Tribunal of the International Chamber of Commerce in Paris;</p>
+        <p>c) The International Centre for the Settlement of Investment Disputes in case both Contracting Parties have become members of the Convention of 18 March 1965 on the Settlement of Investment Disputes between States and Nationals of Other States.</p>
+      </div>
+      <div type="article" num="11">
+        <p>1 . The present Agreement shall enter into force on the first day of the second month following the date on which the Contracting Parties have informed each other in writing that the procedures constitutionally required therefor in their respective countries have been complied with, and shall remain in force for a period of 15 years.</p>
+        <p>2 . Unless notice of termination has been given by either Contracting Party at least six months before the date of expiry of its validity, the present Agreement shall be extended tacitly for periods of 10 years, each Contracting Party reserving the right to terminate the Agreement upon notice of at least six months before the date of expiry of the current period of validity.</p>
+        <p>3 . In respect of investments made before the date of the termination of the present Agreement the foregoing Articles thereof shall continue to be effective for a further period of 10 years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in duplicate at Athens, in the English language, on this 26th day of May 1989.</p>
+      <p>For the Government of the Hellenic Republic</p>
+      <p>PANAYIOTIS ROUMELIOTIS</p>
+      <p>MINISTER OF NATIONAL ECONOMY</p>
+      <p>For the Government of the Hungarian People's Republic</p>
+      <p>ANDRAS PATKO</p>
+      <p>DEPUTY MINISTER OF FINANCES</p>
+    </conclusion>
+  </main>
+</treaty>

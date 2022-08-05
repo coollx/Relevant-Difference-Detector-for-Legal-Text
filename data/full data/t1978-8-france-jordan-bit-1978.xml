@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>France - Jordan BIT (1978)</name>
+    <code>T1978-8</code>
+    <partyisocode n="0">FRA</partyisocode>
+    <partyisocode n="1">JOR</partyisocode>
+    <date_signed>1978-02-23</date_signed>
+    <date_into_force>1979-10-18</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1566</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{FRA,JOR}_1978-02-23.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1997-107">EC - Jordan Association Agreement</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the Republic of France and the Government of the Hashemite Kingdom of Jordan on the Reciprocal Promotion and Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of France and the Government of the Hashemite Kingdom of Jordan,</p>
+      <p>Wishing to create favourable conditions for capital investments in both States by nationals and companies of either State, and</p>
+      <p>Recognizing that encouragement and contractual protection of such investments are apt to stimulate private business initiative and to increase the prosperity of both Nations,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the implementation of this Agreement:</p>
+        <p>1. The term "investment" means the property, rights and interests of any nature and, more particularly but not exclusively:</p>
+        <p>a) Movable or immovable property as well as any other real rights such as mortgages, liens, usufructs, sureties and similar rights; </p>
+        <p>b) Shares, premiums on shares and other forms of participation, even minority or indirect forms, in the companies formed in the territory of one of the Parties; </p>
+        <p>c) Debentures, titles to money and titles to any performance having an economic value; </p>
+        <p>d) Copyrights, industrial property rights (such as patent for inventions, licences, trade marks and industrial designs), technical processes, registered trademarks and good will; </p>
+        <p>e) Industrial concessions granted under law or under a contract, in particular, concessions relative to the prospection, cultivation, extraction or utilization of natural resources, including those which are located in the maritime zones within the jurisdiction of one of the Parties,</p>
+        <p>it being understood that such assets must be or must have been invested in accordance with the legislation of the Contracting Party in the territory of which the investment is made, before or after the entry into force of this Agreement.  </p>
+        <p>Any modification in the form in which assets are invested shall not affect their classification as an investment provided that such modification is not contrary either to the legislation of the State in the territory of which the investment is made or to the  approval granted for the initial investment. </p>
+        <p>2. The term "nationals" means the natural persons possessing the nationality of one of the Contracting Parties.</p>
+        <p>3. The term "companies" means any legal entity constituted in the territory of one of the Contracting Parties in conformity with the legislation of the latter and having its registered office therein.</p>
+        <p>4. The term "returns" means the amounts yielded by an investment such as net profit or interests, for a specific period.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting Party shall promote as far as possible, within its territory, the investments by nationals or companies of the other Contracting Party and accept such investments in accordance with its legislation and with rules and regulations set forth under this Agreement. </p>
+        <p>However, either Contracting Party may refuse entry or employment permits for security reasons. The measures taken for security reasons shall be decided in good faith, be equitable and not discriminatory. </p>
+      </div>
+      <div type="article" num="3">
+        <p>Each Contracting Party undertakes to ensure fair and equitable treatment, in accordance with the principles of international law, to the investments of nationals or companies of the other Contracting Party in its territory and also to ensure that the exercise of the right thus recognized is not hindered either in law or in practice. </p>
+      </div>
+      <div type="article" num="4">
+        <p>1. Investments made by nationals or companies of either Contracting Party shall enjoy, in the territory of the other Contracting Party, full protection and security. </p>
+        <p>2. Neither of the Contracting Parties shall take measures of expropriation or nationalization or any other measures the effect of which would be to dispossess, directly or indirectly, the nationals and the companies of the other Contracting Party of any investment belonging to them in its territory, except on the grounds of public utility and provided these measures are not discriminatory nor contrary to a particular agreement. </p>
+        <p>Dispossession measures which may be taken shall give rise to the payment of a fair compensation, the amount of which shall correspond to the real value of the investment concerned on the day of the dispossession. </p>
+        <p>This compensation, its amount and the payment conditions shall be fixed no later than the day of the dispossession unless otherwise mutually agreed between the parties concerned. This compensation shall be actually convertible, paid without delay and freely transferable. </p>
+        <p>3. The investors of one Contracting Party whose investments have suffered losses due to war or to any other armed conflict, revolution, national emergency or revolt occurring in the territory of the other Contracting Party shall receive from the latter party a treatment no less favourable than that granted to its own investors.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party shall apply, within its territory to the nationals or companies of the other Contracting Party, as regards their investments or activities related to such investments, a treatment at least as favourable as that granted to nationals or companies of most-favoured-nation. </p>
+        <p>This treatment shall, however, not extend to the privileges that a Contracting Party grants to nationals or companies of a third country, as a result of its participation or its association in a free trade area, a customs union, a common market or any other form of regional economic organizations. </p>
+      </div>
+      <div type="article" num="6">
+        <p>Each Contracting Party, in the territory of which investment has been made by nationals and companies of the other Contracting Party, shall grant these nationals and companies the free transfer of: </p>
+        <p>a) Interest, dividends, benefits and other current returns; </p>
+        <p>b) Royalties deriving from intangible rights specified in paragraphs 1 (d) and (e) of article 1; </p>
+        <p>c) Amortization, contractual repayments and amounts assigned to cover expenses relating to the management of the investment; </p>
+        <p>d) Proceeds from the conveyance or the total or partial liquidation of the investment, including the appreciation or increase of the invested capital; and </p>
+        <p>e) Compensation for dispossession as provided for in article 4 above. </p>
+        <p>The nationals of each Contracting Party authorized to work in the territory of the other Contracting Party in relation to an agreed investment shall also be authorized to transfer to their country of origin an appropriate portion of their remuneration. </p>
+        <p>The transfers referred to in the preceding paragraphs shall be carried out without delay and at the normal exchange rate officially applicable on the day of the transfer. </p>
+      </div>
+      <div type="article" num="7">
+        <p>To the extent that the regulations of one of the Contracting Parties provide for a guarantee for investments made abroad, this guarantee may be granted, within the framework of an examination made case by case, to investments made by nationals or companies of that Party in the territory of the other Party. </p>
+        <p>The investments of nationals or companies of one of the Contracting Parties in the territory of the other Contracting Party may not obtain the guarantee referred to in the above paragraph unless they have previously obtained the agreement of the latter Party. </p>
+      </div>
+      <div type="article" num="8">
+        <p>Each Contracting Party agrees to submit to the International Centre for the Settlement of Investments Disputes (ICSID) the disputes arising between that Contracting Party and a national or a company of the other Contracting Party. </p>
+      </div>
+      <div type="article" num="9">
+        <p>If one of the Contracting Parties, pursuant to a guarantee given for an investment made in the territory of the other Contracting Party, makes payments to one of its nationals or to one of its companies, it is thereby subrogated to the rights and actions of that national or that company. The subrogation to the rights also extends to the transfer and arbitration rights referred to in articles 6 and 8 above. </p>
+      </div>
+      <div type="article" num="10">
+        <p>Investments having formed the subject of a special commitment of one Contracting Party with respect to the nationals or companies of the other Contracting Party shall be governed, without prejudice to the provisions of this Agreement, by the terms of the said commitment if the latter includes provisions more favourable than those of the present Agreement. </p>
+      </div>
+      <div type="article" num="11">
+        <p>1. Disputes concerning the interpretation or application of this Agreement shall be settled, if possible, by means of diplomatic negotiations. </p>
+        <p>2. If a dispute cannot be thus settled, it shall be submitted, upon the request of either Contracting Party to an arbitral tribunal. </p>
+        <p>3. Such tribunal shall be composed for each particular case, as follows: </p>
+        <p>Each Contracting Party shall designate one member, and the two members shall designate, by mutual agreement, a national of a third State who shall be appointed chairman by the two Contracting Parties. All members shall be appointed within two months from the date on which one of the Contracting Parties shall have notified the other Contracting Party of its intention to submit the dispute to an arbitral tribunal. </p>
+        <p>4. If the period set forth in paragraph 3 above has not been complied with, either Contracting Party, in the absence of any other applicable agreement, shall request the Secretary-General of the United Nations to make the necessary appointments. If the Secretary-General is a national of either Contracting Party or if he is otherwise unable to discharge this function, the Assistant Secretary-General next in seniority who is not a national of either Contracting Party shall make the necessary appointments. </p>
+        <p>5. The tribunal of arbitration shall make its decision by a majority of votes. These decisions shall be final and legally binding. Each Contracting Party shall bear the costs of its own member and of its counsel during the arbitration proceedings. The cost of the chairman and the other costs shall be borne equally by both Contracting Parties. The tribunal of arbitration may make different arrangements as regards the costs. In all other respects, the tribunal of arbitration shall determine its own rules of procedure.  </p>
+      </div>
+      <div type="article" num="12">
+        <p>This Agreement shall be approved in accordance with the constitutional requirements applicable in both States. The instruments of ratification or approval shall be exchanged as soon as possible. </p>
+        <p>This Agreement shall enter into force one month after the date of the exchange of the instruments of ratification or approval. </p>
+        <p>This Agreement shall be in force for an initial period of ten years. It shall remain in force after that period unless denounced through diplomatic channels by either Contracting Party with one year's prior notice. </p>
+        <p>After the expiry of the period of validity of this Agreement, the investment made while this Agreement was in force will continue to enjoy the protection of its provisions for an additional period of 15 years (fifteen). </p>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE at Paris on the 23 February 1978, in two original copies, each in French and in English, both texts being equally authentic.</p>
+      <p>On behalf of the Government of the Republic of France:</p>
+      <p>[Signed] </p>
+      <p>ROBERT BOULIN</p>
+      <p>On behalf of the Government of the Hashemite Kingdom of Jordan:</p>
+      <p>[Signed] </p>
+      <p>KALIL AL-SALIM</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Bulgaria - North Macedonia BIT (1999)</name>
+    <code>T1999-16</code>
+    <partyisocode n="0">BGR</partyisocode>
+    <partyisocode n="1">MKD</partyisocode>
+    <date_signed>1999-02-22</date_signed>
+    <date_into_force>1999-06-05</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">bg</orig_language>
+    <termination_type/>
+    <docreference>692</docreference>
+    <comments/>
+    <source>http://old.mi.government.bg; https://www.finance.gov.mk/en/node/6727</source>
+    <rev_date_into_force/>
+    <rev_date_signed>2006-11-03</rev_date_signed>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>bg</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BGR,MKD}_1999-02-22.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2001-117">EC - North Macedonia Association Agreement (2001)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the Republic of Bulgaria and the Republic of Macedonia on mutual protection and encouragement of investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Bulgaria and the Republic of Macedonia, hereinafter referred to as the Contracting Parties</p>
+      <p>Desiring to create more favorable conditions for development of economic cooperation between Bulgaria and Macedonia and especially investment in the territories of both countries; and</p>
+      <p>To encourage and mutually protect these investments and contribute to the stimulation of business contacts and economic development of both countries</p>
+      <p>They have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1.  The term "investments" shall mean money invested by an investor of one Contracting Party in the territory of the other Contracting Party in accordance with the legislation of the second, and will include in particular, but not exclusively:</p>
+        <p>a)  property rights and any other rights;</p>
+        <p>b)  shares, stocks or other forms of participation in companies;</p>
+        <p>c)  outstanding claims as well as any other rights having economic value and associated with the investment process;</p>
+        <p>d)  copyrights and other rights in the field of industrial and intellectual property such as know-how, trade names, technical processes, industrial designs and goodwill;</p>
+        <p>e)  rights for the exercise of economic activities, and in particular search, processing, extraction or exploitation of natural resources, which are given by law, contract or act of a competent authority;</p>
+        <p>f)  rights to goods acquired in the expectation or used for the purpose of economic benefits or for business purposes, which under lease in accordance with the national legislation applicable to this specific lease are made available to the tenant on the territory of a Contracting Party by the owner who is a national of the other Contracting Party or legal person established in the territory of the Contracting Party.</p>
+        <p>A subsequent change of the form in which investments have been made will not affect their character as investments, provided that this change does not contradict the laws of the Contracting Party in whose territory the investment was carried out.</p>
+        <p>2.  The term "revenue" means any sums derived from investments, such as profits, interest, dividends, licenses and other legitimate income from them, including reinvested income and capital gains.</p>
+        <p>3.  The term "investor" shall mean:</p>
+        <p>Natural person who is a citizen of one of the contracting parties in accordance with the laws in force;</p>
+        <p>Any company, firm, partnership, organization or association with or without legal personality, incorporated or constituted under the law of each Contracting Party, based on its territory.</p>
+        <p>4.  The term "territory" means:</p>
+        <p>a)  in respect of the Republic of Bulgaria - territory under the sovereignty of the Republic of Bulgaria, including the territorial sea and continental shelf and the exclusive economic zone over which Bulgaria exercises sovereign rights or jurisdiction in accordance with international law;</p>
+        <p>b)  in respect of the Republic of Macedonia - the territory of the Republic of Macedonia, including subsurface, water and airspace, over which the Republic of Macedonia exercises sovereign rights or jurisdiction in accordance with international law.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection">
+        <p>1.  Each Contracting Party shall encourage investors of the other Contracting Party to invest in its territory and admit such investments in accordance with its legislation.</p>
+        <p>2.  Each Contracting Party shall at all times ensure fair and equitable treatment and protection of investments of investors of the other Contracting Party. Each Contracting Party shall ensure that investments made by investors of the other Contracting Party shall in no event be subject to unreasonable or biased measures that would prevent the management, maintenance, use, disposal or cancellation of investments in its territory.</p>
+        <p>3.  In case of reinvestment of returns from an investment, these investments and their returns shall enjoy the same protection as the initial investments.</p>
+        <p>4.  Each Contracting Party shall consider favorably and in accordance with its legislation questions concerning entry, stay, work and movement in its territory of nationals of other Contracting Party who carry out activities related to investments as defined in this contract, as well as their family members living in one household.</p>
+        <p>5.  The Parties shall inform each other of investment opportunities in their territories.</p>
+      </div>
+      <div type="article" num="3" title="Most-favoured nation treatment">
+        <p>1.  Each Contracting Party shall provide the investments made by investors of the other Contracting Party, and the revenues generated from these investments treatment in the same range and under the same conditions as granted to investments and income from them to its own investors or investors of any third state.</p>
+        <p>2.  The provisions of paragraph 1 shall not apply to advantages and privileges which one Contracting Party has granted or may in the future provide to third countries based on their membership in a customs union, economic communities, free trade zone or agreements relating to avoidance double taxation.</p>
+        <p>3.  Each Contracting Party reserves the right to make or maintain, in accordance with the law, exceptions to the national treatment granted under par. 1. Any new exception will apply only to investments made after the entry into force of this exception.</p>
+      </div>
+      <div type="article" num="4" title="Compensation for losses">
+        <p>Investors of one Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to war, other armed conflict, emergency or other similar events shall be accorded treatment no less favorable than that accorded to own investors or investors of any third state.</p>
+      </div>
+      <div type="article" num="5" title="Nationalization and expropriation">
+        <p>1.  The investments covered by this contract can not be subject to any measures that might permanently or temporarily limit their ownership, possession, use or disposal except where expressly established by law.</p>
+        <p>Investments of investors of either Contracting Party may not be partially or completely expropriated, nationalized or subjected to any measures having equivalent effect unless it is in the public interest provided that already fully and properly compensated for the damage and also provided that measures are impartial and in accordance with all legal norms.</p>
+        <p>2.  Damages be paid in freely convertible currency and shall equal the market value of investments from the date of issuance of the act of expropriation or nationalization. Compensation shall include interest equal to LIBOR for 12 months starting from the day of issuing the act of expropriation or nationalization until the day of payment.</p>
+        <p>If it can not be determined the market value of the investment accordingly apply internationally recognized standards for evaluation.</p>
+      </div>
+      <div type="article" num="6" title="Transfer of funds">
+        <p>1.  Each Contracting Party shall accord to investors of the other Contracting Party, after fulfillment of all tax obligations, the possibility of free transfer of:</p>
+        <p>a)  capital and additional amounts intended to maintain or increase the investment;</p>
+        <p>b)  returns from the investment;</p>
+        <p>c)  proceeds obtained from the sale or total or partial liquidation of the investment;</p>
+        <p>d)  amounts required for the payment of costs arising from the operation of the investment, such as:</p>
+        <p>Repayment of loans;</p>
+        <p>Payment of patents or license fees;</p>
+        <p>Payment of other expenses;</p>
+        <p>e)  compensation payable in accordance with Art. 4 and 5;</p>
+        <p>f)  the remuneration received by nationals of the other Contracting Party for work or services rendered in connection with investments made in its territory, in accordance with its legislation.</p>
+        <p>2.  The transfers referred to in the preceding paragraph shall be made without delay, but no later than three months, in freely convertible currency at the exchange rate prevailing on the date of transfer in the territory of the Contracting Party where the investment was made.</p>
+        <p>3.  In accordance with the legislation of each Contracting Party all transfers subject to this Article shall be treated in a manner no less favorable than that accorded to transfers of investments made by an investor of any third side.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>Contracting Party by virtue of a guarantee given for an investment made in the territory of the other Contracting Party has made payment to one of its investors will be entitled by virtue of subrogation to exercise the rights and claims, as well as to assume the obligations of the said investor. Assuming the rights and obligations of the insured investor extends also to the right of the translation referred to in Art. 6.</p>
+        <p>Paying Contracting Party shall not acquire any rights or assume obligations greater than those of securities investor.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between the contracting parties">
+        <p>1.  Disputes between the Contracting Parties concerning the interpretation or application of this Agreement shall be settled as far as possible by negotiation between the Parties.</p>
+        <p>2.  If the dispute between the Contracting Parties can not be thus settled within six months of starting negotiations, it may be referred, at the request of and was of the contracting parties, an arbitral tribunal.</p>
+        <p>3.  Such an arbitral tribunal shall be constituted for each individual case in the following way: Within three months of receipt of the request for arbitration, each Contracting Party shall appoint one member of the court. These two members shall designate a third country which, with the approval of both parties, will be appointed Chairman of the tribunal. Chairman shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>4.  If the time limits specified in par. 3 shall not be made the necessary appointments, each Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a citizen of either Contracting Party was or if he is prevented in any way from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of any of been a Contracting Party or if he too is prevented from discharging the said function, the next most senior Member of the International Court of Justice who is not a citizen of any been a Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>5.  The arbitral tribunal shall reach its decision based on the provisions of the contract between contracting parties and on the basis of generally accepted principles and norms of international law. The same shall reach its decision by majority vote. This decision will be final and binding on both parties. The court shall determine its own procedure.</p>
+        <p>6.  Each Contracting Party shall bear the costs of its own member of the tribunal and of its representation in the arbitration process. The costs of the Chairman and the remaining costs shall be borne equally by the Parties.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of disputes between an investor and a contracting party">
+        <p>1.  Disputes between an investor of one Contracting Party and the other Contracting Party regarding the obligation of the latter under this contract affecting investment in the previous one, will be resolved in the fastest possible way of disputing parties in a spirit of friendship.</p>
+        <p>2.  If such a dispute is not settled amicably within six months from the date of the request of any party, said investor may refer the dispute to the competent court of the Contracting Party.</p>
+        <p>3.  In the event of a dispute under Art. 4, 5 and 6 of this contract the investor may choose to submit the dispute instead of settling on:</p>
+        <p>a)  tribunal "ad hoc" composed by the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL); or</p>
+        <p>b)  International Centre for Settlement of Investment Disputes in case the Republic of Bulgaria and Macedonia are parties to the Convention on the Settlement of Investment Disputes between States and Nationals of other States, signed in Washington on March 18, 1965</p>
+        <p>4.  The decision shall be final and binding on both parties to the dispute and will be applied in accordance with domestic laws of the Contracting Party.</p>
+      </div>
+      <div type="article" num="10" title="Consultations">
+        <p>Any Contracting Party may propose to the other Contracting Party to enter into consultations on all matters concerning the implementation or interpretation of this Agreement. The other Contracting Party shall take the necessary measures for such consultation.</p>
+      </div>
+      <div type="article" num="11" title="More favorable conditions">
+        <p>If the law of the Contracting Parties, present or future international agreements between Bulgaria and Macedonia and other international treaties to which they are parties, contain provisions dealing with investments of investors of the other Contracting Party more favorably than foreseen in the contract, then these provisions will prevail.</p>
+      </div>
+      <div type="article" num="12" title="Enactment">
+        <p>This Treaty shall be ratified and enter into force on the day following the date of receipt of the last notification by which the Contracting Parties notify each other that the requirements of the legislation of each of its entry into force.</p>
+      </div>
+      <div type="article" num="13" title="Duration">
+        <p>1.  This contract is valid for 10 years and is automatically extended for each subsequent period of 10 years unless either Contracting Party notifies in writing at least one year before the expiry of the relevant period, the other Contracting Party of its decision to terminate its operation.</p>
+        <p>2.  This Agreement shall apply to investments that have been made and are not terminated by an investor of one Contracting Party in accordance with the legislation of the other Contracting Party in its territory before its entry into force. This Treaty shall not apply to disputes that have arisen before its entry into force.</p>
+        <p>3.  In respect of investments made prior to the date on which notice of termination of this contract is received by the other Contracting Party, the provisions of Art. 1 to 12 shall remain in force for a period of five years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE in Sofia on 22 February 1999 in two originals, each in the official languages of the two countries - Bulgarian language under the constitution of the Republic of Bulgaria and Macedonian language under the Constitution of the Republic of Macedonia, both texts being equally authentic.</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" title="Protocol">
+        <p>Agreement between the Government of the Republic of Bulgaria and the Republic of Macedonia on mutual protection and encouragement of investments signed in Sofia on 22 February 1999</p>
+        <p>The Government of the Republic of Macedonia and the Government of the Republic of Bulgaria, hereinafter referred to as the Contracting Parties;</p>
+        <p>Bearing in mind the forthcoming membership of the Republic of Bulgaria in the European Union;</p>
+        <p>Agreed to amend the Treaty between the Government of the Republic of Macedonia and the Government of the Republic of Bulgaria for the mutual protection and promotion of investments signed in Sofia on 22 February 1999 , hereinafter referred to as the "Treaty" as follows:</p>
+        <div type="article" num="1">
+          <p>In Article 3 of the Treaty, paragraph 2 is deleted and replaced by the following two paragraphs:</p>
+          <p>1. Each Contracting Party shall make available to its territory both an investor and a the other Contracting Party in respect of management, maintenance, the use, disposal or transfer of their investment, and activities related to the investment treatment within the same scope and under the same conditions, which it provides to its own investors or to the investors of which be a third country.</p>
+          <p>2. The provisions of items 1 and 2 on national treatment and the most-favored-nation treatment nation will not apply to the privileges granted by The Contracting Party, by virtue of its obligations, shall be a member of the customs, economic or monetary union, common market or free trade area, or by force of agreements relating to the avoidance of double taxation.</p>
+        </div>
+        <div type="article" num="2">
+          <p>Paragraph 3 of Article 3 is renumbered and becomes paragraph 4.</p>
+        </div>
+        <div type="article" num="3">
+          <p>In Article 6 of the Treaty, at the beginning of the first sentence of the first subparagraph, is inserted the following text:</p>
+          <p>"Without prejudice to measures taken by the European Community ..."</p>
+        </div>
+        <div type="article" num="4">
+          <p>1. This Protocol shall form an integral part of the Agreement between the Government of the Republic of Bulgaria and the Republic of Macedonia on mutual protection and encouragement of investments signed in Sofia on 22 February 1999</p>
+          <p>2. This Protocol shall be ratified and shall enter into force on the day following that of which is the last of the notifications the two Contracting Parties receive notify each other that the requirements of each of them have been fulfilled for its entry into force.</p>
+          <p>Made in Coobus on 3 November 2006 in two original copies, each of which in the official languages of both countries - Macedonian according to The Constitution of the Republic of Macedonia and the Bulgarian Language as Constituted of the Republic of Bulgaria, with the two texts having the same value</p>
+          <p>For the Republic of Bulgaria</p>
+          <p>For the Republic of Macedonia</p>
+        </div>
+      </div>
+    </attachments>
+  </main>
+</treaty>

@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Brazil - Chile CFIA (2015)</name>
+    <code>T2015-10</code>
+    <partyisocode n="0">BRA</partyisocode>
+    <partyisocode n="1">CHL</partyisocode>
+    <date_signed>2015-11-24</date_signed>
+    <date_into_force/>
+    <date_terminated>2022-01-25</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">es,pt</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>3661</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_ORIGIN_LANGUAGE>es,pt</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BRA,CHL}_2015-11-24.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACING" document-code="T1994-38">Brazil - Chile BIT (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T2018-8">Brazil - Chile FTA (2018)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-70">Chile - Mercosur Complementation Agreement</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on cooperation and facilitation of investment between the Federative Republic of Brazil and the Republic of Chile</p>
+    </title>
+    <preamble>
+      <p>The Federative Republic of Brazil</p>
+      <p>And</p>
+      <p>The Republic of Chile</p>
+      <p>Hereinafter referred to as the "Parties" or individually as "party",</p>
+      <p>Desiring to strengthen and deepen the bonds of friendship and spirit of cooperation between the parties;</p>
+      <p>Interested in encouraging and supporting the bilateral investment, opening new integration initiatives between the two countries;</p>
+      <p>Recognizing the essential role of investment in the promotion of sustainable development, economic growth, poverty reduction, creating jobs, expanding productive capacity and human development;</p>
+      <p>Bearing in mind that the deepening of the relationship between the parties in the field of investment will comprehensive and mutual benefits;</p>
+      <p>With the aim of achieving a sustained expansion of the bilateral investment in the interest of the parties and improve the investment climate through the exchange of information, the promotion and cooperation, and identification and removal of barriers to the investment;</p>
+      <p>Stressing the importance of fostering an amicable and transparent environment for bilateral investments;</p>
+      <p>Recognizing the right of the Parties to adopt regulations relating to investments in its territory, to achieve legitimate public policy objectives;</p>
+      <p>Desiring to promote contacts between the private sector and the Governments of the Parties; and</p>
+      <p>Interested in establishing a mechanism for technical dialogue and government initiatives that contribute to a significant increase mutual investment;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="part" num="I" title="Definitions and Scope of Application">
+        <div type="article" num="1" title="Definitions">
+          <p>1. For the purposes of this Agreement:</p>
+          <p>1.1 "TRIPS Agreement" means the Agreement on Trade-Related Aspects of Intellectual Property Rights Related to Trade, contained in Annex 1C to the Agreement Establishing the World Trade Organization.</p>
+          <p>1.2 "State Enterprise" means an enterprise owned or controlled, in whole or in part, by a majority, for the purpose of exercising business activities.</p>
+          <p>1.3 "Receiving State" means the host State Party in whose territory the investment.</p>
+          <p>1.4 "investment" means a direct investment, i.e. any assets owned or controlled directly or indirectly by an investor of a Party or acquired, established in accordance with the law of the other party in the territory of that other party to exercise ownership, control or significant influence over the management of the production of goods or the provision of services in the territory of the host State, including in particular, though not exclusively:</p>
+          <p>(a) An enterprise;</p>
+          <p>(b) Actions, capital or other forms of participation in the capital or assets of a company;</p>
+          <p>(c) Bonds, debentures (obligations), loans and other debt instruments of an enterprise, regardless of original maturity date, but does not include, in the case of Brazil, a debt instrument or a loan to a State enterprise that has no substantial business activities in market conditions, and in the case of Chile, a debt instrument issued by a State enterprise; or a loan to a state enterprise;</p>
+          <p>(d) Contractual rights, including turnkey or construction, management, production of participation in the granting of earnings and other similar contracts;</p>
+          <p>(e) Licences, authorizations, permits and similar rights conferred pursuant to domestic legislation of the host State;</p>
+          <p>(f) Intellectual Property Rights as defined or referred to in the TRIPS Agreement;</p>
+          <p>(g) Property rights, tangible or intangible, movable or immovable property and any other property rights, such as mortgage, lien, usufruct and similar rights.</p>
+          <p>1.4.1 For greater certainty, "investment" does not include:</p>
+          <p>(a) Public debt operations;</p>
+          <p>(b) An order or judgment in judicial or administrative proceedings;</p>
+          <p>(c) Investment Portfolio Investments; and</p>
+          <p>(d) Monetary claims arising solely from commercial contracts for the sale of goods or services by an investor in the territory of a party to a national or an enterprise in the territory of the other party, or the granting of credit in connection with a commercial transaction.</p>
+          <p>1.5 "investor" means a national or permanent resident, or enterprise of a Party that has made an investment in the territory of the other party.</p>
+          <p>1.6 "enterprise" means any entity constituted or organized under the applicable law, whether or not for profit and whether private or government owned, including any corporation, foundation firm sole proprietorship, joint venture entities), and without legal personality.</p>
+          <p>1.7 "enterprise of a party" means an enterprise constituted or organized under the law of a party, that substantial business activities in the territory of the same party.</p>
+          <p>1.8 "national" means a natural person who has the nationality of a Party according to its law.</p>
+          <p>1.9 "measure" means any law, regulation, procedural requirement or practice.</p>
+          <p>1.10 "returns" mean securities obtained by an investment and in particular, though not exclusively, includes profits, royalties, interest, dividends, capital gains.</p>
+          <p>1.11 "territory" means:</p>
+          <p>(a) With regard to Chile, the Land, Sea and Air Space under its sovereignty, and the exclusive economic zone and the continental shelf over which it exercises sovereign rights and jurisdiction in accordance with international law and its domestic law; and</p>
+          <p>(b) With respect to Brazil, the Territory, including its land and air space, the exclusive economic zone, the territorial sea, continental shelf, soil or subsoil, within which it exercises sovereign rights or jurisdiction in accordance with international law and its domestic law.</p>
+          <p>1.12 12 "free currency" means the free use of currency, as determined in accordance with the Articles of Agreement of the International Monetary Fund.</p>
+        </div>
+        <div type="article" num="2" title="Objective">
+          <p>The objective of this Agreement is to facilitate and promote mutual investment by establishing a framework of their treatment to investors and investments, governance and institutional mechanisms for cooperation and the avoidance and settlement of disputes.</p>
+        </div>
+        <div type="article" num="3" title="Scope">
+          <p>1. To this Agreement shall apply to investors and investments made before or after its Entry into Force.</p>
+          <p>2. For greater certainty,</p>
+          <p>(a) A requirement by a party that a service provider of the other party post a bond or other form of financial security as a condition of providing a service into its territory does not of itself make this Agreement applies to the cross-border supply of the service. This Agreement applies to that party treatment accorded to the financial security, bond or deposit to the extent that such bond or financial security is an investment;</p>
+          <p>(b) This Agreement shall not restrict in any way the rights and benefits which the legislation in force in the territory of a Party or international law, including the Agreement on Trade-Related Investment Measures (TRIMs) of the World Trade Organization, by an investor of the other party; and</p>
+          <p>(c) Nothing in this Agreement shall not preclude the adoption and implementation of new requirements or restrictions to their investors and investments, provided they are not that do not conform with this Agreement.</p>
+          <p>3. This Agreement shall not apply to subsidies or grants provided by a party, including loans, guarantees and insurance, by the State, without prejudice to the matter to be discussed in the joint committee established under article 18 (Joint Committee for the administration of the Agreement).</p>
+        </div>
+      </div>
+      <div type="part" num="II" title="Treatment Accorded to Their Investors and Investments">
+        <div type="article" num="4" title="Admission">
+          <p>Each Party shall admit in its territory investments by investors of the other party that are undertaken in accordance with its domestic law.</p>
+        </div>
+        <div type="article" num="5" title="National Treatment">
+          <p>1. Subject to its laws and regulations in force when the investment was made, each Party shall accord to investors of the other party treatment no less favourable than that accorded in like circumstances to its own investors with respect to the expansion, administration, management, operation and sale or other disposition of investments in its territory.</p>
+          <p>2. Subject to its laws and regulations in force when the investment was made, each Party shall accord to investments of investors of the other party treatment no less favourable than that accorded to investments in like circumstances of its own investors with respect to the expansion, administration, management, operation and sale or other disposition of investments in its territory.</p>
+          <p>3. For greater certainty that the treatment accorded in "like circumstances", depends on all the circumstances, including the relevant treatment distinguish investors or investments on the basis of legitimate objectives of public interest.</p>
+          <p>4. For greater certainty, this article shall not be construed as to oblige the parties to compensate for disadvantages inherent competitive which result from the character of foreign investors and their investments.</p>
+        </div>
+        <div type="article" num="6" title="Most Favoured Nation Treatment">
+          <p>1. Subject to its laws and regulations in force when the investment was made, each Party shall accord to investors of the other party treatment no less favourable than that accorded in like circumstances to investors of a non-party with respect to the expansion, administration, management, operation and sale or other disposition of investments in its territory.</p>
+          <p>2. Subject to its laws and regulations in force when the investment was made, each Party shall accord to investments of investors of the other party treatment no less favourable than that accorded to investments in like circumstances, in its territory of an investor of a State that is not a party, as regards the expansion, administration, management, operation and sale or other disposition of investments in its territory.</p>
+          <p>3. This article shall not be interpreted as:</p>
+          <p>(a) An obligation of a party to an investor of the other Contracting Party, or to their investments, the benefit of any treatment, preference or privilege resulting from:</p>
+          <p>(i) Provisions concerning the settlement of investment disputes contained in an international agreement on investment, including an agreement that contains a chapter of investments; or</p>
+          <p>(ii) Any agreement, including international trade agreements such as to create a regional economic integration organization, free trade area, customs union or common market to which a Party is a member before the Entry into Force of the Agreement.</p>
+          <p>(b) The possibility of invoking, in any dispute settlement mechanism treatment standards contained in an investment agreement or an international agreement that contains a chapter of investments which a Party of this Agreement either party before the Entry into Force of the Agreement.</p>
+          <p>4. For greater certainty, this Agreement does not apply to the disciplines relating to trade in services under any international agreement in force or signed prior to the Entry into Force of this Agreement relating to: aviation; fisheries; and maritime matters; and any salvage including Customs Union, Economic and Monetary Union, Union agreement resulting in such unions or similar institutions.</p>
+        </div>
+        <div type="article" num="7" title="Expropriation">
+          <p>1. No Party shall expropriate or nationalize the investments of an investor of the other Party, unless it is:</p>
+          <p>(a) For reasons of public interest or public purpose;</p>
+          <p>(b) In a non-discriminatory manner;</p>
+          <p>(c) Through the payment of compensation in accordance with paragraphs 2 to 3; and</p>
+          <p>(d) In accordance with the principle of due process of law.</p>
+          <p>2. The compensation shall:</p>
+          <p>(a) Be paid without delay</p>
+          <p>(b) Be equivalent to the fair market value of the expropriated investment at the time immediately before the expropriation took place;</p>
+          <p>(c) Not reflect any change in value occurring because the intended expropriation had become known earlier date specified in subparagraph (b); and</p>
+          <p>(d) Be freely transferable and payable in accordance with article 11 (transfers).</p>
+          <p>3. The compensation referred to in paragraph 1 (c) shall be no less than the fair market value on the date specified in subparagraph (b) of paragraph 2, plus interest set criteria, according to market accrued since the date referred to in subparagraph (b) of paragraph 2 until the date of payment.</p>
+          <p>4. This article does not apply to the Issuance of Licenses Complusory in relation to Intellectual Property Rights, limitation or revocation, or creation of such rights to the extent that such issuance, revocation, limitation or creation is consistent with the TRIPS Agreement. For greater certainty, the term "revocation" intellectual property rights referred to in this paragraph includes the cancellation or invalidation of those rights and the term "limitation" of intellectual property rights includes the exceptions to those rights.</p>
+          <p>5. For greater certainty, this article only for the direct expropriation, where an investment is expropriated or nationalized otherwise directly through formal transfer of title or the right of ownership.</p>
+        </div>
+        <div type="article" num="8" title="Treatment In Case of Strife">
+          <p>1. With respect to measures such as restitution, indemnification, compensation or other settlement, each Party shall accord to investors of the other party that have suffered loss in their investments in the territory of that party, due to armed conflict or civil strife, such as war, revolution, insurrection, riot or treatment no less favourable than that accorded to its own investors investors or of any country that is not a Party, whichever is more favourable to the investor concerned.</p>
+          <p>2. Without prejudice to paragraph 1, each Party shall provide the investor of the other party restitution, compensation or both, as appropriate, in accordance with article 7 (2) (3) (expropriation), in the event that investments of investors of the other party suffer losses in its territory, in any situation referred to in paragraph 1, resulting from:</p>
+          <p>(a) The requisitioning of its investment or part thereof by the authorities or forces of the host State; or</p>
+          <p>(b) The destruction of its investment or part thereof by the authorities or forces of the host State.</p>
+        </div>
+        <div type="article" num="9" title="Transparency">
+          <p>1. Each Party shall ensure that its laws and regulations relating to any matter covered by this Agreement are promptly published and where possible in electronic form.</p>
+          <p>2. To the extent possible, each Party shall:</p>
+          <p>(a) Make public in advance the measures referred to in paragraph 1 that it proposes to adopt; and</p>
+          <p>(b) Provide interested persons and the other party a reasonable opportunity to comment on such proposed measures.</p>
+          <p>3. Each Party shall establish or maintain appropriate mechanisms to respond to inquiries from interested persons regarding its regulations relating to the subject matter of this Agreement in accordance with its laws and regulations on transparency. The implementation of the obligation to establish appropriate mechanisms shall take into account the budgetary constraints and in the case of small administrative agencies.</p>
+        </div>
+        <div type="article" num="10" title="Domestic Regulation">
+          <p>Each Party shall ensure that all measures affecting investment are administered in a reasonable, objective and impartial, in accordance with its legal system.</p>
+        </div>
+        <div type="article" num="11" title="Transfers">
+          <p>1. Each Party shall permit the following transfers relating to an investment of an investor of the other party, be made freely and without delay into and out of its territory:</p>
+          <p>(a) The initial contribution to capital or any addition thereof in connection with the maintenance or expansion of such investment;</p>
+          <p>(b) Directly related to the investment returns;</p>
+          <p>(c) The proceeds of the total or partial sale or liquidation of the investment;</p>
+          <p>(d) Payments made under a contract which is part of the investor or investment including the payments made pursuant to a loan agreement;</p>
+          <p>(e) Any loan repayments of including on the same interest, directly related to the investment; and</p>
+          <p>(f) Payments made pursuant to article 7 (expropriation) and article 8 (treatment in case of strife). When the compensation to be paid in bonds of public debt, the investor may transfer the value of the proceeds of the sale of such bonds in the market, in accordance with this article.</p>
+          <p>2. Each Party shall permit transfers relating to an investment in a currency of free use, at the rate of exchange prevailing on the date of transfer.</p>
+          <p>3. Without prejudice to paragraph (1), a Party may prevent a transfer through the equitable and non-discriminatory and in good faith to its laws relating to:</p>
+          <p>(a) Winding-up proceedings, insolvency or bankruptcy or the protection of the rights of creditors;</p>
+          <p>(b) Compliance with orders or awards rendered judgements in judicial, administrative or arbitral. This subparagraph for greater certainty, includes the enforcement of judgments, orders or of arbitral awards in adjudicatory proceedings or administrative nature, tax or labour;</p>
+          <p>(c) Criminal offences; or</p>
+          <p>(d) Financial reports or record keeping of transfers when necessary to assist law enforcement or financial regulatory authorities.</p>
+          <p>4. Each Party may adopt or maintain measures that are not inconsistent with its obligations under this article, provided they are non-discriminatory and in conformity with the Articles of Agreement of the International Monetary Fund.</p>
+          <p>(a) In the event of serious imbalances balance of payments or external financial difficulties or threat thereof; or</p>
+          <p>(b) Where, in special circumstances, capital movements of cause or threaten to cause serious difficulties for macroeconomic management, in particular for monetary or exchange rate policies.</p>
+        </div>
+        <div type="article" num="12" title="Taxation">
+          <p>2. Nothing in this Agreement shall apply to Taxation Measures.</p>
+          <p>3. For greater certainty, no provision of this Agreement;</p>
+          <p>(a) Shall affect the rights and obligations of the Parties under any tax convention in force between the parties; or</p>
+          <p>(b) Shall be construed so as to prevent the adoption or enforcement of any measure aimed at ensuring the equitable or effective imposition or collection of taxes in accordance with the legislation of the Parties.</p>
+        </div>
+        <div type="article" num="13" title="Prudential Measures">
+          <p>1. Nothing in this Agreement shall be construed so as to prevent either party adopts or maintains prudential measures such as:</p>
+          <p>(a) The protection of investors, depositors, participants in the financial market, holder of policies, beneficiaries of policies, or persons to whom a fiduciary duty is a financial institution;</p>
+          <p>(b) The maintenance of security, soundness, soundness, responsibility or integrity of financial institutions; and</p>
+          <p>(c) To ensure the integrity and stability of the financial system of a party.</p>
+          <p>2. Where such measures do not conform to the provisions of this Agreement shall not be used as a means of avoiding the commitments or obligations undertaken by the parties under this Agreement.</p>
+        </div>
+        <div type="article" num="14" title="Security Exceptions">
+          <p>Nothing in this Agreement shall be construed as:</p>
+          <p>(a) To require a party to furnish any information the disclosure of which it considers contrary to its essential security interests;</p>
+          <p>(b) Prevent a Party from taking any action which it considers necessary for the protection of its essential security interests including those relating to:</p>
+          <p>(i) Fissionable and fusionable materials or the materials from which they are derived;</p>
+          <p>(ii) The traffic in arms, ammunition and war materiel, and other goods and materials or relating to the supply of services intended directly or indirectly for the purpose of supplying or provisioning a military establishment;</p>
+          <p>(iii) Measures taken in time of war or other emergency or in international relations;</p>
+          <p>1. (C) prevent a Party from taking action in pursuance of its obligations under the United Nations Charter for the maintenance of international peace and security.</p>
+        </div>
+        <div type="article" num="15" title="Social Responsibility Policies">
+          <p>1. The Parties recognise the importance of promoting enterprises operating within its territory or subject to its jurisdiction to implement policies and sustainability of social responsibility and to promote the development of the host country.</p>
+          <p>2. Investors and their investment shall develop their best efforts to comply with the "OECD Guidelines for Multinational Enterprises of the Organisation for Economic Cooperation and Development, in particular:</p>
+          <p>(a) To contribute to the achievement of economic, social and environmental matters with a view to achieving sustainable development;</p>
+          <p>(b) Respect internationally recognized human rights of persons involved in the activities of the enterprise;</p>
+          <p>(c) Encourage the creation of local capacities through close cooperation with the local community;</p>
+          <p>(d) Promote the training of human capital, in particular through the creation of employment opportunities and training for employees;</p>
+          <p>(e) Refrain from seeking or accepting exemptions not covered under the legal or regulatory relating to human rights, the environment, health, safety, labour, the tax system, the financial incentives, or other matters;</p>
+          <p>(f) Support and defend the principles of good corporate governance and develop and implement good practices of corporate governance;</p>
+          <p>(g) Develop and implement autodisciplinarias practices and effective management systems that foster mutual trust between enterprises and companies in which they exercise their activity;</p>
+          <p>(h) Promote awareness and compliance by employees of the policies of company through appropriate dissemination, including through training programmes;</p>
+          <p>(i) To refrain from taking discriminatory measures or disciplinary workers to develop, in good faith, reports to the direction or, where appropriate, to the competent public authorities about practices contrary to law or policies of the enterprise;</p>
+          <p>(j) Further to the extent possible, that its trading partners, including suppliers and contractors implement the principles of business conduct consistent with the principles set out in this Article; and</p>
+          <p>(k) Refrain from any undue interference in local political activities.</p>
+        </div>
+        <div type="article" num="16" title="Investment Measures and Fight Against Corruption and Illegality">
+          <p>3. Each Party shall adopt or maintain measures and efforts to prevent and combat corruption, money-laundering and the financing of terrorism in relation to the matters covered by this Agreement.</p>
+          <p>4. Nothing in this Agreement shall oblige a party to protect investments made with capital or assets of illicit origin or investments in the establishment or operation verified unlawful acts which have been charged with the loss of assets or acts of corruption.</p>
+        </div>
+        <div type="article" num="17" title="Investment and Measures on Health, Environment, Labour Affairs and other Regulatory Objectives">
+          <p>1. A Party may adopt or maintain or enforce any measure that it considers appropriate to ensure that investment activity in its territory is undertaken in a manner sensitive to environmental or health, labour law of that Party, in a manner consistent with the provisions of this Agreement.</p>
+          <p>2. The Parties recognize that it is inappropriate to encourage investment by reducing the standards of its labour laws, environmental or health. Accordingly, the Parties shall not derogate from or otherwise waive or offer to waive, flexibility, relax or repeal of such measures as a means to promote the establishment, maintenance or expansion of an investment in its territory.</p>
+        </div>
+      </div>
+      <div type="part" num="III" title="Prevention of Differences and Institutional Governance">
+        <div type="article" num="18" title="The Joint Committee for the Administration of the Agreement">
+          <p>1. The Parties shall establish a joint committee for the management of this Agreement (hereinafter referred to as the joint committee).</p>
+          <p>2. The Joint Committee shall be composed of representatives of the Governments of the Parties.</p>
+          <p>3. The Joint Committee shall meet at such times, in such places, and through such means as the parties agree. Meetings shall be held at least once a year, alternating chairs meeting between the parties.</p>
+          <p>4. The Joint Committee shall have the following functions and responsibilities:</p>
+          <p>(a) Overseeing the administration and implementation of this Agreement;</p>
+          <p>(b) Sharing and discuss investment opportunities in the territories of the Parties;</p>
+          <p>(c) Coordinating the implementation of an agenda for cooperation and facilitation of investments;</p>
+          <p>(d) Invite the private sector and civil society, where appropriate, to submit their views on specific matters related to the work of the Joint Committee; and</p>
+          <p>(e) Any attempt to resolve issues or investment disputes amicably, in accordance with the procedures laid down in article 24 (direct consultations and negotiations for the prevention of disputes).</p>
+          <p>5. The Parties may establish ad hoc working groups, which shall meet with the Joint Committee jointly or separately.</p>
+          <p>6. The private sector may be invited to participate in the "Ad Hoc Working Groups", provided that it is authorized by the Joint Committee.</p>
+          <p>7. The joint committee may establish its own rules of procedure.</p>
+        </div>
+        <div type="article" num="19" title="National Focal Points or Ombudsmen">
+          <p>1. Each Party shall designate a single national focal point which shall have as its main responsibility of investors to support the other party in its territory.</p>
+          <p>2. In the Federative Republic of Brazil, the national focal point, also called the Ombudsman shall be in the Chamber of Foreign Trade (CAMEX), a Council presidency of the Government of the Federative Republic of Brazil, inter-ministerial nature.</p>
+          <p>3. The Republic of Chile, the National Focal Point shall at the agency of foreign investment promotion.</p>
+          <p>4. The national focal point, among other responsibilities, shall:</p>
+          <p>(a) To address the recommendations of the Joint Committee and interact with the national focal point of the other party;</p>
+          <p>(b) Managing the consultations of the other party or investors of the other party, with relevant entities and inform stakeholders on the results of his efforts;</p>
+          <p>(c) Assess, in dialogue with the competent governmental authorities, suggestions and complaints received from the other party or investors of the other party, and, where appropriate, recommend measures for improving investment environment;</p>
+          <p>(d) To prevent differences in investment in collaboration with government authorities and private entities concerned;</p>
+          <p>(e) Provide timely and useful information on regulatory issues of investment in general or specific projects, when requested; and</p>
+          <p>(f) Inform the Committee of its activities and joint actions when appropriate.</p>
+          <p>5. Each Party shall ensure that its national focal point, are implemented expeditiously and coordinated among themselves and with the Joint Committee.</p>
+          <p>6. Each Party shall establish rules and deadlines for the performance of the functions and responsibilities of the national focal point, which shall be communicated to the other party.</p>
+          <p>7. The National Focal Point should provide accurate and timely responses to requests from the Government and investors of the other party.</p>
+        </div>
+        <div type="article" num="20" title="Exchange of Information between the Parties">
+          <p>1. The Parties shall exchange relevant information, whenever possible and for mutual investment in connection with business opportunities, and the procedures and requirements for investment, in particular through the Joint Committee and its national focal points.</p>
+          <p>2. The Parties shall, when requested, expeditiously, information, inter alia, on the following:</p>
+          <p>(a) The legal framework regulating the investment in its territory;</p>
+          <p>(b) Government programmes and in any specific investment incentives;</p>
+          <p>(c) Public policies and regulations relating to the investment;</p>
+          <p>(d) Relevant international treaties, including investment agreements;</p>
+          <p>(e) Customs procedures and tax regimes;</p>
+          <p>(f) Statistics on the market for goods and services;</p>
+          <p>(g) Available infrastructure and relevant public services;</p>
+          <p>(h) Public procurement and concessions;</p>
+          <p>(i) The labour and social security legislation;</p>
+          <p>(j) Migration law;</p>
+          <p>(k) The exchange laws;</p>
+          <p>(l) The legislation of specific economic sectors; and</p>
+          <p>(m) Public information on public-private partnerships.</p>
+        </div>
+        <div type="article" num="21" title="The Treatment of Protected Information">
+          <p>1. The Parties shall respect the level of protection of the information provided by the Party that has submitted in accordance with its applicable laws.</p>
+          <p>2. Nothing in this Agreement shall be construed to require any party to disclose protected information the disclosure of which would impede law enforcement or otherwise be contrary to the public interest; privacy or could prejudice or legitimate commercial interests. For the purposes of this paragraph, the protected information includes confidential business information or information that is privileged or protected from disclosure under the applicable laws of a party.</p>
+        </div>
+        <div type="article" num="22" title="Interaction with the Private Sector">
+          <p>1. Recognizing the essential role of the private sector, each Party shall disseminate among the relevant business sectors of the other party, general information on investment, regulatory frameworks and business opportunities in its territory.</p>
+          <p>2. Wherever possible, each Party shall accord advertising on this Agreement to their respective public and private financial agents responsible for the technical assessment of risk and the adoption of loans, credits, guarantees and insurance related to investments in the territory of the other party.</p>
+        </div>
+        <div type="article" num="23" title="Cooperation between Agencies Responsible for Investment Promotion">
+          <p>The Parties shall promote cooperation between their investment promotion agencies to facilitate investments in their territories.</p>
+        </div>
+        <div type="article" num="24" title="Direct Consultations and Negotiations for the Prevention of Disputes">
+          <p>1. Before initiating an arbitration under article 25 (arbitration between the parties) of this Agreement, the Parties shall endeavour to settle disputes through direct consultations and negotiations between them, and shall consideration by the Joint Committee in accordance with the following procedure.</p>
+          <p>2. A Party may deny that will discuss in the Joint Committee, a matter concerning an investment made by a national of that Party in the territory of that Party.</p>
+          <p>3. A Party may refer to the Joint Committee a specific question affecting an investor in accordance with the following rules:</p>
+          <p>(a) To initiate the procedure, the Party concerned shall submit a written request to the other party, specifying the name of the affected investor, the specific measure at issue and the legal and factual basis for the request. The Joint Committee shall meet within sixty (60) days from the date of the request;</p>
+          <p>(b) In order to achieve a solution of the matter, the Parties shall exchange information as may be necessary;</p>
+          <p>(c) For the purpose of facilitating a settlement between the parties and whenever possible, may participate in the meetings of the Joint Committee shall:</p>
+          <p>(i) Representatives of the affected and investors;</p>
+          <p>(ii) Representatives of governmental and non-governmental entities related to the measure;</p>
+          <p>(d) The Joint Committee shall, wherever possible, convening meetings. for reviewing matters that may be submitted;</p>
+          <p>(e) The Joint Committee shall have sixty (60) days from the date of its first meeting, which may be extended for period of time, by mutual agreement and prior justification for assessing the information concerning the case submitted to it and to prepare a report;</p>
+          <p>(f) The Joint Committee shall submit its report at a meeting shall be carried out no later than thirty (30) days after the expiry of the period referred to in subparagraph (e).</p>
+          <p>(g) The report of the Joint Committee shall include:</p>
+          <p>(i) Identification of the party that issued the measure;</p>
+          <p>(ii) The Investor affected identified under paragraph 3 (a);</p>
+          <p>(iii) Description of the measure under consultation;</p>
+          <p>(iv) The efforts made; and</p>
+          <p>(v) Position of the Parties in respect of the measure;</p>
+          <p>(h) In the event that a Party does not attend the meeting of the Joint Committee referred to in subparagraph (a) of this paragraph, the dispute may be referred to arbitration by the other Party in accordance with article 25 (arbitration between the parties; and</p>
+          <p>(i) The Joint Committee will make every effort to reach a mutually satisfactory solution.</p>
+        </div>
+        <div type="article" num="25" title="Arbitration between the Parties">
+          <p>Once completed the procedure laid down in article 24 (direct consultations and negotiations for the prevention of disputes) unless the dispute is settled, either party may request in writing to the other party for the establishment of an arbitral tribunal to decide on the same subject matter of the consultations referred to in article 24, in accordance with the provisions of annex I (arbitration between the parties.</p>
+        </div>
+      </div>
+      <div type="part" num="IV" title="Agenda for Cooperation and Facilitation of Investments">
+        <div type="article" num="26" title="Agenda for Cooperation and Facilitation of Investments">
+          <p>1. The Joint Committee shall develop and shall discuss an agenda for cooperation and facilitation of investment in topics relevant to the promotion of bilateral investment. The issues to be addressed initially, shall be determined at its first meeting.</p>
+          <p>2. The results of the discussions that may arise in the framework of the agenda may establish additional protocols to this Agreement or specific legal instruments, as the case may be.</p>
+          <p>3. The Joint Committee shall establish timetables for further cooperation and facilitation of investment.</p>
+          <p>4. The Parties shall provide the Joint Committee the names of their official representatives and government bodies involved in those activities.</p>
+          <p>5.  For greater certainty, the term "cooperation" means in a broad sense and not in the sense of technical assistance or similar.</p>
+        </div>
+      </div>
+      <div type="part" num="V" title="General and Final Provisions">
+        <div type="article" num="27" title="Final Provisions">
+          <p>1. The joint committee, or the national focal points replaced existing diplomatic channels between the parties.</p>
+          <p>2. The annexes to this Agreement shall form an integral part thereof.</p>
+          <p>3. The parties have not acquired commitments in relation to their investors and investments in Financial Services, including Financial Services as defined in subparagraph 5 (a) of the Annex on Financial Services of the General Agreement on Trade in Services (GATS) of the World Trade Organization (WTO). Bearing in mind the importance of mutual investment in this sector, the parties shall negotiate a protocol or other legal instrument separate financial services, as soon as possible. The ratification of this Agreement and the instrument on financial services shall be simultaneously.</p>
+          <p>4. Without prejudice to its regular meetings, after ten (10) years of entry into force of this Agreement, or earlier, if deemed necessary, the Joint Committee will undertake a general review of its implementation and make further recommendations if necessary.</p>
+          <p>5. This Agreement shall enter into force ninety (90) days after the date of receipt of the last notification by which a Party notifies the other party of the fulfillment of all the necessary internal procedures for its Entry into Force.</p>
+          <p>6. At any time, either Party may terminate this Agreement, through diplomatic channels. The withdrawal shall take effect on the date that the parties agree, or if the parties are unable to reach agreement, one (1) year after the date on which the termination notice is delivered.</p>
+        </div>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Santiago on the day of November in the year 2015 in the Spanish and Portuguese languages, both texts being equally authentic.</p>
+    </conclusion>
+  </main>
+</treaty>

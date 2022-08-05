@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Algeria - Iran, Islamic Republic of BIT (2003)</name>
+    <code>T2003-44</code>
+    <partyisocode n="0">DZA</partyisocode>
+    <partyisocode n="1">IRN</partyisocode>
+    <date_signed>2003-10-19</date_signed>
+    <date_into_force>2005-12-05</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>63</docreference>
+    <comments>OCR</comments>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{DZA,IRN}_2003-10-19.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on the reciprocal promotion and protection of investments between the Government of the people's Democratic Republic of Algeria and the Government of the Islamic Republic of Iran, signed in Tehran on 19 October 2003;</p>
+    </title>
+    <preamble>
+      <p>The Government of the people's Democratic Republic of Algeria and the Government of the Islamic Republic of Iran referred to hereinafter as the contracting parties;</p>
+      <p>Desiring to enhance economic cooperation in the interest of both countries;</p>
+      <p>With a view to use their economic resources and facilities in the field of investment and to create conditions</p>
+      <p>In favour of investments of nationals of either Contracting Party in the territory of the other contracting party;</p>
+      <p>Recognizing the need to promote and protect investments of nationals of the Contracting Parties in the territory of the other party;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement, the terms that are used to designate the following:</p>
+        <p>1. The term "investment" means any property and assets invested by investors of one Contracting Party in the territory of the other contracting party, in accordance with the laws and regulations of that other contracting party (referred to below as the host Party "contracting) and includes:</p>
+        <p>a) Movable and immovable property as well as rights related thereto;</p>
+        <p>b) The actions and any other form of participation in companies;</p>
+        <p>c) Money or to any performance having a financial value;</p>
+        <p>d) The industrial and intellectual property rights, such as patents, trademarks, industrial invention model designs, trademarks and know-how;</p>
+        <p>e) The rights of exploration for the extraction of natural resources.</p>
+        <p>2. The term "investors" means persons listed below and who invest in the territory of the other Contracting Party within the framework of this Agreement:</p>
+        <p>a) Natural persons are in accordance with the laws of each of the Contracting Parties, the nationals of the other contracting party;</p>
+        <p>b) Legal persons of either Contracting Party are those which are established under the laws of the other contracting party and their seats or their real economic activities are located in the territory of the other contracting party.</p>
+        <p>3. The term "proceeds" means the returns amounts legally produced by an investment and includes the investments of profits, dividends, royalties.</p>
+        <p>4. The term "territory" means:</p>
+        <p>a) In respect of the people's Democratic Republic of Algeria, the territory of the Democratic Republic of Algeria's people, including beyond the territorial sea and the other maritime areas over which the people's Democratic Republic of Algeria has jurisdiction or sovereign rights for the purpose of exploration and</p>
+        <p>The exploitation of natural resources, whether living or non-living, waters above the sea bed sea bed and subsoil, in accordance with its national legislation and / or in accordance with international law;</p>
+        <p>b) With respect to the Islamic Republic of Iran, areas under the sovereignty or jurisdiction of the Islamic Republic of Iran including the maritime areas.</p>
+      </div>
+      <div type="article" num="2" title="Investment promotion">
+        <p>Each of the Contracting Parties shall, within the framework of its laws and regulations, create favourable conditions for attraction of investments in its territory of nationals of the other contracting party.</p>
+      </div>
+      <div type="article" num="3" title="Admitted investments">
+        <p>1. Each contracting party recognizes in its territory in accordance with its laws and regulations investments of natural and legal persons of the other contracting party.</p>
+        <p>2. Where the admission of investment, each Contracting Party shall grant, in accordance with its laws and regulations, all necessary permits for the realization of such an investment.</p>
+      </div>
+      <div type="article" num="4" title="Protection of investments">
+        <p>1. Investments of natural and legal persons of either Contracting Party who have obtained in the territory of the other Contracting Party, shall be accorded by the host contracting party full legal protection and treatment no less favourable than that accorded to its own investors or to investors of a third country and who are not in an identical situation.</p>
+        <p>2. If a Contracting Party has accorded or will provide advantages in the future or rights specific to an investor (s) of a third State by virtue of an existing or future convention on the establishment of a free trade area, customs union, a common market or a similar regional organization and / or agreement of non - double taxation, it shall not be obliged to accord such advantages or rights of investors to the other contracting party.</p>
+      </div>
+      <div type="article" num="5" title="More favourable provisions">
+        <p>Notwithstanding the provisions of this Agreement, it shall be made by the most favourable provisions agreed or to be agreed upon by each Contracting Party and investors of the other contracting party.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation and compensation">
+        <p>1. Investments of natural and legal persons of either Contracting Party shall not be nationalized or expropriated or subjected to similar measures by the other contracting party unless the measures are taken for a public purpose in accordance with due process of an adequate, on a non-discriminatory basis and against payment of prompt and effective compensation.</p>
+        <p>2. The amount of compensation shall be equivalent to the market value of the investment immediately after the decision to nationalization or expropriation or made public.</p>
+      </div>
+      <div type="article" num="7" title="Compensation for losses">
+        <p>Investors of either Contracting Party whose investments in the territory of the other contracting party suffer losses owing to Armed Conflict revolution, a state of national emergency or similar occurring in the territory of the other Contracting Party, shall be accorded treatment no less favourable than that it accords to its own investors to investors or of any third State.</p>
+      </div>
+      <div type="article" num="8" title="Transfers">
+        <p>1. Each Contracting Party shall, in accordance with its laws and regulations, the free transfer into and out of its territory, following without delay of payments related to investments covered by this Agreement:</p>
+        <p>a) Income and royalties relating to an agreement for the transfer of technology;</p>
+        <p>b) The proceeds accruing from the sale or the total or partial liquidation of investments;</p>
+        <p>c) Any payments made pursuant to articles 6 and 7 of this Agreement;</p>
+        <p>d) The awards relating to the investment of loans;</p>
+        <p>e) Monthly salaries and wages received by the employees of an investor who have obtained in the territory of the host Party, contracting work permits in accordance with respect to such investments;</p>
+        <p>f) Payments arising from a decision of the Authority referred to in article 12.</p>
+        <p>2. Transfers mentioned above shall be made in a currency transferable and at the rate of exchange applicable pursuant to the exchange regulations in force on the date of transfer.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>If one contracting party or its agency under a legal system, an investor subrogates in exchange for payment under an agreement or guarantee insurance against non-commercial risks:</p>
+        <p>a) The other Contracting Party shall recognize the subrogation;</p>
+        <p>b) The subrogated shall not be entitled to exercise any rights except that the investor was entitled to exercise;</p>
+        <p>c) Disputes between the host and subrogated the Contracting Party shall be settled in accordance with article 12 of this Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Compliance">
+        <p>Each Contracting Party shall ensure compliance with commitments regarding investments of natural and legal persons of the other contracting party.</p>
+      </div>
+      <div type="article" num="11" title="Scope of the agreement">
+        <p>This Agreement shall apply to investment by investors of one Contracting Party in the territory of the other Contracting Party, approved by the competent authorities of the latter Contracting Party, if required by its laws and regulations.</p>
+        <p>The competent authority in the Islamic Republic of Iran is the organization for investment and economic support and techique of Iran or any successor agency.</p>
+      </div>
+      <div type="article" num="12" title="Settlement of disputes between a contracting party and investors of the other contracting party">
+        <p>1. For the purpose of solving disputes with respect to investments between a Contracting Party and investors of the other contracting party, the parties to the dispute shall initially seek to resolve the dispute amicably through consultations and negotiations.</p>
+        <p>2. If these consultations and negotiations do not result in a solution within six (6) months from the date of the request for the settlement of the dispute, the investor may submit the dispute, at his choice for settlement, to:</p>
+        <p>a) The competent court of the Contracting Party in whose territory the investment has been made;</p>
+        <p>b) Or the International Centre for Settlement of Investment Disputes (ICSID), established by the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature at Washington DC on 18 March 1965, when both contracting parties have become parties to this Convention;</p>
+        <p>c) Or an ad hoc arbitration tribunal established on the basis of the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).</p>
+        <p>3. The award of the arbitral tribunal shall be final and binding upon both parties to the dispute. Each Contracting Party undertakes to execute the award according to its national law.</p>
+      </div>
+      <div type="article" num="13" title="Settlement of disputes between the contracting parties">
+        <p>1. Disputes between the contracting parties concerning the interpretation or application of the provisions of this Agreement shall be settled through diplomatic channels.</p>
+        <p>2. If the contracting parties fail to reach a settlement in a period of twelve (12) months from the date of commencement of the dispute, it shall be submitted, at the request of one of the contracting parties to an arbitral tribunal composed of three members. Each Contracting Party shall appoint one arbitrator and the two arbitrators shall appoint a President who shall be a national of a third State.</p>
+        <p>3. If one of the contracting parties does not appoint its arbitrator and has not responded to the invitation of the other contracting party to make such appointments within two months (2), the arbitrator shall be appointed upon the request of the latter Contracting Party by the President of the International Court of Justice.</p>
+        <p>4. If the two arbitrators cannot reach agreement on the choice of the Chairman within two (2) months after their designations and in the absence of any other agreement, the latter shall be appointed upon the request of either Contracting Party by the President of the International Court of Justice.</p>
+        <p>5. In the cases referred to in paragraphs (3) and (4) of this article, if the President of the International Court of Justice is a national of either Contracting Party or is prevented from discharging this task, the designations shall be made by the Vice-President. If the Vice-President is a national of either Contracting Party or is prevented from discharging this task, the designations shall be made by the member of the International Court of Justice the oldest who is not a national of either of the Contracting Parties.</p>
+        <p>6. The Tribunal shall determine its own rules of procedure.</p>
+        <p>7. Each Contracting Party shall bear the costs related to the designation of its arbitrator within its representation in the arbitration proceedings.</p>
+        <p>With regard to the costs of the Chairman and the remaining costs, the Contracting Parties shall be borne in equal shares.</p>
+      </div>
+      <div type="article" num="14" title="Amendment and revision">
+        <p>Any amendment or revision of this Agreement shall be in writing and shall enter into force following an exchange of letters between the competent authorities of the contracting parties through the diplomatic channel.</p>
+      </div>
+      <div type="article" num="15" title="Entry into force">
+        <p>The Contracting Parties shall notify each other in writing of the completion of the constitutional procedures required for the entry into force of this Agreement shall enter into force on the day following the date of receipt of the last notification.</p>
+      </div>
+      <div type="article" num="16" title="Duration and termination">
+        <p>This agreement stayed in force for an initial period of ten (10) years. It shall remain in office until the expiration of a period of twelve (12) months from the date of the written notification of one of the Contracting Parties to the other contracting party of its intention to terminate the agreement. In respect of investments made prior to the termination of this agreement its provisions shall continue to be applied to such investments for a period of ten (10) years from the date of expiry.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In WITNESS WHEREOF, the sousign&#xE9;s duly authorized thereto by their respective Governments, have signed this Agreement.</p>
+      <p>This agreement was in two originals in the Persian, Arabic and English languages, all texts being equally authentic. In the event of any divergence in interpretation, the English text shall prevail.</p>
+      <p>For the Government of the people's Democratic Republic of Algeria Abdelaziz BELKHADEM Minister, Minister of Economic and Finance</p>
+      <p>For the Government of the Islamic Republic of Iran tahmasb Mazaheri Minister of Foreign Affairs</p>
+    </conclusion>
+  </main>
+</treaty>

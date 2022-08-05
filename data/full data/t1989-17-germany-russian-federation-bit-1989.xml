@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Germany - Russian Federation BIT (1989)</name>
+    <code>T1989-17</code>
+    <partyisocode n="0">DEU</partyisocode>
+    <partyisocode n="1">RUS</partyisocode>
+    <date_signed>1989-06-13</date_signed>
+    <date_into_force>1991-08-05</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1745</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{DEU,RUS}_1989-06-13.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE FEDERAL REPUBLIC OF GERMANY AND THE UNION OF SOVIET SOCIALIST REPUBLICS CONCERNING THE PROMOTION AND RECIPROCAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Contracting Parties,</p>
+      <p>Desiring to strengthen their mutual economic cooperation,</p>
+      <p>Striving to create favourable conditions for joint investments,</p>
+      <p>Recognizing that the promotion of such investments and their protection on the basis of this Agreement will contribute to the further development of economic initiative in this area,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>(1) For the purposes of this Agreement:</p>
+        <p>(a) The term "investment" shall apply to all types of assets which an investor of one Contracting Party invests in the territory of the other Contracting Party in accordance with its legislation, in particular:</p>
+        <p>Property, and other real rights such as usufructs, mortgages and similar rights;</p>
+        <p>Shares and other forms of participation in commercial enterprises and organizations;</p>
+        <p>Claims to money invested to create an economic value, or services having an economic value;</p>
+        <p>Copyright, industrial property rights such as rights to inventions, including rights deriving from patents, trademarks, industrial models, trading marks of retail bodies, models, trade names, and technology and know-how;</p>
+        <p>Rights to engage in economic activity, including concessions for prospecting for, cultivating, mining or developing natural resources accorded under the legislation of the Contracting Party in whose territory the investments are made, or by virtue of a contract.</p>
+        <p>(b) The term "income" means the amounts which have been yielded or may be yielded by an investment as provided for in paragraph 1 (a) of this article, in particular, in the form of profits (profit shares), dividends, interest, licence fees, payments for technical assistance and technical services and other fees.</p>
+        <p>(c) The term "investor" means an individual having a permanent place of residence in the area covered by this Agreement, or a body corporate having its registered office therein, authorized to make investments.</p>
+        <p>(2) This agreement shall also apply to the exclusive economic zone and the continental shelf over which, in accordance with international law, the Contracting Party in question may exercise sovereign rights and jurisdiction for the purposes of prospecting for, cultivating and preserving natural resources.</p>
+      </div>
+      <div type="article" num="2">
+        <p>(1) Each Contracting Party, in accordance with its legislation, shall promote and permit investments made in its territory by investors of the other Contracting Party and shall accord fully equitable treatment to them in each case.</p>
+        <p>(2) Investments and investment income shall have full protection under this Agreement.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Each Contracting Party shall accord in its territory, to investments made by investors of the other Contracting Party, treatment that is no less favourable than that which it accords to investments made by investors of third States.</p>
+        <p>(2) Each Contracting Party shall accord in its territory, to investors of the other Contracting Party, in respect of their activities in connection with such investments, treatment that is no less favourable than that which it accords to investors of third States.</p>
+        <p>(3) This regime shall not apply to benefits and privileges which the Contracting Party grants:</p>
+        <p>By virtue of participation in a customs or economic union, a free trade zone or a common market,</p>
+        <p>On the basis of a convention for the avoidance of double taxation or other agreements concerning matters of taxation.</p>
+        <p>(4) Without prejudice to its legislation on joint ventures in participation of foreign investors, each Contracting Party undertakes not to take discriminatory measures against joint ventures in which investors of the other Contracting Party are participants, the investments of such investors, or the activities of investors in connection with such investments.</p>
+      </div>
+      <div type="article" num="4">
+        <p>(1) Dispossession measures, including nationalization or other measures having similar consequences, may be applied in the territory of one Contracting Party to investments of investors of the other Contracting Party only in cases where these dispossession measures are carried out for reasons of public necessity, in accordance with the procedure established under the legislation of that Contracting Party and with the payment of compensation. Such measures must not be discriminatory in nature.</p>
+        <p>(2) The compensation must correspond to the real value of the investment in question, determined immediately prior to the time when the dispossession measures which have actually been taken or are to be taken are officially made public. The compensation must be paid without undue delay and, until it is paid, interest shall be calculated on the amount of the compensation in accordance with the interest rate in force in the territory of the Contracting Party concerned; it must be effectively realizable and freely transferable.</p>
+        <p>(3) An investor against whose investment dispossession measures have been applied shall have the right to a review, by the courts of the Contracting Party which carried out such measures, of all questions relating to the implementation of measures for the expropriation of his investment, including the procedure for the payment of compensation thereof, and the amount, in accordance with its legislation.</p>
+        <p>Notwithstanding the foregoing, the investor shall have the right, in accordance with article 10 of this Agreement, to appeal to an international arbitral tribunal to resolve disputes on the procedure for the payment of compensation and the amount thereof.</p>
+        <p>(4) In respect of the circumstances governed by paragraphs 1 to 3 of this article, investors of one Contracting Party and their investments in the territory of the other Contracting Party shall be accorded treatment in accordance with the provisions of article 3 of this Agreement.</p>
+        <p>(5) Investors of one Contracting Party whose investments have suffered losses in the territory of the other Contracting Party as a result of war, armed conflict or other extraordinary circumstances shall not be discriminated against and shall be accorded most-favoured-nation treatment in respect of the payment of compensation or other forms of restitution for the loss suffered. The payments and restitution must be effectively realizable and freely transferable.</p>
+      </div>
+      <div type="article" num="5">
+        <p>(1) Each Contracting Party shall guarantee to investors of the other Contracting Party freedom to transfer in convertible currency payments made in connection with investments, in particular:</p>
+        <p>(a) The amounts of the investment and additional amounts to maintain or increase the volume of the investment;</p>
+        <p>(b) Income from the investment;</p>
+        <p>(c) Amounts paid to liquidate loans relating to the investment;</p>
+        <p>(d) Amounts payable to an investor in respect of the partial or complete liquidation or sale of the investment;</p>
+        <p>(e) The compensation referred to in article 4 of this Agreement.</p>
+        <p>(2) The transfers referred to in paragraph 1 of this article shall be carried out in accordance with normal banking procedures and without undue delay, but in each case no later than three months after the claim is made and on the basis of the exchange rate applicable on the date of transfer.</p>
+      </div>
+      <div type="article" num="6">
+        <p>(1) If one Contracting Party pays compensation to one of its investors pursuant to a guarantee given in respect of an investment made by the latter in the territory of the other Contracting Party, the latter Contracting Party, without prejudice to the rights of the first Contracting Party deriving from article 9 of this Agreement, shall recognize, on the basis of law or contract, the assignment of all the rights or claims of that investor to the first Contracting Party. The other Contracting Party shall also recognize that the first Contracting Party has entered into such rights or claims, and is entitled to exercise them to the same extent as the investor would have done if it had not succeeded to that legal function.</p>
+        <p>(2) If one Contracting Party to which such rights or claims have been assigned after the payment of compensation instructs its investor to exercise all its rights or claims, that Contracting Party may not apply in that respect to a court of the other Contracting Party, or to an international arbitral tribunal.</p>
+        <p>(3) Articles 4 and 5 of this Agreement shall apply, mutatis mutandis, to the transfer of payments made on the basis of the subrogation of rights deriving from a claim.</p>
+      </div>
+      <div type="article" num="7">
+        <p>(1) If another international agreement to which both Contracting Parties are parties or may become parties in future or if the legislation of one Contracting Party includes a provision whereby investments made by investors of the other Contracting Party enjoy more favourable treatment than under this Agreement, such provision shall have priority over the corresponding provisions of this Agreement.</p>
+        <p>(2) Each Contracting Party shall comply with any other obligation it assumes in respect of investments made by investors of the other Contracting Party in its territory.</p>
+      </div>
+      <div type="article" num="8">
+        <p>This Agreement shall also apply to investments made by investors of one Contracting Party under the legislation of the other Contracting Party in its territory with effect from 25 September 1955.</p>
+      </div>
+      <div type="article" num="9">
+        <p>(1) Disputes between the two Contracting Parties concerning the interpretation or application of this Agreement shall, as far as possible, be settled by means of negotiations.</p>
+        <p>(2) If a dispute cannot be settled in this manner, it shall, at the request of either Contracting Party, be submitted to an arbitral tribunal for a decision.</p>
+        <p>(3) The arbitral tribunal shall, in each specific case, be constituted as follows: each Contracting Party shall designate one member of the tribunal, and those two members shall, by mutual agreement, designate a national of a third State, who shall be appointed chairman of the arbitral tribunal by the Contracting Parties. The members of the arbitral tribunal shall be appointed within two months and the chairman within three months from the date on which one Contracting Party notifies the other Contracting Party of its intention to submit the dispute to an arbitral tribunal for a decision.</p>
+        <p>(4) If the time limits established in paragraph 3 of this article are not observed, either Contracting Party may, unless otherwise agreed, invite the President of the International Court of Justice to make the necessary appointments.</p>
+        <p>(5) The arbitral tribunal shall take its decisions by majority vote. Such decisions shall have binding force. Each Contracting Party shall bear the costs incurred in connection with the activities of its member of the arbitral tribunal and with its representation in the arbitration process; the costs incurred in connection with the activities of the chairman of the arbitral tribunal and any other costs shall be divided equally between the Contracting Parties. On all other questions, the arbitral tribunal shall determine its own method of work independently.</p>
+      </div>
+      <div type="article" num="10">
+        <p>(1) Disputes relating to investments between one Contracting Party and an investor of the other Contracting Party shall, as far as possible, be settled amicably between the parties to the dispute.</p>
+        <p>(2) If a dispute relating to the amount of compensation or the method of its payment, in accordance with article 4 of this Agreement, or to freedom of transfer, in accordance with article 5 of this Agreement, is not settled within six months from the time when a claim is made by one of the parties to the dispute, either party to the dispute shall be entitled to refer the matter to an international arbitral tribunal.</p>
+        <p>(3) The procedure provided for in paragraph 2 of this article shall apply also to disputes relating to matters which the parties to the dispute have agreed to submit to arbitration.</p>
+        <p>(4) Unless the parties to a dispute agree otherwise, article 9, paragraphs 3 to 5, of this Agreement shall apply, mutatis mutandis, so that the parties to the dispute appoint the members of the arbitral tribunal and so that each party to the dispute, unless otherwise agreed, may request the Chairman of the Institute of Arbitration of the Stockholm Chamber of Commerce to make the necessary appointments, if the time limits established in article 9, paragraph 3, of this Agreement are not observed.</p>
+        <p>The decisions of the arbitral tribunal shall be recognized and implemented in accordance with the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of 10 June 1958.</p>
+        <p>(5) A Contracting Party which is involved in the dispute shall not, in the course of the arbitration proceedings or the implementation of a decision of an arbitral tribunal, put forward the argument that an investor of the other Contracting Party, authorized under article 6, paragraph 2, of this Agreement to exercise all rights and claims, received partial or full compensation for the loss incurred on the basis of the guarantee referred to in article 6 of this Agreement.</p>
+      </div>
+      <div type="article" num="11">
+        <p>In conformity with the Quadripartite Agreement of 3 September 1971, this Agreement shall be extended to Berlin (West) in accordance with established procedures.</p>
+      </div>
+      <div type="article" num="12">
+        <p>This Agreement shall apply irrespective of whether there are diplomatic or consular relations between the two Contracting Parties.</p>
+      </div>
+      <div type="article" num="13">
+        <p>(1) This Agreement is subject to ratification; the exchange of the instruments of ratification shall take place in Moscow as soon as possible.</p>
+        <p>(2) This Agreement shall enter into force one month after the exchange of the instruments of ratification. It shall remain in force for 15 years. If neither Contracting Party gives written notification of denunciation of this Agreement at least 12 months prior to the expiration of its period of validity, the Agreement shall be automatically extended until such time as one of the Contracting Parties informs the other Contracting Party in writing of its intention to terminate the Agreement. In such case the Agreement shall cease to have effect 12 months from the date of receipt of notification of denunciation by the other Contracting Party.</p>
+        <p>(3) With respect to investments made prior to the expiration of this Agreement, the provisions of articles 1 to 12 shall remain in force for a further 20 years from the date of expiration of the Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Bonn, on 13 June 1989, in two original copies in the German and Russian languages, both texts being equally authentic.</p>
+      <p>For the Federal Republic of Germany:</p>
+      <p>HANS-DIETRICH GENSCHER</p>
+      <p>For the Union of Soviet Socialist Republics:</p>
+      <p>E. SHEVARDNADZE</p>
+    </conclusion>
+    <attachments>
+      <p>At the time of signature of the Agreement between the Federal Republic of Germany and the Union of Soviet Socialist Republics concerning the promotion and reciprocal protection of investments, the Contracting Parties have agreed on the following provisions, which shall constitute an integral part of the said Agreement:</p>
+      <p>(1) In relation to article 1</p>
+      <p>The term "investor" also means companies, unions and associations, with or without legal personality, irrespective of whether their activities are for profit or not.</p>
+      <p>(2) In relation to article 3</p>
+      <p>(a) "Activities" within the meaning of article 3 shall include, in particular, any commercial use of investments and the management and disposal thereof.</p>
+      <p>(b) The treatment referred to in article 3, paragraphs 1 and 2, shall not apply to benefits and privileges which a Contracting Party grants in connection with participation in an economic assistance organization or under an international agreement containing provisions similar to those granted by the Contracting Party to participants in that organization which entered into force prior to the date of signature of this Agreement.</p>
+      <p>(c) "Discriminatory measures" within the meaning of article 3, paragraph 4, should include, in particular, unjustified restrictions on the acquisition of raw materials and auxiliary materials, energy and fuel, all types of means of production and revolving resources, obstacles to the marketing of products and the use of credits, and restrictions on the work of personnel and other measures having similar consequences.</p>
+      <p>Measures undertaken in the interests of law and order and security, morality or public health shall not be regarded as "discriminatory measures".</p>
+      <p>(3) In relation to article 4</p>
+      <p>An investor shall also have the right to demand compensation in cases where the other Contracting Party has caused damage to the economic activity of an enterprise in which he has shares if this results in a substantial loss for his investment. In the event of disputes on these matters between the investor and the other Contracting Party, the provisions of article 10 shall apply, mutatis mutandis.</p>
+      <p>(4) With regard to the transportation of goods and persons in connection with an investment, neither of the Contracting Parties shall prohibit or restrict transport enterprises and organizations of the other Contracting Party from carrying out transport operations and shall as far as possible give permission for such transport operations.</p>
+    </attachments>
+  </main>
+</treaty>

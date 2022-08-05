@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Kenya - Netherlands BIT (1970)</name>
+    <code>T1970-1</code>
+    <partyisocode n="0">KEN</partyisocode>
+    <partyisocode n="1">NLD</partyisocode>
+    <date_signed>1970-09-11</date_signed>
+    <date_into_force>1979-06-11</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2222</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{KEN,NLD}_1970-09-11.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on economic co-operation between the Government of the Kingdom of the Netherlands and the Government of the Republic of Kenya.</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of the Netherlands and the Government of the Republic of Kenya,</p>
+      <p>Desiring to strengthen their traditional ties of friendship, to extend and intensify their economic relations and to encourage investments on the basis of equality to their mutual benefit,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>The Contracting Parties undertake to promote their co operation in the economic field.</p>
+        <p>The Contracting Parties will cooperate to facilitate the participation of nationals of either Contracting Party in the establishment of productive and commercial activities and the provision of services in the other State.</p>
+      </div>
+      <div type="article" num="2">
+        <p>To further the achievement of the aims of the present Agree ment, each Contracting Party is prepared, within the limits of its legislation, to authorize their respective nationals at their request to deliver capital goods to and carry out public works for governmental and private enterprises in the other State against payment by instalments.</p>
+        <p>Each Contracting Party shall ensure, in conformity with its legislation, the transfer, when due, of any sums owing to creditors, who are nationals of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3">
+        <p>The Contracting Parties shall facilitate the intensification of commercial relations between their respective countries.</p>
+        <p>They shall, within the framework of and subject to their national legislation, further the co-operation between the companies, associations, foundations and other organisations of any kind or subsidiary bodies thereof, which are connected with their economic life, and all their nationals engaged in economic activities, in order to develop their national resources.</p>
+      </div>
+      <div type="article" num="4">
+        <p>The Contracting Parties agree to promote the development of international shipping services for mutual benefit.</p>
+      </div>
+      <div type="article" num="5">
+        <p>With respect to the payment of taxes, fees or charges and to the enjoyment of fiscal deductions and exemptions, each Contracting Party shall endeavour to accord in its territory to nationals of the other Contracting Partyengaged in any economic activity the same treatment as it accords to nationals of third countries.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Each Contracting Party undertakes with regard to the other Contracting Party to facilitate, to the extent permitted by its legislation:</p>
+        <p>(a) The holding in its territory of economic and commercial exhibitions and displays;</p>
+        <p>(b) The importation into its territory of professional equipment and of material and equipment intended for technical work on behalf of governmental bodies or private enterprises and the re-exportation thereof.</p>
+      </div>
+      <div type="article" num="7">
+        <p>Each Contracting Party shall ensure fair and equitable treatment to the investments, goods, rights and interests of nationals of the other Con tracting Party and shall not impair the management, maintenance, use, enjoyment or disposal thereof by those nationals, by unjustified or discriminatory measures.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1) The Contracting Parties recognise the principle of freedom of transfer of:</p>
+        <p>(a) The net profits, interests, dividends, royalties and other current income, accruing from any approved economic activity to nationals of the other Contracting Party;</p>
+        <p>(b) The proceeds of the total or partial liquidation of any approved investment made by nationals of the other Contracting Party;</p>
+        <p>(c) An appropriate portion of the earnings of nationals of the other Contracting Party who are authorised to work in its territory;</p>
+        <p>(d) Funds in repayment of loans which the Contracting Parties have recognised as approved investments to the country of residence of these nationals and in the currency thereof.</p>
+        <p>2) Any authorisation to such transfer shall be issued, and any such transfer shall be carried out, without undue restriction or delay, and subject to the relevant laws and rules in force in the territory of the Contracting Party concerned.</p>
+      </div>
+      <div type="article" num="9">
+        <p>Any measures of nationalisation or expropriation, taken by either of the Contracting Parties affecting the investments, goods, rights or interests of their respective nationals in the territory of each other, shall be followed by payment of adequate compensation, transferable to the extent neces sary to make it effective, within a reasonable time and in accordance with generally recognised rules of international law.</p>
+      </div>
+      <div type="article" num="10">
+        <p>The Contracting Party in the territory of which an investment approved by it has been made, in respect of which investment the other Con tracting Party or a national thereof has granted any financial security against non commercial risks, recognises the subrogation of the grantor of that security into the rights of the investor as to damages if payment has been made under that security, and to the extent of that payment.</p>
+      </div>
+      <div type="article" num="11">
+        <p>The Contracting Party in the territory of which a national of the other Contracting Party makes or intends to make an investment, shall give sympathetic consideration to a request on the part of such national to submit, for conciliation or arbitration, to the Centre established by the Convention of Washington of 18 March 1965, any dispute that may arise in connection with the investment.</p>
+      </div>
+      <div type="article" num="12">
+        <p>The present Agreement shall apply to all approved investments made in the territory of the one Contracting Party by a national of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="13">
+        <p>Whenever requested by either Party, authorised representatives of both Contracting Parties shall meet in order to:</p>
+        <p>(a) Discuss and advise on the implementation of this Agreement;</p>
+        <p>(b) Review economic co-operation projects carried out to date; and</p>
+        <p>(c) Make recommendations on the fulfilment of the objectives envisaged in this Agreement.</p>
+      </div>
+      <div type="article" num="14">
+        <p>For the purpose of the present Agreement:</p>
+        <p>(a) The term 'nationals' includes legal persons established according to the law of Contracting Party in the territory of that Contracting Party;</p>
+        <p>(b) A legal person, which is lawfully established in the territory of a Contracting Party shall be a national of that Contracting Party in conformity with its legislation; except where any such legal person, established in the territory of a Contracting Party is controlled by a national or nationals of the other Contracting Party and it has been agreed between the legal person, and the first mentioned Contracting Party that it should be treated for the purposes of this Agreement as a national of the other Contracting Party;</p>
+        <p>(c) The term 'approved' means approval required under the relevant legislation of the Contracting Party concerned.</p>
+      </div>
+      <div type="article" num="15">
+        <p>1) Where any matter is governed by both the present Agreement and another international agreement binding on both Contracting Parties, nothing in this Agreement shall prevent a national of the one Contracting Party from benefiting by the provisions most favourable to him.</p>
+        <p>2) Any agreement on commerce, navigation and related subjects between the United Kingdom of Great Britain and Northern Ireland and the Kingdom of the Netherlands, applied or extended to the territory of the Republic of Kenya before 12th December 1963, shall be considered to have been superseded by the present Agreement.</p>
+      </div>
+      <div type="article" num="16">
+        <p>1) Any dispute between the Contracting Parties concerning the interpretation or application of the present Agreement which is not settled in any other way shall be submitted, at the request of either party to the dispute, to an arbitral tribunal composed of three members. Each party shall appoint one arbitrator and the two arbitrators thus appointed shall together appoint a third arbitrator who is not a national of either party.</p>
+        <p>2) If one of the parties fails to appoint its arbitrator and has not proceeded to do so within two months after an invitation from the other party to make such an appointment, the arbitrator shall be appointed, at the request of the latter party, by the President of the International Court of Justice.</p>
+        <p>3) If the two arbitrators are unable to reach agreement in the two months following their appointment on the choice of the third arbitrator, the latter shall be appointed, at the request of either party, by the President of the International Court of Justice.</p>
+        <p>4) If, in the cases provided for in the second and third paragraphs of this article, the President of the International Court of Justice is prevented from discharging the said function or is a national of either party, the Vice-President shall make the necessary appointment. If the Vice-President is prevented from discharging the said function or is a national of either party, the oldest member of the Court who is not a national of either party shall make the necessary appointment.</p>
+        <p>5) The tribunal shall base its decision on the provisions of the present Agreement in conformity with the principles of law. Before the tribunal gives its decision, it may at any stage of the proceedings propose to the parties that the dispute be settled amicably. The foregoing provisions shall not prejudice the power of the arbitral tribunal to decide the dispute ex aequo et bono if the parties so agree.</p>
+        <p>6) Unless the parties decide otherwise, the tribunal shall determine its own procedure.</p>
+        <p>7) The tribunal shall reach its decision by a majority of votes. Such decision shall be final and binding on the parties to the dispute.</p>
+      </div>
+      <div type="article" num="17">
+        <p>As regards the Kingdom of the Netherlands, the present Agreement shall apply to the territory of the Kingdom in Europe, to Surinam and to the Netherlands Antilles, unless the instrument of ratification of the Kingdom of the Netherlands provides otherwise.</p>
+      </div>
+      <div type="article" num="18">
+        <p>1) The present Agreement is subject to ratification and the instruments of ratification shall be exchanged at Nairobi as soon as possible.</p>
+        <p>2) The present Agreement shall enter into force on the date of exchange of the instruments of ratification and shall remain in force for a period of five years and, unless notice of termination shall have been given by either Contracting Party at least six months before the expiry of such five year term, shall there after remain in force for another period of five years, and so on for consecutive periods of five years, subject to termination on the expiry of any current five year period by six months notice as aforesaid.</p>
+        <p>3) Subject to the periods mentioned in paragraph 1 of this article, the Government of the Kingdom of the Netherlands shall be entitled to terminate the application of the present Agreement separately in respect of Surinam or the Netherlands Antilles.</p>
+        <p>4) Termination of the present Agreement shall not affect the validity of contracts concluded, or the validity of financial securities given, within the framework of the present Agreement prior to the date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF the undersigned representatives, duly authorised thereto, have signed the present Agreement.</p>
+      <p>DONE at Nairobi this eleventh day of September 1970, in two originals, in the English language, both of which shall be equally authentic.</p>
+      <p>For the Government of the Kingdom of the Netherlands: H. C. G. CARSTEN</p>
+      <p>For the Government of the Republic of Kenya:</p>
+    </conclusion>
+  </main>
+</treaty>

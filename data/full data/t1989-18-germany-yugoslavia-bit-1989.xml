@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Germany - Yugoslavia BIT (1989)</name>
+    <code>T1989-18</code>
+    <partyisocode n="0">DEU</partyisocode>
+    <partyisocode n="1">SCG</partyisocode>
+    <partyisocode n="2">SRB</partyisocode>
+    <partyisocode n="3">MNE</partyisocode>
+    <partyisocode n="4">RKS</partyisocode>
+    <partyisocode n="5">YUG</partyisocode>
+    <date_signed>1989-07-10</date_signed>
+    <date_into_force>1990-10-25</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1751</docreference>
+    <comments>Treaty is in force for Serbia, Montenegro and Kosovo as successors of the Federal Republic of Yugoslavia. In UNCTAD is duplicated also as a BIT with Montenegro - the treaty was signed with Yugoslavia</comments>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{DEU,SCG,SRB,MNE,RKS}_1989-07-10.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE FEDERAL REPUBLIC OF GERMANY AND THE SOCIALIST FEDERATIVE REPUBLIC OF YUGOSLAVIA ON RECIPROCAL PROTECTION AND PROMOTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Federal Republic of Germany and the Socialist Federal Republic of Yugoslavia,</p>
+      <p>Desiring to intensify economic cooperation between the Contracting Parties,</p>
+      <p>Seeking to create favourable conditions for reciprocal investments,</p>
+      <p>Recognizing that reciprocal protection and encouragement of investments help to strengthen economic initiative,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>(1) The term "investments" shall comprise every kind of asset which has been invested in conformity with national legislation, more particularly but not exclusively:</p>
+        <p>(a) Movable and immovable property as well as any other rights in rem, such as liens and pledges of all kinds and similar rights;</p>
+        <p>(b) Shares of companies and similar forms of investment;</p>
+        <p>(c) Claims to money which has been used to create an economic value or claims to services or benefits in kind which have an economic value and are connected with an investment;</p>
+        <p>(d) Copyrights, industrial property rights such as inventor's rights including patents, trade marks, trade names, industrial patterns and models, technical processes, know-how and goodwill;</p>
+        <p>(e) Business concessions under public law, including concessions in connection with the use of natural resources.</p>
+        <p>Any alteration of the form of the investment shall not affect its classification as investment within the meaning of this Treaty.</p>
+        <p>(2) The term "returns" shall comprise the amounts yielded by an investment, more particularly but not exclusively: profits, dividends, interest, and licence or other similar fees.</p>
+        <p>(3) The term "investor" shall comprise, in conformity with the national legislation of the Contracting Party in each case</p>
+        <p>(a) In respect of the Federal Republic of Germany:</p>
+        <p>1. Germans domiciled in the area of application of this Treaty,</p>
+        <p>2. Juridical persons as well as commercial or other companies or associations with or without legal personality having their seat in the area of application of this Treaty, irrespective of whether or not their activities are directed at profit,</p>
+        <p>(b) In respect of the Socialist Federal Republic of Yugoslavia:</p>
+        <p>1. Natural persons having the nationality of the Socialist Federal Republic of Yugoslavia,</p>
+        <p>2. Juridical persons having been incorporated in accordance with Yugoslav regulations,</p>
+        <p>Who make investments in conformity with their national legislation in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="2">
+        <p>(1) Each Contracting Party shall in its territory promote as far as possible investments by investors of the other Contracting Party, admit them in accordance with its laws and accord them in every case fair and equitable treatment.</p>
+        <p>(2) Investments as well as the returns thereon shall enjoy the full protection of this Treaty. The same shall apply to reinvested returns and additional amounts to increase or maintain an investment.</p>
+        <p>(3) Neither Contracting Party shall in its territory prejudice in any way by means of arbitrary or discriminatory measures the management or use of investments by investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Neither Contracting Party shall subject investments by investors of the other Contracting Party or investments in which investors of the other Contracting Party have a stake to treatment less favourable than it accords to investments of its own investors or investments by investors of third States.</p>
+        <p>(2) Neither Contracting Party shall subject investors of the other Contracting Party, as regards their business activity in connection with investments, to treatment less favourable than it accords to its own investors or investors of third States.</p>
+        <p>(3) The provisions of paragraphs 1 and 2 shall not refer to preferential rights and privileges which a Contracting Party by virtue of</p>
+        <p>(a) Its membership in a customs union, a common market or a free trade area, or its affiliation with an economic community,</p>
+        <p>(b) A double taxation agreement or other agreements regarding matters of taxation</p>
+        <p>Grants to investments and investors of third States.</p>
+      </div>
+      <div type="article" num="4">
+        <p>(1) Investments by investors of a Contracting Party shall enjoy full protection and full security in the territory of the other Contracting Party.</p>
+        <p>(2) Investments by investors of either Contracting Party shall not be expropriated, nationalized or subjected to any other measure the effects of which would be tantamount to expropriation or nationalization in the territory of the other Contracting Party except for the public benefit and against compensation. Such compensation shall be fair and shall correspond to the value of the investment expropriated at the date on which the decision on the expropriation, nationalization or comparable measures has become publicly known. The compensation shall be paid without undue delay, it shall be effectively realizable and freely transferable. The investor shall until the time of payment be entitled to interest on his compensation at the usual bank rate. The legality of any such expropriation or comparable measure and the amount of compensation shall be subject to review by due process of law of the relevant Contracting Party upon application of the investor.</p>
+        <p>(3) Investors of either Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to war or other armed conflict, revolution, a state of national emergency, or revolt, shall, as regards compensation or other indemnification, be accorded treatment no less favourable by such other Contracting Party than that party accords to its own investors or investors of third States.</p>
+      </div>
+      <div type="article" num="5">
+        <p>(1) Each Contracting Party shall guarantee to investors of the other Contracting Party the free transfer of payments in connection with an investment, in particular but not exclusively:</p>
+        <p>(a) Of the capital and additional amounts which are necessary to maintain or increase the investment;</p>
+        <p>(b) Of the returns;</p>
+        <p>(c) In repayment of loans granted in connection with an investment;</p>
+        <p>(d) Of the proceeds from the liquidation or sale of the whole or any part of the investment;</p>
+        <p>(e) Of compensation under the terms of Article 4.</p>
+        <p>(2) The transfer shall take place without undue delay at the exchange rate applicable on the date of transfer.</p>
+      </div>
+      <div type="article" num="6">
+        <p>If either Contracting Party makes a payment of compensation to one of its investors under a guarantee it has assumed in respect of an investment in the territory of the other Contracting Party, the latter Contracting Party shall, without prejudice to the rights of the former Contracting Party under Article 8 of this Treaty, recognize the assignment, whether under a law or pursuant to a legal transaction, of any right or claim from such investor to the former Contracting Party. The latter Contracting Party shall also recognize the subrogation of the former Contracting Party to any such right or claim of its predecessor on the same grounds and in the same amount. As regards the transfer of payments by virtue of such assignment, Article 5 of this Treaty shall apply mutatis mutandis.</p>
+      </div>
+      <div type="article" num="7">
+        <p>(1) If a national law of either Contracting Party or an agreement under international law, to which both Contracting Parties are party, grants the investor of the other Contracting Party or his investment more favourable treatment than under the terms of this Treaty, such regulation shall prevail over this Treaty.</p>
+        <p>(2) Each Contracting Party shall observe any other obligation it may have entered into with regard to investments by investors of the other Contracting Party in its territory.</p>
+      </div>
+      <div type="article" num="8">
+        <p>(1) Differences of opinion between the Contracting Parties concerning the interpretation or application of this Treaty should, if possible, be settled by the Governments of the two Contracting Parties.</p>
+        <p>(2) If a difference of opinion cannot be settled in accordance with paragraph 1 of this Article, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>(3) Such arbitral tribunal shall be constituted for each individual case as follows: each Contracting Party shall appoint one member, and these two members shall agree upon a national of a third State as their chairman to be appointed by the Governments of the two Contracting Parties. Such members shall be appointed within two months, and such chairman within three months, from the date on which either Contracting Party has informed the other Contracting Party that it wishes to submit the difference of opinion to an arbitral tribunal.</p>
+        <p>(4) If the periods specified in paragraph 3 of this Article have not been observed, either Contracting Party may, in the absence of any other relevant agreement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he, too, is prevented from discharging the said function, the member of the Court next in seniority who is not a national of either Contracting Party shall make the necessary appointments.</p>
+        <p>(5) The arbitral tribunal shall reach its decision by a majority of votes. The decision of the arbitral tribunal shall be binding. In all other respects, the arbitral tribunal shall determine its own procedure.</p>
+        <p>(6) Each Contracting Party shall bear the cost of its own member and of its counsel in the arbitral proceedings; the cost of the chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The arbitral tribunal may make a different regulation concerning costs.</p>
+        <p>(7) In consideration of the provisions of paragraph 1 of Article 27 of the Convention of 18 March 1965 on the settlement of investment disputes between states and nationals of other states the arbitral tribunal provided for above may not be appealed to in so far as agreement has been reached between the investor of one Contracting Party and the other Contracting Party under Article 25 of the Convention. This shall not affect the possibility of appealing to such arbitral tribunal in the event that a decision of the arbitral tribunal established under the said Convention is not complied with (Article 27) or in the case of an assignment of rights under a law or pursuant to a legal transaction as provided for in Article 6 of the present Treaty.</p>
+      </div>
+      <div type="article" num="9">
+        <p>(1) Differences of opinion regarding investments between either Contracting Party and an investor of the other Contracting Party shall, as far as possible, be settled amicably between the parties to the dispute.</p>
+        <p>(2) If a difference of opinion cannot be settled within six months from the time of its assertion by either of the parties to the dispute, it shall upon the request of the investor of the other Contracting Party be submitted for arbitration within the scope of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States of 18 March 1965.</p>
+        <p>(3) The arbitration award shall be binding and shall not be subject to appeal or any legal redress other than those provided for in the Convention mentioned above. The arbitration award shall be enforced under national law.</p>
+        <p>(4) The Contracting Party which is party to the dispute shall not, at any stage of the arbitration proceedings or enforcement of an award, raise as an objection the fact that the investor of the other Contracting Party has received in pursuance of an insurance policy an indemnity in respect of some or all of the losses.</p>
+      </div>
+      <div type="article" num="10">
+        <p>This Treaty shall apply irrespective of whether or not diplomatic or consular relations exist between the Contracting Parties.</p>
+      </div>
+      <div type="article" num="11">
+        <p>This Treaty shall also apply to investments made by investors of one Contracting Party in conformity with the legislation of the other Contracting Party in the territory of the latter Contracting Party before the date of entry into force of this Treaty.</p>
+      </div>
+      <div type="article" num="12">
+        <p>With the exception of the provisions in paragraph 5 of the Protocol in so far as they refer to air transport, this Treaty shall also apply to Land Berlin, provided that the Government of the Federal Republic of Germany does not make a contrary declaration to the Federal Executive Council of the Socialist Federal Republic of Yugoslavia within three months of the date of entry into force of this Treaty.</p>
+      </div>
+      <div type="article" num="13">
+        <p>(1) This Treaty shall be ratified; the instruments of ratification shall be exchanged in Bonn.</p>
+        <p>(2) This Treaty shall enter into force one month from the date of the exchange of the instruments of ratification. The Treaty shall remain in force for a period of ten years and shall be extended thereafter for an unlimited period unless denounced in writing by either Contracting Party twelve months before its expiration. After the expiry of the period of ten years the Treaty may be denounced at any time with twelve months' notice.</p>
+        <p>(3) In respect of investments made prior to the date of termination of this Treaty, the provisions of Articles 1 to 12 shall continue to be effective for a further period of fifteen years from the date of termination of the Treaty.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Belgrade on 10 July 1989 in two original copies in the German and Serbo-Croat languages, both texts being equally authentic.</p>
+      <p>For the Federal Republic of Germany</p>
+      <p>Dieter von Wurzen</p>
+      <p>For the Socialist Federative Republic of Yugoslavia</p>
+      <p>Dzevad Mujezinovic</p>
+    </conclusion>
+    <attachments>
+      <p>(1) Ad Article 2</p>
+      <p>The Treaty shall also apply in the territories of the exclusive economic zone and the continental shelf, in so far as international law permits the Contracting Party concerned to exercise sovereign rights or powers in such territories.</p>
+      <p>(2) Ad Article 3</p>
+      <p>(a) The following shall, in particular, be deemed "treatment less favourable" within the meaning of Article 3: Restricting the purchase of raw or auxiliary materials, of energy or fuel or of means of production or operation of any kind, impeding the marketing of products, in the drawing down of loans, employing of staff, as well as any other measures having similar effects. Measures that have to be taken for reasons of public security and order, public health or morality shall not be deemed "treatment less favourable" within the meaning of Article 3.</p>
+      <p>(b) The following shall more particularly, though not exclusively, be deemed "business activity" within the meaning of Article 3: The management, use and enjoyment of an investment.</p>
+      <p>(c) The provisions of Article 3 do not oblige a Contracting Party to extend to investors resident in the territory of the other Contracting Party tax privileges and exemptions which according to its tax laws are granted only to investors resident in its territory.</p>
+      <p>(d) The Contracting Parties shall, within the framework of their legislation, give sympathetic consideration to applications for the entry and sojourn of persons of either Contracting Party who wish to enter the territory of the other Contracting Party in direct connection with an investment; the same shall apply to employees of either Contracting Party who in direct connection with an investment wish to enter the territory of the other Contracting Party and sojourn there to take up employment. Applications for work permits shall also be given sympathetic consideration.</p>
+      <p>(3) Ad Article 4</p>
+      <p>The investor shall also be entitled to compensation if, as a result of State intervention in the company in which he has a stake, his investment is severely impaired.</p>
+      <p>(4) Ad Article 5</p>
+      <p>The transfer pursuant to Article 5 shall be effected within such period as is required for the completion of transfer formalities. The said period shall commence on the day on which the relevant application has been submitted and end not later than three months thereafter.</p>
+      <p>(5) Whenever goods or persons connected with an investment are to be transported, each Contracting Party shall neither exclude nor hinder transport enterprises of the other Contracting Party and shall issue permits as required to carry out such transport.</p>
+      <p>Done at Belgrade on 10 July 1989 in two original copies in the German and Serbo-Croat languages, both texts being equally authentic.</p>
+      <p>For the Federal Republic of Germany:</p>
+      <p>Dieter von Wurzen</p>
+      <p>For the Socialist Federative Republic of Yugoslavia:</p>
+      <p>Dzevad Mujezinovic</p>
+    </attachments>
+  </main>
+</treaty>

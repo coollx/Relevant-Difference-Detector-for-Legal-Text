@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Czech Republic - Netherlands BIT (1991)</name>
+    <code>T1991-44</code>
+    <partyisocode n="0">CZE</partyisocode>
+    <partyisocode n="1">NLD</partyisocode>
+    <date_signed>1991-04-29</date_signed>
+    <date_into_force>1992-10-01</date_into_force>
+    <date_terminated>2021-12-10</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Terminated by consent</termination_type>
+    <docreference>1212</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CZE,NLD}_1991-04-29.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Terminated by consent</IT_TERMINATION_TYPE>
+    <relation type="IT_OVERLAP" document-code="T2020-2">Agreement for the Termination of Bilateral Investment Treaties Between the Member States of the European Union (2020)</relation>
+    <relation type="TERMINATED_BY_THIRD_TREATY" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on encouragement and reciprocal protection of investments between the Kingdom of the Netherlands and the Czech and Slovak Federal Republic</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of the Netherlands and the Government of the Czech and Slovak Federal Republic,</p>
+      <p>(hereinafter referred to as "the Contracting Parties")</p>
+      <p>Desiring to extend and intensify the economic relations between them particularly with respect to investments by the investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognizing that agreement upon the treatment to be accorded to such investments will stimulate the flow of capital and technology and the economic development of the Contracting Parties and that fair and equitable treatment is desirable,</p>
+      <p>Taking note of the Final Act of the Conference on Security and Cooperation in Europe, signed on August, 1st 1975 in Helsinki,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of the present Agreement:</p>
+        <p>(a) The term &#x2018;investments' shall comprise every kind of asset invested either directly or through an investor of a third State and more particularly, though not exclusively:</p>
+        <p>i. Movable and immovable property and all related property rights;</p>
+        <p>ii. Shares, bonds and other kinds of interests in companies and joint ventures, as well as rights derived therefrom;</p>
+        <p>iii. Title to money and other assets and to any performance having an economic value;</p>
+        <p>iv. Rights in the field of intellectual property, also including technical processes, goodwill and know-how;</p>
+        <p>v. Concessions conferred by law or under contract, including concessions to prospect, explore, extract and win natural resources.</p>
+        <p>(b) The term &#x2018;investors' shall comprise:</p>
+        <p>i. Natural persons having the nationality of one of the Contracting Parties in accordance with its law;</p>
+        <p>ii. Legal persons constituted under the law of one of the Contracting Parties.</p>
+        <p>(c) The term &#x2018;territory' also includes the maritime areas adjacent to the coast of the State concerned, to the extent to which that State may exercise sovereign rights or jurisdiction in those areas according to international law.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting Party shall in its territory promote investments by investors of the other Contracting Party and shall admit such investments in accordance with its provisions of law.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Each Contracting Party shall ensure fair and equitable treatment to the investments of investors of the other Contracting Party and shall not impair, by unreasonable or discriminatory measures, the operation, management, maintenance, use, enjoyment or disposal thereof by those investors.</p>
+        <p>(2) More particularly, each Contracting Party shall accord to such investments full security and protection which in any case shall not be less than that accorded either to investments of its own investors or to investments of investors of any third State, whichever is more favourable to the investor concerned.</p>
+        <p>(3) The provisions of this Article shall not be construed so as to oblige either Contracting Party to accord preferences and advantages to investors of the other Contracting Party similar to those accorded to investors of a third State</p>
+        <p>(a) By virtue of membership of the former of any existing or future customs union or economic union, or similar institutions; or</p>
+        <p>(b) On the basis of an agreement for the avoidance of double taxation, or on the basis of reciprocity with a third State.</p>
+        <p>(4) Each Contracting Party shall observe any obligation it may have entered into with regard to investments of investors of the other Contracting Party.</p>
+        <p>(5) If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to the present Agreement contain rules, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided for by the present Agreement, such rules shall to the extent that they are more favourable prevail over the present Agreement.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Each Contracting Party shall guarantee that payments related to an investment may be transferred. The transfers shall be made in a freely convertible currency, without undue restriction or delay. Such transfers include in particular though not exclusively:</p>
+        <p>(a) Profits, interests, dividends, royalties, fees and other current income;</p>
+        <p>(b) Funds necessary</p>
+        <p>i. For the acquisition of raw or auxiliary materials, semi-fabricated or finished products, or</p>
+        <p>ii. For the development of an investment or to replace capital assets in order to safeguard the continuity of an investment;</p>
+        <p>(c) Funds in repayment of loans;</p>
+        <p>(d) Earnings of natural persons;</p>
+        <p>(e) The proceeds of sale or liquidation of the investment.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Neither Contracting Party shall take any measures depriving, directly or indirectly, investors of the other Contracting Party of their investments unless the following conditions are complied with:</p>
+        <p>(a) The measures are taken in the public interest and under due process of law;</p>
+        <p>(b) The measures are not discriminatory;</p>
+        <p>(c) The measures are accompanied by provision for the payment of just compensation. Such compensation shall represent the genuine value of the investments affected and shall, in order to be effective for the claimants, be paid and made transferable, without undue delay, to the country designated by the claimants concerned and in any freely convertible currency accepted by the claimants.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Investors of the one Contracting Party who suffer losses in respect of their investments in the territory of the other Contracting Party owing to war or other armed conflict, a state of national emergency, civil disturbance or other exceptional situations shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which that Contracting Party accords to its own investors or to investors of any third State, whichever is more favourable to the investors concerned.</p>
+      </div>
+      <div type="article" num="7">
+        <p>If the investments of an investor of the one Contracting Party are insured against non-commercial risks under a system established by law, any subrogation of the insurer or re-insurer into the rights of the said investor pursuant to the terms of such insurance shall be recognized by the other Contracting Party.</p>
+      </div>
+      <div type="article" num="8">
+        <p>(1) All disputes between one Contracting Party and an investor of the other Contracting Party concerning an investment of the latter shall if possible, be settled amicably.</p>
+        <p>(2) Each Contracting Party hereby consents to submit a dispute referred to in paragraph (1) of this Article, to an arbitral tribunal, if the dispute has not been settled amicably within a period of six months from the date either party to the dispute requested amicable settlement.paragraph (1) of this Article, to an arbitral tribunal, if the dispute has not been settled amicably within a period of six months from the date either party to the dispute requested amicable settlement.</p>
+        <p>(3) The arbitral tribunal referred to in paragraph (2) of this Article will be constituted for each individual case in the following way: each party to the dispute appoints one member of the tribunal and the two members thus appointed shall select a national of a third State as Chairman of the tribunal. Each party to the dispute shall appoint its member of the tribunal within two months, and the Chairman shall be appointed within three months from the date on which the investor has notified the other Contracting Party of his decision to submit the dispute to the arbitral tribunal.paragraph (2) of this Article will be constituted for each individual case in the following way: each party to the dispute appoints one member of the tribunal and the two members thus appointed shall select a national of a third State as Chairman of the tribunal. Each party to the dispute shall appoint its member of the tribunal within two months, and the Chairman shall be appointed within three months from the date on which the investor has notified the other Contracting Party of his decision to submit the dispute to the arbitral tribunal.</p>
+        <p>(4) If the appointments have not been made in the above mentioned periods, either party to the dispute may invite the President of the Arbitration Institute of the Chamber of Commerce of Stockholm to make the necessary appointments. If the President is a nation al of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he too is prevented from discharging the said function, the most senior member of the Arbitration Institute who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>(5) The arbitration tribunal shall determine its own procedure applying the arbitration rules of the United Nations Commission for International Trade Law (UNCITRAL).arbitration rules of the United Nations Commission for International Trade Law (UNCITRAL).</p>
+        <p>(6) The arbitral tribunal shall decide on the basis of the law, taking into account in particular though not exclusively:</p>
+        <p>&#x2022; the law in force of the Contracting Party concerned;</p>
+        <p>&#x2022; the provisions of this Agreement, and other relevant Agreements between the Contracting Parties;</p>
+        <p>&#x2022; the provisions of special agreements relating to the investment;</p>
+        <p>&#x2022; the general principles of international law.</p>
+      </div>
+      <div type="article" num="9">
+        <p>Either Contracting Party may propose the other Party to consult on any matter concerning the interpretation or application of the Agreement. The other Party shall accord sympathetic consideration to and shall afford adequate opportunity for such consultation.</p>
+      </div>
+      <div type="article" num="10">
+        <p>(1) Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, if possible, be settled amicably.</p>
+        <p>(2) If a dispute between the Contracting Parties cannot thus be settled, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>(3) Such an arbitral tribunal shall be constituted for each individual case in the following way. Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third State who shall be appointed Chairman of the tribunal. The Chairman shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>(4) If within the periods specified in paragraph (3) of this Article the necessary appointments have not been made, either Contracting Party may invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he too is prevented from discharging the said function, the most senior member of the International Court of Justice who is not a national of either Contracting Party shall be invited to make the necessary appointments.paragraph (3) of this Article the necessary appointments have not been made, either Contracting Party may invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he too is prevented from discharging the said function, the most senior member of the International Court of Justice who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>(5) The tribunal shall determine its own procedure. The decision of the arbitral tribunal shall be final and binding on both Contracting Parties.</p>
+        <p>(6) Before the tribunal decides, it may at any stage of the proceedings propose to the Parties that the dispute be settled amicably.</p>
+        <p>(7) The tribunal shall decide on the basis of the present Agreement and other relevant Agreements between the two Contracting Parties, the general principles of international law, as well as such general rules of law as the tribunal deems applicable. The foregoing provisions shall not prejudice the power of the tribunal to decide the dispute ex aequo et bono if the Parties so agree.</p>
+        <p>(8) Each Contracting Party shall bear the cost of its representation in the arbitral proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two Contracting Parties, and this award shall be final and binding on both Contracting Parties.</p>
+      </div>
+      <div type="article" num="11">
+        <p>As regards the Kingdom of the Netherlands, the present Agreement shall apply to the part of the Kingdom in Europe, the Netherlands Antilles and to Aruba, unless the notification provided for in Article 13, paragraph (1) provides otherwise.</p>
+      </div>
+      <div type="article" num="12">
+        <p>The provisions of this Agreement shall, from the date of entry into force thereof, also apply to investments, which have been made after 1 January 1950.</p>
+      </div>
+      <div type="article" num="13">
+        <p>(1) The present Agreement shall enter into force on the first day of the second month following the date on which the Contracting Parties have notified each other in writing that the procedures constitutionally required therefor have been complied with, and shall remain in force for a period of ten years.</p>
+        <p>(2) Unless notice of termination has been given by either Contracting Party at least six months before the date of the expiry of its validity, the present Agreement shall be extended tacitly for periods of ten years, each Contracting Party reserving the right to terminate the Agreement upon notice of at least six months before the date of expiry of the current period of validity.</p>
+        <p>(3) In respect of investments made before the date of the termination of the present Agreement the foregoing Articles thereof shall continue to be effective for a further period of fifteen years from that date.</p>
+        <p>(4) Subject to the period mentioned in paragraph (2) of this Article, the Government of the Kingdom of the Netherlands shall be entitled to terminate the application of the present Agreement separately in respect of any of the parts of the Kingdom.paragraph (2) of this Article, the Government of the Kingdom of the Netherlands shall be entitled to terminate the application of the present Agreement separately in respect of any of the parts of the Kingdom.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE in duplicate at [place] on [date], in the Dutch, Czech and English languages, the three texts being equally authentic. In case of difference of interpretation the English text will prevail.</p>
+      <p>For the Government of the Kingdom of the Netherlands</p>
+      <p>For the Government of the Czech and Slovak Federal Republic</p>
+    </conclusion>
+  </main>
+</treaty>

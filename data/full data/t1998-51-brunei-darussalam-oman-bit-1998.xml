@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Brunei Darussalam - Oman BIT (1998)</name>
+    <code>T1998-51</code>
+    <partyisocode n="0">BRN</partyisocode>
+    <partyisocode n="1">OMN</partyisocode>
+    <date_signed>1998-06-08</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>660</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BRN,OMN}_1998-06-08.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT ON THE PROMOTlON AND RECIPROCAL PROIECTlON OF FOREIGN INVESTMENTS BETWEEN THE GOVERNMENT OF THE SULTANATE OF OMAN THE GOVERNMENT OF HIS MAJESTY THE SULTAN AND YANG DI-PERTUAN OF BRUNEI DARUSSALAM</p>
+    </title>
+    <preamble>
+      <p>The Government of the Sultanate of Oman and the Government of His Majesty the Sultan and Yang Di-Pertuan of Brunei Darussalam (hereinafter collectively referred to as the Contracting Parties and each referred to as the Contracting Party),</p>
+      <p>Desiring to create favourable conditions for greater economic co-operation between them and in particular for investments by nationals and companies of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognizing that the encouragement and reciprocal protection under international agreements of such investments will be conducive to the stimulation of business initiative and will increase prosperity in both countries,</p>
+      <p>Recognizing the importance of the transfer of technology and human resources development arising from such investments,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. "investment" means every kind of asset and in particular, though not exclusively, includes: (a) Movable and immovable property and any other property rights such as mortgages, liens or pledges;</p>
+        <p>(b) Shares in and stocks and debentures of a company and any other form of participation in a company;</p>
+        <p>(c) Claims to money or to any performance under contract associated with any investment having a financial value;</p>
+        <p>(d) Industrial and intellectual property rights (and in particular copyrights, patents, registered designs, trademarks, trade-names, trade and business secrets), technical processes, know how and goodwill;</p>
+        <p>(e) Business concessions conferred by law or under contract, including concessions to search for, cultivate, extract or exploit natural resources.</p>
+        <p>(f) Any investments made before the date of this Agreement and any alteration to the form in which the assets invested shall not affect their classification as investments.</p>
+        <p>2. "territory" means: (a) In respect of the Sultanate of Oman:</p>
+        <p>Oman territory as per the definition stated in Omani laws and the adjacent areas within which the Sultanate of Oman exercises sovereign rights or jurisdiction in accordance with international law.</p>
+        <p>(b) In respect of Brunei Darussalam:</p>
+        <p>Brunei Darussalam and the maritime areas adjacent to the coast of Brunei Darussalam to the extent to which Brunei Darussalam may exercise sovereign rights or jurisdiction in those areas according to international law.</p>
+        <p>3. The term "returns" shall mean the amounts yielded by an investment and in particular, though not exclusively, shall include profits, interest, capital gains, dividends, royalties and fees.</p>
+        <p>4. The term "national" shall mean: (a) In respect of the Sultanate of Oman:</p>
+        <p>Natural persons having the Omani nationality in accordance with the laws of the Sultanate of Oman.</p>
+        <p>(b) In respect to Brunei Darussalam:</p>
+        <p>Natural persons who are accorded the status of a national in Brunei Darussalam under its applicable laws.</p>
+        <p>5. The term "companies" shall mean:</p>
+        <p>Any kind of juridical entity, including any partnership, corporation, body corporate, firm, association or other organisation with or without legal personality that is duly incorporated or constituted within or outside the territory of the Contracting Party with limited or unlimited liability irrespective of whether or not their entities are directed to profit provided that they shall be companies in which nationals of either Contracting Party have a substantial or controlling interest.</p>
+      </div>
+      <div type="article" num="2" title="Encouragement and protection of investments">
+        <p>1. Each Contracting Party shall as far as possible encourage nationals and companies of the other Contracting Party to make investments in its territory and shall allow such investments in accordance with the provisions of the laws and regulations in force in its territory.</p>
+        <p>2. Each Contracting Party in its territory shall accord protection to investments by nationals or companies of the other Contracting Party in accordance with the previsions of the laws and regulations in force in its territory. In the event that the legislation in one Contracting Party requires from time to time particular investments to be approved, such Contracting Party shall only accord protection to any such investments by nationals or companies of the other Contracting Party if and to the extent that the relevant approval has been obtained.</p>
+        <p>3. Investments by nationals or companies of each Contracting Party shall at all times enjoy full protection and security in the territory of the other Contracting Party. Neither Contracting Party shall in any way impair by arbitrary or discriminatory measures the management, maintenance, use or enjoyment of investments in its territory by nationals or companies of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="Most-favoured-nation provisions">
+        <p>1. Each Contracting Party shall at all times ensure fair and equitable treatment to the investments made in its territory by nationals or companies of the other Contracting Party.</p>
+        <p>2. Each Contracting Party shall in its territory accord nationals and companies of the other Contracting Party treatment not less favourable than that which it accords to nationals and companies of any third State and in particular as regards management, maintenance, use, enjoyment or disposal of their investments as well as other activities connected with investments.</p>
+        <p>3. The treatment mentioned above shall not apply to any advantage accorded to nationals and companies of a third State by either Contracting Party based on the membership of that Contracting Party in a Customs Union, Common Market, Free Trade Zone, Regional or Sub-regional arrangement, Multilateral International Economic Agreement or an agreement on avoidance of double taxation, or for facilitation of border trade, or any matter pertaining wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="4" title="Nationalization or expropriation">
+        <p>1. Investments by nationals or companies of either Contracting Party shall enjoy full protection and security in the territory of the other Contracting Party.</p>
+        <p>2. Investments of nationals and companies of either Contracting Party shall not either directly or indirectly be expropriated, nationalized or subjected to measures having effect equivalent to expropriation or nationalization (hereinafter referred to as "expropriation") in the territory of the other Contracting Party except for a public purpose related to the internal needs of that Contracting Party and on a non-discriminatory basis and against prompt, adequate and effective compensation.</p>
+        <p>3. Such compensation shall be computed on the basis of the fair market value of the investment immediately prior to the point of time when the decision for expropriation has been taken or became publicly known whichever occurs earlier. Where the market value cannot be readily ascertained, the compensation shall be determined in accordance with the generally recognized principles of valuation and on equitable principles taking into account, interalia, the capital invested, depreciation, capital already repatriated, replacement value and other relevant factors. The compensation shall include interest at the current LIBOR rate of interest applicable to the currency in which the investment was originally undertaken from the date of expropriation until the date of payment.</p>
+        <p>4. Where a Contracting Party nationalizes or expropriates the assets of a legal person which is established or licensed under the law in force, in its territory and in which any natural or legal person of the other Contracting Party owns shares, stocks, debentures or other rights or interest, it shall ensure that fair and reasonable compensation is received in freely convertible currencies and allowed to be repatriated. Such compensation shall be determined on the basis of the recognized principles of valuation such as the market value of the assets immediately prior to the point of time when the decision for nationalization or expropriation was announced or became publicly known. The compensation shall include interest at the current LIBOR rate of interest applicable to the currency in which the investment was originally undertaken from the date of nationalization or expropriation until the date of payment.</p>
+        <p>5. The determination of the amount of compensation, in the absence of agreement being reached between the investor and the Contracting Party taking expropriation, shall be referred to arbitration. The amount of compensation finally determined shall be paid to the investor in freely convertible currencies and allowed to be repatriated without undue delay.</p>
+        <p>6. The provisions of Paragraphs 2, 3, 4 of this Article shall also apply to the current returns from an investment as well as, in the event of liquidation, to the proceeds from the liquidation.</p>
+      </div>
+      <div type="article" num="5" title="Compensation for damage or loss">
+        <p>1. Nationals and companies of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, a state of national emergency, revolt, or riot in the territory of the latter Contracting Party shall be accorded by the latter Contracting Party treatment not less favourable than that which the latter Contracting Party accords to its nationals and companies. As regards reinstation, compensation or any other valuable consideration and concerning the remittance of these payments, each Contracting Party shall grant to requests of the nationals and companies of the other Contracting Party the treatment not less favourable than the one it accords to the requests of its nationals and companies or nationals and companies of any third country.</p>
+        <p>2. Without prejudice to Paragraph 1 of this Article, nationals and companies of one Contracting Party who in any of the situations referred to in that Paragraph suffer losses in the territory of the other Contracting Party resulting from requisitioning of their property by its forces or authorities, or destruction of their property by its forces or authorities which was not caused in combat action or was not required by the necessity of the situation, shall be accorded restitution or appropriate, fair and non discriminatory compensation.</p>
+        <p>3. Payments resulting under this Article shall be made in a convertible currency, freely transferable and allowed to be repatriated without undue delay. The compensated investor shall have the right to request conversion from local currency at an exchange rate ruling on the last business day prior to the events leading to his loss.</p>
+      </div>
+      <div type="article" num="6" title="Transfers - repatriation of capital and returns">
+        <p>1. Nationals and companies of either Contracting Party shall, after performing their fiscal obligations, be able to transfer their capital and returns in a freely convertible currency without undue delay, including:</p>
+        <p>(a) Capital and additional capital amounts used to maintain, increase or expand existing investments;</p>
+        <p>(b) Net returns, dividends, service fees accruing from technical assistance, interest and other current profits accruing from any investment by an investor of either Contracting Party;</p>
+        <p>(c) The proceeds accruing from the total or partial sale or total or partial liquidation of any investment made by an investor of either Contracting Party;</p>
+        <p>(d) Repayment of loans made by investors of either Contracting Party as well as accrued interests;</p>
+        <p>(e) The earnings of nationals of either Contracting Party deriving from their work and services in connection with an investment in its territory in accordance with its national laws and regulations.</p>
+        <p>2. The Contracting Parties undertake to accord to transfers referred to in Paragraph (1) of this Article a treatment not less favourable than that accorded to such transfers originating from investments made by investors of any third state.</p>
+        <p>3. The transfer shall be allowed without delay and, in any event, within a period of time not exceeding one month from the date on which the request for the transfer is made.</p>
+        <p>4. Without prejudice to the provisions of Article (5/3) any transfers referred to in this Agreement shall be effected at the official exchange rate prevailing on the day of the transfer.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>If either Contracting Party makes a payment to any of its nationals or companies under a guarantee it has assumed in respect of an investment in the territory of the other Contracting Party and if an investment in the territory of one Contracting Party is insured against non-commercial risks under a system established by law and a payment is made by an insurer under an indemnity given in respect of that investment, the Contracting Party in whose territory the investment was made shall, without prejudice to the rights of the former Contracting Party under Article 8, recognise the assignment to the former Contracting Party or the insurer as appropriate, whether under a law or pursuant to a legal transaction, of any right or claim of such national or company of the former Contracting Party. The latter Contracting Party shall also recognise the subrogation of the former Contracting Party or insurer shall be entitled to assert to the same extent as its predecessor in title.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between contracting parties">
+        <p>1. Disputes between the Contracting Parties concerning the interpretation or application of this Agreement shall, if possible, be settled by the Government of the two Contracting Parties through direct and meaningful diplomatic consultation and negotiations.</p>
+        <p>2. If a dispute cannot thus be settled, it shall upon the request of either Contracting Party be submitted to an arbitration tribunal.</p>
+        <p>3. Such arbitration tribunal shall be constituted for each individual case as follows: each Contracting Party shall appoint one member and these two members shall agree upon a national of a third State as their chairman to be appointed by the Governments of the two Contracting Parties. Such members shall be appointed within two months, and such chairman shall be appointed within three months from the date on which either Contracting Party has informed the other Contracting Party that it wants to submit the dispute to an arbitration tribunal.</p>
+        <p>4. If the periods specified in paragraph 3 above have not been observed either Contracting Party may, in the absence of any other relevant arrangement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice President shall make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he, too, is prevented from discharging the said function, member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall make the necessary appointments.</p>
+        <p>5. The arbitration tribunal shall reach its decision by a majority of votes and its decision shall be binding. Each Contracting Party shall bear the cost of its own member of the arbitration tribunal and costs of its counsel in the arbitration proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by both Contracting Parties. The tribunal may decide on any alternative system to share the costs. In all other respects, the arbitration tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of investment disputes">
+        <p>1. Disputes concerning investments between one Contracting Party and an national or company of the other Contracting Party shall, as far as possible, be settled amicably between the parties in dispute.</p>
+        <p>2. If a dispute cannot be settled within six months of the date when it has been raised by one of the parties in dispute, it shall, upon the request of the relevant Contracting Party, the nationals or companies of the other Contracting Party, be submitted for arbitration. Each Contracting Party herewith declares its acceptance of such arbitration procedure. Unless the parties in dispute have agreed otherwise, the provisions of paragraphs 3 to 5 of Article 8 shall be applied mutatis mutandis on condition that the appointment of the members of the arbitration tribunal in accordance with Article 8.3 is effected by the parties in dispute and that, insofar as the periods specified in Article 8.3 are not observed, either party in dispute</p>
+        <p>May, in the absence of other arrangements, invite the President of the International Court of Arbitration of the International Chamber of Commerce in Paris to make the required appointments. The award shall be enforced in accordance with domestic law. 3. During arbitration proceedings or the enforcement of an award, the Contracting Party involved in the dispute shall not raise the objection that the nationals or companies of the other Contracting Party has received compensation under an insurance contract in respect of all or part of its loss.</p>
+        <p>4. In the event of both Contracting Parties having become Contracting States of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States of 18th March, 1965, disputes under this Article between the parties in dispute shall be submitted for arbitration under the aforementioned convention unless the parties in dispute agree otherwise; each Contracting Party hereby declares its acceptance of such a procedure.</p>
+      </div>
+      <div type="article" num="10" title="Entry into force">
+        <p>This Agreement shall be subject to ratification and shall enter into force on the date of exchange of Instruments of Ratification through diplomatic channels.</p>
+      </div>
+      <div type="article" num="11" title="Duration and termination">
+        <p>1. This Agreement shall remain in force for a period of 10 years and shall continue in force thereafter for another similar period or periods unless terminated in writing by either Contracting Party one year before its expiration.</p>
+        <p>2. In respect of investments made prior to the date of termination of the Agreement, the provisions of Article 1 to 10 shall continue to be in force for a further period of 15 years from the date of termination of the Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned duly authorized thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done in duplicate at Muscat on this 13th day of Safar 1419 H, corresponding to 8th day of June 1998, in the Arabic, Malay and English languages, all texts being equally authentic and in case of any divergence, the English text shall prevail.</p>
+      <p>His Excellency Ahmad bin Abdull Nabi Macki Minister of National Economy, Deputy Chairman of the Financial and Energy Resources On Behalf of the Government of the Sultanate of Oman</p>
+      <p>His Excellency Pengiran Dato Haji Mustapha bin Pengiran Metasan Ambassador On Behalf of the Government of His Majesty the Sultan and Yang Di-Pertuan Brunei -Darussalam</p>
+    </conclusion>
+  </main>
+</treaty>

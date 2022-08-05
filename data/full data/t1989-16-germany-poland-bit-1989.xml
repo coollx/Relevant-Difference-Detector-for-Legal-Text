@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Germany - Poland BIT (1989)</name>
+    <code>T1989-16</code>
+    <partyisocode n="0">DEU</partyisocode>
+    <partyisocode n="1">POL</partyisocode>
+    <date_signed>1989-11-10</date_signed>
+    <date_into_force>1991-02-24</date_into_force>
+    <date_terminated>2018-08-07</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Unilaterally denounced</termination_type>
+    <docreference>1740</docreference>
+    <comments/>
+    <source>unctad; termination: http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001403</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Unilaterally denounced</IT_TERMINATION_TYPE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{DEU,POL}_1989-11-10.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="TERMINATED_BY_THIRD_TREATY" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T2020-2">Agreement for the Termination of Bilateral Investment Treaties Between the Member States of the European Union (2020)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>TREATY BETWEEN THE FEDERAL REPUBLIC OF GERMANY AND THE PEOPLE'S REPUBLIC OF POLAND CONCERNING THE ENCOURAGEMENT AND RECIPROCAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Contracting Parties,</p>
+      <p>Desiring to intensify bilateral economic cooperation,</p>
+      <p>Intending to create favourable conditions for reciprocal investments,</p>
+      <p>Recognizing that the encouragement of such investments and their protection on the basic of this Treaty will serve the further development of economic initiative in this area,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>(1) In this Treaty</p>
+        <p>(a) The term "investments" shall comprise all kinds of assets that an investor of one Contracting Party invests in the territory of the other Contracting Party pursuant to the latter's legislation, in particular:</p>
+        <p>&#x2010; Movable and immovable property as well as any other rights in rem, such as mortgages, liens and pledges;</p>
+        <p>&#x2010; Shares of companies and other kinds of interest;</p>
+        <p>&#x2010; Claims to money which has been used to create an economic value or claims to any performance having an economic value;</p>
+        <p>&#x2010; Copyrights, industrial property rights, technical processes, trade marks, trade names, know-how, and goodwill;</p>
+        <p>&#x2010; Rights to engage in an industrial activity having an economic value, including rights to prospecting for, developing, mining or working of natural resources which are based on a permit in accordance with the legislation of the Contracting Party in whose territory the investments are made, or based on a permit in accordance with a relevant agreement.</p>
+        <p>(b) The term "returns" shall mean the amounts yielded for a definite period as profit, dividends, interest, licence fees or other comparable earnings from an investment within the meaning of subparagraph (a) above.</p>
+        <p>(c) The term "investor" shall mean a natural person with permanent domicile or a juridical person with its seat in the respective area of application of this Treaty, entitled to engage in investments.</p>
+        <p>(2) This Treaty shall cover the exclusive economic zone and the continental shelf over which the respective Contracting Party can exercice sovereign rights and powers for the prospecting, exploitation and conservation of natural resources in conformity with international law.</p>
+      </div>
+      <div type="article" num="2">
+        <p>(1) Each Contracting Party shall in its territory promote as far as possible investments by investors of the other Contracting Party and admit such investments in accordance with its respective laws. Investments that have been admitted in accordance with the respective law of one Contracting Party shall enjoy the protection of this Treaty. Each Contracting Party shall in any case accord investments fair and equitable treatment.</p>
+        <p>(2) No Contracting Party should in any way impede the management, maintenance, use or enjoyment of investments in its territory by investors of the other Contracting Party by means of unjustified or discriminatory measures.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Neither Contracting Party shall subject investments by investors of the other Contracting Party or investments in which investors from the other Contracting Party have a holding less favourably in its territory than investments by its own investors or investments by investors of any third State.</p>
+        <p>(2) Neither Contracting Party shall subject investors of the other Contracting Party, as regards their activity in connection with investments in its territory, to treatment less favourable than it accords to its own investors or investors from any third State.</p>
+        <p>(3) Such treatment shall not extend to privileges which either Contracting Party accords to investors of third States on account of their membership of, or association with, a customs or economic union, a common market, the Council for Mutual Economic Assistance, or a free trade area.</p>
+        <p>(4) The treatment granted under this Article shall not refer to privileges granted by either Contracting Party to investors of third States by virtue of a double taxation agreement or other agreements regarding matters of taxation.</p>
+      </div>
+      <div type="article" num="4">
+        <p>(1) Investments by investors of either Contracting Party shall enjoy full protection as well as security in the territory of the other Contracting Party.</p>
+        <p>(2) Investments by investors of either Contracting Party shall not be expropriated, nationalized or subjected to any other measure the effects of which would be tantamount to expropriation or nationalization in the territory of the other Contracting Party except for the public benefit and against compensation. Such compensation shall be equivalent to the value of the investment expropriated immediately before the date the expropriation or nationalization has become publicly known. The compensation shall be paid without delay, but at the latest within two months and shall attract interest at the normal rate of bank interest from the third month up to the date of payment; it shall be effectively realizable and freely transferable. Suitable arrangements for the determination and payment of the compensation shall be made, by the latest on the date of expropriation, nationalization or comparable measure. The legality of any such expropriation, nationalization or comparable measure and the amount of compensation shall be subject to review by due process of law.</p>
+        <p>(3) Investors of either Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to war or other armed conflict, revolution, a state of national emergency, or revolt, shall be accorded treatment no less favourable by such other Contracting Party than that Party accords to its own investors, in the event of restitution, indemnification, compensation or other valuable consideration. Such payments shall be freely transferable.</p>
+        <p>(4) Investors of either Contracting Party shall enjoy most-favoured-nation treatment in the territory of the other Contracting Party in respect of the matters provided for in this Article.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party shall guarantee investors of the other Contracting Party the free transfer of payments in connection with an investment, in particular</p>
+        <p>(a) Of the capital and additional amounts to maintain or increase the investment;</p>
+        <p>(b) Of the returns;</p>
+        <p>(c) In repayment of loans;</p>
+        <p>(d) Of the proceeds from the sale of the whole or any part of the investment or from its liquidation;</p>
+        <p>(e) Of the compensation provided for in Article 4.</p>
+      </div>
+      <div type="article" num="6">
+        <p>(1) If either Contracting Party makes compensation payments to any of its investors under a guarantee it has assumed in respect of an investment in the territory of the other Contracting Party, the latter Contracting Party shall, without prejudice to the rights of the former Contracting Party under Article 10, recognize the assignment, whether under a law or pursuant to a legal transaction of any right or claim from such investor to the former Contracting Party. The latter Contracting Party shall also recognize the subrogation of the former Contracting Party, which made the payment, to any such assigned rights or claims. The Contracting Party making payment can assert the rights or claims to which the investor was entitled only to the extent that the investor could have asserted them; on the other hand, the other Contracting Party can also assert against the Contracting Party making payment counterclaims that exist against the investor.</p>
+        <p>(2) If the rights or claims of the investor have been assigned to the Contracting Party making payment, the investor cannot assert them against the other Contracting Party unless he is empowered to do so by the Contracting Party making payment.</p>
+        <p>(3) As regards the transfer of payments by virtue of such assignment, paragraphs 2 and 3 of Article 4, as well as Article 5 shall apply mutatis mutandis.</p>
+      </div>
+      <div type="article" num="7">
+        <p>A transfer under paragraphs 2 or 3 of Article 4, in Article 5 or 6 shall be made without delay at the exchange rate in effect on the day of the transfer.</p>
+      </div>
+      <div type="article" num="8">
+        <p>(1) If the legislation of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to this Treaty contain a regulation, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided for by this Treaty, such regulation shall to the extent that it is more favourable prevail over this Treaty.</p>
+        <p>(2) Each Contracting Party shall observe any other obligation it may have entered into with regard to investments in its territory by investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="9">
+        <p>This Treaty shall also apply to matters arising after the entry into force of this Treaty with regard to investments that investors of either Contracting Party made in the territory of the other Contracting Party in accordance with the legislation of the latter between 14 September 1972 and the entry into force of this Treaty.</p>
+      </div>
+      <div type="article" num="10">
+        <p>(1) Disputes between the Contracting Parties concerning the interpretation or application of this Treaty should, if possible, be settled by the Governments of the two Contracting Parties.</p>
+        <p>(2) If a dispute cannot thus be settled, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>(3) Such arbitral tribunal shall be constituted for each individual case as follows: each Contracting Party shall appoint one member, and these two members shall agree upon a national of a third State as their chairman to be appointed by the Governments of the two Contracting Parties. Such members shall be appointed within two months, and such chairman within three months, from the date on which either Contracting Party has informed the other that it wants to submit the dispute to an arbitral tribunal.</p>
+        <p>(4) If the periods specified in paragraph 3 above have not been observed, either Contracting Party may, in the absence of any other relevant agreement, invite the President of the International Court of Justice to make the necessary appointments.</p>
+        <p>(5) The arbitral tribunal shall reach its decisions by a majority of votes. Such decisions shall be binding. Each Contracting Party shall bear the cost of its own member and of its counsel in the arbitral proceedings; the cost of the chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The arbitral tribunal may make a different regulation concerning costs. In all other respects, the arbitral tribunal shall determine its own procedure.</p>
+        <p>(6) If both Contracting Parties are members of the Convention of 18 March 1965 on the settlement of investment disputes between states and nationals of other states the arbitral tribunal provided for above may in consideration of the provisions of paragraph 1 of Article 27 of the said Convention not be appealed to in so far as agreement has been reached between the investor of one Contracting Party and the other Contracting Party under Article 25 of the Convention. This shall not affect the possibility of appealing to such arbitral tribunal in the event that a decision of the Arbitral Tribunal established under the said Convention is not complied with (Article 27) or in the case of an assignment under a law or pursuant to a legal transaction as provided for in Article 6 of the present Treaty.</p>
+      </div>
+      <div type="article" num="11">
+        <p>(1) Disputes with regard to investments between either Contracting Party and an investor of the other Contracting Party should, if possible, be settled amicably between the parties to the dispute.</p>
+        <p>(2) If a dispute under paragraph 2 of Article 4 or under Article 5 has not been settled within six months after it has been raised by one of the parties to the dispute, either of the parties to the dispute shall be entitled to appeal to an international arbitral tribunal.</p>
+        <p>(3) The regulation established in paragraph 2 above shall also apply to disputes on matters with regard to which the investor and the other Contracting Party have agreed on arbitral proceedings.</p>
+        <p>(4) If the parties to the dispute do not make another arrangement, the provisions of paragraphs 3 to 5 of Article 10 shall be applied mutatis mutandis subject to the proviso that the members of the Arbitral Tribunal shall be appointed by the parties to the dispute and that, if the periods mentioned in paragraph 3 of Article 10 are not observed, either Contracting Party may in the absence of any other relevant agreements invite the Chairman of the Arbitration Institute of the Stockholm Chamber of Commerce to make the necessary appointments. The award shall be recognized and enforced under the Convention of 10 June 1958 on the Recognition and Enforcement of Foreign Arbitral Awards.</p>
+        <p>(5) Neither Contracting Party that is a party to the dispute shall raise the objection during arbitral proceedings or during the enforcement of an arbitral award that the investor of the other Contracting Party has received compensation from an insurance institution for part or the whole of the damage. This shall not affect the provisions of paragraph 2 of Article 6.</p>
+      </div>
+      <div type="article" num="12">
+        <p>This Treaty shall apply irrespective of whether or not diplomatic or consular relations exist between the Contracting Parties.</p>
+      </div>
+      <div type="article" num="13">
+        <p>In keeping with the Quadripartite Agreement of 3 September 1971, this Treaty shall be extended to the Western Sectors of Berlin in accordance with established procedures.</p>
+      </div>
+      <div type="article" num="14">
+        <p>(1) This Treaty shall be ratified; the instruments of ratification shall be exchanged in Bonn as soon as possible.</p>
+        <p>(2) This Treaty shall enter into force one month from the date of the exchange of the instruments of ratification. It shall remain in force for a period of ten years and shall be extended thereafter for an unlimited period except if denounced in writing by either Contracting Party twelve months before its expiration. After the expiry of the period of ten years, this Treaty may be denounced at any time giving twelve months' notice.</p>
+        <p>(3) In respect of investments made prior to the date of termination of this Treaty, Articles 1 to 13 shall continue to apply for a further period of twenty years from the date of termination of this Treaty.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Warsaw on 10 November 1989 in duplicate, in the German and Polish languages, both texts being equally authentic.</p>
+      <p>For the Federal Republic of Germany:</p>
+      <p>HANS-DIETRICH GENSCHER</p>
+      <p>For the People's Republic of Poland:</p>
+      <p>KRZYSZTOF SKUBISZEWSKI</p>
+    </conclusion>
+    <attachments>
+      <p>On signing the Treaty concerning the Encouragement and Reciprocal Protection of Investments concluded between the Federal Republic of Germany and the People's Republic of Poland, agreement was reached in addition on the following provisions, which shall be regarded as an integral part of the said Treaty.</p>
+      <p>(1) Ad Article 1</p>
+      <p>(a) The term "investment" within the meaning of subparagraph (a) of paragraph 1 of Article 1 shall comprise investments that are made for economic purposes.</p>
+      <p>(b) Returns from the investment, and, in the event of their reinvestment, the returns therefrom, shall enjoy the same protection as the investment.</p>
+      <p>(2) Ad Article 3</p>
+      <p>(a) The following shall be deemed "activity" within the meaning of paragraph 2 of Article 3: the management, maintenance, use, and enjoyment of an investment. The following shall, in particular, be deemed "treatment less favourable" within the meaning of Article 3: restricting the purchase of raw or auxiliary materials, of energy or fuel or of means of production or operation of any kind, impeding the marketing of products, as well as any other measures having similar effects.</p>
+      <p>(b) Measures that have to be taken for reasons of public security and order, for the protection of life and health or public morality shall not be deemed "treatment less favourable" within the meaning of Article 3.</p>
+      <p>(c) The provisions of Article 3 do not oblige a Contracting Party to extend to natural persons or companies resident in the territory of the other Contracting Party tax privileges, tax exemptions and tax reductions which according to its tax laws are granted only to natural persons and companies resident in its territory.</p>
+      <p>(d) The Contracting Parties shall, within the framework of their national legislation, give sympathetic consideration to applications for the entry and sojourn of persons of either Contracting Party who wish to enter the territory of the other Contracting Party in direct connection with an investment; the came shall apply to employees of either Contracting Party who in direct connection with an investment wish to enter the territory of the other Contracting Party and remain there in order to work as employed persons. Applications for work permits shall also be given sympathetic consideration.</p>
+      <p>(3) Ad Article 4</p>
+      <p>The investor shall also have a claim to compensation in the event of expropriation or a comparable measure within the meaning of paragraph 2 of Article 4 which impairs the economic activity of the enterprise in which he is participating, if his investment is simultaneously also affected thereby.</p>
+      <p>(4) Ad Article 5</p>
+      <p>The transfer of profit shares and dividends within the meaning of subparagraph (b) of paragraph 1 of Article 1, which were generated in Polish currency and were shown in the audited balance sheet for the year preceding the transfer, shall be guaranteed by the People's Republic of Poland in the following steps:</p>
+      <p>From 1 January 1993, in the amount of 15 per cent for the year 1992,</p>
+      <p>From 1 January 1994, in the amount of 25 per cent for the year 1993,</p>
+      <p>From 1 January 1995, in the amount of 35 per cent for the year 1994,</p>
+      <p>From 1 January 1996, in the amount of 50 per cent for the year 1995,</p>
+      <p>From 1 January 1997, in the amount of 75 per cent for the year 1996,</p>
+      <p>From 1 January 1998, in the amount of 100 per cent for the year 1997.</p>
+      <p>This shall not affect a more favourable regulation between the Polish authorities and the investor.</p>
+      <p>Article 5 shall apply without restriction as from the date on which the People's Republic of Poland establishes the free convertibility of its currency.</p>
+      <p>(5) Ad Article 7</p>
+      <p>A transfer shall be deemed to have been made "without delay" within the meaning of Article 7 if effected within such period as is normally required for the completion of transfer formalities. The said period shall commence on the day on which the relevant request has been submitted and may on no account exceed two months.</p>
+      <p>(6) Ad Articles 9 and 11</p>
+      <p>(a) With regard top investments that were made prior to the entry into force of the Treaty, the transfer of the proceeds generated from the sale or liquidation of the investment within the meaning of subparagraph (d) of Article 5 shall be guaranteed by the People's Republic of Poland in the following instalments:</p>
+      <p>&#x2010; In the year of sale or liquidation, and from 1 January 1993 at the earliest 20 per cent,</p>
+      <p>&#x2010; In the subsequent year 30 per cent,</p>
+      <p>&#x2010; In the third year the remaining 50 per cent.</p>
+      <p>(b) In the event of serions balance-of-payments disequilibria, the Contracting Parties shall enter into consultations with the aim of agreeing on another acceptable regulation regarding pending transfer payments under subparagraph (a). In the event of disputes between either Contracting Party and an investor of the other Contracting Party concerning the interpretation and application of subparagraph (a) in conjunction with the first sentence of subparagraph (b), the arbitral tribunal appealed to in accordance with Article 11 shall suspend proceedings until the conclusion of the consultations between the Contracting Parties.</p>
+      <p>(c) This shall not affect a more favourable regulation between the Polish authorities and the investor.</p>
+      <p>(7) Whenever goods or persons connected with an investment are to be transported, each Contracting Party, subject to any international agreements existing between the two Contracting Parties, shall neither exclude nor hinder transport enterprises of the other Contracting Party and shall issue permits as required to carry out such transport.</p>
+    </attachments>
+  </main>
+</treaty>

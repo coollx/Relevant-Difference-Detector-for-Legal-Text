@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Bangladesh - Cambodia BIT (2014)</name>
+    <code>T2014-45</code>
+    <partyisocode n="0">BGD</partyisocode>
+    <partyisocode n="1">KHM</partyisocode>
+    <date_signed>2014-06-17</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+  </meta>
+  <main/>
+</treaty>

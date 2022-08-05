@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Tunisia - Turkey BIT (2017)</name>
+    <code>T2017-21</code>
+    <partyisocode n="0">TUN</partyisocode>
+    <partyisocode n="1">TUR</partyisocode>
+    <date_signed>2017-12-27</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>3821</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{TUN,TUR}_2017-12-27.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2004-106">Tunisia - Turkey FTA (2004)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1991-84">Tunisia - Turkey BIT (1991)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+  </meta>
+  <main/>
+</treaty>

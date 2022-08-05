@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Morocco - Yemen BIT (2001)</name>
+    <code>T2001-179</code>
+    <partyisocode n="0">MAR</partyisocode>
+    <partyisocode n="1">YEM</partyisocode>
+    <date_signed>2001-02-24</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <comments>text in UNCTAD is from the 1997 treaty between both parties. Treaty does not show in Morocco's web pages https://www.casainvest.ma/sites/default/files/guide_investisseur_etranger.pdf</comments>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{MAR,YEM}_2001-02-24.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_NO_OVERLAP" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+    <relation type="IT_REPLACING" document-code="T1997-174">Morocco - Yemen BIT (1997)</relation>
+    <relation type="IT_REPLACING" document-code="T1997-174">Morocco - Yemen BIT (1997)</relation>
+    <relation type="IT_REPLACING" document-code="T1997-174">Morocco - Yemen BIT (1997)</relation>
+    <relation type="IT_NO_OVERLAP" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_NO_OVERLAP" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+  </meta>
+  <main/>
+</treaty>

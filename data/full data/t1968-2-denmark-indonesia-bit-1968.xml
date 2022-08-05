@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Denmark - Indonesia BIT (1968)</name>
+    <code>T1968-2</code>
+    <partyisocode n="0">DNK</partyisocode>
+    <partyisocode n="1">IDN</partyisocode>
+    <date_signed>1968-01-30</date_signed>
+    <date_into_force>1968-07-02</date_into_force>
+    <date_terminated>2009-10-15</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>1258</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{DNK,IDN}_1968-01-30.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T2007-41">Denmark - Indonesia BIT (2007)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF DENMARK AND THE GOVERNMENT OF THE REPUBLIC OF INDONESIA CONCERNING THE ENCOURAGEMENT AND THE RECIPROCAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of Denmark and the Government of the Republic of Indonesia,</p>
+      <p>Desiring to create favourable conditions for capital investments in both States and to intensify the co-operation between private enterprises in both States with a view to stimulating the productive use of resources.</p>
+      <p>Recognizing that a contractual protection of investments will serve this aim,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="I">
+        <p>In accordance with its laws and regulations each Contracting Party shall consider favourably applications for investments of capital in its territory for the purpose of establishing lasting economic relations, by</p>
+        <p>a) Nationals of the other Contracting Party, provided they are domiciled in the territory of their nationality, or</p>
+        <p>b) Corporations domiciled or registered in the territory of the other Contracting Party, being corporations in which nationals of that Contracting Party have a substantial interest.</p>
+      </div>
+      <div type="article" num="II">
+        <p>The protection accorded to investors by the provisions of this Agreement shall apply:</p>
+        <p>a) In the territory of the Republic of Indonesia only to investments which have been approved by the Indonesian Government in accordance with the foreign investment legislation currently in force (Law No. 1 of the year 1967),</p>
+        <p>b) In the territory of Denmark only to investments which have been made consistent with the Danish exchange regulations currently in force (Order No. 199 of June 20th, 1961) and declared by the Danish Ministry of Foreign Affairs to be covered by the present Agreement.</p>
+      </div>
+      <div type="article" num="III">
+        <p>Neither Contracting Party shall in its territory impose on the activities of enterprises in which such approved investments are made by nationals or corporations of the other Contracting Party conditions which are less favourable than those imposed in its territory on activities in connection with any similar enterprise, whether owned by its own nationals or corporations or by nationals or corporations of third countries.</p>
+      </div>
+      <div type="article" num="IV">
+        <p>(1) Neither Contracting Party shall take measures of expropriation or of nationalization or any other measures the effect of which, either directly or indirectly, is to dispossess nationals or corporations of the other Contracting Party of their investments, except for the public benefit and against compensation, and not being contrary to existing obligations. The legality of such expropriation, nationalization or measures as aforesaid shall be subject to review by due process of law.</p>
+        <p>(2) If either Contracting Party expropriates or nationalizes investments of nationals or corporations of the other Contracting Party, or if it takes any other measures the effect of which, either directly or indirectly, is to dispossess such nationals or corporations of their investments, it shall provide prompt payment of effective and adequate compensation.</p>
+        <p>(3) Such compensation shall represent the commercial value of the investments at the time of expropriation, nationalization or at the time of taking any other measures as aforesaid; it shall be actually realizable and freely transferable, and shall be made without undue delay. Provision shall have been made in an appropriate manner at or prior to the time of expropriation, nationalization or the taking of such other measures as aforesaid for determination and payment of such compensation.</p>
+      </div>
+      <div type="article" num="V">
+        <p>Nationals or corporations of either Contracting Party who suffer losses in relation to such approved investments owing to war or other armed conflict, revolution, a state of national emergency, or revolt in the territory of the other Contracting Party, shall be accorded treatment no less favourable than that which the latter Contracting Party accords to its own nationals or corporations or nationals or corporations of third countries as regards restitution, indemnification, compensation or other similar valuable consideration. Such payments shall be freely transferable.</p>
+      </div>
+      <div type="article" num="VI">
+        <p>If a Contracting Party makes payment to any investor under a guarantee it has accorded in respect of an approved investment, the other Contracting Party shall recognize:</p>
+        <p>a) The assignment, whether under the law of the country of the guarantor or pursuant to a legal transaction in that country, of any right or claim by the investor to the former Contracting Party, as well as</p>
+        <p>b) The subrogation of that Contracting Party to any such right or claim which that Contracting Party shall be entitled to assert to the same extent as its predecessor in title.</p>
+      </div>
+      <div type="article" num="VII">
+        <p>Either Contracting Party shall authorize the transfer of:</p>
+        <p>a) The net return yielded by an investment covered by the present Agreement including, inter alia, interest, dividends, royalties, payments for licences and other such claims of nationals or of corporations domiciled or registered in the other country;</p>
+        <p>b) Depreciation of capital assets, amortization, or the proceeds of the total or partial liquidation of such approved investments, including possible increases in or additions to these investments in the country in which they have been effected;</p>
+        <p>c) An adequate portion of the wages, salaries and other remuneration of nationals holding permits to stay and work in the territory of either Contracting Party.</p>
+      </div>
+      <div type="article" num="VIII">
+        <p>(1) Any dispute between the Contracting Parties arising out of the interpretation or implementation of the present Agreement, which has not been settled within six months through diplomatic channels, shall, at the request of either Party, be submitted to a tribunal of arbitration consisting of three members. The chairman of the tribunal shall be a citizen of a third country and shall be appointed by common consent of the Contracting Parties. Should the Parties fail to agree on the appointment of the chairman of the tribunal, either Party may request the President of the International Court of Justice to make the appointment. Each Party appoints its own arbitrator; if a Party abstains from appointing an arbitrator, the latter may be appointed by the chairman of the tribunal.</p>
+        <p>(2) Each Contracting Party will observe and carry out awards given by the tribunal.</p>
+      </div>
+      <div type="article" num="IX">
+        <p>The present Agreement shall not apply to the Faroe Islands and Greenland.</p>
+      </div>
+      <div type="article" num="X">
+        <p>(1) The present Agreement shall enter into force on the day the Governments of the two Contracting Parties notify each other that their constitutional requirements for the entering into force of the Agreement have been fulfilled, and shall remain binding for a period of ten years. Unless denounced six months before any expiration date, it shall be considered as renewed for another period of ten years therefrom.</p>
+        <p>(2) In case of official notice as to the termination of the present Agreement, the provisions of Articles I-IX shall continue to be effective for a further period of ten years in respect of investments made before official notice was given.</p>
+      </div>
+      <div type="article" num="XI">
+        <p>From the date of signature of the present Agreement either Contracting Party will apply tentatively the provisions of the Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the Parties hereto acting through their representatives duly authorized for this purpose, have caused the present Agreement to be signed in two copies in the English language at Djarkata this day of January 30, 1968.</p>
+      <p>For the Government of Denmark: Paul KAARIS</p>
+      <p>For the Government of the Republic of Indonesia: Ismael M. THAJEB S. H.</p>
+    </conclusion>
+    <attachments>
+      <p>At the time of signing the Agreement between the Government of Denmark and the Government of the Republic of Indonesia concerning the Encouragement and the Reciprocal Protection of Investments, the undersigned Plenipotentiaries have, in addition, agreed on the following understanding which shall be regarded as an integral part of the laid Agreement:</p>
+      <p>Re Article III</p>
+      <p>The Government of the Republic of Indonesia, while confirming the award of most-favoured-nation treatment to Danish investments in Indonesia, reserves its position with regard to national treatment of Danish investments in view of the present stage of development of the Indonesian national economy. Full national treatment of Danish investments in Indonesia will be extended in so far as Law No. 1 of the year 1967 gives scope to such treatment.</p>
+      <p>Beyond this, however, the Government of the Republic of Indonesia may extend facilities to Indonesian national enterprises which do not fully apply to Danish enterprises.</p>
+      <p>DONE at Djakarta on January 30, 1968.</p>
+      <p>For the Government of Denmark: Paul KAARIS</p>
+      <p>For the Government of the Republic of Indonesia: Ismael M. THAJEB S. H.</p>
+    </attachments>
+  </main>
+</treaty>

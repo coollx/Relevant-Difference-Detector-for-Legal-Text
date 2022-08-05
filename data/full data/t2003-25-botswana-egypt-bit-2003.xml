@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Botswana - Egypt BIT (2003)</name>
+    <code>T2003-25</code>
+    <partyisocode n="0">BWA</partyisocode>
+    <partyisocode n="1">EGY</partyisocode>
+    <date_signed>2003-07-02</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>3562</docreference>
+    <comments/>
+    <source>Treaty is listed at UNCTAD, but text only available in Kluwer</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{BWA,EGY}_2003-07-02.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main/>
+</treaty>

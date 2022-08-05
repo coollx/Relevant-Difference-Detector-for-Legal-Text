@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>France - India BIT (1997)</name>
+    <code>T1997-115</code>
+    <partyisocode n="0">FRA</partyisocode>
+    <partyisocode n="1">IND</partyisocode>
+    <date_signed>1997-09-02</date_signed>
+    <date_into_force>2000-05-17</date_into_force>
+    <date_terminated>2017-04-07</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en,fr</orig_language>
+    <termination_type>Unilaterally denounced</termination_type>
+    <comments/>
+    <source>https://dea.gov.in/sites/default/files/France.pdf; https://www.senat.fr/leg/pjl97-231.html</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{FRA,IND}_1997-09-02.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Unilaterally denounced</IT_TERMINATION_TYPE>
+    <IT_ORIGIN_LANGUAGE>en,fr</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_OVERLAP" document-code="T1993-87">EC - India Cooperation Agreement (1993)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDIA AND THE GOVERNMENT OF THE REPUBLIC OF FRANCE ON THE RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENTS </p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of India and the Government of the Republic of France, hereinafter referred to as the Contracting Parties. </p>
+      <p>Desiring to strengthen the economic cooperation between both States and to create favourable conditions for French investments in India and Indian investments in France. </p>
+      <p>Convinced that the promotion and protection of these investments would succeed in stimulating transfers of capital and technology between the two countries in the interest of their economic development. </p>
+      <p>Have agreed as follows. </p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement: </p>
+        <p>(1) The term "investment" means every kind of asset, such as goods, intellectual property rights and other tights and interest of whatever nature, invested in the area of the Contracting Party in accordance with the laws of that Contracting Party, and in particular though not exclusively includes: </p>
+        <p>a) Movable and immovable property as well as any other rights In rem such as mortgages, liens, usufructs and pledges, and similar rights; </p>
+        <p>b) Shares and other kinds of interest including minority or indirect forms, in companies constituted in the territory of one Contracting Party; </p>
+        <p>c) Debentures or rights to money, or to any legitimate performance having a financial value; </p>
+        <p>d) Business concessions conferred by law or under contract, including concessions to search for, extract or exploit natural resources, which are located in the maritime area of the Contracting parties. </p>
+        <p>(2) The term "nationals" means physical persons possessing the nationality of either Contracting Party. </p>
+        <p>(3) The term "company" means any legal person constituted on the territory of one Contracting Party in accordance with the laws of that Party. </p>
+        <p>(4) The term "investor" means any national or company of a Contracting Party. </p>
+        <p>(5) The term "returns" means all amounts produced by an investment, such as profits, royalties and interest, </p>
+        <p>(6) The term "area" means: </p>
+        <p>a) in respect of India, the territory of India including the territorial sea and air space above it, as well as any other maritime zone in which India, according to the Indian Law, has sovereign rights, other rights and jurisdictions in accordance with international law; </p>
+        <p>b) in respect of France, the territory of France including the territorial sea and the air space above it as well as the areas within which, in accordance with International law, the French Republic has sovereign tights for the purpose of exploring and exploiting the natural resources of the sea-bed and its sub-soil and of the superjacent waters. </p>
+      </div>
+      <div type="article" num="2" title="Scope of the Agreement">
+        <p>(1) This Agreement shall apply to any investment made by investors of either Contracting Party in the area of the other Contracting Party, including an indirect investment made through another company, wherever located, which is owned to an extent of at least 51 per cent by such investors, whether made before or after the coming into force of this Agreement. </p>
+        <p>(2) Any alteration of the form in which assets are invested shall not affect their qualification as investments provided that such alteration is not in conflict with the laws of the Contracting Party within whose area the investment is made. </p>
+      </div>
+      <div type="article" num="3" title="Admission and Promotion of Investment">
+        <p>(1) Each Contracting Party shall admit and encourage on its territory and in its maritime area, in accordance with its laws and with the provisions of this Agreement, investments made by investors of the other Contracting Party. </p>
+        <p>(2) Within the framework of their internal laws, the Contracting Parties shall favourably examine requests for entry and authorisation to reside, work and travel made by the national of one Contracting Party in relation to an investment made in the area of the other Contracting Party. </p>
+      </div>
+      <div type="article" num="4" title="Fair and Equitable Treatment of Investment">
+        <p>(1) The investments made by investors of one Contracting Party shall enjoy full and complete protection and safety in the area of the other Contracting Party. </p>
+        <p>(2) Each Contracting Party shall extend fair and equitable treatment in accordance with internationally established principles to investments made by investors of the other Contracting Party in its area and shall permit the full exercise of this right in principle and in practice. In particular, though not exclusively, each Contracting Party shall extend fair and equitable treatment to the domestic transportation of goods or persons directly connected with an investment and to their international transportation, subject to bilateral or international agreements governing such transport which are in force between the Contracting Parties. </p>
+        <p>(3) Nationals authorised to work in the area of one Contracting Party shall not be prevented by that Contracting Party from availing of facilities relevant to the exercise of their professional activities. </p>
+      </div>
+      <div type="article" num="5" title="National and Most-favoured Nation Treatment">
+        <p>(1) Each Contracting Party shall accord to investments of investors of the other Contracting Party, including their operation, management, maintenance, use, enjoyment or disposal by such investors, treatment which shall not be less favourable than that accorded to investments of its investors, or than the most favourable treatment accorded to investments of investors of any third country, whichever is more favourable. </p>
+        <p>(2) In addition each Contracting Party shall accord to investors of the other Contracting Party, including inrespect of returns on their investments, treatment which shall not be less favourable than that accorded to investors of any third State. </p>
+        <p>(3) This treatment shall not include the privileges granted by one Contracting Party to nationals or investors of a third party State by virtue of its participation or association in a free trade zone, customs union, common market or any other form of regional economic organization. </p>
+        <p>(4) The provisions of this article do not apply to tax matters. </p>
+      </div>
+      <div type="article" num="6" title="Expropriation and Compensation">
+        <p>(1) Neither Contracting Party shall take any measure of expropriation or nationalisation or any other measures having the effect of dispossession, direct or indirect, of investors of the other Contracting Party of their investments in its area, except in the public interest and provided that these measures are not discriminatory or contrary to a specific obligation entered into by Contracting Party not to take a measure of dispossession. </p>
+        <p>(2) Any measure of dispassession which might be taken shall give rise to adequate and reasonably prompt compensation, the amount of which shall be equal to the real value of the investments concerned and shall be set, indicating conditions of payment, in accordance with the normal economic situation prevailing prior to any threat of dispossession. This compensation shall be effectively realisable, and shall then be paid without delay. Until the date of payment, it shall produce interest calculated at the appropriate market rate of interest. </p>
+        <p>(3) The investor affected shall have a right, under the law of the Contracting Party taking the measure of dispossession, to review, by a judicial or other independent authority of that Party, of his or its case and of the valuation of his or its investment in accordance with the principles set out in this paragraph. The Contracting Party taking the measure of dispassession shall make every endeavour to ensure that such review is carried out promptly. </p>
+        <p>(4) Investors of one Contracting Party whose investments have sustained losses due to war or any other armed conflict, a state of national emergency or civil disturbances occurring in the area of the other Contracting Party, shall enjoy treatment from the latter Contracting Party that is not less favourable than that granted to its own investors or to thase of the most favoured nation. </p>
+      </div>
+      <div type="article" num="7" title="Transfers">
+        <p>(1) Each Contracting Party, in the area of which the investments have been made by investors of the other Contracting Party, shall grant to these investors the free transfer of: </p>
+        <p>a) interest, dividends, profits and other current income, </p>
+        <p>b) royalties deriving from rights as defined in Article 1, Paragraph 1, </p>
+        <p>c) repayments of loans which have been regulary contracted, </p>
+        <p>d) value of partial or total liquidation or disposition of the investment, including capital gains on the capital invested, </p>
+        <p>e) compensation for dispossession or loss described in Article 6, Paragraphs 2 and 4, </p>
+        <p>f) any other returns. </p>
+        <p>(2) The nationals of either Contracting Party, who have been authorised to work in the area of the other Contracting Party, as the result of an investment, shall also be permitted to transfer to their country of origin an appropriate proportion of their earnings. </p>
+        <p>(3) The transfers referred to in the foregoing paragraphs shall be prompily effected at the official exchange rate prevailing on the date of transfer. </p>
+      </div>
+      <div type="article" num="8" title="Subrogation">
+        <p>(1) In the event that the regulations of one Contracting Party contain a guarantee for investments made abroad, the guarantee may be accorded to investments made by investors of this Party in the area of the other Party. </p>
+        <p>(2) If one Contracting Party, as a result of a guarantee given for an investment made in the area of the other Contracting Party, makes payments to its own investors, the first mentioned Party has in this case full rights of subrogation with regard to the rights and actions of the said investor. </p>
+        <p>(3) The said payments shall not affect the rights of the beneficiary of the guarantee, to the extent of the non-subrogated rights of claims, to take recourse to or to continue proceedings under Article 9. </p>
+      </div>
+      <div type="article" num="9" title="Settlement of Investment Disputes">
+        <p>(I) Any dispute concerning the investments occuring between one Contracting Party and an investor of the other Contracting Party shall, if possible. be settled amicably between the two parties concerned. </p>
+        <p>(2) Any such dispute which has not been amicably settled within a period of six months from written notification of a claim may be sumitted to international conciliation under the Conciliation Rules of the United Nations Commission on International Trade Law, if the parties so agree. </p>
+        <p>(3) Notwithstanding paragraph 2, the dispute may be referred to arbitration at any time as follows: </p>
+        <p>a) if the Contracting Party of the investor and the other Contracting Party are both parties to the Convention on the Settlement of Investment-Disputes between States and Nationals of other States open to signature in Washington on March 18, 1965, and the investor consents in writing to submit the dispute to the Internaitonal Centre for the Settlement of Investment Disputes, such a dispute shall be referred to the Centre; or </p>
+        <p>b) if the investor so decides, the dispute shall be referred to an ad hoc arbitral tribunal in accordance with the Arbitration Rules of the United Nations Commission on International Trade Law, as adopted by the General Assembly on December 15, 1976. In respect of such arbitral proceedings, the following shall apply; </p>
+        <p>- the arbitral Tribunal shall consist of three arbitrators. Each party shall select an arbitrator. These two arbitrators shall appoint by mutual agreement a third arbitrator, the Chairman, who shall be a national of a third State. The arbitrators shall be appointed within two months from the date when one of the parties to the dispute informs the other of its intention to submit the dispute to arbitration; </p>
+        <p>- if the necessary appointments are not made within the period specified in the above paragraph, either party may request the Secretary General of the Permanent Court of Arbitration to make the necessary appointments; </p>
+        <p>- the arbitral award shall be made in accordance with the provisions of this Agreement; </p>
+        <p>- the tribunal shall reach its decision by a majority of votes; </p>
+        <p>- the decision of the arbitral tribunal shall be final and binding, and the parties shall abide by and comply with the terms of its award; </p>
+        <p>- the arbitral tribunal shall state the basis of its decision and give reasons upon the request of either party; </p>
+        <p>- each party concerned shall bear the cost of its own arbitrator and its representation in the arbitral proceedings. The cost of the Chairman in discharging his arbitral function and the remaining costs of the tribunal shall be borne equally by the parties concerned. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two parties. and this award shall be binding on both parties. </p>
+      </div>
+      <div type="article" num="10" title="Settlement of Disputes between Contracting Parties">
+        <p>(1) Disputes relating to the interpretation or application of this Agreement shall, if possible, be settled amicably. </p>
+        <p>(2) If the dispute has not been settled within a period of six months fram the date on which the matter was raised by either Contracting Party, it may be submitted at the request of either Contracting Party to an Arbitral Tribunal. </p>
+        <p>(3) The said Tribunal shall be created as follows for each specific case : each Contracting Party shall appoint one arbitrator, and the two arbitrators thus appointed shall appoint by mutual agreement a national of a third Country, who shall be designated as Chairman of the Tribunal by the two Contracting Parties. All the arbitrators must be appointed within three months from the date of notification by one Contracting Party to the other Contracting Party of its intention to submit the disagreement to arbitration. </p>
+        <p>(4) If the periods specified in Paragraph 3 above have not been met, either Contracting Party, in the absensce of any other agreement, shall invite the Secretary General of the Permanent Court of Arbitration to make the necessary appointments. If the Secretary General is a national of either Contracting Party, of if he is otherwise prevented from discharging the said function, the judge next in seniority to the Secretary General, who is not a national of either Contracting Party, shall make the necessary appointments. </p>
+        <p>(5) The tribunal shall reach its decisions by a majority of votes. These decisions shall be final and legally binding upon the Contracting Parties. </p>
+        <p>(6) The Tribunal shall set its own rules of procedure. It shall interpret the judgement at the request of either Contracting Party. Unless otherwise decided by the tribunal, in accordance with special circumstances, the legal costs, including the fees of the arbitrators, shall be shared equally between the two Contracting Parties. </p>
+      </div>
+      <div type="article" num="11" title="Application of other Rules">
+        <p>If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to the present Agreeement or obligations of either Contracting Party towards an investor of the other Contracting Party contain rules, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided by the presenet Agreement, such rules shall to the extent that they are more favourable prevail over the present Agreement. </p>
+      </div>
+      <div type="article" num="12" title="Exceptions">
+        <p>The provision of this Agreement shall not in any way limit the right of either Contracting Party in cases of extreme emergency to take action in accordance with its laws applied in good faith, on a nondiscriminatory basis, and only to the extent and duration necessary for the protection of its essential security interests, or for the prevention of diseases and pests in animals or plants. </p>
+      </div>
+      <div type="article" num="13" title="Entry Into Force and Duration">
+        <p>Each Contracting Party shall notify the other of the completion of the constitutional procedures required concerning the entry into force of this Agreement, which shall enter into force one month after the date of receipt of the final notification. </p>
+        <p>The Agreement shall be in force for an initial period of ten years. It shall remain in force thereafter, unless one of the Contracting Parties gives one year&#xE2;&#x80;&#x99;s written notice of termination through diplomatic channels. </p>
+        <p>In case of termination of this Agreement, investments made while it was in force shall continue to enjoy the protection of its provisions for a period of fifteen years. </p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the undersigned, duly authorised thereto by their respective Governments, have signed this Agreement. </p>
+      <p>Done in Paris on 02 September, 1997 in duplicate in the Hindi, English and French languages, each text being equally authentic. </p>
+      <p>For the Government of the French Republic : </p>
+      <p>DOMINIQUE STRAUSS-KAHN,</p>
+      <p>Minister of Economy, Finance and Industry</p>
+      <p>For the Government of the Republic of India : </p>
+      <p>SHRI P. CHTDAMBARAM</p>
+      <p>Minister of Finance</p>
+    </conclusion>
+  </main>
+</treaty>

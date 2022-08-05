@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Mali - Switzerland BIT (1978)</name>
+    <code>T1978-4</code>
+    <partyisocode n="0">CHE</partyisocode>
+    <partyisocode n="1">MLI</partyisocode>
+    <date_signed>1978-03-08</date_signed>
+    <date_into_force>1978-12-08</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>2500</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CHE,MLI}_1978-03-08.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Swiss Confederation and the Republic of Mali concerning the encouragement and reciprocal protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Swiss Federal Council</p>
+      <p>and</p>
+      <p>the Government of the Republic of Mali,<br/>Desiring to promote and strengthen economic cooperation between the two States,<br/>In order to create favourable conditions for investment capital in both States and intensify cooperation between nationals and companies, private or public law, both States;</p>
+      <p>Recognizing the need to protect investments of nationals and companies of the two States and fostering the transfer of capital and technology to the economic prosperity of both States;<br/>Have agreed as follows:<br/></p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Encouragement , Admission">
+        <p>Each Contracting Party shall promote as far as possible investments made in its territory by nationals or companies of the other Contracting Party and admit such investments in accordance with its legislation in force.</p>
+      </div>
+      <div type="article" num="2" title="Definition">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. the "nationals" are natural persons who, according to the legislation of each of the Contracting States, are nationals of either of the two countries.</p>
+        <p>2. The "companies" are:</p>
+        <p>a) As regards the Swiss Confederation, communities, schools or foundations with legal personality, as well as partnerships or limited and other communities of persons without legal personality in which the Swiss nationals have directly or indirectly a dominant interest;</p>
+        <p>b) As regards the Republic of Mali, any legal person, corporation or other trade company or association with a legal person-nalit&#xE9; formed in accordance with the laws of the Republic of Mali;</p>
+        <p>3. The term "investment" includes all categories of goods and in particular, though not exclusively:</p>
+        <p>a) Ownership of movable and immovable property as well as any other rights in rem such as mortgages, liens, security interests, usu-fruits and similar rights;</p>
+        <p>b) Shares, stocks and other forms of equity interests in companies;</p>
+        <p>c) Monetary claims and rights to any performance having an economic value;</p>
+        <p>d) Copyrights, industrial property rights, such as patents, trademarks, industrial designs, trade names, know-how and goodwill;</p>
+        <p>e) Concessions under public law, including extract concessions to search for or exploit natural resources.</p>
+        <p>4. The term means returns the amounts reported by an investment as net profit or interest for a specified period.</p>
+      </div>
+      <div type="article" num="3" title="Protection , Treatment , Customs Union">
+        <p>1. Each Contracting Party shall protect within its territory investments made in accordance with its legislation by nationals or companies of the other Contracting Party and shall not hinder by unjustified discriminatory measures or the management, maintenance, use, enjoyment, increasing the sale and, where appropriate, the liquidation of such investments. each Contracting Party shall endeavour to grant the necessary permits in connection with such investments and with the carrying out of licensing agreements, technical, commercial or administrative assistance. each Contracting Party shall endeavour, whenever necessary, to provide the necessary authorizations concerning the activities of consultants and other qualified persons of foreign nationality approved by it in connection with an investment.</p>
+        <p>2. In particular, each Contracting Party shall in its territory fair and equitable treatment to investments of nationals or companies of the other contracting party. this treatment shall be at least equal to that granted by each contracting party to investments made within its territory by its own nationals or companies, or if it is more favourable by nationals or companies of the most favoured nation.</p>
+        <p>3. This treatment shall not apply to privileges which either Contracting Party accords to nationals and companies of any third State by virtue of its participation in a customs union or association, a common market or a free trade area (libre&#xE9;change.</p>
+      </div>
+      <div type="article" num="4" title="Free Transfer">
+        <p>Each of the Contracting Parties, and in which nationals or companies of the other Contracting Party has made investments, to grant such nationals or companies the free transfer of:</p>
+        <p>a) Profits, dividends, interests and other current income;</p>
+        <p>b) Depreciation allowances and repayments of contracts;</p>
+        <p>c) The amounts to be used to cover expenses relating to the management of the investment;</p>
+        <p>d) Royalties and other payments deriving from licence fees and commercial, administrative or technical assistance;</p>
+        <p>e) Additional contributions of capital necessary for the maintenance or development of the investments;</p>
+        <p>f) The proceeds of the sale of or the partial or total liquidation of an investment including capital gains.</p>
+      </div>
+      <div type="article" num="5" title="Dispossession , Compensation">
+        <p>Neither Contracting Party shall take any measures of expropriation, nationalization or dispossession, other direct or indirect, against investments made by nationals or companies of the other contracting party except for reasons of public interest and provided that such measures are not discriminatory, that they comply with the legal requirements and provide for payment of adequate and effective compensation in accordance with international law. the amount of compensation, which shall be fixed at the time of expropriation, nationalization or dispossession, other shall be paid in the currency of the country of origin of the investment and shall be paid without undue delay to the person entitled, without regard to its residence or its headquarters. compensation shall produce until the date of payment, interest calculated according to the Customs banking; it shall be effectively realizable and freely transferable.</p>
+      </div>
+      <div type="article" num="6" title="Investments Made Prior to the Agreement">
+        <p>This Agreement shall also apply to investments in the territory of a Contracting Party in accordance with its legislation by nationals or companies of the other contracting party prior to the entry into force of this Agreement.</p>
+      </div>
+      <div type="article" num="7" title="More Favourable Terms">
+        <p>The more favourable terms than those of this Agreement which have been agreed to by one of the Contracting Parties with nationals or companies of the other Contracting Party shall remain valid.</p>
+      </div>
+      <div type="article" num="8" title="Principle of Subrogation">
+        <p>If one of the Contracting Parties has granted any financial guarantee against non-commercial risks with regard to an investment made by a national or enterprise in the territory of the other contracting party, the latter shall recognize the rights of the first contracting party by virtue of the principle of subrogation to the rights of the investor if payment has been made under this first guaranteed by the contracting party.</p>
+      </div>
+      <div type="article" num="9" title="Arbitration">
+        <p>1. Disputes concerning the interpretation or application of the provisions of this Agreement shall be settled through diplomatic channels.</p>
+        <p>2. If both contracting parties do not reach a settlement within six months, the dispute shall be submitted, at the request of either contracting party to an arbitral tribunal composed of three members. each Contracting Party shall appoint an arbitrator. the two arbitrators so nominated shall appoint a chairman who shall be a national of a third State.</p>
+        <p>3. If one of the Contracting Parties has not appointed its arbitrator and has not followed the invitation of the other contracting party to make such appointment within two months of the arbitrator shall be appointed, upon request by the latter Contracting Party by the President of the International Court of Justice.</p>
+        <p>4. If the two arbitrators cannot reach an agreement about the choice of the Chairman within two months after their appointment the latter shall be appointed upon the request of either Contracting Party by the President of the International Court of Justice.</p>
+        <p>5. If in the cases specified under paragraphs (3) and (4) of this article, the President of the International Court of Justice is prevented from exercising his mandate or if he is a national of either Contracting Party, the appointment shall be made by the Vice-President and if the latter is prevented or if he is a national of either Contracting Party, they shall be made by the most senior member of the Court who is not a national of either of the Contracting Parties.</p>
+        <p>6. Unless the contracting parties agree otherwise, the arbitral tribunal shall determine its own procedure and the applicable law.</p>
+        <p>7. The decisions of the arbitral tribunal shall be binding on the contracting parties.</p>
+      </div>
+      <div type="article" num="10" title="Entry Into Force , Termination">
+        <p>1. This Agreement shall enter into force on the day on which the two Governments have notified each other that the constitutional formalities required for the conclusion and entry into force of international agreements have been made; it shall remain valid for a period of five years. unless denounced in writing by either contracting party at least six months before the expiry of this period, there shall be considered as renewed for a period of two years, and so on.</p>
+        <p>2. In the event of termination, the provisions of articles 1 to 9 above shall apply for a period of ten years for investments made prior to the termination of the Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p/>
+      <p/>
+      <p/>
+      <p/>
+    </conclusion>
+  </main>
+</treaty>

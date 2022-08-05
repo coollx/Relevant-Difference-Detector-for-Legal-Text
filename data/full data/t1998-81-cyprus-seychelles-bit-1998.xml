@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Cyprus - Seychelles BIT (1998)</name>
+    <code>T1998-81</code>
+    <partyisocode n="0">CYP</partyisocode>
+    <partyisocode n="1">SYC</partyisocode>
+    <date_signed>1998-05-28</date_signed>
+    <date_into_force>1999-03-19</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>1177</docreference>
+    <comments>asked ministry of Foreign Affairs already</comments>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CYP,SYC}_1998-05-28.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main/>
+</treaty>

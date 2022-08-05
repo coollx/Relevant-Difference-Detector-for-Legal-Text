@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Romania - Sudan BIT (1978)</name>
+    <code>T1978-15</code>
+    <partyisocode n="0">ROU</partyisocode>
+    <partyisocode n="1">SDN</partyisocode>
+    <date_signed>1978-12-08</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en,ro</orig_language>
+    <termination_type/>
+    <docreference>2829</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ROU,SDN}_1978-12-08.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en,ro</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE SOCIALIST REPUBLIC OF ROMANIA AND THE GOVERNMENT OF THE DEMOCRATIC REPUBLIC OF THE SUDAN ON THE MUTUAL PROMOTION AND GUARANTEE OF CAPITAL INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Socialist Republic of Romania, and</p>
+      <p>The Government of the Democratic Republic of the Sudan, hereinafter referred to as "Contracting Parties",</p>
+      <p>Desiring to develop the existing relations of economic cooperation between the two Countries,</p>
+      <p>Desiring to create favourable conditions for capital investments which shall be carried out by investors of the Socialist Republic of Romania in the territory of the Democratic Republic of the Sudan and capital investments which shall be carried out by investors of the Democratic Republic of the Sudan in the territory of the Socialist Republic of Romania,</p>
+      <p>Acknowledging that the guarantee of capital investments according to this Agreement stimulates the initiative in this area,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>1.  Each Contracting Party shall promote in its territory capital investments carried out by Investors of the other Contracting Party.</p>
+        <p>2.  Capital investments allowed pursuant to the provisions of the law of the Contracting Partv in whose territory investments are carried out, shall benefit of protection and guarantee as provided for in this Agreement.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Unless the context otherwise requires:</p>
+        <p>a)  "Capital investment" means the contribution to the achievement of an economic objective comprising all goods, services and financial means of the participants to the investment:</p>
+        <p>b)  "Profits" means those sums resulting from a capital investment as returns, settled in accordance with the law of the Contracting Party on whose territory the investment is set up:</p>
+        <p>c)  "Investors" means</p>
+        <p>1)  with regard to the Socialist Republic of Romania, Romanian economic units having legal personality and which are established in accordance with Romanian law:</p>
+        <p>2)  with regard to the Democratic Republic of the Sudan, Sudanese economic private and public units, established in accor dance with the laws of the Sudan.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1.  Each Contracting Party shall not subject in its own territory capital investments or investors of the other Contracting Party to a less favourable treatment than is accorded to capital investments or investors of third countries with which similar agreements are concluded.</p>
+        <p>2.  Capital investments carried out according to this Agreement in the territory of one of the Contracting Parties, shall benefit of any more favourable treatment than the one provided for herein, if such more favourable treatment is  accorded to other States.</p>
+        <p>3.  The provisions of paragraphs 1 and 2 of this Article shall not apply to privileges which either Contracting Party accords to investments or investors of a third State, because of its membership in, or association with, a custom union, a common market or a free trade area or a regional economic organization.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1.  Capital investments carried out by investors of one Contracting Party in the territory of the other Contracting Party shall not be expropriated or subjected to other measures having a similar effect but for public interest and against a compensation. Such compensation shall correspond to the value of the investment on the date of expropriation, it shall be effectively achievable and paid without delay.</p>
+        <p>In the date of expropriation, a proper procedure shall be provided with the view to establish the amount and the method of payment of compensation. Upon the request of the interested partv, the amount of the compensation raav be reassessed bv the competent court in the country in which the investment has been carried out.</p>
+        <p>In the event of a dispute arising between an investor and the Contracting Party in the territory of which the investment was carried out, concerning the amount of the compensation, continuing to exist after the final award of the national court, each of them is authorized to submit the dispute for conciliation and arbitration, according with the procedure provided by the Convention opened for signature at Washington on IS March 1965, to the International Centre for Settlement of Investment Disputes.</p>
+        <p>2.  Investors of a Contracting Party whose investments suffered losses owing to a war or other armed conflict, or a state of national emergency in the territory of the other Contracting Party, shall obtain from the latter the fair compensation, which covers, the losses undergone.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Subject to its laws, each Contracting Party guarantees the free transfer of profits resulting from capital investments after payment of all due taxes duties and meeting all liabilities in relation to those profits.</p>
+        <p>In case of liquidation or alienation, each Contracting Party shall guarantee, subject to its laws and regulations, the re-transfer of the capital originally imported from outside the territory of each Contracting Party for purposes of investment. The capital shall include also the re-invested net profits.</p>
+      </div>
+      <div type="article" num="6">
+        <p>If one of the Contracting Parties, under a guarantee given for an investment carried out In the territory of the other Contracting Party, makes payments to its own investors, it is subrogated in the rights, obligations and actions of said investors. The subrogation in the rights and obligations of the ensured investor extends also to the rights and obligations mentioned in the above Articles 4 and 5. The paying Contracting Party shall not be entitled to obtain rights or assume obligations greater than those of the ensured investor.</p>
+      </div>
+      <div type="article" num="7">
+        <p>Transfers according to Articles 4, 5 and 6 shall be effected without delay in the convertible currency in which the capital was originally imported or in any other convertible currency, if so agreed, at the official rate of exchange applicable at the date of transfer.</p>
+        <p>Investments carried out in the territory of one of the Contracting Parties by investors of the other Contracting Party before coming into force of this Agreement shall be subject to the provisions of the present Agreement.</p>
+      </div>
+      <div type="article" num="8">
+        <p>Investments made in the territory of one of the Contracting Parties by investors of the other Contracting Party prior to the entry into force of this Agreement shall be subject to the provisions of this Agreement.</p>
+      </div>
+      <div type="article" num="9">
+        <p>1.  Disputes between the Contracting Parties concerning the interpretation and implementation of the present Agreement are settled, as possible, by negotiations between the two Parties. Could such a dispute not be solved within six months from the date of starting negotiations, then - upon the request of one of the Contracting Parties - the dispute is submitted to an arbitral tribunal.</p>
+        <p>2.  The arbitral tribunal is so composed: each Contracting Party appoints one arbitrator: the two arbitrators propose, by mutual understanding, to both Parties, an umpire who shall be a national of a third State, designated by both Contracting Parties. Arbitrators are appointed within three months and the umpire within five months, after either Contracting Party has made known to the other that it wishes to submit the dispute to an arbitral tribunal. If arbitrators are not appointed within the agreed term, then the Contracting Party which failed to appoint its arbitrator agrees that the said arbitrator shall be appointed by the President of the International Court of Justice. If the two Contracting Parties are unable to reach agreement on the choice of the umpire, then they likewise agree that he shall be appointed by the President of the International Court of Justice.</p>
+        <p>3.  The arbitral tribunal shall adopt its decisions on basis of the provisions of the present Agreement and of similar agreements concluded by the Contracting Parties as well as following the principles of the International Public Law accepted by both Parties. The arbitral tribunal decides by a majority of votes and its decision is final and binding. Only the two Contracting Parties are.allowed to submit cases to the arbitral tribunal and participate to the proceedings.</p>
+        <p>4.  Each Contracting Party bears the outlays of the arbitrator it appointed and those of its representatives in the tribunal proceedings. The outlays concerning the umpire and the other disbursements shall be borne in equal parts by the Contracting Parties.</p>
+        <p>5.  The arbitral tribunal determines its own procedure.</p>
+      </div>
+      <div type="article" num="10">
+        <p>1.  The present Agreement shall be subject to ratification in accordance with the constitutional requirements of each country and the exchange of the instruments of ratification shall take place as soon as possible.</p>
+        <p>2.  The Agreement shall enter into force one month after the exchange of the instruments of ratification. The Agreement is concluded for a period of ten years and shall remain in force after thl3 term, unless one of the Contracting Parties has denounced it in writing, through diplomatic channels, with one year notice.</p>
+        <p>3.  In such case Investments already undertaken shall continue to be subject to the provisions of the present Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the undersigned, duly authorized by their respective Governments, have signed this Agreement.</p>
+      <p>Signed at Bucharest, on the 8th of December, 1978, in two original copies in the Romanian and English languages, both texts having the same value.</p>
+      <p>FOR THE GOVERNMENT OF THE SOCIALIST REPUBLIC OF ROMANIA</p>
+      <p>FOR THE GOVERNMENT OF THE DEMOCRATIC REPUBLIC OF THE SUDAN</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Qatar - Yemen BIT (2000)</name>
+    <code>T2000-137</code>
+    <partyisocode n="0">QAT</partyisocode>
+    <partyisocode n="1">YEM</partyisocode>
+    <date_signed>2000-08-07</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>20001</docreference>
+    <comments>text not available</comments>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{QAT,YEM}_2000-08-07.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main/>
+</treaty>

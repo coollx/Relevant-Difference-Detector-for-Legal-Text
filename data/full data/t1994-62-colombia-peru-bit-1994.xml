@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Colombia - Peru BIT (1994)</name>
+    <code>T1994-62</code>
+    <partyisocode n="0">COL</partyisocode>
+    <partyisocode n="1">PER</partyisocode>
+    <date_signed>1994-04-26</date_signed>
+    <date_into_force>2001-03-21</date_into_force>
+    <date_terminated>2010-12-30</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">es,en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>1003</docreference>
+    <comments>https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/arbol/32917.htm</comments>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed>07-05-2001</rev_date_signed>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>es,en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{COL,PER}_1994-04-26.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACING" document-code="T2007-34">Colombia - Peru BIT (2007)</relation>
+    <relation type="IT_OVERLAP" document-code="T2014-20">Pacific Alliance Additional Protocol (2014)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2012-16">Colombia - Ecuador - EU - Peru FTA (2012)</relation>
+    <relation type="IT_OVERLAP" document-code="T2019-26">Colombia - Ecuador - Peru - United Kingdom FTA (2019)</relation>
+    <relation type="IT_REPLACED_BY" document-code="T2007-34">Colombia - Peru BIT (2007)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the Republic of Colombia and the Government of the Republic of Peru on the promotion and reciprocal protection of investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Peru and the Government of the Republic of Colombia, hereinafter referred to as the Contracting Parties,</p>
+      <p>Desiring to intensify economic cooperation for mutual benefit of both States;</p>
+      <p>In order to create favourable conditions for investments by nationals or companies of one Contracting Party in the territory of the other contracting party,</p>
+      <p>Recognizing that the promotion and protection of such an agreement can stimulate investments by private economic initiative and enhancing the well-being of the peoples of both countries.</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of the present Agreement:</p>
+        <p>1. The term "investment" shall comprise every kind of asset and more particularly,&nbsp;though not exclusively:</p>
+        <p>(a) Movable and immovable property and other rights in rem, such as mortgages&nbsp;and lien rights;</p>
+        <p>(b) Shares and any other kind of participation in companies or rights generated in&nbsp;shared-risk contracts;</p>
+        <p>(c) Securities, bonds, financial documents and papers, and any other obligation&nbsp;of a contractual nature, having an economic value;</p>
+        <p>(d) Intellectual and industrial property rights;</p>
+        <p>(e) Rights granted under law or by virtue of a contract for the exercise of an economic activity, including rights to prospect, explore and extract natural resources.</p>
+        <p>2. The term "returns" shall mean the amounts yielded by an investment made in conformity with this Agreement, such as profits, dividends, royalties or other income;</p>
+        <p>3. The term "companies" shall mean all legal entities, including companies regulated&nbsp;by the civil and commercial codes and other associations with or without juridical personality, that are carrying out an economic activity included within the scope of the present&nbsp;Agreement and are controlled directly or indirectly by nationals of one of the Contracting&nbsp;Parties.</p>
+        <p>4. The term "nationals" shall comprise natural persons having the nationality of either Contracting Party in accordance with its law.</p>
+        <p>5. The term "territory" shall mean, in addition to the areas enclosed by the terrestrial&nbsp;limits, the adjacent maritime areas, including the sea-bed and sub-soil, and the airspace,&nbsp;which comprise the territory of each of the Contracting Parties in accordance with its political constitution and international law.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and Protection of Investments">
+        <p>Each Contracting Party shall promote in its territory the investments of nationals or&nbsp;companies of the other Contracting Party, admitting them in accordance with its laws or regulations.</p>
+      </div>
+      <div type="article" num="3" title="Treatment of Investments">
+        <p>1. The investments of nationals or companies of each Contracting Party shall at all&nbsp;times receive fair and equitable treatment and shall enjoy complete protection and security&nbsp;in accordance with the provisions of international law, to an extent no less favourable than&nbsp;that enjoyed by nationals or companies of the other Contracting Party in its own territory.</p>
+        <p>2. The Contracting Parties shall not apply arbitrary or discriminatory measures with&nbsp;respect to the management, maintenance, use, enjoyment or disposal of investments in its&nbsp;territory of nationals or companies of the other Contracting Party.</p>
+        <p>3. Each Contracting Party shall fulfil any other commitment that it has undertaken in&nbsp;relation to the investments of nationals or companies of the other Contracting Party in its territory.</p>
+      </div>
+      <div type="article" num="4" title="National and Most-favoured-nation Treatment">
+        <p>1. The Contracting Parties shall grant in their territory to investments of nationals or&nbsp;companies of the other Contracting Party, and also to the returns therefrom, treatment&nbsp;which is no less favourable than that accorded to the investments and returns of its own nationals or companies or to the investments and returns of nationals or companies of any&nbsp;third State.</p>
+        <p>2. The Contracting Parties shall in their territory accord to the nationals or companies&nbsp;of the other Contracting Party, as regards the management, maintenance, use, enjoyment,&nbsp;or disposal of investments, treatment which is not less favourable than that which they accord to their own nationals or companies or to the nationals or companies of any third State.</p>
+      </div>
+      <div type="article" num="5" title="Exceptions">
+        <p>The provisions of this Agreement relative to the granting of treatment no less favourable than that accorded to the nationals or companies of the either of the Contracting Parties or of any third State shall not be construed so as to oblige one Contracting Party to extend&nbsp;to the nationals or companies of the other Contracting Party the benefit of any treatment, preference or privilege arising out of:</p>
+        <p>(a) Any existing or future customs union, common market or free trade area or similar international agreement to which either of the Contracting Parties is or may become a party; or</p>
+        <p>(b) Any international agreement or arrangement relating wholly or mainly to taxation&nbsp;or any domestic legislation relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="6" title="Repatriation of the Principal of and Returns on Investments">
+        <p>1. Each Contracting Party shall guarantee to the nationals or companies of the other&nbsp;Contracting Party the free transfer of the payments relating to an investment, and in particular although not exclusively:</p>
+        <p>(a) The principal of investments and reinvestments that are made in accordance with the laws and regulations of the Contracting Party in which the investment takes place;</p>
+        <p>(b) The entire amount of the returns;</p>
+        <p>(c) The yield from the sale or the total or partial liquidation of the investment.</p>
+        <p>2. The transfer shall be made in freely convertible currency, at the market exchange&nbsp;rate applicable on the day of the transfer, and without restriction or delay.</p>
+        <p>3. Notwithstanding the provisions of the preceding paragraph, the Contracting Parties shall be entitled to enforce restrictions on the free transfer of payments relating to an&nbsp;investment in the event of major difficulties in their balances of payments. In any event,&nbsp;such dispensation shall apply for a limited period, in an equitable, good faith and non-discriminatory manner.</p>
+      </div>
+      <div type="article" num="7" title="Expropriation and Equivalent Measures">
+        <p>1. The investments of nationals or companies of either of the Contracting Parties&nbsp;shall not be subject, in the territory of the other Contracting Party, to:</p>
+        <p>(a) Nationalization or equivalent measures, by way of which one of the Contracting Parties takes control of certain activities considered to be strategic under its domestic&nbsp;legislation, or services, or</p>
+        <p>(b) Any other form of expropriation or measures which have an equivalent effect,&nbsp;except where any of these measures are carried out in accordance with the law, in a&nbsp;non-discriminatory manner for reasons expressly established in the respective political&nbsp;constitutions and that are described in the provision "On article 7, paragraph 1", of the annexed Protocol, having to do with the internal needs of that Party and with a rapid, sufficient and effective compensation.</p>
+        <p>2. The compensation for the occurrences referred to in paragraphs 1 (a) and (b) of&nbsp;this article, in conformity with the principles of international law, shall amount to the genuine value of the investment immediately before the measures were taken or before the imminent measures were publicly known, whichever shall occur earlier. The compensation&nbsp;shall include interest up to the day of payment, shall be paid without unjustified delay, shall&nbsp;be genuinely realizable and shall be freely transferable in accordance with the rules set forth&nbsp;in article 6 on the repatriation of principal of and returns on investments, provided that even in cases of exceptional difficulties relating to the balance of payments, the transfer of at&nbsp;least one third of the total amount per year shall be guaranteed.</p>
+        <p>3. The national or company affected shall have the right, under the law of the Contracting Party that takes the measure in question, to a prompt review by a competent authority of that Contracting Party of its case and of the valuation of its investment in conformity with the principles established in paragraphs 1 and 2 of this article.</p>
+        <p>4. If a Contracting Party adopts any of the measures described in paragraphs 1 (a) and (b) of this article, relating to the assets of a company incorporated or established in accordance with the law in force in any part of its territory, in which nationals or companies&nbsp;of the other Contracting Party are shareholders, it shall ensure that the provisions of paragraphs 1 to 3 of this article are applied in a way that guarantees a rapid, sufficient and effective compensation with respect to the investment of those nationals or companies of the other Contracting Parties who are shareholders.</p>
+        <p>5. Nothing in the provisions set forth in this agreement shall oblige either of the Contracting Parties to protect investments of persons involved in serious criminal activities.</p>
+      </div>
+      <div type="article" num="8" title="Compensation for Losses">
+        <p>1. The nationals or companies or one of one of the Contracting Parties who suffer loss in their investments as a result of war or other armed conflict, revolution, national state&nbsp;of emergency, state of siege, insurrection or other similar events in the territory of the other&nbsp;Contracting Party shall be treated by the latter no less favourably than its own nationals or&nbsp;companies, or than the nationals or companies of any third State, with respect to the restitution, compensation and indemnification. Such resulting restitution, compensation and indemnification shall be freely transferable in line with the content of article 6 of this&nbsp;Agreement.</p>
+        <p>2. Notwithstanding the provisions in paragraph 1 of this article, in the event that the&nbsp;nationals or companies of one Contracting Party, in any of the situations listed in that paragraph, suffer the occupation of their property by acts of force of the authorities of the other&nbsp;Contracting Party, the latter shall make restitution. If losses occur due to damage to their&nbsp;property caused by acts of force of the authorities of the other Contracting Party which were&nbsp;not required by the exigencies of the situation, appropriate compensation shall be granted.&nbsp;The resultant payments must be freely transferable in line with article 6 of this Agreement.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>1. If one of the Contracting Parties or its authorized agent makes payments to its own&nbsp;nationals or companies by virtue of a guarantee granted for an investment against non-commercial risk in the territory of the other Contracting Party, the latter, without prejudice to&nbsp;the rights which will pertain to the first Contracting Party by virtue of article 13, shall recognize the subrogation of all the rights of those nationals or companies to the first Contracting Party or to its authorized agent, whether by legal disposition or by juridical act.</p>
+        <p>2. Additionally, the other Contracting Party shall recognize the cause and the reach&nbsp;of the subrogation of the first Contracting Party or of its authorized agent of all the rights&nbsp;of the previous holder, conferred in line with the provisions of this Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Application of the Agreement">
+        <p>This Agreement shall apply to investments made by nationals or companies of one&nbsp;Contracting Party in the territory of the other Contracting Party both before and after the&nbsp;entry into force of this Agreement.</p>
+      </div>
+      <div type="article" num="11" title="Most Favourable Treatment">
+        <p>If the legal regime of one of the Contracting Parties, or anything agreed by the Contracting Parties over and above what is stipulated in this Agreement, should give rise to a&nbsp;general or special settlement under which the investments of the nationals or companies of&nbsp;the other Contracting Party would have to receive treatment more favourable than that provided for in this Agreement, such a settlement shall take precedence over the latter, wherever it is more favourable.</p>
+      </div>
+      <div type="article" num="12" title="Settlement of Disputes between One Contracting Party and a National or a Company of the other Contracting Party">
+        <p>1. Disputes of a legal nature which arise between one Contracting Party and a national or company of the other Contracting Party with reference to investments covered by this&nbsp;Agreement shall, to the extent possible, be amicably settled between the parties to the dispute.</p>
+        <p>2. If a dispute cannot be settled in an amicable fashion by the parties within three&nbsp;months following the date of the written notification of the complaint, it may be submitted&nbsp;to the competent court of the Contracting Party in whose territory the investment had been&nbsp;made, or to the international arbitration of the International Centre for Settlement of Investment Disputes (hereinafter referred to as "the Centre").</p>
+        <p>3. Under this Agreement, each Contracting Party consents to submit to the Centre&nbsp;any dispute of a legal nature which may arise between that Contracting Party and a national&nbsp;or company of the other Contracting Party, related to an investment of the latter in the territory of the first, for regulation through conciliation or arbitration, as provided for in the&nbsp;Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature in Washington on 18 March 1965.</p>
+        <p>4. A company which is incorporated or established under the law in force in the territory of one Contracting Party and in which before the dispute arose the majority of the&nbsp;shares were held by nationals or companies of the other Contracting Party will be treated,&nbsp;in accordance with article 25, paragraph 2 (b) of the Convention, like a company of the other Contracting Party for the purposes of the provisions set forth in that Convention.</p>
+        <p>5. If the national or company in question also consents in writing to submit the dispute to the Centre for resolution by the latter by means of conciliation or arbitration, in line with the provisions of the Convention, either of the parties may initiate the proceedings by&nbsp;submitting a request to that end to the Secretary-General of the Centre in line with the provisions set forth in articles 28 and 36 of the Convention. In the event of disagreement with&nbsp;respect to whether conciliation or arbitration is the more appropriate procedure, the national&nbsp;or company which is a party to this dispute shall have the right to make a selection. The&nbsp;Contracting Party that is a party to the dispute shall not present as an objection at any stage&nbsp;of the proceedings or of the completion of the judgement the fact that the national or company, namely the opposing party in the dispute, had received total or partial compensation&nbsp;for its losses under the terms of an insurance policy.</p>
+        <p>6. Notwithstanding the preceding provisions, the Centre shall not have jurisdiction&nbsp;if the party initiating the proceedings has agreed, agrees to submit or submits the dispute to&nbsp;the administrative or judicial courts of the Contracting Party that is also a party to a dispute.</p>
+        <p>7. Neither Contracting Party shall seek to resolve through the diplomatic channel any&nbsp;dispute submitted to the Centre, unless:</p>
+        <p>(a) The Secretary-General of the Centre, or a Conciliation Commission, or an arbitration tribunal set up by the latter, should decide that the dispute does not fall within the&nbsp;jurisdiction of the Centre, or</p>
+        <p>(b) The other Contracting Party fails to comply with a judgement pronounced by&nbsp;an arbitration tribunal.</p>
+      </div>
+      <div type="article" num="13" title="Resolution of Disputes between the Contracting Parties">
+        <p>1. Disputes which may arise between the Contracting Parties on the interpretation or&nbsp;implementation of this Agreement shall be settled by the Governments of the two Contracting Parties through the diplomatic channel.</p>
+        <p>2. If a dispute cannot be resolved in this way, within a period of three months from&nbsp;the date on which one of the Contracting Parties has initiated it, it shall be submitted to an&nbsp;arbitration tribunal at the request of one of the Contracting Parties.</p>
+        <p>3. The arbitration tribunal shall be established on an ad hoc basis. Each Contracting&nbsp;Party shall appoint one member and the two members shall agree to elect as the President&nbsp;a national of a third state which shall be selected by the Governments of the two Contracting Parties. The members shall be nominated and appointed within a period of two months&nbsp;and the President within a period of three months, from the time when one of the Contracting Parties has notified the other that it wishes to submit the dispute to an arbitration tribunal.</p>
+        <p>4. If the deadlines provided for in paragraph 3 are not observed, and in the absence&nbsp;of any other arrangement, either Contracting Party may request the President of the International Court of Justice to make the necessary appointments. In the event that the President should be a national of one of the Contracting Parties or should find himself prevented&nbsp;for other reasons from making the appointments, it shall be the task of the Vice-President&nbsp;to perform them. If the Vice-President should also be a national of one of the Contracting&nbsp;Parties or should also find himself prevented from making these appointments, it shall be&nbsp;the responsibility of the next senior member of the Court who is not a national of one of the&nbsp;Contracting Parties to make the appointments.</p>
+        <p>5. The arbitration tribunal shall take its decisions by simple majority. Its decisions&nbsp;shall be binding. Each Contracting Party shall bear the costs caused by the activity of its&nbsp;own arbitrator, as well as the costs of its representation at the arbitration proceedings. The&nbsp;costs of the President, and as well as any other costs, shall be born in equal parts by the two&nbsp;Contracting Parties. The arbitration tribunal shall determine its own way of proceeding.</p>
+      </div>
+      <div type="article" num="14" title="Interruption of Diplomatic or Consular Relations">
+        <p>The provisions of this Agreement shall continue to be fully applicable regardless of whether or not there are diplomatic or consular relations between the Contracting Parties.</p>
+      </div>
+      <div type="article" num="15" title="Entry Into Force, Duration and Termination of the Agreement">
+        <p>1. The Contracting Parties shall notify one another when the requirements of their&nbsp;respective legislations for the entry into force of this Agreement have been complied with.</p>
+        <p>2. The present Agreement shall enter into force thirty days after the date of the second such notification. It shall be valid for ten years and shall then be extended for an indefinite time unless one of the Contracting Parties notifies the other Contracting Party in&nbsp;writing of its intention to terminate it twelve months before its expiry.</p>
+        <p>3. For investments made before the date of termination of this Agreement, the&nbsp;Agreement shall continue to have controlling effect for a period often years following that&nbsp;date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof, the signatories below, duly authorized for the purpose by their respective Governments, have signed the present Agreement.</p>
+      <p>Done in the city of Lima on the twenty-sixth day of April 1994, in two copies in the&nbsp;Spanish language, both texts being equally authentic.</p>
+      <p>For the Government of the Republic of Colombia:</p>
+      <p>NOEMI SANIN DE RUBIO</p>
+      <p>Minister for Foreign Affairs</p>
+      <p>For the Government of the Republic of Peru:</p>
+      <p>EFRAIN GOLDENBERG SCHREIBER</p>
+      <p>President of the Council of Ministers and Minister for Foreign Affairs</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" title="Protocol">
+        <p>Upon signature of the Agreement between the Government of the Republic of Colombia and the Government of the Republic of Peru on the Promotion and Reciprocal Protection of Investments, the signatories below have additionally agreed the following&nbsp;provisions, which form an integral part of the Agreement:</p>
+        <div type="article" title="On Article 1, Paragraph 1">
+          <p>The Republic of Colombia does not consider loans as investments.</p>
+        </div>
+        <div type="article" title="On Articles 3, Paragraph 2, and 4">
+          <p>The Republic of Columbia shall be empowered to establish or maintain limits relating&nbsp;to the granting of national treatment exclusively in the following sectors:</p>
+          <p>(a) Acquisitions which may be made by means of portfolio investments;</p>
+          <p>(b) Public services (telecommunications, energy, water supply and sewage systems);</p>
+          <p>(c) Supply of goods and services to the public sector, and</p>
+          <p>(d) Automobile assembly.</p>
+          <p>The Republic of Columbia shall not apply to the nationals or companies of the Republic of Peru the limitations mentioned above to the extent that the rules of the legal regime&nbsp;of the Cartagena Agreement so stipulate, in conformity with articles 5 and 11 of this Agreement.</p>
+        </div>
+        <div type="article" title="On Article 7, Paragraph 1">
+          <p>The reasons explicitly laid down in the political constitutions of the two countries respectively are:</p>
+          <p>(a) For the Republic of Columbia, public utility or social interest; and</p>
+          <p>(b) For the Republic of Peru, national security or public necessity.</p>
+        </div>
+        <div type="article" title="On Article 12">
+          <p>Until such time as the Republic of Colombia joins the Convention referred to in paragraph 3 of article 12, any dispute to which it is a party and which is submitted to the Centre shall be treated in conformity with the Supplementary Mechanism for Administration of&nbsp;Conciliation, Arbitration and Investigation Procedures</p>
+          <p>For the Government of the Republic of Colombia</p>
+          <p>NOEMI SANIN DE RUBIO</p>
+          <p>Minister for Foreign Affairs</p>
+          <p>For the Government of the Republic of Peru:</p>
+          <p>EFRAIN GOLDENBERG SCHREIBER</p>
+          <p>President of the Council of Ministers and Minister for Foreign Affairs</p>
+        </div>
+      </div>
+      <div type="annex" title="ADDITIONAL AMENDING PROTOCOL TO THE AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF COLOMBIA AND THE GOVERNMENT OF THE REPUBLIC OF PERU ON THE PROMOTION AND RECIPROCAL PROTECTION OF INVESTMENTS">
+        <p>The Government of the Republic of Colombia and the Government of the Republic of&nbsp;Peru,</p>
+        <p>In order to create favourable conditions for investments made by investors of each of&nbsp;the Contracting Parties in the territory of the other;</p>
+        <p>Recognizing that the promotion and protection of investments on the basis of an&nbsp;Agreement may serve to stimulate private economic initiative and increase the wellbeing&nbsp;of both peoples;</p>
+        <p>With the intention of putting into force into effect the Agreement between the Government of the Republic of Colombia and the Government of the Republic of Peru on the Promotion and Reciprocal Protection of Investments, concluded in Lima on 26 April 1994;</p>
+        <p>Have agreed as follows:</p>
+        <div type="article" title="Article 1">
+          <p>Article 7 of the Agreement between the Government of the Republic of Colombia and&nbsp;the Government of the Republic of Peru on the Promotion and Reciprocal Protection of Investments shall be re-expressed as follows:</p>
+          <p>Expropriation and equivalent measures</p>
+          <p>1. The investments of nationals or companies of either of the Contracting Parties&nbsp;shall not be subject, in the territory of the other Contracting Party, to:</p>
+          <p>(a) Nationalization or equivalent measures, by way of which one of the Contracting Parties takes control of certain activities considered to be strategic under its domestic&nbsp;legislation, or services, or</p>
+          <p>(b) Any other form of expropriation or measures which have an equivalent effect&nbsp;except where any of these measures are carried out in accordance with the law, in a&nbsp;non-discriminatory manner, for reasons expressly established in the respective constitutions and described in the provision "On article 7, paragraph 1", of the annexed Protocol,&nbsp;having to do with the internal needs of that Party and with a rapid, sufficient and effective&nbsp;compensation.</p>
+          <p>2. The compensation for the occurrences referred to in paragraphs 1 (a) and (b) of&nbsp;this article, in conformity with the principles of international law, shall amount to the genuine value of the investment immediately before the measures were taken or before the imminent measures were publicly known, whichever shall occur earlier. The compensation&nbsp;shall include interest up to the day of payment, shall be paid without unjustified delay, shall&nbsp;be genuinely realizable and shall be freely transferable in accordance with the rules set forth&nbsp;in article 6 on the repatriation of principal of and returns on investments, provided that even in cases of exceptional difficulties relating to the balance of payments, the transfer of at&nbsp;least one third of the total amount per year shall be guaranteed.</p>
+          <p>3. The national or company affected shall have the right, under the law of the Contracting Party that takes the measure in question, to a prompt review by a competent authority of that Contracting Party of its case and of the valuation of its investment in conformity&nbsp;with the principles established in paragraphs 1 and 2 of this article.</p>
+          <p>4. If a Contracting Party adopts any of the measures described in paragraphs 1 (a)&nbsp;and (b) of this article, relating to the assets of a company incorporated or established in accordance with the law in force in any part of its territory, in which nationals or companies&nbsp;of the other Contracting Party are shareholders, it shall ensure that the provisions of paragraphs 1 to 3 of this article are applied in a way that guarantees a rapid, sufficient and effective compensation with respect to the investment of those nationals or companies of the&nbsp;other Contracting Parties who are shareholders.</p>
+          <p>5. Nothing in the provisions set forth in this Agreement shall oblige either of the&nbsp;Contracting Parties to protect investments made with capital or assets which, under the legislation of either Contracting Party, are determined to originate in criminal activities.</p>
+          <p>6. In the case of Colombia, nothing in the provisions of this Agreement shall prevent&nbsp;the establishment of monopolies, in conformity with the law and in the public or social interest, for purposes of raising public revenues, following full compensation of the investors&nbsp;who are deprived of the exercise of a licit economic activity, taking into account the applicable conditions of this article.</p>
+        </div>
+        <div type="article" title="Article 2">
+          <p>Nothing provided for in the Agreement between the Government of the Republic of&nbsp;Colombia and the Government of the Republic of Peru by which investments are promoted&nbsp;and protected, concluded in Lima on 26 April 1994, nor the provisions of this Protocol,&nbsp;shall be interpreted as preventing a Party from adopting or maintaining measures intended&nbsp;to preserve public order.</p>
+        </div>
+        <div type="article" title="Article 3">
+          <p>This Protocol shall be an integral part of the Agreement between the Government of&nbsp;the Republic of Colombia and the Government of the Republic of Peru on the Promotion&nbsp;and Reciprocal Protection of Investments, concluded in Lima on 26 April 1994, and shall&nbsp;enter into force on the same date as that Agreement.</p>
+          <p>Done in Lima on the seventh day of the month of May 2001, in two identical copies,&nbsp;in the Spanish language, both texts being equally authentic.</p>
+          <p>For the Government of the Republic of Colombia:</p>
+          <p>DR. GUILLERMO FERNANDEZ DE SOTO</p>
+          <p>Minister for Foreign Affairs</p>
+          <p>For the Government of the Republic of Peru:</p>
+          <p>AMBASSADOR JAVIER PEREZ DE CUELLAR</p>
+          <p>President of the Council of Ministers and Minister for Foreign Affairs</p>
+          <p/>
+        </div>
+      </div>
+    </attachments>
+  </main>
+</treaty>

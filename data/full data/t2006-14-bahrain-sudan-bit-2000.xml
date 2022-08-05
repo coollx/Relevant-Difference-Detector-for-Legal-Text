@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Bahrain - Sudan BIT (2000)</name>
+    <code>T2006-14</code>
+    <partyisocode n="0">BHR</partyisocode>
+    <partyisocode n="1">SDN</partyisocode>
+    <date_signed>2006-03-22</date_signed>
+    <date_into_force>2009-09-20</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ar</orig_language>
+    <termination_type/>
+    <docreference>356</docreference>
+    <comments/>
+    <source>www.menachambers.com</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>ar</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BHR,SDN}_2006-03-22.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE KINGDOM OF BAHRAIN AND THE GOVERNMENT OF THE REPUBLIC OF SUDAN ON THE PROMOTION AND PROTECTION OF INVESTMENT</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of Bahrain and the Government of the Republic of Sudan, desiring to create favorable conditions, to foster investment activities, for nationals of both countries and their companies in the territory of the other country.</p>
+      <p>Recognizing that the mutual promotion and protection of these investments under an international agreement will stimulate individual commercial activities and will support and increase the prosperity of both countries, have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>With regards to the application of the provisions of this agreement, and unless clearly stated otherwise, the following terms shall have the following respective meanings:</p>
+        <p>A. "Investment":</p>
+        <p>Means all kinds of assets established or recognized in the territory of the host country in accordance with its laws (legislation) including particularly though not exclusively:</p>
+        <p>1. Movable and immovable property as well as any other rights in rem, such as mortgages, real estate foreclosure, liens or other mortgages.</p>
+        <p>2. Shares, stocks, corporate debt securities, or any kind of participation in companies.</p>
+        <p>3. Claimed rights (debt) to money or any contractual works with a monetary value.</p>
+        <p>4. Intellectual and industrial property rights and material elements related to commercial assets such as trademarks, patents and goodwill, used in a licensed investment project.</p>
+        <p>5. Franchise rights conferred by a law or contract, including concessions for the exploration for natural resources, their development, extraction or exploitation.</p>
+        <p>Any change to the form of investment of assets shall not affect their character as investments, provided that this change does not violate the legislation of the Contracting Party in which the investment was made. The term &#x2018;investment' shall include all investments, whether they were made before or after the entry into force of this agreement.</p>
+        <p>B. "Returns":</p>
+        <p>Means amounts yielded by any investment and includes - not exclusively - profits, capital gains, dividends, royalties and fees.</p>
+        <p>C. "Investor":</p>
+        <p>Every natural or legal person holding the nationality of either Contracting Party in accordance with its laws, and who invests in the territory of the other party:</p>
+        <p>1. With respect to the Kingdom of Bahrain: citizens are the natural or legal persons who acquire their status as citizens of the Kingdom of Bahrain in accordance with the laws in force in the Kingdom of Bahrain.</p>
+        <p>2. With respect to the Republic of Sudan: citizens are the natural or legal persons holding the Sudanese nationality in accordance with the laws in force in the Republic of Sudan.</p>
+        <p>D. "Companies":</p>
+        <p>1. With respect to the Kingdom of Bahrain: companies mean trading houses, institutions and cooperatives established or constituted under the laws in force in the Kingdom of Bahrain.</p>
+        <p>2. With respect to the Republic of Sudan: companies mean registered projects in accordance with the Sudanese companies law of 1925 and any following amendment thereto.</p>
+        <p>E. "Territory":</p>
+        <p>1. With to respect of the Kingdom of Bahrain: the territory of the Kingdom of Bahrain means the land of the Kingdom of Bahrain, marine areas, seabed and underground over which Kingdom of Bahrain practices its sovereign rights and judicial authority according to international law.</p>
+        <p>2. With to respect of the Republic of Sudan: the territory of the Republic of Sudan means the territory subject to its sovereignty, including the islands, regional sea, special economic zone, continental shelf and other sea areas over which it has sovereignty and authority in accordance with international law.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>1. Each Contracting Party shall commit to encouraging and creating favorable conditions for nationals or companies of the other Contracting Party to invest capital in its territory, and shall commit to permitting the entry of this capital into its territory, while taking into account its right to exercise the powers conferred to it by its domestic law.</p>
+        <p>2. Investments of nationals or companies of either Contracting Party shall be granted fair and equitable treatment at all times and shall be accorded full protection and security in the territory of the other Contracting Party. The Contracting Parties shall not, in any way, obstruct the management, maintenance, use, enjoyment or disposal of investments of nationals and companies of the other Contracting Party in its territory using discriminatory or unfair measures.</p>
+        <p>3. Investments returns that are re-invested in accordance with the laws and regulations of the host Contracting Party shall enjoy the same protection and concessions granted to the original investments.</p>
+        <p>Each Contracting Party shall observe any commitments they may have entered into with regards to the investments of nationals and companies of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="National and most favored nation treatment">
+        <p>1. Neither Contracting Party shall subject investments or returns of nationals and companies of the other Contracting Party in its territory to treatment that is less favorable than that accorded to investments or returns of its nationals or companies, or that is granted to investments or returns of nationals or companies of any other country.</p>
+        <p>2. Neither Contracting Party shall, in its territory, subject nationals or companies of the other party as regards the management, investment in, use, enjoyment or disposal of their investments to treatment that is less favorable than that provided to its own nationals or companies, or treatment granted to the nationals or companies of any other country.</p>
+      </div>
+      <div type="article" num="4" title="Compensation for losses">
+        <p>1. Investments of nationals or companies of either Contracting Party that suffer losses in the territory of the other Contracting Party due to war or another kind of armed conflict, revolution, a state of national emergency, uprising, insurrection or unrest in the territory of the other Contracting Party shall be accorded treatment that is not less favorable than that provided to its own nationals or companies or to nationals or companies of any other country, with regards to restitution (the returning of rights to their owners), guarantee of compensation for potential losses, compensation or any other settlement, while guaranteeing the free transfer of these compensation amounts.</p>
+        <p>2. Without prejudice to the provisions of Paragraph (1) above of this Article, nationals or companies of the other Contracting Party shall be restituted or effectively compensated, while ensuring the free transfer of the compensation amounts, if they suffer any losses in any of the situations mentioned in that paragraph in the territory of the other Contracting Party, and would result from:</p>
+        <p>a. Expropriation of their funds by the forces or authorities of the other party;</p>
+        <p>b. Destruction of their property by the forces or authorities of the other party, if this destruction did not occur in a battle or was necessary due to the circumstances, where their rights shall be restituted or they shall be provided adequate compensation with a guarantee of free transfer of this compensation.</p>
+      </div>
+      <div type="article" num="5" title="Nationalization and expropriation">
+        <p>1. Investments of nationals or companies of either Contracting Party shall not be nationalized, expropriated or subjected to any measures equivalent to nationalization or expropriation (hereinafter referred to as "expropriation") in the territory of the other Contracting Party, unless the expropriation was done for a public purpose, on a non-discriminatory basis and against fair and effective compensation paid immediately, where such compensation shall cover the true value of the investments immediately prior to the expropriation, or before the announcement of expropriation, whichever is earlier. This compensation shall include interest computed under the normal commercial interest rate until the date of payment, and shall be paid without delay, be accessible and freely transferable. The national or company who suffered damage due to expropriation shall have the right to an immediate review, in accordance with the laws of the expropriating Contracting Party by its legal authorities or an independent authority of that party, of the expropriation subject and the valuing of the affected investments, in accordance with the principles set forth in this paragraph.</p>
+        <p>2. Where a Contracting Party expropriates assets of a company incorporated or established in accordance with the applicable laws in any part of its territory, and the nationals or companies of the other Contracting Party have shares in that company, then the Contracting Party who conducted the expropriation shall undertake to apply the provisions of Paragraph (1) of this Article to the extent required to guarantee the granting of immediate and fair compensation to the investments of nationals or companies of the other Contracting Party who own the said shares.</p>
+      </div>
+      <div type="article" num="6" title="Transfer of investments and returns">
+        <p>1. Each Contracting Party shall guarantee, as regards the investments of nationals or companies of the other Contracting Party, the free transfer of:</p>
+        <p>a. Capital</p>
+        <p>b. Profits and interest</p>
+        <p>c. All kinds of returns</p>
+        <p>d. Proceeds from the full or partial liquidation of investments</p>
+        <p>e. Foreign loan payments related to the investment without restriction, in any free currency and in the applicable rate on the date of the transfer</p>
+        <p>2. The host party shall guarantee to the investor the free disposal of the ownership of capital, whether through the complete or partial sale, liquidation, concession, donation, or any other form of ownership transfer.</p>
+      </div>
+      <div type="article" num="7" title="Exceptions">
+        <p>The provisions of this agreement regarding the granting of treatment that is not less favorable than that granted to nationals or companies of either Contracting Party or nationals or companies of any other country, shall not be construed as to oblige either Contracting Party to grant nationals or companies of the other party advantageous or beneficial treatment resulting from:</p>
+        <p>a. Any existing or future customs union, free trade area, regional cooperation council, common market, or any international agreement that the Contracting Parties are or will be a part of.</p>
+        <p>b. Any agreement, international arrangement or internal legislation wholly or mainly about the imposition of taxation.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between the investor and the host state">
+        <p>Disputes arising between nationals or companies of either Contracting Party and the other Contracting Party regarding a commitment of the other party under the provisions of this agreement regarding an investment of the said national or company that could not be settled amicably shall be referred to international arbitration or the Arab Investment Court (as per the provisions of chapter six of the Unified Agreement for the Investment of Arab Capital in the Arab States), if either party to the dispute so wishes, and according to the arbitration rules of the United Nations Commission on International Trade Law (UNCITRAL) of the year 1976 and their in force amendments, or any other arbitration rules set by the committee instead of the rules of 1976 and their amendments. The parties to the dispute may agree to amend these rules in writing.</p>
+      </div>
+      <div type="article" num="9" title="Disputes between the contracting parties">
+        <p>1. Disputes arising between the Contracting Parties regarding the interpretation or application of this agreement shall be settled through diplomatic channels, where possible.</p>
+        <p>2. If the dispute arising between the Contracting Parties could not be settled through diplomatic channels, this dispute may be submitted to an arbitral tribunal, at the request of either Contracting Party.</p>
+        <p>3. The arbitral tribunal shall be constituted on a case by case basis as follows:</p>
+        <p>a. Within 2 months from the date of receiving the arbitration request, each Contracting Party shall appoint one arbitrator to the arbitral tribunal and these two arbitrators shall appoint a national of a third state to be a chairman of the tribunal following the approval of both Contracting Parties. The chairman shall be appointed two months from the date of appointment of the arbitrators.</p>
+        <p>b. If the appointments are not made within the periods specified in Paragraph (1) of this article, and if no other agreement has been reached between the parties, either Contracting Party may invite the president of the International Court of Justice to make any necessary appointments. If the president is a national of either Contracting Party or if he is otherwise prevented from discharging the said functions, the vice-president of shall be invited to make the necessary appointments. If the vice-president is a national of either Contracting Party, or if he is otherwise prevented from discharging the said functions, the next most senior member of the International Court of Justice, who in not a national of either Contracting Party, shall make the necessary appointments.</p>
+        <p>c. The arbitral tribunal shall take its decision by majority votes and these decisions shall be binding on both Contracting Parties. Each party shall bear the cost of the arbitrator it has appointed and its representation in the arbitral proceedings. The cost of the chairman and the other remaining costs shall be equally borne by the Contracting Parties. However, the tribunal may decide that one Contracting Party bears a bigger portion of the costs, where this decision shall be binding on both parties. The arbitral tribunal shall determine its own procedures.</p>
+      </div>
+      <div type="article" num="10" title="Contracting parties subrogating their nationals">
+        <p>1. If either Contracting Party or its designated organ makes any payments in compensation granted regarding an investment in the territory of the other party, the other Contracting Party shall recognize the rights of the first Contracting Party or its legally designated organ, or through a legal document to be implemented by it, which includes all the rights and liabilities of the compensated party. It shall also recognize the right of the first Contracting Party or its designated organ in exercising these rights and carrying-out those claims under its right to subrogate its nationals to the same extent and within the limits exercised by the guaranteed or compensated party.</p>
+        <p>2. The first Contracting Party or its designated organ shall have the right to enjoy, in all cases, the same treatment enjoyed by the compensated party under this agreement regarding the concerned investment and its returns, as regards its rights, acquired debt and any payments received under those rights and debts.</p>
+        <p>3. Any payments received by the first Contracting Party or its designated organ in a non-convertible currency in accordance with the earned rights and claims, shall be available for free disposal by the first Contracting Party for the purpose of covering any expenses in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="11" title="Compensation for non-compliance with guarantees given to an investor">
+        <p>1. An investor deserves compensation for damages that he suffers as a result of either Contracting Party, one of its public or domestic authorities, or agencies carrying out the following:</p>
+        <p>a. Infringement of any right or guarantee awarded to the investor under this agreement.</p>
+        <p>b. Breach of any commitment or international obligation imposed on the Contracting Party arising out of this agreement in favor of the investor in the territory of the other Contracting Party, or failure to do the necessary to implement it, whether on purpose or due to negligence.</p>
+        <p>2. Failure to implement an enforceable legal decision that is directly connected to the investment.</p>
+        <p>3. The compensation value shall be equal to the damage suffered by the investor, depending on the type and amount of damage.</p>
+        <p>4. Compensation shall be monetary if restitution of the investment is not possible.</p>
+        <p>5. The estimation of the compensation shall be done within three months from the day the damage occurred and shall be paid within six months from the date of agreement over the value of compensation.</p>
+      </div>
+      <div type="article" num="12" title="Application of other provisions (more favorable provisions)">
+        <p>If the provisions of the law applicable in either Contracting Party or if commitments as per the international law existing at present or to ensue after the signing of this agreement, in addition to the provisions of this agreement, contain provisions &#x2013; general or specific &#x2013; that accord investments made by investors of the other Contracting Party treatment that is more favorable than the treatment accorded by this agreement, then those provisions shall apply instead of the provisions of this agreement to the extent they are more favorable.</p>
+      </div>
+      <div type="article" num="13" title="Entry into force">
+        <p>This agreement shall enter into force thirty days from the date of receipt of the latter of the two notifications affirming the completion of the constitutional ratification procedures for the agreement's entry into force.</p>
+      </div>
+      <div type="article" num="14" title="Duration and termination">
+        <p>This agreement shall remain in force for a period of ten years, and shall continue to be in force unless either Contracting Party informs the other party in writing and through diplomatic channels of its desire to terminate the agreement one year before its expiry. With respect to investments made whilst the agreement is in force, the provisions of the agreement shall continue to apply to these investments for a period of ten years from the date of expiry, without prejudice to the right to apply public international law afterwards.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the undersigned, duly authorized thereto by their respective Governments, have signed this agreement.</p>
+      <p>Done in Arabic in the city of Khartoum, on Wednesday 22 March 2006, corresponding to 22 Safar 1427 Hijri, in two originals both being equally legally authentic.</p>
+      <p>For the Government of the Kingdom of Bahrain</p>
+      <p>Ahmed Bin Mohamed Al Khalifa</p>
+      <p>Minister of Finance For the Government of the Republic of Sudan</p>
+      <p>Alzubair Ahmed Al Hassan</p>
+      <p>Minister of Finance and National Economy</p>
+    </conclusion>
+  </main>
+</treaty>

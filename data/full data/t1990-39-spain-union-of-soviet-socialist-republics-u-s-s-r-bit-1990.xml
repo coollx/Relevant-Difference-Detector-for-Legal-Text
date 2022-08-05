@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Spain - Union of Soviet Socialist Republics (U.S.S.R.) BIT (1990)</name>
+    <code>T1990-39</code>
+    <partyisocode n="0">ESP</partyisocode>
+    <partyisocode n="1">RUS</partyisocode>
+    <partyisocode n="2">ARM</partyisocode>
+    <partyisocode n="3">AZE</partyisocode>
+    <partyisocode n="4">BLR</partyisocode>
+    <partyisocode n="5">KGZ</partyisocode>
+    <partyisocode n="6">TJK</partyisocode>
+    <partyisocode n="7">TKM</partyisocode>
+    <date_signed>1990-10-26</date_signed>
+    <date_into_force>1991-11-28</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">es</orig_language>
+    <termination_type/>
+    <docreference>2851</docreference>
+    <comments>According to the Alma-Ata Declaration of December 1991, the successor states of the Soviet Union, which after the extinction of the USSR joined the Commonwealth of Independent States (CIS), have assumed the fulfillment of obligations deriving from international treaties and agreements concluded by the former Soviet Union agreements. Consequently, except for Kazakhstan, Ukraine, Uzbekistan and Moldova, with which after 1991 Spain has signed new BIT, the BIT with the Soviet Union, in force since 11.28.1991, remains applicable in Armenia, Azerbaijan, Belarus, Georgia, Kyrgyzstan, Russia, Tajikistan and Turkmenistan.</comments>
+    <source>http://www.comercio.es</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ESP,RUS,ARM,AZE,BLR,KGZ,TJK,TJK}_1990-10-26.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>es</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1996-12">Armenia - EC Cooperation Agreement (1996)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2004-58">EC - Tajikistan Partnership Agreement (2004)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1996-129">EC - Georgia Cooperation Agreement (1996)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2014-26">EU - Georgia Association Agreement (2014)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-103">EC - Russia PCA (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2004-58">EC - Tajikistan Partnership Agreement (2004)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on Reciprocal Promotion and Protection of Investments between Spain and the Union of Soviet Socialist Republics</p>
+    </title>
+    <preamble>
+      <p>Spain and the U.S.S.R., hereinafter the parties,</p>
+      <p>Desiring to intensify economic cooperation in reciprocal benefit of both countries;</p>
+      <p>Aiming to create favourable conditions for investments by investors of either party in the territory of the other party,</p>
+      <p>And</p>
+      <p>Recognizing that the reciprocal promotion and protection of investments under this Agreement encourages the development of entrepreneurial initiatives in the realization of these investments have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The term investor means:</p>
+        <p>A) Any natural person who has the nationality of a Party and who is entitled, in accordance with the legislation in force in that same Party, to make investments in the territory of the other Party;</p>
+        <p>B) Any legal person constituted under the law of a Party, domiciled in its territory, and entitled under the law of that Party to make investments in the territory of the other Party.</p>
+        <p>2. The term investments means every kind of asset and in particular, though not exclusively, the following:</p>
+        <p>Shares and other forms of participation in companies;</p>
+        <p>Rights derived from all types of contributions made for the purpose of creating economic value;</p>
+        <p>Immovable property, as well as any rights related thereto;</p>
+        <p>Intellectual Property Rights, such as patents, trademarks, names and designations of commercial origin, designs, copyrights and processes and technical know-how;</p>
+        <p>Rights to undertake economic and commercial activities conferred by law or under a contract, including activities related to prospecting, exploration and exploitation and preservation of natural resources.</p>
+        <p>3. The term investment income refers to the returns of private investment, understood in accordance with paragraph 2 of this article, and includes in particular, benefits, interests and dividends.</p>
+      </div>
+      <div type="article" num="2" title="Scope">
+        <p>This Agreement shall apply to the territory in which each of the Parties is or may be, in accordance with international law, sovereign rights or jurisdiction in particular for purposes of prospection, exploration and exploitation and preservation of natural resources.</p>
+        <p>This Agreement shall apply to investments made by investors of a Party in the territory of the other Party in accordance with the laws of the latter party as from 1 January 1971.</p>
+      </div>
+      <div type="article" num="3" title="Investment promotion">
+        <p>Each Party will promote within their respective territory investments by investors of the other Contracting Party and shall admit such investments in accordance with its own legislation</p>
+      </div>
+      <div type="article" num="4" title="Protection">
+        <p>Each Party shall protect within its territory investments made in accordance with its legislation by investors of the other Contracting Party and shall not impair by unreasonable or discriminatory measures, the maintenance, enjoyment, expansion, management, use, sale and liquidation of such investments.</p>
+      </div>
+      <div type="article" num="5" title="Treatment">
+        <p>1. Each Party shall ensure in its territory a fair and equitable treatment to investments by investors of the other party.</p>
+        <p>2. The treatment referred to in the preceding paragraph shall be no less favourable than that granted by each Party to investments made in its territory by investors of any third State.</p>
+        <p>3. This treatment shall not, however, extend privileges to which one party accords to investors of a third State by virtue of its participation in:</p>
+        <p>A free trade area;</p>
+        <p>A customs union;</p>
+        <p>A common market;</p>
+        <p>An organization of Mutual Economic Assistance or by virtue of an agreement signed prior to the date of signature of this Agreement which envisages provisions similar to those granted by that Party to participants.</p>
+        <p>The treatment granted under the present article shall not be managed to extend tax exemptions or other similar privileges granted by either party to investors of third-states under an agreement for the avoidance of double taxation or any other arrangement relating to taxation.</p>
+        <p>4. Without prejudice to the provisions of paragraph 2 of this article, each Party shall, subject to its domestic law, grant to investments of investors of the other party treatment no less favourable than that accorded to its own investors.</p>
+      </div>
+      <div type="article" num="6" title="Nationalization and expropiation">
+        <p>The nationalization, expropriation or any other measure having similar effects that may be taken by the authorities of a Party against investments of the other party into its territory be applied exclusively by reasons of public interest and in accordance with the legislation in force in the Territory. These measures shall not be discriminatory in any case. The Party that will adopt such measures shall pay to the investor or its right-holder, without undue delay, an adequate compensation in convertible currency.</p>
+      </div>
+      <div type="article" num="7" title="Transfers">
+        <p>Each Party shall accord to investors of the other party, with respect to investments in its territory, the possibility to freely transfer; the income of these and other payments related to investments and in particular, though not exclusively, the following:</p>
+        <p>Investment income as defined in paragraph 3 of article 1 of this Agreement;</p>
+        <p>Compensations as defined in article 6 of this Agreement;</p>
+        <p>The proceeds of the sale or liquidation of all or part of an investment;</p>
+        <p>An appropriate part of the salaries, salaries and other remuneration received by the citizens of a Party that have obtained in the other Party the corresponding work permits, in relation to an investment.</p>
+        <p>The party receiving the investor will facilitate to the investor of the other party or to company in which participate, the access to the official foreign exchange market in a non-discriminatory manner and in accordance with its own legislation, to acquire the necessary foreign currency for transfers made under this article.</p>
+        <p>The transfers mentioned above shall be made without undue delay.</p>
+        <p>Transfers shall be made once the investor has complied with tax obligations established by the legislation in force in the host Party of the investment.</p>
+      </div>
+      <div type="article" num="8" title="Subrogation">
+        <p>In the event that a Party has granted any financial guarantee on non-commercial risks in relation to an investment made by an investor of that Contracting Party in the territory of the other Party, the latter shall accept an application of the principle of subrogation of the first Party, in the rights of the investor from the moment in which the first Party has made a first payment out of the guarantee granted. Consequently, this subrogation will make it possible for the first Party to be a direct beneficiary of all types of payments to which the investor could be entitled.</p>
+        <p>Without prejudice to the provisions of the preceding paragraph, the subrogation of the first Party in the rights of property, use, enjoyment or any other real right derived from the ownership of the investment may only occur after obtaining the relevant authorizations in accordance with the legislation in force in the Party where the investment was made.</p>
+        <p>In any case, the subrogation in the rights of the investor may only take place after waiving the action of this investor in relation to all kinds of compensation that may correspond to it.</p>
+      </div>
+      <div type="article" num="9" title="Disputes between the parties">
+        <p>1. Any dispute between the parties concerning the interpretation or application of this Agreement shall be settled as far as possible, by diplomatic means.</p>
+        <p>2. If the dispute cannot be settled in this way within six months from the beginning of negotiations, may be subjected upon written request by one of the two parties to an ad hoc arbitral tribunal".</p>
+        <p>3. Such an arbitral tribunal shall be constituted as follows: each party shall appoint one arbitrator and these two arbitrators will select a national of a third State as Chairman. The arbitrators will be appointed within three months and the Chairman within five months from the date on which either party has informed the other party in writing of its intention to submit the dispute to an arbitral tribunal.</p>
+        <p>4. If a Party has not appointed its arbitrator within the deadline, the other party may request the Secretary-General of the United Nations to make the appointment. If the two arbitrators cannot reach an agreement on the appointment of the President of the Court during the established period, either party may request the Secretary-General of the United Nations to make the appointment.</p>
+        <p>5. The Arbitral Tribunal will make its decision on the basis of respect for the law, the rules contained in this Agreement in other bilateral and multilateral agreements concluded by both parties and the universally recognized principles of International Law.</p>
+        <p>6. Unless the Parties decide otherwise, the tribunal shall determine its own procedure.</p>
+        <p>7. The tribunal shall reach its decision by a majority of votes and it shall be final and binding for both parties.</p>
+        <p>8. Each Party shall bear the costs of the arbitrator appointed by it and its representation in the arbitral proceedings. The other expenses including the chairman shall be borne in equal parts by both parties.</p>
+      </div>
+      <div type="article" num="10" title="Disputes between one party and investors of the other party">
+        <p>1. Disputes between one party and an investor of the other party relating to the amount or to the form of payment of the compensations under article 6 of this Agreement shall be notified by written means, including detailed information by the investor to the Party in whose territory investment was made. Whenever is possible both shall endeavor to settle these disputes through amicably agreements.</p>
+        <p>2. If these disputes cannot be settled in this way within six month starting from the date of the written notification mentioned in paragraph 1 of this article, the dispute may be submitted at the choice of the investor to:</p>
+        <p>An arbitral tribunal under the Rules of the Arbitration Institute of the Stockholm Chamber of Commerce;</p>
+        <p>An "ad hoc" arbitral tribunal established under the Arbitration Rules of the United Nations Commission on International Trade Law.</p>
+        <p>3. The arbitration shall be based on:</p>
+        <p>The provisions of this Agreement;</p>
+        <p>The national law of the Party in whose territory the investment was made, including the rules relating to conflicts of law and</p>
+        <p>The rules and the universally accepted principles of International Law.</p>
+        <p>4. The arbitration awards shall be final and binding for the parties in dispute. Each Party undertakes to execute the decisions in accordance with its national legislation.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, duration and termination of the agreement">
+        <p>1. This Agreement shall enter into force on the day on which the Parties notify each other that the constitutional formalities required for its entry into force. It shall be valid for a period of fifteen years and shall be tacitly extended for consecutive periods tacitly of two years. Each Party may denounce this Agreement by a written notice at least six months before its expiration.</p>
+        <p>2. In case of denunciation, the provisions of Article 1 to 10 of this Agreement shall continue to apply to investments made prior to the same within ten years immediately after the date of denunciation of this Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in two originals in the English and Russian, which are equally valid, at Madrid on 26 October 1990.</p>
+      <p>For Spain</p>
+      <p>Carlos Solchaga,</p>
+      <p>Minister of Economics and Finance</p>
+      <p>For the Union of Soviet Socialist Republic</p>
+      <p>L. A. Voronin.</p>
+      <p>First Vice-President of the Council of Ministers</p>
+    </conclusion>
+  </main>
+</treaty>

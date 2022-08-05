@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Czech Republic - France BIT (1990)</name>
+    <code>T1990-29</code>
+    <partyisocode n="0">CZE</partyisocode>
+    <partyisocode n="1">FRA</partyisocode>
+    <date_signed>1990-09-13</date_signed>
+    <date_into_force>1991-09-27</date_into_force>
+    <date_terminated>2021-12-10</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type>Terminated by consent</termination_type>
+    <docreference>1184</docreference>
+    <comments/>
+    <source>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000345376</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CZE,FRA}_1990-09-13.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Terminated by consent</IT_TERMINATION_TYPE>
+    <relation type="IT_OVERLAP" document-code="T2020-2">Agreement for the Termination of Bilateral Investment Treaties Between the Member States of the European Union (2020)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE FRENCH REPUBLIC AND THE CZECH AND SLOVAK FEDERAL REPUBLIC ON THE RECIPROCAL ENCOURAGEMENT AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The French Republic and the Czech and Slovak Federal Republic, hereinafter referred to as the "Contracting Parties",&nbsp;</p>
+      <p>Wishing to strengthen economic cooperation between the two states and create favorable conditions for French investments in Czechoslovakia and Czechoslovakian investments in France;</p>
+      <p>Recognizing that the promotion and protection of such investments will be conducive to the stimulation of capital and technology transfer between the two countries in the interest of their economic development,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The term "investment" means any property and have as the rights of all kinds and in particular:</p>
+        <p>a) Movable and immovable property as well as any rights in rem, such as mortgages, privileges and guarantees and rights of use;</p>
+        <p>b) Shares and any other forms of participation in companies formed in the territory of one of the Contracting Parties, as well as any rights derived therefrom;</p>
+        <p>c) The obligations and rights, claims to any performance having economic value;</p>
+        <p>d)&nbsp;Copyrights, industrial property rights (such as patents, trademarks, industrial designs and models), technical processes, licenses, registered names and goodwill;</p>
+        <p>e) Concessions granted by law or under contract, including concessions to search for, culture, extract or exploit natural resources including those situated in maritime area of the Contracting Parties,</p>
+        <p>Provided that such assets must be or have been invested in accordance with the law of the Contracting Party in the territory or maritime area in which the investment is made.</p>
+        <p>The term "investment" includes indirect investment made by investors of one Contracting Party in the territory or maritime zones of the other Contracting Party, through an investor of a third State.</p>
+        <p>Any alteration of the form in which assets are invested shall not affect their classification as investment within the meaning of the present agreement, provided that such change is not contrary to the legislation of the Contracting Party in the territory or maritime area in which the investment is made.</p>
+        <p>2. The term "investor" means:</p>
+        <p>a) Any natural person who is a national of one of the Contracting Parties and which may, in accordance with the law of that Contracting Party, investments in the territory or maritime zones of the other contracting party;</p>
+        <p>b) Any juridical person in the territory of one of the Contracting Parties in accordance with their legislation and having its registered office.</p>
+        <p>3. The term means all amounts yielded returns by an investment for a given period, in particular the profits, interest, dividends, royalties, fees.</p>
+        <p>4. This Agreement shall apply to the territory of each Contracting Party as well as the maritime area of each of the Contracting Parties, hereinafter referred to as defined as the economic zone and the continental shelf extending beyond the limits of the territorial waters of each of the Contracting Parties and on which they have, in accordance with international law, sovereign rights and jurisdiction for the purpose of exploitation and exploration for and preservation of natural resources.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting Party recognizes and encourages, within the framework of its laws and the provisions of this Agreement, the investments of investors of the other Contracting Party in its territory and in the maritime area.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Each Contracting Party undertakes to provide, in its territory and in the maritime area, to investments of investors of the other Contracting Party fair and equitable treatment in accordance with the principles of international law, excluding any unjustified or discriminatory measure which could impair the management, maintenance, enjoyment or liquidation of such investments, and to ensure the enjoyment of the right thus recognized is hampered in either law or in fact.</p>
+        <p>The principle of fair and equitable treatment includes the acquisition and transport of raw materials and auxiliary materials, energy and fuel and means of production or operation of any kind, and sale and transport of goods within the country and abroad.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Each Contracting Party shall, in its territory and in the maritime area, to investors of the other Contracting Party as regards their investments and activities associated with such investments, treatment no less favourable than that accorded in accordance with its domestic law, its investors, or the treatment accorded to investors of the most favoured nation, whichever is more favourable.</p>
+        <p>This treatment does not extend to the privileges which either Contracting Party accords to investors of a third State by virtue of its association or participation in a free trade area, customs union, common market organisation for Mutual Economic Assistance or any other form of regional economic organization or by virtue of a double taxation agreement or any other international agreement in the area of taxation.</p>
+        <p>Investors who are authorised to work in the Territory and in the maritime area of one of the Contracting Parties shall be able to benefit from the conditions for the exercise of their professional activities.</p>
+        <p>The Contracting Parties shall consider sympathetically, within the framework of their national legislation, applications for entry and residence permits, and labour movement lodged by nationals of one Contracting Party in respect of an investment in the territory or maritime zones of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Investments in respect of a particular undertaking of either Contracting Party to the investors of the other Contracting Party shall be governed, without prejudice to the provisions of this Agreement, by the terms of that undertaking to the extent that it is more favourable provisions than those laid down in this Agreement.</p>
+      </div>
+      <div type="article" num="6">
+        <p>1. Investments made by investors of either Contracting Party shall enjoy full protection and security in the territory and maritime zone of the other Contracting Party.</p>
+        <p>2. Investment income and in the case of reinvestment, income from their reinvestment shall enjoy the same protection as the investment.</p>
+        <p>3. The Contracting Parties shall not take measures of expropriation or nationalization or any other measures the effect of which is to dispossess, directly or indirectly, the investors of the other Contracting Party of investments belonging to them in their territory and in their maritime zone, except in the public interest and provided that such measures are neither discriminatory nor contrary to any particular undertaking within the meaning of Article 5.</p>
+        <p>Any measures of dispossession which may be taken shall give rise to the payment of prompt and adequate compensation, the amount of which shall correspond to the real value of the investments concerned, prior to any threat of dispossession.</p>
+        <p>This compensation, its amount and the terms of payment shall be fixed at the latest on the date of dispossession. This compensation, which is freely transferable, is paid without delay in a convertible currency. After the expiry of a period of fifteen days from the day on which the measures are taken or made known to the public and until the date of payment, it shall bear interest at the appropriate market rate. This rate shall be determined by reference to the "international financial statistics" published by the International Monetary Fund, unless a special agreement is reached between the investor and the competent body of the Contracting Party concerned.</p>
+      </div>
+      <div type="article" num="7">
+        <p>Investors of one Contracting Party whose investments have suffered losses due to a war or any other armed conflict, a national state of emergency, riot or any other similar effect occurring in the territory or maritime zones of the other Contracting Party shall benefit, on the part of this latter, of treatment no less favourable than that accorded in accordance with its national legislation, to its own investors or to those of the most favoured nation.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1. Each Contracting Party in the territory or maritime area in which the investments were made by investors of the other Contracting Party shall grant those investors the free transfer of funds related to investments and in particular:</p>
+        <p>a) Profits, dividends, interests and other current income;</p>
+        <p>b) Income derived from the rights referred to in paragraph 1, subparagraphs (d) and (e) of Article 1 of this Agreement;&nbsp;</p>
+        <p>c) Payments made for the reimbursement of loans contracted regularly;</p>
+        <p>d) The proceeds of the sale of or the partial or total liquidation of the investment, including the value of the investment capital;</p>
+        <p>e) Compensation for loss or dispossession provided for in article 6 of this accord.article 6 of this Agreement.</p>
+        <p>2. The nationals of either Contracting Party who have been authorised to work in the territory or maritime zones of the other Contracting Party in respect of an approved investment shall also be authorised to transfer their country of origin in a proportion appropriate remuneration.</p>
+        <p>3. The transfers referred to in the preceding paragraphs shall be effected without delay formally at the normal rate of exchange applicable on the date of transfer.</p>
+      </div>
+      <div type="article" num="9">
+        <p>Insofar as the regulations of one of the Contracting Parties provide for a guarantee for investments made abroad, such guarantee may be granted, on a case-by-case basis, to investments made by investors of that Contracting Party in the territory or maritime zone of the other Contracting Party.</p>
+        <p>Investments by investors of one of the Contracting Parties in the territory or maritime zone of the other Contracting Party may only obtain the guarantee referred to in the above paragraph if they have first obtained the approval of the latter Contracting Party.</p>
+        <p>If one of the Contracting Parties, by virtue of a guarantee given for an investment made in the territory or maritime area of the other Contracting Party, makes payments to one of its investors, it shall thereby be subrogated to the rights and actions of that investor, in particular those defined in Article 10 of this Agreement.</p>
+      </div>
+      <div type="article" num="10">
+        <p>1. Any investment dispute between a Contracting Party and an investor of the other Contracting Party shall as far as possible, be settled amicably between the two parties concerned.</p>
+        <p>2. When each Contracting Party has become a contracting party to the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, done at Washington on 18 March 1965, if such a dispute cannot be settled amicably within six months from the time at which it was raised by one of the Parties to the dispute, it shall be submitted, at the request of either of the Parties, to the International Centre for Settlement of Investment Disputes (ICSID) for settlement by arbitration.</p>
+        <p>3. As long as the conditions provided for under paragraph 2 has not been fulfilled and if such a dispute cannot be settled within six months from the time at which it was raised by either party to the dispute shall be submitted, at the request of either of the Parties, to arbitration before an ad hoc tribunal.</p>
+        <p>The ad hoc tribunal shall be constituted for each individual case in the following way: each party to the dispute shall appoint one arbitrator and the two arbitrators shall appoint a third arbitrator who is a national of a third State, who shall be Chairman of the Tribunal. The arbitrators shall be appointed within two months and the Chairman within three months from the date on which the investor and the Contracting Party concerned notifies its intention to resort to arbitration.</p>
+        <p>If the time limits referred to above have not been complied with, either party to the dispute may request the President of the Arbitration Institute of the Stockholm Chamber of Commerce to make the necessary appointments.</p>
+        <p>The Ad Hoc Tribunal shall establish its own rules of procedure in accordance with the provisions of the United Nations Commission on United Nations Commission on International Trade Law in force.</p>
+      </div>
+      <div type="article" num="11">
+        <p>1. Disputes between the Contracting Parties concerning the interpretation or application of this agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>2. If, within a period of six months from the time at which it was raised by either Contracting Party, the dispute is not settled, it shall be submitted, at the request of either Contracting Party to an arbitral tribunal.</p>
+        <p>3. The Tribunal shall be constituted for each individual case in the following way:</p>
+        <p>Each Contracting Party shall appoint one member and these two Members shall designate by common agreement, a national of a third State who shall be chairman appointed by both Contracting Parties. all members shall be appointed within two months from the date one Contracting Party has informed the other Contracting Party of its intention to submit the dispute to arbitration.</p>
+        <p>4. If the time limits set forth in paragraph 3 above have not been observed, either Contracting Party shall, in the absence of any applicable agreement, invite the Secretary-General of the United Nations to make the necessary appointments. If the Secretary-General is a national of either Contracting Party or is otherwise unable to serve, the most senior Under-Secretary-General who is not a national of either Contracting Party shall make the necessary appointments.</p>
+        <p>5. The arbitral tribunal shall reach its decisions by a majority of votes. such decisions shall be final and enforceable automatically to the Contracting Parties.</p>
+        <p>The tribunal shall determine its own rules of. it interprets the award at the request of either Contracting Party. Unless the Tribunal provides otherwise, in light of the particular circumstances, the expenses of the arbitral proceedings, including the business of the arbitrators shall be shared equally by the contracting parties.</p>
+      </div>
+      <div type="article" num="12">
+        <p>This Agreement shall apply to all investments made after 1 January 1950.</p>
+      </div>
+      <div type="article" num="13">
+        <p>Each Contracting Party shall notify the other Contracting Party of the completion of the internal procedures required for its part, for the entry into force of this Agreement, which shall enter into force thirty days after the date of receipt of the last notification.</p>
+        <p>This Agreement is concluded for a period of fifteen years; it shall remain in force after the term unless one of the Contracting Parties denounces it through diplomatic channels with one year notice.</p>
+        <p>On expiry of the period of validity of the present Agreement investments made before the date of expiry will continue to benefit from the protection of its provisions for a further period of fifteen years.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Prague, this 13th day of September 1990, in two originals, each in the French and Czech languages, both texts being equally authentic.</p>
+      <p>For the French Republic:</p>
+      <p>Roland Dumas</p>
+      <p>For the Czech and Slovak Federal Republic:</p>
+      <p>V&#xE1;clav Klaus</p>
+    </conclusion>
+  </main>
+</treaty>

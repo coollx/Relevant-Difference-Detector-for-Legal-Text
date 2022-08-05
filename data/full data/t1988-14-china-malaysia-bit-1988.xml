@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>China - Malaysia BIT (1988)</name>
+    <code>T1988-14</code>
+    <partyisocode n="0">CHN</partyisocode>
+    <partyisocode n="1">MYS</partyisocode>
+    <date_signed>1988-11-21</date_signed>
+    <date_into_force>1990-03-31</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>934</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CHN,MYS}_1988-11-21.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2009-6">ASEAN - China Investment Agreement (2009)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the People's Republic of China and the Government of Malaysia Concerning the Reciprocal Encouragement and Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the people's Republic of china and the Government of Malaysia (each hereinafter referred to as a Contracting Party);</p>
+      <p>Desiring to encourage, protect and create favourable conditions for investments by investors of one Contracting Party in the territory of the other Contracting Party based on the principles of mutual respect for sovereignty, equality and mutual benefit and for the purpose of the development of economic co-operation between both States.</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement</p>
+        <p>(1) The term "investment" means every kind of asset made as investment in accordance with the laws and regulations of the Contracting Party accepting the investment in its territory and in particular, though not exclusively, includes:</p>
+        <p>&#x2460; Movable and immovable property and any other property rights such as mortgages, liens or pledges;</p>
+        <p>&#x2461; Shares, stocks and debentures of companies or other forms of interest in such companies;</p>
+        <p>&#x2462; A claim to money or to any performance having a financial value;</p>
+        <p>&#x2463; Copyrights, industrial property rights, knowhow, technical process, trade names and goodwill; and</p>
+        <p>&#x2464; Business concessions conferred by law, including concessions to search for or exploit natural resources.</p>
+        <p>The said term "investment" shall refer:</p>
+        <p>In respective to investments in the territory of Malaysia, to all investments made in those assorted as "the approved items" by the appropriate department of Malaysia in accordance with its legislation and administrative practice.</p>
+        <p>In respect of investments in the territory of the people's Republic of China, to all investments approved by the appropriate examination and approval authority of the people's Republic of China in accordance with its legislation and administrative practice; and investments approved by the appropriate examination and approval authority of the people's Republic of China in accordance with its legislation and administrative practice.</p>
+        <p>Any alteration of the form in which assets are invested shall not affect their Classification as investments, provided that such alteration is not contrary to the approval granted in respect of the assets originally invested.</p>
+        <p>(2) The term "returns" means the amount yielded by an investment and in Particular, though not exclusively, includes profit, interest, capital gains, dividends, royalties and fees.</p>
+        <p>(3) The term "investor" means,</p>
+        <p>In respect of the People's Republic of China-</p>
+        <p>&#x2460; Natural persons who have nationality of the People's Republic of China;</p>
+        <p>&#x2461; In respect of investments in the territory of Malaysia, to all investments, made in projects classified by the appropriate Ministry of Malaysia in accordance with its legislation and administrative practice as an "approved project".</p>
+        <p>In respect of Malaysia-</p>
+        <p>&#x2460; Any person who is a citizen of Malaysia according to its constitution;</p>
+        <p>&#x2461; Any company with or without limited liability, or any juridical person, association of persons, partnership or sole proprietorship which is incorporated or lawfully constituted in the territory of Malaysia.</p>
+        <p>(4) The term "freely convertible currency" means any currency which is widely used to make payments for international transactions and for which there are ready buyers in the principal markets.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>(1) Each Contracting Party shall encourage and create favourable conditions for investors of the other Contracting Party to invest in its territory, and, subject to its rights to exercise powers conferred by its laws, shall admit such investments.</p>
+        <p>(2) Investments of investors of either Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="Most-favoured nation provisions">
+        <p>(1) Investments made by investors of either Contracting Party in the territory of the other Contracting Party shall not be subjected to a treatment less favourable than that accorded to investments made by investors of any third State.</p>
+        <p>(2) Investors of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, a state of national emergency, revolt, insurrection or riot in the territory of the latter Contracting Party, shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, if any, no less favourable than that which the latter Contracting Party accords to investors of any third State.</p>
+      </div>
+      <div type="article" num="4" title="Exceptions">
+        <p>The provisions of this Agreement relative to the granting of treatment not less favourable than that accorded to the investors of any third State shall not be constructed so as to oblige one Contracting Party to extend to the investors of the other the benefit of any investment, preference or privilege resulting from:</p>
+        <p>(1) Any existing or future customs union or free trade area or a common external tariff area or a monetary union or similar international agreement or other forms of regional cooperation to which either of the Contracting Party is or may become a party; or</p>
+        <p>(2) The adoption of an agreement designed to lead to the information or extension of such a union or area within a reasonable length of time; or</p>
+        <p>(3) Any international agreement or arrangement relation wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation; or</p>
+        <p>(4) Arrangements concerning frontier trade.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>(1) Neither Contracting Party shall take any measures of expropriation nationalization or any dispossession having effect equivalent to nationalization or expropriation against the investments of investors of the other Contracting Party except under the following conditions:</p>
+        <p>&#x2460; The measures are taken for a public purpose and in accordance with the legal procedure of each Contracting Party taking the expropriatory measures;</p>
+        <p>&#x2461; The measures are non-discriminatory;</p>
+        <p>&#x2462; The measures are accompanied by provisions for payment of fair and reasonable compensation.</p>
+        <p>(2) Such compensation shall be computed on the basis of the market value of the investment immediately before the expropriation is proclaimed or become publicly known. Where the market value cannot be readily ascertained, the compensation shall be determined in accordance with generally recognized principles of valuation and on equitable principles taking into account, inter alia, the capital invested, depreciation, capital already repatriated, replacement value and other relevant factors. The compensation shall be freely transferable in freely convertible currency and be paid without unreasonable delay.</p>
+      </div>
+      <div type="article" num="6" title="Repatriation of investments">
+        <p>(1) Each Contracting Party shall, subject to its laws and regulations, allow without unreasonable delay the transfer in any freely convertible currency:</p>
+        <p>&#x2460; The net profits, dividends, royalties, technical assistance and technical Services fees, interest and other current income, accruing from any investments of the Investors of the other Contracting Party.</p>
+        <p>&#x2461; The proceeds from the total or partial liquidation of any investment made by investors of the other Contracting Party;</p>
+        <p>&#x2462; Funds in repayment of loans given by investors of one Contracting Party to the investors of the other Contracting Party which both Contracting Party have recognized as investments.</p>
+        <p>&#x2463; Payment in connection with contracting projects; and</p>
+        <p>&#x2464; The earnings of nationals of the other Contracting Party who are allowed to work in connection with an investment in its territory.</p>
+        <p>(2) Such transfer mentioned in paragraph 1 of this Article shall be made;paragraph 1 of this Article shall be made;</p>
+        <p>&#x2460; In respect of Malaysia, at the exchange rate prevailing at the time of transfer and</p>
+        <p>&#x2461; In respect of the People's Republic of China, at the official exchange, rate of the People's Republic of China on the date of transfer.</p>
+        <p>(3) The Contracting Parties shall undertake to accord the transfer referred to in Paragraph 1 of this Article a treatment as favourable as that accorded to the transfer Origination from investments made by investors of any third State.Paragraph 1 of this Article a treatment as favourable as that accorded to the transfer Origination from investments made by investors of any third State.</p>
+      </div>
+      <div type="article" num="7" title="Settlement of investment disputes">
+        <p>(1) If an investor challenges the amount of compensation for the expropriated investment, he may file complaint with the competent authority of the Contracting Party taking the expropriatory measures. If it is not solved within 1 year after the Complaint is filed, the competent court of the Contracting Party taking the expropriatory measures or an International Arbitral Tribunal shall, upon the request of the investor, review the amount of compensation.</p>
+        <p>(2) Disputes or differences between one Contracting Party and an investor of the other Contracting Party concerning an investment of that investor in the territory of the former Contracting Party shall, if possible, be settled amicably.</p>
+        <p>(3) If such disputes or differences cannot be settled according to the provisions of paragraph 2 of this Article within a period of 6 months from the date either party requested amicable settlement and the parties have not agreed to any other dispute settlement procedures, the investor concerned may choose one or both of the following means of resolutions:paragraph 2 of this Article within a period of 6 months from the date either party requested amicable settlement and the parties have not agreed to any other dispute settlement procedures, the investor concerned may choose one or both of the following means of resolutions:</p>
+        <p>&#x2460; File complaint with and seek relief from the competent administrative authority or agency of the Contracting Party in whose territory the investment was made.</p>
+        <p>&#x2461; File suit with the competent court of law of the Contracting Party in whose Territory the investment was made.</p>
+        <p>(4) The dispute relating to the amount of compensation and any other disputes agreed upon by both parties may be submitted to an International Arbitral Tribunal.</p>
+        <p>The International Arbitral Tribunal mentioned above shall be especially Constituted in the following way; each party to the dispute shall appoint an arbitrator. The 2 arbitrators shall appoint an arbitrator as Chairman who shall be a national of a third State which shall have diplomatic relations with both Contracting parties. The arbitrators shall be appointed within 2 months and the Chairman within 4 months from the date when the concerned party notified the other party of its submission of the dispute to arbitration.</p>
+        <p>If the necessary appointments are not made within the period specified in the previous paragraph, either party may, in the absence of any other agreement request the Chairman of the International Arbitration Institute of the Stockholm Chamber of Commerce to make the necessary appointments.</p>
+        <p>The Arbitral Tribunal shall determine its own arbitral procedures by referring either to the Convention on the Settlement of Investment Disputed between States and Nationals of other States done at Washington on March 18, 1965 or the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).</p>
+        <p>The Arbitral Tribunal shall reach its award based upon the provisions of this Agreement, the relevant domestic laws, the agreements both Contracting Parties Have concluded and the generally recognized principles of International law.</p>
+        <p>The Arbitral Tribunal shall meet in a third State selected by common accord by the parties concerned or, if the choice has not been made within 45 days of the appointment of the final member of votes. The award shall be final and binding on both parties.</p>
+        <p>When the Tribunal renders an award, it shall state its legal basis and, upon request of either party, shall interpret it.</p>
+        <p>Each party shall bear the costs of the arbitrator it has appointed and of its own expenses during the arbitration proceedings. The expenses of the chairman of the Tribunal and other costs shall be borne equally by both parties.</p>
+        <p>(5) In addition to the foregoing provisions of this Article, disputes between investors of a Contracting Party and the investors of the other Contracting Party in whose territory the investment was made may be settled by international arbitration in accordance with the arbitration clause between the parties.</p>
+        <p>(6) Neither Contracting Party shall pursue through diplomatic channels any Matter referred to arbitration until the proceedings have terminated and a Contracting Party has failed to abide by or to comply with the award rendered by the Arbitral Tribunal.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between contracting parties">
+        <p>(1) Disputes between the Contracting Party concerning the interpretation or application of this Agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>(2) If a dispute between the Contracting Party cannot thus be settled within 6 months, it shall upon the request of either Contracting Party be submitted to an Arbitral Tribunal.</p>
+        <p>(3) Such an Arbitral Tribunal shall be constituted for each individual case in the Following way: Within 2 months of the receipt of the request for arbitration, each Contracting Party shall appoint 1 member of the Tribunal. Those 2 Members shall Then select a national of a third State who an approval by the two Contracting Parties Shall be appointed Chairman of the Tribunal. The Chairman shall be appointed within 2 months from the date of appointment of the other 2 members.</p>
+        <p>(4) If within the periods specified in paragraph 3 of this Article the necessary appointment have not been made, either Contracting Party may , in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the vice-President is a national of either Contracting Party or if he too, is prevented from discharging the said function, the member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.paragraph 3 of this Article the necessary appointment have not been made, either Contracting Party may , in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the vice-President is a national of either Contracting Party or if he too, is prevented from discharging the said function, the member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>(5) The Arbitral Tribunal shall determine its own procedure. The tribunal shall reach its decision in accordance with the provisions of this Agreement an generally accepted principles of international law. The Tribunal shall reach its award by a majority of voted,. Such award shall be final and binding on both Contracting Parties. The Tribunal shall, upon the request of either Contracting Party, explain the basis of its award.</p>
+        <p>(6) Each Contracting Party shall bear the cost of its appointed arbitrator. The relevant costs of the Chairman and the Tribunal shall be borne in equal parts by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>If a Contracting Party or its Agency makes a payment to an investor under a guarantee it has granted to an investment by its investor in the territory of the other Contracting Party, such other Contracting Party shall recognize the transfer of any right or claim of such investor to the former Contracting Party or its Agency and recognize the subrogation of the former Contracting Party to such right or claim. The subrogated right or claim shall not be greater than the original right or claim of the said investor.</p>
+      </div>
+      <div type="article" num="10" title="Third state domiciled investors">
+        <p>If a company which is owned or controlled by an investor of one Contracting Party in a third state has made investments in accordance with the laws and regulations of the other Contracting Party in the territory of the latter, the relevant provisions of this Agreement shall apply to such investments only on the assumptions that such third State is not entitled to exercise the right or abandons the right to request for compensation.</p>
+      </div>
+      <div type="article" num="11" title="More favourable treatment">
+        <p>If the treatment to be accorded by one Contracting Party in accordance with its laws and regulations to investments of investors of the other Contracting Party is more favourable than the treatment provided for in this Agreement, the more favourable treatment shall be applicable.</p>
+      </div>
+      <div type="article" num="12" title="Application to investment">
+        <p>This Agreement shall apply to investments made in the territory of either Contracting Party in accordance with its legislation or rules or regulations by investors of the other Contracting Party prior to as well as after the entry into force of this Agreement.</p>
+      </div>
+      <div type="article" num="13" title="Entry into force duration and termination">
+        <p>(1) This Agreement shall enter into force 30 days after the date on which the Contracting Parties have notified each other that their internal requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>(2) This Agreement shall remain in force for a period of 15 years, and shall continue in force, unless terminated in accordance with paragraph 3 of this Article.paragraph 3 of this Article.</p>
+        <p>(3) Either Contracting Party may by giving 1 year's written notice to the other Contracting Party, terminate this Agreement at the end of the initial 15 year period or any time thereafter.</p>
+        <p>(4) With respect to investments made or acquired prior to the date of termination of this Agreement, the provisions of all of the other Articles of this Agreement continue to be effective for a period of 15 years from such date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in duplicate at Kuala Lumpur this 21 st day of November, 1988 in the Chinese, Bahasa Malaysia and English languages, all 3 texts being equally authentic. In the Case of divergence between the texts of this Agreement, the English text shall prevail.</p>
+      <p>For the Government of the People's Republic of ChinaZheng Tuobin</p>
+      <p>Or the Government of Malaysia Rafidah</p>
+    </conclusion>
+  </main>
+</treaty>

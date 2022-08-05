@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>France - Syrian Arab Republic BIT (2009)</name>
+    <code>T2009-59</code>
+    <partyisocode n="0">FRA</partyisocode>
+    <partyisocode n="1">SYR</partyisocode>
+    <date_signed>2009-05-12</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>1615</docreference>
+    <comments>NO BIT signed on that date. See  http://basedoc.diplomatie.gouv.fr/exl-php/cadcgp.php?</comments>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{FRA,SYR}_2009-05-12.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACING" document-code="T1977-9">France - Syrian Arab Republic BIT (1977)</relation>
+  </meta>
+  <main/>
+</treaty>

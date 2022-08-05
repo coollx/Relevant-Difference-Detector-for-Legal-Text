@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Ethiopia - Morocco BIT (2016)</name>
+    <code>T2016-39</code>
+    <partyisocode n="0">ETH</partyisocode>
+    <partyisocode n="1">MAR</partyisocode>
+    <date_signed>2016-11-19</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+  </meta>
+  <main/>
+</treaty>

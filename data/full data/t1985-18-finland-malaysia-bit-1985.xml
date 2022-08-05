@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Finland - Malaysia BIT (1985)</name>
+    <code>T1985-18</code>
+    <partyisocode n="0">FIN</partyisocode>
+    <partyisocode n="1">MYS</partyisocode>
+    <date_signed>1985-04-15</date_signed>
+    <date_into_force>1988-01-03</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1515</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{FIN,MYS}_1985-04-15.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF FINLAND AND THE GOVERNMENT OF MALA YSIA FOR PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of Finland and the Government of Malaysia, hereinafter referred to as Contracting Parties;</p>
+      <p>Desiring to expand and deepen economic and industrial cooperation on a long term basis, and in particular, to create favourable conditions for investments by nationals and companies of one Contracting Party in the territory of the other Contracting Party;</p>
+      <p>Recognizing the need to protect investments by nationals and companies of both Contracting Parties and to stimulate the flow of investments and individual business initiative with a view to the economic prosperity of both Contracting Parties;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement:</p>
+        <p>(a) "Investments" means every kind of assets and in particular, though not exclusively, includes: (i) Movable and immovable property and any other property rights such as mortgages, liens and pledges;</p>
+        <p>(ii) Shares, stocks and debentures of companies or interests in the property of such companies;</p>
+        <p>(iii) Title or a claim to money or a claim to any performance having economic value;</p>
+        <p>(iv) Intellectual and industrial property rights, including rights with respect to copyrights, patents, [trademarks], business names, industrial designs, trade secrets, technical processes and know-how and goodwill;</p>
+        <p>(v) Business concessions conferred by law or under contract, including concessions to search for, cultivate, extract, or exploit natural resources;</p>
+        <p>The said term shall refer:</p>
+        <p>(a) In respect of investments in the territory of Finland, to all investments made in accordance with the Finnish laws and regulations; and</p>
+        <p>(b) In respect of investments in the territory of Malaysia, to all investments made in [projects] classified by the appropriate Ministry of Malaysia in accordance with its legislation and administrative practice as an "approved project".</p>
+        <p>Any alteration of the form in which assets are invested shall not affect their classification as investments, provided that such alteration is not contrary to the approval, if any, granted in respect of the assets originally invested.</p>
+        <p>(b) "Returns" means the amounts yielded by an investment and in particular, though not exclusively, includes profit, interest, capital gains, dividends, royalties or fees;</p>
+        <p>(c) "National" means: (i) With respect to Finland, physical person who is a citizen according to Finnish laws;</p>
+        <p>(ii) With respect to Malaysia, any person who is a citizen according to the Malaysian constitution;</p>
+        <p>(d) "Companies" means: (i) With respect to Finland, corporations, firms or associations incorporated or constituted under the Finnish laws, or has a predominating Finnish interest;</p>
+        <p>(ii) With respect to Malaysia, any company with or without limited liability, or any juridical person, association of persons, partnership or sole proprietorship which is incorporated or lawfully constituted in the territory of Malaysia or has a predominating Malaysian interest;</p>
+        <p>(e) "Territory" means: (i) With respect to Finland, the territory which constitutes Finland;</p>
+        <p>(ii) With respect to Malaysia, all the states in Malaysia;</p>
+        <p>(f) "Freely convertible currency" means the United States Dollar, Pound Sterling, Deutsch mark, French Franc, Japanese Yen or other currency that is widely used to make payments for international transactions and for which there are ready buyers in the principal markets for one of the currencies specified above.</p>
+      </div>
+      <div type="article" num="2" title="Protection of investments">
+        <p>Investments of nationale or companies of either Contracting Party shall, subject to its laws and regulations, at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="Most-favoured-nation provisions">
+        <p>(1) Investments made by nationals or companies of either Contracting Party in the territory of the other Contracting Party shall not be subjected to a treatment less favourable than that accorded to investments made by nationals or companies of any third State.</p>
+        <p>(2) Nationals or companies of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection or riot in the territory of the latter Contracting Party shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, not less favourable than that which the latter Contracting Party accords to nationals or companies of any third State.</p>
+      </div>
+      <div type="article" num="4" title="Exceptions">
+        <p>The provisions of this Agreement relative to the granting of treatment not less favourable than that accorded to the nationals or companies of any third State shall not be construed so as to oblige one Contracting Party to extend to the nationals or companies of the other the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>(a) Any existing or future customs union or free trade area or a common external tariff area or a monetary union or similar international agreement or other forms of regional cooperation to which either of the Contracting Parties is or may become a party; or</p>
+        <p>(b) The adoption of an agreement designed to lead to the formation or extension of such a union or area within a reasonable length of time; or</p>
+        <p>(c) Any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>Neither Contracting Party shall take any measures of expropriation, nationalization or any other dispossession, having effect equivalent to nationalization or expropriation against the investment of a national or a company of the other Contracting Party except under the following conditions:</p>
+        <p>(a) The measures are taken for a public purpose and under due process of law;</p>
+        <p>(b) The measures are not discriminatory;</p>
+        <p>(c) The measures are accompanied by provisions for the payment of prompt, adequate and effective compensation. Such compensation shall amount to the market value of the investments affected immediately before the measure of dispossession occurred or became public knowledge and it shall be freely transferable in convertible currencies from the Contracting Party. Any undue delay in payment of compensation shall carry an appropriate interest at commercially reasonable rate as agreed upon by both parties or at such rate as prescribed by law.</p>
+      </div>
+      <div type="article" num="6" title="Repatriation of investments">
+        <p>(1) Each Contracting Party shall, subject to its laws and regulations, allow without undue delay the transfer in any freely convertible currency:</p>
+        <p>(a) The net profits, dividends, royalties, technical assistance and technical fees, interest and other current income, accruing from any investment of the nationals or companies of the other Contracting Party;</p>
+        <p>(b) The proceeds from the total or partial liquidation of any investment made by nationals or companies of the other Contracting Party;</p>
+        <p>(c) Funds in repayment of loans given by nationals or companies of one Contracting Party to the nationals or companies of the other Contracting Party which both Contracting Parties have recognized as investments;</p>
+        <p>(d) The earnings of nationals of the other Contracting Party who are employed and allowed to work in connection with an investment in its territory.</p>
+        <p>(2) The exchange rates applicable to such transfer in paragraph (1) of this Article shall be the rate of exchange prevailing at the time of remittance.</p>
+        <p>(3) Each Contracting Party shall, subject to its laws and regulations, also allow free transfer from its territory of movable property constituting part of an investment by a national or company of the other Contracting Party.</p>
+        <p>(4) The Contracting Parties undertake to accord to transfers referred to in paragraphs (1) and (3) of this Article a treatment as favourable as that accorded to transfer originating from investments made by nationals or companies of any third State.</p>
+      </div>
+      <div type="article" num="7" title="Settlement of investment disputes">
+        <p>(1) Each Contracting Party hereby consents to submit to the International Centre for the Settlement of Investment Disputes (hereinafter referred to as "the Centre") for settlement by conciliation or arbitration under the Convention on the Settlement of Investment Disputes between States and Nationals of Other States opened for signature at Washington on 18 March 1965(1) any legal dispute arising between that Contracting Party and a national or company of the other Contracting Party concerning an investment of the latter in the territory of the former.</p>
+        <p>(2) A company which is incorporated or constituted under the law in force in the territory of one Contracting Party, in which before such a dispute arises the majority of shares are owned by nationals or companies of the other Contracting Party shall, in accordance with Article 25(2)(b) of the Convention, be treated, for the purpose of the Convention, as a company of the other Contracting Party.</p>
+        <p>(3) If any dispute should arise, and agreement cannot be reached or the dispute cannot be finally disposed of within three months between the parties to this dispute through pursuit of local remedies or otherwise, then, the national or company affected having also consented in writing to submit the dispute to the Centre for settlement by conciliation or arbitration under the Convention, either party may institute proceedings by addressing a request to that effect to the Secretary-General of the Centre as provided in Articles 28 and 36 of the Convention. In the event of disagreement as to whether conciliation or arbitration is the more appropriate procedure the national or company affected shall have the right to choose. The Contracting Party which is a party to the dispute shall not raise as an objection at any stage of the proceedings or enforcement of an award the fact that the national or company which is the other party to the dispute has received in pursuance of an insurance contract an indemnity in respect of some or all of his or its losses.</p>
+        <p>(4) Neither Contracting Party shall pursue through diplomatic channels any dispute referred to the Centre unless:</p>
+        <p>(a) The Secretary-General of the Centre, or a conciliation commission or an arbitral tribunal constituted by it, decides that the dispute is not within die jurisdiction of the Centre, or</p>
+        <p>(b) The other Contracting Party should fail to abide by or to comply with any award rendered by an arbitral tribunal.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between the contracting parties">
+        <p>(1) Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>(2) If a dispute between the Contracting Parties cannot thus be settled, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>(3) Such an arbitral tribunal shall be constituted for each individual case in the following way. Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third State who on approval by the two Contracting Parties shall be appointed Chairman of the tribunal. The Chairman shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>(4) If within the periods specified in paragraph (3) of this Article the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he too is prevented from discharging the said function the member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>(5) The arbitral tribunal shall reach its decisions by a majority of votes. Such decision shall be binding on both Contracting Parties. Each Contracting Party shall bear the cost of its own member of the tribunal and of its representation in the arbitral proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The tribunal may, however, in its decision direct that a higher proportion of colts shall be borne by one of the two Contracting Parties, and this award shall be binding on both Contracting Parties. The tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>If a Contracting Party makes a payment to any of its nationals or companies under a guarantee it has granted in respect to an investment, the other Contracting Party shall, without prejudice to the rights of the former Contracting Party under Article 8, recognize the transfer of any right or title of such national or company to the former Contracting Party and the subrogation of the former Contracting Party to any right or title.</p>
+      </div>
+      <div type="article" num="10" title="Application to investments">
+        <p>This Agreement shall apply to investments made in the territory of either Contracting Party in accordance with its legislation or rules or regulations by nationals or companies of the other Contracting Party prior to as well as after the entry into force of this Agreement.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, duration and termination">
+        <p>(1) This Agreement shall enter into force thirty (30) days after the date on which the Governments of the Contracting Parties have notified each other that their constitutional requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>(2) This Agreement shall remain in force for a period of fifteen (15) years, and shall continue in force, unless terminated in accordance with paragraph (3) of this Article.</p>
+        <p>(3) Either Contracting Party may, by giving one (1) year's written notice to the other Contracting Party, terminate this Agreement at the end of the initial fifteen (15) year period or any time thereafter.</p>
+        <p>(4) With respect to investments made or acquired prior to the date of termination of this Agreement, the provisions of all of the other Articles of this Agreement shall continue to be effective for a period of fifteen (15) years from such date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof, the undersigned, duly authorized thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done in duplicate at Helsinki this 15th day of April, 1985, in Finnish, Bahasa Malaysia and English languages, all three texts being equally authentic. In case of divergence between the texts of this Agreement, the English text shall prevail.</p>
+      <p>For the Government of Finland: JERMU LAINE</p>
+      <p>For the Government of Malaysia: TAN TIONG HONG</p>
+    </conclusion>
+  </main>
+</treaty>

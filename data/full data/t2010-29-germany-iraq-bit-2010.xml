@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Germany - Iraq BIT (2010)</name>
+    <code>T2010-29</code>
+    <partyisocode n="0">DEU</partyisocode>
+    <partyisocode n="1">IRQ</partyisocode>
+    <date_signed>2010-12-04</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>1693</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{DEU,IRQ}_2010-12-04.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2012-19">EU - Iraq Cooperation Agreement</relation>
+  </meta>
+  <main/>
+</treaty>

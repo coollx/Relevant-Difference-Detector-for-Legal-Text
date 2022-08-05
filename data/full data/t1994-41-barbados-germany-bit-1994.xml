@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Barbados - Germany BIT (1994)</name>
+    <code>T1994-41</code>
+    <partyisocode n="0">BRB</partyisocode>
+    <partyisocode n="1">DEU</partyisocode>
+    <date_signed>1994-12-02</date_signed>
+    <date_into_force>2002-05-11</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>398</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{BRB,DEU}_1994-12-02.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2008-19">CARIFORUM - EC EPA (2008)</relation>
+  </meta>
+  <main>
+    <title/>
+    <preamble>
+      <p>The Federal Republic of Germany and Barbados,</p>
+      <p>Desiring to intensify economic co-operation between both States,</p>
+      <p>Intending to create favourable conditions for investments by nationals and companies of either State in the territory of the other State,</p>
+      <p>Recognizing that the encouragement and contractual protection of such investments are apt to stimulate private business initiative and to increase the prosperity of both nations,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Treaty</p>
+        <p>1. the term "investments" comprises every kind of asset, in particular:</p>
+        <p>(a) Movable and immovable property as well as any other rights in rem, such as mortgages, liens and pledges;</p>
+        <p>(b) Shares of companies and other kinds of interest in companies;</p>
+        <p>(c) Claims to money which has been used to create an economic value or claims to any performance having an economic value;</p>
+        <p>(d) Intellectual property rights, in particular copyrights, patents, utility-model patents, registered designs, trademarks, trade-names, trade and business secrets, technical processes, know-how, and good will;</p>
+        <p>(e) Business concessions under public law, including concessions to search for, extract and exploit natural resources;</p>
+        <p>Any alteration of the form in which assets are invested shall not affect their classification as investment;</p>
+        <p>2. The term "returns" means the amounts yielded by an investment for a definite period, such as profit, dividends, interest, royalties or fees;</p>
+        <p>3. The term "nationals" means</p>
+        <p>(a) In respect of the Federal Republic of Germany:</p>
+        <p>Germans within the meaning of the Basic Law of the Federal Republic of Germany,</p>
+        <p>(b) In respect of Barbados:</p>
+        <p>Physical persons deriving their status as Barbados nationals from the law in force in Barbados;</p>
+        <p>4. The term "companies" means</p>
+        <p>(a) In respect of the Federal Republic of Germany:</p>
+        <p>Any juridical person as well as any commercial or other company or association with or without legal personality having its seat in the territory of the Federal Republic of Germany, irrespective of whether or not its activities are directed at profit,</p>
+        <p>(b) In respect of Barbados:</p>
+        <p>Corporations, firms and associations incorporated or constituted under the law in force in Barbados and having their seat in Barbados.</p>
+      </div>
+      <div type="article" num="2">
+        <p>(1) Each Contracting Party shall in its territory promote as far as possible investments by nationals or companies of the other Contracting Party and admit such investments in accordance with its legislation. It shall in any case accord such investments fair and equitable treatment.</p>
+        <p>(2) Neither Contracting Party shall in any way impair by arbitrary or discriminatory measures the management, maintenance, use or enjoyment of investments in its territory of nationals or companies of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Neither Contracting Party shall subject investments in its territory owned or controlled by nationals or companies of the other Contracting Party to treatment less favourable than it accords in equivalent circumstances to investments of its own nationals or companies or to investments of nationals or companies of any third State.</p>
+        <p>(2) Neither Contracting Party shall subject nationals or companies of the other Contracting Party, as regards their activity in connection with investments in its territory, to treatment less favourable than it accords in equivalent circumstances to its own nationals or companies or to nationals or companies of any third State.</p>
+        <p>(3) Such treatment shall not relate to privileges which either Contracting Party accords to nationals or companies of third States on account of its membership of, or association with, a customs or economic union, a common market or a free trade area.</p>
+        <p>(4) The treatment granted under this Article shall not relate to advantages which either Contracting Party accords to nationals or companies of third States by virtue of a double taxation agreement or other agreements regarding matters of taxation.</p>
+      </div>
+      <div type="article" num="4">
+        <p>(1) Investments by nationals or companies of either Contracting Party shall enjoy full protection and security in the territory of the other Contracting Party.</p>
+        <p>(2) Investments by nationals or companies of either Contracting Party shall not be expropriated, nationalized or subjected to any other measure the effects of which would be tantamount to expropriation or nationalization in the territory of the other Contracting Party except for the public benefit and against compensation. Such compensation shall be equivalent to the value of the expropriated investment immediately before the date on which the actual or threatened expropriation, nationalization or comparable measure has become publicly known. The compensation shall be paid without delay and shall carry the usual bank interest until the time of payment; it shall be effectively realizable and freely transferable. Provision shall have been made in an appropriate manner at or prior to the time of expropriation, nationalization or comparable measure for the determination and payment of such compensation. The legality of any such expropriation, nationalization or comparable measure and the amount of compensation shall be subject to review by due process of law.</p>
+        <p>(3) Nationals or companies of either Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to war or other armed conflict, revolution, a state of national emergency, or revolt, shall be accorded treatment no less favourable by such other Contracting Party than that which the latter Contracting Party accords to its own nationals or companies as regards restitution, indemnification, compensation or other valuable consideration. Such payments shall be freely transferable.</p>
+        <p>(4) Nationals or companies of either Contracting Party shall enjoy most-favoured-nation treatment in the territory of the other Contracting Party in respect of the matters provided for in this Article.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party shall guarantee to nationals or companies of the other Contracting Party the free transfer of payments in connection with an investment, in particular</p>
+        <p>(a) Of the principal and additional amounts to maintain or increase the investment;</p>
+        <p>(b) Of the returns;</p>
+        <p>(c) In repayment of loans;</p>
+        <p>(d) Of the proceeds from the liquidation or the sale of the whole or any part of the investment;</p>
+        <p>(e) Of the compensation provided for in Article 4.Article 4.</p>
+      </div>
+      <div type="article" num="6">
+        <p>If either Contracting Party makes a payment to any of its nationals or companies under a guarantee it has assumed in respect of an investment in the territory of the other Contracting Party, the latter Contracting Party shall, without prejudice to the rights of the former Contracting Party under Article 10, recognize the assignment, whether under a law or pursuant to a legal transaction, of any right or claim of such national or company to the former Contracting Party. The latter Contracting Party shall also recognize the subrogation of the former Contracting Party to any such right or claim (assigned claims) which that Contracting Party shall be entitled to assert to the same extent as its predecessor in title. As regards the transfer of payments made by virtue of such assigned claims, Article 4 (2) and (3) as well as Article 5 shall apply mutatis mutandis.</p>
+      </div>
+      <div type="article" num="7">
+        <p>(1) Transfers under Article 4 (2) or (3), under Article 5 or Article 6 shall be made without delay at the applicable rate of exchange.Article 6 shall be made without delay at the applicable rate of exchange.</p>
+        <p>(2) This rate of exchange shall correspond to the cross rate obtained from those rates which would be applied by the International Monetary Fund on the date of payment for conversions of the currencies concerned into Special Drawing Rights.</p>
+      </div>
+      <div type="article" num="8">
+        <p>(1) If the legislation of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to this Treaty contain a regulation, whether general or specific, entitling investments by nationals or companies of the other Contracting Party to treatment more favourable than is provided for by this Treaty, such regulation shall to the extent that it is more favourable prevail over this Treaty.</p>
+        <p>(2) Each Contracting Party shall observe any other obligation it has assumed with regard to investments in its territory by nationals or companies of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="9">
+        <p>This Treaty shall also apply to investments made prior to its entry into force by nationals or companies of either Contracting Party in the territory of the other Contracting Party consistent with the latter's legislation.</p>
+      </div>
+      <div type="article" num="10">
+        <p>(1) Divergencies between the Contracting Parties concerning the interpretation or application of this Treaty should as far as possible be settled by the governments of the two Contracting Parties.</p>
+        <p>(2) If a divergency cannot thus be settled, it shall upon the request of either Contracting Party be submitted to an arbitration tribunal.</p>
+        <p>(3) Such arbitration tribunal shall be constituted ad hoc as follows: each Contracting Party shall appoint one member, and these two members shall agree upon a national of a third State as their chairman to be appointed by the governments of the two Contracting Parties. Such members shall be appointed within two months, and such chairman within three months from the date on which either Contracting Party has informed the other Contracting Party that it intends to submit the dispute to an arbitration tribunal.</p>
+        <p>(4) If the periods specified in paragraph 3 above have not been observed, either Contracting Party may, in the absence of any other arrangement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President should make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he, too, is prevented from discharging the said function, the member of the Court next in seniority who is not a national of either Contracting Party should make the necessary appointments.</p>
+        <p>(5) The arbitration tribunal shall reach its decisions by a majority of votes. Such decisions shall be binding. Each Contracting Party shall bear the cost of its own member and of its representatives in the arbitration proceedings; the cost of the chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The arbitration tribunal may make a different regulation concerning costs. In all other respects, the arbitration tribunal shall determine its own procedure.</p>
+        <p>(6) If both Contracting Parties are Contracting States of the Convention of 18 March 1965 on the Settlement of Investment Disputes between States and Nationals of Other States the arbitration tribunal provided for above may in consideration of the provisions of Article 27 (1) of the said Convention not be appealed to insofar as agreement has been reached between the national or company of one Contracting Party and the other Contracting Party under Article 25 of the said Convention. This shall not affect the possibility of appealing to such arbitration tribunal in the event that a decision of the Arbitrate Tribunal established under the said Convention is not complied with (Article 27) or in the case of an assignment under a law or pursuant to a legal transaction as provided for in Article 6 of this Treaty.</p>
+      </div>
+      <div type="article" num="11">
+        <p>(1) Divergencies concerning investments between a Contracting Party and a national or company of the other Contracting Party shall as far as possible be settled amicably between the parties in dispute.</p>
+        <p>(2) If the divergency cannot be settled within six months of the date when it has been raised by one of the parties in dispute, it shall, at the request of the national or company of the other Contracting Party, be submitted for arbitration. Unless the parties in dispute have agreed otherwise, the provisions of Article 10 (3) to (5) shall be applied mutatis mutandis on condition that the appointment of the members of the arbitration tribunal in accordance with Article 10 (3) is effected by the parties in dispute and that, insofar as the periods specified in Article 10 (3) are not observed, either party in dispute may, in the absence of other arrangements, invite the President of the Court of International Arbitration of the International Chamber of Commerce in Paris to make the required appointments. The award shall be enforced in accordance with domestic law.</p>
+        <p>(3) During arbitration proceedings or the enforcement of an award, the Contracting Party involved in the dispute shall not raise the objection that the national or company of the other Contracting Party has received compensation under an insurance contract in respect of all or part of the damage.</p>
+        <p>(4) In the event of both Contracting Parties having become Contracting States of the Convention of 18 March 1965 on the Settlement of Investment Disputes between States and Nationals of Other States, divergencies under this Article between the parties in dispute shall be submitted for arbitration under the aforementioned Convention, unless the parties in dispute agree otherwise; each Contracting Party herewith declares its acceptance of such a procedure.</p>
+      </div>
+      <div type="article" num="12">
+        <p>This Treaty shall be in force irrespective of whether or not diplomatic or consular relations exist between the Contracting Parties.</p>
+      </div>
+      <div type="article" num="13">
+        <p>(1) This Treaty shall be ratified; the instruments of ratification shall be exchanged as soon as possible in Bonn.</p>
+        <p>(2) This Treaty shall enter into force one month after the date of exchange of the instruments of ratification. It shall remain in force for a period of ten years and shall be extended thereafter for an unlimited period unless denounced in writing by either Contracting Party twelve months before its expiration. After the expiry of the period of ten years this Treaty may be denounced at any time by either Contracting Party giving twelve months' notice.</p>
+        <p>(3) In respect of investments made prior to the date of termination of this Treaty, the provisions of Articles 1 to 12 shall continue to be effective for a further period of twenty years from the date of termination of this Treaty.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Bridgetown on December 2nd 1994 in duplicate in the English and German languages. both texts being equally authentic.</p>
+      <p>For the Federal Republic of Germany</p>
+      <p>For Barbados</p>
+    </conclusion>
+  </main>
+</treaty>

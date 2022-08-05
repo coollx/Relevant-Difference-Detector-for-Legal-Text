@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Armenia - United Arab Emirates BIT (2002)</name>
+    <code>T2002-3</code>
+    <partyisocode n="0">ARE</partyisocode>
+    <partyisocode n="1">ARM</partyisocode>
+    <date_signed>2002-04-20</date_signed>
+    <date_into_force/>
+    <date_terminated>2017-11-21</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type>replaced</termination_type>
+    <docreference>3561</docreference>
+    <comments>replaced by another treaty not available at UNCTAD</comments>
+    <source>only available at Kluwer</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ARE,ARM}_2002-04-20.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>replaced</IT_TERMINATION_TYPE>
+  </meta>
+  <main/>
+</treaty>

@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>BLEU - Peru BIT (2005)</name>
+    <code>T2005-17</code>
+    <partyisocode n="0">BLEU</partyisocode>
+    <partyisocode n="1">PER</partyisocode>
+    <date_signed>2005-10-12</date_signed>
+    <date_into_force>2008-09-12</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>523</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BLEU,PER}_2005-10-12.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE BELGIAN-LUXEMBOURG ECONOMIC UNION, on the one hand, AND THE GOVERNMENT OF THE REPUBLIC OF PERU, on the other hand, ON THE RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of Belgium,</p>
+      <p>The Walloon Government,</p>
+      <p>The Flemish Government,</p>
+      <p>The Government of the Region of Brussels-Capital,</p>
+      <p>And</p>
+      <p>The Government of the Grand-Duchy of Luxembourg,</p>
+      <p>On the one hand,</p>
+      <p>And</p>
+      <p>The Government of the Republic of Peru,</p>
+      <p>On the other hand,</p>
+      <p>(hereinafter referred to as &#xAB; the Contracting Parties &#xBB;)</p>
+      <p>DESIRING to strengthen their economie cooperation by creating favourable conditions for investments by investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>HAVE AGREED as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement,</p>
+        <p>1. The term &#xAB;investors&#xBB; shall mean:</p>
+        <p>a) The &#xAB;nationals&#xBB;, i.e. any natural person who, according to the legislation of the Kingdom of Belgium, of the Grand-Duchy of Luxembourg or of the Republic of Peru, is considered as a citizen of the Kingdom of Belgium, of the Grand-Duchy of Luxembourg or of the Republic of Peru respectively;</p>
+        <p>b) The &#xAB;companies&#xBB; i.e. any legal person constituted in accordance with the legislation of the Kingdom of Belgium, of the Grand-Duchy of Luxembourg or of the Republic of Peru and having its registered office in the territory of the Kingdom of Belgium, of the Grand-Duchy of Luxembourg or of the Republic of Peru respectively;</p>
+        <p>c) A national or a company as defined under a) and b) which, directly or indirectly, controls a company existing and organised under the laws of a third state having made an investment in the other Contracting Party's territory.</p>
+        <p>2. The term &#xAB;investment&#xBB; shall mean every kind of asset and any direct or indirect contribution in cash, in kind or in services, invested or reinvested in any sector of economic activity.</p>
+        <p>The following shall more particularly, though not exclusively, be considered as investments for the purpose of this Agreement:</p>
+        <p>a) Movable and immovable property as well as any other rights in rem, such as mortgages, liens, pledges, usufruct and similar rights;</p>
+        <p>b) Shares, coroporate rights and any other kind of shareholdings, including minority or indirect ones, in companies constituted in the territory of one Contracting Party;</p>
+        <p>c) Bonds, claims to money and to any performance having an economic value;</p>
+        <p>d) Copyrights, industrial property rights, technical processes, trade marks, patents, industrial designs and know-how;</p>
+        <p>e) Concessions granted under public law or under contract, including concessions to explore, develop, extract or exploit natural resources.</p>
+        <p>But investment does not mean:</p>
+        <p>&#x2013; a payment obligation, or granting of a loan to the State or to a State-owned company;</p>
+        <p>&#x2013; loans to a company, when the due date thereof is under three years;</p>
+        <p>&#x2013; claims to money exclusively derived from:</p>
+        <p>&#x2013; commercial contracts for the sale of goods or services by a national or company in the territory of one Party to a company in the territory of the other Party; or</p>
+        <p>&#x2013; any type of trade financing.</p>
+        <p>Changes in the legal form in which assets and capital have been invested or reinvested shall not affect their designations as &#xAB;investments&#xBB; for the purpose of this Agreement.</p>
+        <p>3. The term &#xAB;returns&#xBB; shall mean the proceeds of an investment and shall include in particular, though not exclusively, profits, interests, capital increases, dividends, royalties and fees.</p>
+        <p>4. The term &#xAB;territory&#xBB; shall apply to:</p>
+        <p>a) The territory of the Kingdom of Belgium and to the territory of the Grand-Duchy of Luxembourg, as well as to the maritime areas, i.e. the marine and underwater areas which extend beyond the territorial waters of the Kingdom of Belgium upon which it exercices, in accordance with international law, its sovereign rights and its jurisdiction for the purpose of exploring, exploiting and preservering natural resources;</p>
+        <p>b) With respect to Peru, the land areas within the territorial boundaries of the Republic of Peru, including the adjacent maritime areas out to a distance of 200 marine miles and the airspace over which Peru exercices sovereignty and jurisdiction, in accordance with its domestic law and international law.</p>
+        <p>5. The terms &#xAB;environmental l&#xE9;gislation&#xBB; shall mean any legislation in force in the territory of the Kingdom of Belgium, of the Grand-Duchy of Luxembourg or of the Republic of Peru, where the investment is located, or provision thereof, the primary purpose of which is the protection of the environment, or the prevention of a danger to human, animal, or plant life or health, trough:</p>
+        <p>a) The prevention, abatement or control of the release, discharge, or emission of pollutants or environnemental contaminants;</p>
+        <p>b) The control of environnementally hazardous or toxic chemicals, substances, materials and wastes, and the dissemination of information related thereto;</p>
+        <p>c) The protection or conservation of wild flora or fauna, including endangered species, their habitat, and specially protected natural areas in the Contracting Party's territory.</p>
+        <p>6. The terms &#xAB;labour legislation&#xBB; shall mean legislation in force in the territory of the Kingdom of Belgium, of the Grand-Duchy of Luxembourg or of the Republic of Peru, where the investment is located, or provisions thereof, that are directly related to the following internationally recognised labour rights:</p>
+        <p>a) The right of association;</p>
+        <p>b) The right to organise and bargain collectively;</p>
+        <p>c) A prohibtion on the use of any form of forced or compulsory labour;</p>
+        <p>d) A minimum age for the employment of children;</p>
+        <p>e) Acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health.</p>
+      </div>
+      <div type="article" num="2" title="Promotion of investments">
+        <p>1. Each Contracting Party shall promote investments in its territory by investors of the other Contracting Party and shall except such investments in accordance with its legislation.</p>
+        <p>2. In particular, each Contracting Party shall authorise the conclusion and the fulfilment of license contracts and commercial, administrative or technical assistance agreements, as far as these activities are in connection with such investments.</p>
+      </div>
+      <div type="article" num="3" title="Protection of investments">
+        <p>1. All investments made by investors of one Contracting Party shall enjoy a fair and equitable treatment in the territory of the other Contracting Party, in accordance with customary international law.</p>
+        <p>2. Except for measurers required to maintain public order, such investments shall enjoy continuous protection and security, i.e. excluding any unjustified or discriminatory measure which could hinder, either in law or in practice, the management, maintenance, use, possession or liquidation thereof. The concept of &#xAB;continuous protection and security&#xBB; does not create additional substantive rights to those recognized by the customary international law.</p>
+        <p>3. The provisions of this article do not constitute a treatment less favourable than that which the Contracting Party accord to their own nationals or to nationals of any third State, whichever is more favourable to the investor.</p>
+      </div>
+      <div type="article" num="4" title="National treatment and most favoured nation">
+        <p>1. In all matters relating to the treatment of investments, the investors of each Contracting Party shall enjoy national treatment and most-favoured-nation treatment in the territory of the other Contracting Party.</p>
+        <p>2. With respect to the operation, management, maintenance, use, enjoyment and sale or other disposal of investments, each Contracting Party shall accord, on its territory, to investors of the other Contracting Party, treatment no less favourable than that granted to its own investors or to investors of any other State if the latter is more favourable.</p>
+        <p>3. This treatment shall not include the privileges granted by one Contracting Party to investors of a third State by virtue of its participation or association in a free trade area, customs union, common market or any other form of regional economic organisation and border integration regimes.</p>
+        <p>4. The provisions of this article do not apply to tax matters.</p>
+      </div>
+      <div type="article" num="5" title="Environment">
+        <p>1. Recognising the right of each Contracting Party to establish its own levels of domestic environmental protection and environmental development policies and priorities, and to adopt or modify accordingly its environmental legislation, each Contracting Party shall strive to ensure that its legislation provide for high levels of environmental protection and shall strive to continue to improve this legislation.</p>
+        <p>2. The Contracting Parties recognise that it is inappropriate to encourage investment by relaxing domestic environmental legislation. Accordingly, each Contracting Party shall strive to ensure that it does not waive or otherwise derogate from, or offer to waive or otherwise derogate from, such legislation as an encouragement for the etablishment, maintenance or expansion in its territory of an investment.</p>
+        <p>3. The Contracting Parties reaffirm their commitments under the international environmental agreements in force in their territories.</p>
+        <p>4. The Contracting Parties recognise that co-operation between them provides enhanced opportunities to improve environmental protection standards. Upon request by either Contacting Party, the other Contracting Party shall accept to hold expert consultations on any matter falling under the purpose of this Article.</p>
+      </div>
+      <div type="article" num="6" title="Labour">
+        <p>1. Recognising the right of each Contracting Party to establish its own domestic labour standards, and to adopt or modify accordingly its labour legislation, each Contracting Party shall strive to ensure that its legislation provide for labour standards consistent with the internationally recognised labour rights set forth in paragraph 6 of Article 1 and shall strive to improve those standards in that light.paragraph 6 of Article 1 and shall strive to improve those standards in that light.</p>
+        <p>2. The Contracting Parties recognise that it is inappropriate to encourage investment by relaxing domestic labour legislation. Accordingly, each Contracting Party shall strive to ensure that it does not waive or otherwise derogate from, or offer to waive or otherwise derogate from, such legislation as an encouragement for the establishment, maintenance or expansion in its territory of an investment.</p>
+        <p>3. The Contracting Parties reaffirm their obligations as members of the International Labour Organisation and their commitments under the International Labour Organisation Declaration on Fundamental Principles and Rights at Work and its Follow-up. The Contracting Parties shall strive to ensure that such labour principes and the internationally recognised labour rights set forth in paragraph 6 of Article 1 are recognised and protected by domestic legislation.paragraph 6 of Article 1 are recognised and protected by domestic legislation.</p>
+        <p>4. The Contracting Parties recognise that co-operation between them provides enhanced opportunities to improve labour standards. Upon request by either Contacting Party, the other Contracting Party shall accept to hold expert consultations on any matter falling under the purpose of this Article.</p>
+      </div>
+      <div type="article" num="7" title="Deprivation and limitation of ownership">
+        <p>1. Each Contracting Party undertakes not to adopt any measure of expropriation or nationalisation or any other measure having the effect of directly or indirectly dispossessing the investors of the other Contracting Party of their investments in its territory.</p>
+        <p>2. If reasons of public purpose or necessity, security or national interest require a derogation from the provisions of paragraph 1, the following conditions shall be complied with:paragraph 1, the following conditions shall be complied with:</p>
+        <p>a) The measure shall be taken under due process of law;</p>
+        <p>b) The measure shall be neither discriminatory, nor contrary to any specific commitments;</p>
+        <p>c) The measure shall be accompanied by provisions for the payment of an adequate, effective and prompt compensation.</p>
+        <p>3. Such compensation shall amount to the actual value of the investments on the day before the measures were taken.</p>
+        <p>Such compensation shall be paid in any convertible currency. It shall be paid without undue delay and shall be freely transferable. It shall bear interest at the normal commercial rate from the date of expropriation until the date of its payment.</p>
+        <p>4. Investors of one Contracting Party whose investments suffer losses owing to war or other armed conflict, revolution, a state of national emergency or revolt in the territory of the other Contracting Party shall be granted by the latter Contracting Party a treatment, as regards restitution, indemnification, compensation or other settlement, not less than that which the latter Contracting Party grants to its nationals and/or to the investors of the most favoured nation whatever treatment is the most benficial for the investor.</p>
+      </div>
+      <div type="article" num="8" title="Tranfers">
+        <p>1. Each Contracting Party shall grant to investors of the other Contracting Party the free transfer of all payments relating to an invesment, including mor particulary:</p>
+        <p>a) Amounts necessary for establishing, maintaining or expanding the investment;</p>
+        <p>b) Amounts necessary for payments under a contract, including amounts necessary for repayment of loans, royalties and other payments resulting from licences, franchises, concessions and other similar rights, as well as salaries of expatriate personnel;</p>
+        <p>c) Proceeds from investments;</p>
+        <p>d) Proceeds from the total or partial liquidation of investments, including capital gains or increases in the invested capital;</p>
+        <p>e) Compensation paid pursuant to Article 7.Article 7.</p>
+        <p>2. The nationals of each Contracting Party who have been authorised to work in the territory of the other Contracting Party in connection with an investment shall also be permitted to transfer an appropriate portion of their earnings to their country of origin.</p>
+        <p>3. Tranfers shall be made in an freely convertible currency at the rate applicable on the day transfers are made to spot transactions in the currency used.</p>
+        <p>4. Each Contracting Party shall issue the authorisations required to ensure that the transfers can ben made without undue delay, with no other expenses than the usual banking costs.</p>
+        <p>5. Notwithstanding the agreed in previous paragraphs, the Contracting Parties may hinder, under due process of law, the transfer by the equitable and non-discriminatory application of their legislation in the following cases:</p>
+        <p>a) Bankruptcy, insolvency or protection of creditor's rights;</p>
+        <p>b) Issuance, trade and transactions of securities;</p>
+        <p>c) Criminal or administrative infringements;</p>
+        <p>d) Guarantee of enforcement of decisions in administrative proceedings;</p>
+        <p>e) Non-compliance of obligations under prevailing tax laws;</p>
+        <p>f) Non-compliance of obligations under prevailing labour laws.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>1. If one Contracting Party or any public institution of this Party pays compensation to its own investors pursuant to a guarantee providing coverage for an investment, the other Contracting Party shall recognise that the former Contracting Party or the public institution concerned is subrogated into the rights of the investors.</p>
+        <p>2. As far as the transferred rights are concerned, the other Contracting Party shall be entitled to invoke against the insurer who is subrogated into the rights of the infemnified investors the obligations of the latter under law or contract.</p>
+      </div>
+      <div type="article" num="10" title="Applicable regulations">
+        <p>If an issue relating to investments is covered both by this Agreement and by the national legislation of one Contracting Party of by international conventions or obligations under international law, existing or to be subscribed to by the Parties in the future, the investors of the other Contracting Party shall be entitled to avail themselves of the provisions that are the most favourable to them.</p>
+      </div>
+      <div type="article" num="11" title="Settlement of investment disputes">
+        <p>1. Any investment dispute between an investor of one Contracting Party and the other Contracting Party shall be notified in writing by the first party to take action. The notification shall be accompanied by a sufficiently detailed memorandum, including:</p>
+        <p>a) The name and address of the claimant;</p>
+        <p>b) For each claim, the provision of this Agreement alleged to have been breached and any other relevant provisions;</p>
+        <p>c) The legal and factual basis for each claim; and</p>
+        <p>d) The relief sought and the approximate amount of damages claimed.</p>
+        <p>As far as possible, the Parties shall endeavour to settle the dispute through negotiations, if necessary by seeking expert advice from a third pary, or by conciliation between the Contracting Parties through diplomatic channels.</p>
+        <p>2. In the absence of an amicable settlement by direct agreement between the parties to the dispute or by conciliation through diplomatic channels within six months from the notification, the dispute shall be submitted, at the option of the investor, either to the competent jurisdiction according with the legislation of the State where the investment was made, or to international arbitration.</p>
+        <p>For the purpose of this Agreement, the Contracting Parties agree that investors of one of the Contracting Parties are entitled to prevail directly their rights against the other Contracting Party through the arbitration of one of the hereafter in paragraphe 3 mentioned methodologies.</p>
+        <p>To this end, each Contracting Party agrees in advance and irrevocably to the settlement of any dispute by this type of arbitration. Such consent implies that both Parties waive the right to demand that all domestic administrative or judiciary remedies be exhausted.</p>
+        <p>3. In case of international arbitration, the dispute shall be submitted for settlement by arbitration to one of the hereinafter mentioned methods, at the option of the investor:</p>
+        <p>&#x2013; an ad hoc arbitral tribunal set up according to the Arbitration rules laid down by the United Nations Commission on International Trade Law (U.N.C.I.T.R.A.L.);</p>
+        <p>&#x2013; the International Centre for the Settlement of Investment Disputes (I.C.S.I.D.), set up by the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature at Washington on March 18, 1965, when each State party to this Agreement has become a party to the said Convention. As long as this requirement is not met, each Contracting Party agrees that the dispute shall be submitted to arbitration pursuant to the Rules of the Additional Facility of the I.C.S.I.D.</p>
+        <p>If the arbitration procedure has been introduced upon the initiative of a Contracting Party, this Party shall request the investor involved to designate in writing the arbitration organisation to which the dispute shall be referred.</p>
+        <p>4. No claim may be submitted to arbitration under this Article if more than three years have elapsed from the date on which the claimant first acquired, or should have first acquired, knowledge of the breach alleged and knowledge that the claimant has incurred loss or damage.</p>
+        <p>5. No claim may be submitted to international arbitration under this Section unless the claimant consents in writing to international arbitration in accordance with the procedures set out in this Agreement; and the notice of international arbitration is accompanied, by the claimant's written waiver of any right to initiate before any administrative tribunal or court under the law of either Party; or other dispute settlement procedures, any proceeding with respect to any measure alleged to constitue a breach referred to in Article 11.1.</p>
+        <p>6. Where two or more claims have been submitted separately to dispute settlement under this Article and the claims have a question of law or fact in common and arise out of the same events or circumstances, any disputting party may seek a consolidation order in accordance with the agreement of all the disputting parties.</p>
+        <p>7. The tribunal may award, separately or in combination, only:</p>
+        <p>&#x2013; monetary damages and any applicable interest;</p>
+        <p>&#x2013; restitution of property in which case the award shall provide that the respondent may pay monetary damages and any applicable interest in lieu of restitution.</p>
+        <p>A tribunal may also award costs and attorneys' fees in accordance with this Treaty and the applicable arbitration rules.</p>
+        <p>8. At any stage of the arbitration proceedings or of the execution of an arbitral award, none of the Contracting Parties involved in a dispute shall be entitled to raise as an objection the fact that the investor who is the opposing party in the dispute has received compensation totally or partly covering his losses pursuant to an issurance policy or to the guarantee provided for in Article 9 of this Agreement.Article 9 of this Agreement.</p>
+        <p>9. The arbitral awards shall be final and binding on the parties to the dispute. Each Contracting Party undertakes to execute the awards in accordance with its national legislation.</p>
+      </div>
+      <div type="article" num="12" title="Disputes between the contracting parties relating to the interpretation or application of this agreement">
+        <p>1. Any dispute relating to the interpretation or application of this Agreement shall be settled as far as possible through diplomatic channels.</p>
+        <p>2. In the absence of a settlement through diplomatic channels, the dispute shall be submitted to a joint commission consisting of representatives of the two Parties; this commission shall convene without undue delay at the request of the first party to take action.</p>
+        <p>3. If the joint commission cannot settle the dispute, the latter shall be submitted, at the request of either Contracting Party, to an arbitration court set up as follows for each individual case:</p>
+        <p>Each Contracting Party shall appoint one arbitrator within a period of two months from the date on which either Contracting Party has informed the other Party of its intention to submit the dispute to arbitration. Within a period of two months following their appointment, these two arbitrations shall appoint by mutual agreement a national of a third State as chairman of the arbitration court.</p>
+        <p>If these time limits have not been complied with, either Contracting Party shall request the President of the International Court of Justice to make the necessary appointment(s).</p>
+        <p>If the President of the International Court of Justice is a national of either Contracting Party or of a State with which one of the Contracting Parties has no diplomatic relations or if, for any other reason, he cannot exercise this function, the Vice-President of the International Court of Justice shall be requested to make the appointment(s).</p>
+        <p>4. The court thus constituted shall determine its own rules of procedure. Its decisions shall be taken by a majority of the votes; the shall be final and binding on the Contracting Parties.</p>
+        <p>5. Each Contraction Party shall bear the costs resulting from the appointment of its arbitrator. The expenses in connection with the appointment of the third arbitrator and the administrative costs of the court shall be borne equally by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="13" title="Application of the agreement">
+        <p>1. This Agreement shall also apply to investments made by the investors of one Contracting Party in the territory of the other Contracting Party before or after the entry into force of this Agreement. It shall, however, not be applicable to disputes, which have arisen prior to its entry into force.</p>
+        <p>2. This Agreement shall not be applicable to disputes relating to events or actions taken and completed before its entry into force, even if the effects remain after that date.</p>
+      </div>
+      <div type="article" num="14" title="Entry into force and duration">
+        <p>1. This Agreement shall enter into force one month after the date of exchange of the instruments of ratification by the Contracting Parties. The Agreement shall remain in force for a period of ten years.</p>
+        <p>Unless notice of termination is given by either Contracting Party at least six months before the expiry of its period of validity, this Agreement shall be tacitly extended each time for a further period of ten years, it being understood that each Contracting Party reserves the right to terminate the Agreement by notification given at least six months before the date of expiry of the current period of validity.</p>
+        <p>2. Investments made prior to the date of termination of this Agreement shall be covered by this Agreement for a period of ten years from the date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof, the undersigned representatives duly authorized thereto by their respective Governments, have signed the present Agreement.</p>
+      <p>DONE at Brussels, on the 12th day of October 2005, in two originals copies, each in the English, French, Dutch and Spanish languages, all texts being equally authentic. The text in the English language shall prevail in case of difference of interpretation.</p>
+      <p>FOR THE BELGIAN-LUXEMBOURG ECONOMIC UNION:</p>
+      <p>For the government of the Kingdom of Belgium:</p>
+      <p>For the government of the Grand-Duchy of Luxembourg:</p>
+      <p>For the Wallon government:</p>
+      <p>For the Flemish government:</p>
+      <p>For the government of the Region of Brussels-Capital:</p>
+      <p>FOR THE GOVERNMENT OF THE REPUBLIC OF PERU:</p>
+    </conclusion>
+  </main>
+</treaty>

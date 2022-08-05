@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Azerbaijan - Germany BIT (1995)</name>
+    <code>T1995-26</code>
+    <partyisocode n="0">AZE</partyisocode>
+    <partyisocode n="1">DEU</partyisocode>
+    <date_signed>1995-12-22</date_signed>
+    <date_into_force>1998-07-29</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">de,ru</orig_language>
+    <termination_type/>
+    <docreference>299</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>de,ru</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{AZE,DEU}_1995-12-22.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1996-22">Azerbaijan - European Communities Partnership and Cooperation Agreement (1996)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Treaty between the Federal Republic of Germany and the Azerbaijan Republic on the promotion and mutual protection of investments&nbsp;</p>
+    </title>
+    <preamble>
+      <p>The Federal Republic of Germany and the Azerbaijan Republic -</p>
+      <p>In the desire to deepen economic cooperation between the two countries,</p>
+      <p>In the endeavor to create favorable conditions for the investments of nationals or companies of one State in the territory of the other State,</p>
+      <p>Recognizing the fact that the promotion and the contractual protection of these investments are appropriate to deprive private economic initiatives and increase the prosperity of the two peoples,</p>
+      <p>Have agreed as follows</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Treaty</p>
+        <p>1. the term "investments" means assets of any kind, in particular</p>
+        <p>a) Ownership of movable and immovable property as well as other rights in rem such as mortgages and liens;</p>
+        <p>b) Shares in companies and other types of participations in companies;</p>
+        <p>c) Claims on money used to create an economic value or claims on an economic value;</p>
+        <p>d) Intellectual property rights, in particular copyrights, patents, utility models, industrial designs, trade names, business and industrial secrets, technical processes, know-how and goodwill;</p>
+        <p>e) Public-law concessions, including concessions and concessions;</p>
+        <p>A change in the form in which assets are invested does not affect their property as an investment;</p>
+        <p>2. The term "income" means the amounts accruing to an investment for a certain period, such as profit shares, dividends, interest, royalties or other charges;</p>
+        <p>3. The term "nationals"</p>
+        <p>a) With regard to the Federal Republic of Germany:</p>
+        <p>Germans within the meaning of the Basic Law for the Federal Republic of Germany,</p>
+        <p>b) With regard to the Azerbaijan Republic:</p>
+        <p>Natural persons who, according to the legislation of the Azerbaijan Republic, are their citizens;</p>
+        <p>4. The term "companies"</p>
+        <p>a) With regard to the Federal Republic of Germany:</p>
+        <p>Any legal person as well as any commercial or other company or association with or without legal personality having its head office in the territory of the Federal Republic of Germany, whether or not its activity is directed at profit,</p>
+        <p>b) With regard to the Azerbaijan Republic:</p>
+        <p>Companies, companies, companies and other legal persons established in the territory of the Azerbaijan Republic.</p>
+      </div>
+      <div type="article" num="2">
+        <p>(1) Each Contracting Party shall, as far as possible, promote investments of nationals or companies of the other Contracting Parties in its territory and allow such investments in accordance with its laws. In any case, it will treat capital investments fairly and cheaply.</p>
+        <p>(2) A Contracting Party shall not interfere with the administration, use, use or use of the investments of nationals or companies of the other Contracting Party in its territory by means of arbitrary or discriminatory measures.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Each Contracting Party shall treat capital investments in its territory which are owned or under the influence of nationals or companies of the other Contracting Parties no less favorable than the investments of its own nationals and companies or investments of nationals and companies of third States.</p>
+        <p>(2) Each Contracting Party shall not treat nationals or companies of the other Contracting Parties any less favorably than their own nationals and companies or nationals or members of third States in respect of their activities in connection with investments in their territory.</p>
+        <p>(3) This treatment does not relate to privileges granted by a Contracting Party to nationals or companies of third States because of their membership in a customs or economic union, a common market or a free trade area or because of their association with it.</p>
+        <p>(4) The treatment provided for in this Article does not relate to benefits granted by a Contracting Party to third-country nationals or companies under a double-taxation agreement or other arrangements for taxation.</p>
+      </div>
+      <div type="article" num="4">
+        <p>(1) Investments of nationals or companies of a Contracting Party shall enjoy full protection and full security in the territory of the other Contracting Parties</p>
+        <p>(2) Investments of nationals or companies of a Contracting Party may be expropriated in the territory of the other Contracting Parties only for the general good and for compensation, be subject to nationalization or be subject to other measures equivalent to expropriation or nationalization. The compensation must correspond to the value of the expropriated investment immediately before the date on which the actual or imminent expropriation, nationalization or comparable measure became publicly known. The compensation must be paid without delay and is payable at the usual bank rate until the time of payment; It must in fact be usable and freely transferable. At the latest at the time of expropriation, nationalization or comparable measure, it must be appropriate for the fixing and performance of the compensation provision. The legality of the expropriation, nationalization or comparable measure and the amount of the compensation must be able to be verified by ordinary proceedings.</p>
+        <p>(3) Nationals or companies of a Contracting Party who suffer losses in investments by war or other armed conflicts, revolution, national or truce in the territory of the other Contracting Party shall be treated no less favorably by the Contracting Party in respect of repayments, settlements, compensation or other consideration than their own Nationals or companies. Such payments must be freely transferable.</p>
+        <p>(4) The nationals or companies of a Contracting Party in the territory of the other Contracting Party shall enjoy most-favored-nation treatment with regard to the matters governed by this Article.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party shall guarantee to the nationals or companies of the other Contracting Parties the free transfer of payments in connection with an investment, in particular</p>
+        <p>a) Of the capital and additional amounts for the maintenance or expansion of the investment;</p>
+        <p>b) Of income;</p>
+        <p>c) To repay loans;</p>
+        <p>d) Of the proceeds in the event of complete or partial liquidation or disposal of the investment;</p>
+        <p>e) Of the compensation provided for in Article 4.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Where a Contracting Party makes payments to its nationals or companies on the basis of a guarantee for an investment in the territory of the other Contracting Party, that other Contracting Party shall recognize the transfer of all rights or claims of such nationals or companies by law or by reason of the rights of the former Contracting Party To the former Contracting Party. Furthermore, the other Contracting Party shall recognize the entry of the former Contracting Party into all such rights or claims (transferred claims) which the former Contracting Party is entitled to exercise to the same extent as its predecessor. Article 4 (2) and (3) and Article 5 shall apply mutatis mutandis to the transfer of payments under the transferred claims.</p>
+      </div>
+      <div type="article" num="7">
+        <p>(1) Transfers pursuant to Article 4 (2) or (3) Articles 5 or 6 shall take place without undue delay.</p>
+        <p>(2) This rate must correspond to the cross-rate, which is derived from the exchange rates which the International Monetary Fund would use as the basis for the conversion of the currencies into special drawing rights.</p>
+      </div>
+      <div type="article" num="8">
+        <p>(1) If the legislation of a Contracting Party or obligations under international law which exist between the contracting parties or which are established in the future are governed by a general or special regulation which gives the investments of the nationals or companies of the other Contracting Parties more favorable treatment than under this Treaty Is to be granted, this provision shall be governed by this Treaty in so far as it is more favorable.</p>
+        <p>(2) Each Contracting Party shall comply with any other obligation which it has undertaken in its territory in respect of the investments of nationals or companies of the other Contracting Parties.</p>
+      </div>
+      <div type="article" num="9">
+        <p>This Agreement shall also apply to investments made by nationals or companies of one Contracting Party in accordance with the legislation of the other Contracting Party in its territory before the entry into force of this Treaty.</p>
+      </div>
+      <div type="article" num="10">
+        <p>(1) Disputes between the Contracting Parties concerning the interpretation or application of this Treaty shall, as far as possible, be settled by the Governments of the two Contracting Parties.</p>
+        <p>(2) If a disagreement can not be settled in this way, it shall be submitted to an arbitration court at the request of one of the two contracting parties.</p>
+        <p>(3) The arbitral tribunal shall be constituted on a case-by-case basis by appointing a member to each of the Contracting Parties, and both members as members of a third State as chairman to be appointed by the Governments of the two Contracting Parties. The members shall be appointed within two months to appoint the chairman within three months after the one party to the agreement has notified the other that it wishes to submit the dispute to an arbitration tribunal.</p>
+        <p>(4) If the deadlines set out in paragraph 3 are not met, in the absence of any other agreement, each Contracting Party may ask the President of the International Court of Justice to make the necessary appointments. If the President has the nationality of either Contracting Party or if he is prevented from doing so for another reason, the Vice-President shall make the appointments. If the vice-president also has the nationality of one of the two contracting parties or if he is also prevented from doing so, the next member of the court, who is not a national of one of the two contracting parties, shall make the honors.</p>
+        <p>(5) The arbitral tribunal shall decide by a majority of votes. Its decisions are binding. Each Contracting Party shall bear the costs of its member and its representation in the proceedings before the arbitration; The costs of the chairman and the other costs are borne equally by the two contracting parties. The arbitral tribunal may adopt a different cost regime. Moreover, the arbitral tribunal shall regulate its own procedures.</p>
+        <p>(6) If both Contracting Parties are also Contracting States to the Convention of 18 March 1965 on the resolution of disputes between States and nationals of other States, the provisions of Article 27 (1) of the Convention may not be made subject to the pre - Or the company of a Contracting Party and the other Contracting Party, an agreement has been concluded in accordance with Article 25 of the Convention. The possibility of calling the arbitral tribunal provided for in the event of failure to comply with a decision of the arbitration tribunal of the said Convention (Article 27) or in the case of a transfer by force of law or legal transaction pursuant to Article 6 of this Treaty shall remain unaffected</p>
+      </div>
+      <div type="article" num="11">
+        <p>(1) Disputes concerning investment between one of the Contracting Parties and a national or a company of the other Contracting Parties shall, as far as possible, be settled amicably between the Contracting Parties.</p>
+        <p>(2) If the disagreement can not be settled within a period of six months from the date of its assertion by one of the two parties, it shall be subject to arbitration at the request of the national or the company of the other Contracting Party. Unless otherwise agreed, the provisions of Article 10 (3) to (5) shall apply mutatis mutandis, provided that the members of the arbitral tribunal are appointed by the disputes in accordance with Article 10 (3), and that, as far as the disputes referred to in Article 10 (3) , Each Contracting Party may, in the absence of other agreements, ask the President of the Arbitration Court of the International Chamber of Commerce in Paris to make the necessary appointments. The arbitration shall be enforced under national law.</p>
+        <p>(3) The Contracting Party involved in the dispute shall not claim as an objection during an arbitration proceedings or the enforcement of an arbitration award that the national or the company of the other Contracting Party has received compensation for part or all of the damage resulting from insurance.</p>
+        <p>(4) In the event that both Contracting Parties also became Contracting States to the Convention of 18 March 1965 on the resolution of disputes between states and nationals of other States, differences of opinion under this Article shall be subject to an arbitration procedure within the framework of the abovementioned Convention, The controversies shall make a different agreement; Each Contracting Party hereby declares its consent to such proceedings.</p>
+      </div>
+      <div type="article" num="12">
+        <p>This Treaty shall apply irrespective of whether diplomatic or consular relations exist between the two Contracting Parties.</p>
+      </div>
+      <div type="article" num="13">
+        <p>(1) This Treaty shall be subject to ratification; The instruments of ratification will be exchanged as soon as possible in Bonn.</p>
+        <p>(2) This Treaty shall enter into force one month after the exchange of the instruments of ratification. It remains in force for ten years; After the expiration of this period, the term of validity shall be extended indefinitely, unless one of the two contracting parties terminates the contract in writing with a notice period of twelve months before the expiry of the contract. After ten years, the contract may be terminated at any time by a period of twelve months.</p>
+        <p>(3) For investments made up to the date of the expiry of this Treaty, Articles 1 to 12 shall continue to apply for a further fifteen years from the date of expiry of the Treaty.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Baku on 22 December 1995 in two originals, each in the German, Azerbaijani and Russian languages, each text being authentic. In case of divergent interpretation of the German and Azerbaijani texts, the Russian text shall prevail.</p>
+      <p>For the Federal Republic of Germany</p>
+      <p>&nbsp;Kinkel&nbsp;</p>
+      <p>For the Azerbaijan Republic&nbsp;&nbsp;</p>
+      <p>Hassanov</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" title="Protocol">
+        <p>At the signing of the Treaty between the Federal Republic of Germany and the Azerbaijan Republic on the promotion and mutual protection of investments, the undersigned Plenipotentiaries also agreed on the following provisions, which apply as integral parts of the Treaty:</p>
+        <div type="article" num="1" title="Ad article 1">
+          <p>a) Income from the capital investment and 1m case of its reinvestment also its income enjoys the same protection as the capital investment.</p>
+          <p>(b) Without prejudice to other procedures for determining nationality, any person holding a national passport issued by the competent authorities of the Contracting Party concerned shall in particular be considered a national of that Party.</p>
+        </div>
+        <div type="article" num="2" title="Ad article 2">
+          <p>(a) capital investments made in its territory by nationals or companies of one Party in accordance with the legislation of the other Party shall enjoy the full protection of the Treaty</p>
+          <p>(b) The Treaty shall also apply in the territories of the Exclusive Economic Zone and of the continental shelf to the extent that international law of each Party permits the exercise of sovereign rights or jurisdiction over such territories.</p>
+        </div>
+        <div type="article" num="3" title="Ad article 3">
+          <p>(a) "activity" within the meaning of Article 3(2) shall mean in particular, but not exclusively, the management, application, use and exploitation of an investment. In particular, the following shall be regarded as "less favourable" treatment within the meaning of Article 3: different treatment in the case of restrictions on the purchase of raw and auxiliary materials, energy and fuels, and production and operating equipment of all kinds, different treatment in the case of obstacles to the marketing of products at home and abroad, and other measures with similar effects. Measures to be taken on grounds of public policy, public security, public health or morality were not considered to be "less favourable" treatment within the meaning of Article 3.</p>
+          <p>(b) The provisions of Article 3 shall not oblige a Party to extend to natural persons and companies established in the territory of the other Party tax advantages, exemptions and reductions which, under its tax legislation, are granted only to natural persons and companies established in its territory.</p>
+          <p>(c) The Parties will give favourable consideration, within the framework of their national legislation, to applications for entry and residence by persons of one Party wishing to enter and reside in the territory of the other Party in connection with an investment of capital; the same applies to workers of one Party wishing to enter and reside in the territory of the other Party in connection with an investment of capital for the purpose of exercising an activity as an employed person Applications for work permits will also be considered favourably.</p>
+        </div>
+        <div type="article" num="4" title="Ad article 4">
+          <p>A claim for compensation also exists if state measures intervene in the company which is the object of the investment and thereby significantly affect its economic substance.</p>
+        </div>
+        <div type="article" num="5" title="Ad article 7">
+          <p>For the purposes of Article 7(1), "immediately" means a transfer carried out within a period of time normally necessary to comply with the transfer formalities. The period shall begin on the date of submission of an application and may under no circumstances exceed two months.</p>
+        </div>
+        <div type="article" num="6">
+          <p>In the case of deliveries of goods and persons related to investment: a Contracting Party shall neither eliminate nor impede the transport undertakings of the other Contracting Party and, where necessary, issue authorisations to carry out transports:</p>
+          <p>(a) goods directly intended for investment within the meaning of the Treaty or acquired in the territory of a contracting party or of a third country by or on behalf of an undertaking in which assets within the meaning of the Treaty are invested</p>
+          <p>(b) persons travelling in connection with an investment.</p>
+          <p>Done at Baku, 22 December 1995 In two originals, each in the German, Azerbaijani and Russian languages, each text being authentic. In the event of any difference of interpretation between the German and Azerbaijani texts, the Russian text shall prevail.</p>
+          <p>For the Federal Republic of Germany</p>
+          <p> Kinkel</p>
+          <p> For the Azerbaijan Republic </p>
+          <p> Hassanov</p>
+        </div>
+      </div>
+    </attachments>
+  </main>
+</treaty>

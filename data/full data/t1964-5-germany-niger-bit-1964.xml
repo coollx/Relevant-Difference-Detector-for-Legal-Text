@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Germany - Niger BIT (1964)</name>
+    <code>T1964-5</code>
+    <partyisocode n="0">DEU</partyisocode>
+    <partyisocode n="1">NER</partyisocode>
+    <date_signed>1964-10-29</date_signed>
+    <date_into_force>1966-01-10</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>1727</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{DEU,NER}_1964-10-29.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_OVERLAP" document-code="T2000">Cotonou Agreement (2000)</relation>
+    <relation type="IT_OVERLAP" document-code="T1989-43">Fourth Lom&#xE9; Convention (1989)</relation>
+    <relation type="IT_OVERLAP" document-code="T1979-14">Second Lom&#xE9; Convention (1979)</relation>
+    <relation type="IT_OVERLAP" document-code="T1984-23">Third Lom&#xE9; Convention (1984)</relation>
+    <relation type="IT_OVERLAP" document-code="T2021-123">European Union - Organisation of African, Caribbean and Pacific States Partnership Agreement (2021)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Treaty between the Federal Republic of Germany and the Republic of Niger on the promotion of investments&nbsp;</p>
+    </title>
+    <preamble>
+      <p>THE FEDERAL REPUBLIC OF GERMANY AND THE REPUBLIC OF NIGER -</p>
+      <p>DESIRING to deepen economic cooperation between the two States,</p>
+      <p>INCURRING to create favorable conditions for the investments of nationals or companies of one State in the territory of the other State;</p>
+      <p>RECOGNIZING that a contractual protection of these investments is likely to stimulate private economic initiatives and increase the prosperity of both peoples -</p>
+      <p>HAVE AGREED AS FOLLOWS:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each Contracting Party shall, as far as possible, promote the investment of capital in its territory by nationals or companies of the other Contracting Parties, shall allow such investments in accordance with its legislation and shall examine the issue of the necessary authorizations.</p>
+      </div>
+      <div type="article" num="2">
+        <p>(1) Each Contracting Party shall, in its territory, treat investments which are owned or controlled by nationals or companies of the other Contracting Parties as less favorable than the investments of their own nationals and companies or investments of nationals and companies of third States.</p>
+        <p>(2) Each Contracting Party shall not subject any nationals or companies of the other Contracting Parties in connection with investments to a less favorable economic or occupational position than their own nationals or companies or nationals and companies of third States in their territory. The same applies to the administration and management, the use and use of these investments.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Investments of nationals or companies of a Contracting Party shall enjoy full protection and full security in the territory of the other Contracting Parties.</p>
+        <p>(2) Investments of nationals or companies of a Contracting Party may only be expropriated in the territory of the other Contracting Parties for the general good and for compensation. The compensation must correspond to the value of the expropriated investment, be actually usable and freely transferable, and be made immediately. At the latest at the time of expropriation, it is necessary to determine the nature and the nature of the indemnities. The legality of the expropriation and the amount of the compensation must be able to be re-examined in ordinary court proceedings.</p>
+        <p>(3) Nationals or companies of a Contracting Party who suffer damage to investments through armed conflict, revolution or turmoil in the territory of the other Contracting Party shall be treated no less favorably by the Contracting Party in respect of refunds, compensation, compensation or other consideration than their own nationals or companies. With regard to the transfer of these benefits, one Contracting Party treats the nationals or companies of the other Contracting Parties no less favorably than in the case of third-country nationals or companies.</p>
+        <p>(4) Paragraphs 1, 2 and 3 shall also apply to income from investments.</p>
+        <p>(5) The nationals or companies of a Contracting Party in the territory of the other Contracting Party shall enjoy most-favored-nation treatment with regard to the matters governed by this Article.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Each Contracting Party shall allow the nationals or companies of the other Contracting Parties to transfer the capital, income from their investments and, in the case of liquidation, the liquidation proceeds to the country of origin.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Where a Contracting Party makes payments to one of its nationals or one of its companies on the basis of a guarantee for an investment, the other Contracting Party shall, without prejudice to the rights of the former Contracting Party pursuant to Article 11, recognize the transfer of any rights or claims of that national or of that company by law or legal transaction To the former Contracting Parties and their entry into all of these rights or claims. Article 3 (2), (3) and (4) and Article 4 shall apply mutatis mutandis to the transfer of payments to the Contracting Party concerned on the basis of the rights transferred.</p>
+      </div>
+      <div type="article" num="6">
+        <p>(1) In so far as the parties concerned have not made any other arrangements authorized by the competent authorities of the Contracting Party in whose territory the investment is situated, transfers pursuant to Article 3 (2), (3) or (4) shall be carried out without delay and in accordance with Article 4 or Article 5 Transactions on the day of the transfer.</p>
+        <p>(2) The rate valid for current transactions is based on the par value (par value) agreed with the International Monetary Fund and must be parity on the parity of the fluctuation margin permitted under Article IV Section 3 of the Agreement on the International Monetary Fund.</p>
+        <p>(3) If there is no conversion rate for a Contracting Party at the time of transfer, as defined in paragraph 2, the official rate determined by that Contracting Party for its currency in relation to the US dollar or any other freely convertible currency or gold shall be applied. Where such a price is not fixed, the competent authorities of the Contracting Party in whose territory the capital is invested shall allow a conversion rate which is fair and fair.</p>
+      </div>
+      <div type="article" num="7">
+        <p>(1) If the legislation of a Contracting Party or obligations under international law existing between the Contracting Parties or constituting a future agreement between them exist a general or special rule which gives the investments of the nationals or companies of the other Contracting Parties more favorable treatment than under this Treaty Is to be granted, this provision shall be applied where it is more favorable.</p>
+        <p>(2) Each Contracting Party shall comply with any other obligation which it has assumed in respect of investments in its territory by nationals or companies of the other Contracting Parties.</p>
+      </div>
+      <div type="article" num="8">
+        <p>(1) The term "investments" includes all assets, in particular but not exclusively:</p>
+        <p>a) Ownership of movable and immovable property, as well as all other rights in rem, such as mortgages, lien, usufruct and the like;</p>
+        <p>b) Share rights in companies and other types of participations;</p>
+        <p>c) Claims for money or services in connection with the pursuit of an activity in the land or pasture industry, in commerce, in industry or in the transport sector;</p>
+        <p>d) Copyright, industrial property rights, technical procedures, trade names and goodwill;</p>
+        <p>e) Public works concessions, including those for the exploration and extraction of mineral resources, provided that the concession gives their owners a legal position of some duration.</p>
+        <p>A change in the legal form in which assets are invested does not affect their property as an investment.</p>
+        <p>(2) The term "income" refers to the amounts paid out of an investment as profits or interest.</p>
+        <p>(3) The term "nationals"</p>
+        <p>a) With regard to the Federal Republic of Germany:</p>
+        <p>German in the sense of the Basic Law for the Federal Republic of Germany;</p>
+        <p>b) With regard to the Republic of Niger:</p>
+        <p>Nigrer within the meaning of the legislation on Nigerian nationality.</p>
+        <p>(4) The term "companies"</p>
+        <p>a) With regard to the Federal Republic of Germany:</p>
+        <p>Any legal person, any trading company or other company or association with or without legal personality who is domiciled in the territory of the Federal Republic of Germany and who is entitled under the laws to impose unlimited or unlimited liability on the part of its members, Is aimed at profit or not;</p>
+        <p>b) With regard to the Republic of Niger:</p>
+        <p>The societies of civil or commercial law, including cooperatives and other legal entities governed by public law or private law, with the exception of associations whose activities are not intended for profit; These companies must be lawful; Their domestic character is governed by the control principle; They must have their registered office, their main administration or their main branch in the national territory.</p>
+      </div>
+      <div type="article" num="9">
+        <p>This Agreement shall also apply to investments made by nationals or companies of one Contracting Party in accordance with the laws of the other Contracting Parties in its territory since 27 April 1958. The Agreement of 27 February 1953 on German foreign debt shall remain unaffected.</p>
+      </div>
+      <div type="article" num="10">
+        <p>Each Contracting Party grants to the other nationals treatment under this Treaty on account of the fact that the other Contracting Party also provides national treatment in the same matters.</p>
+      </div>
+      <div type="article" num="11">
+        <p>1) Any disputes concerning the interpretation or application of this Treaty shall, as far as possible, be settled by the Governments of the two Contracting Parties.</p>
+        <p>2) If a dispute can not be settled in this way, it shall be submitted to an arbitration court at the request of one of the two contracting parties</p>
+        <p>3) The arbitral tribunal shall be constituted on a case-by-case basis by appointing a member to each of the Contracting Parties, and both members as chairman of a third State to be appointed by the Governments of the two Contracting Parties. The members shall be within two months Of a period of three months after the other party has informed the other parties that it intends to submit the dispute to an arbitration tribunal.</p>
+        <p>4) If the deadlines set out in paragraph 3 are not met, in the absence of any other agreement, each Contracting Party may ask the President of the International Court of Justice to make the necessary appointments. If the President has the nationality of either Contracting Party or if he is prevented from doing so for another reason, the Vice-President shall make the appointments. If the Vice-President also has the nationality of either Contracting Party or if he is also prevented from attending, the next member of the Court of Justice who is not a national of either Contracting Party shall make the appointments.</p>
+        <p>5) The arbitral tribunal shall decide by a majority of votes. Its decisions shall be binding Each Contracting Party shall bear the costs of its member and its representation in the proceedings before the arbitration; The costs of the chairman and the other costs are borne equally by the two contracting parties. The arbitral tribunal may adopt a different cost regime. Moreover, the arbitral tribunal shall regulate its own procedures.</p>
+      </div>
+      <div type="article" num="12">
+        <p>This Treaty shall also remain in force in the event of disputes between the Contracting Parties, without prejudice to the right to take temporary measures which are permitted by virtue of the general rules of international law. Measures of this kind will be lifted no later than the actual end of the dispute, whether or not the diplomatic relations are restored.</p>
+      </div>
+      <div type="article" num="13">
+        <p>This Agreement shall apply to the Land of Berlin, except for the provisions of Protocol 6, relating to aviation, unless the Government of the Federal Republic of Germany makes a contrary declaration to the Government of the Republic of Niger within three months after the entry into force of this Treaty ,</p>
+      </div>
+      <div type="article" num="14">
+        <p>(1) This Treaty shall be subject to ratification; The instruments of ratification shall be exchanged as soon as possible in Niamey.</p>
+        <p>(2) This Treaty shall enter into force one month after the exchange of the instruments of ratification. It shall remain in force for a period of ten years and shall be extended indefinitely unless terminated in writing by one of the two Contracting Parties a year before its expiry. After expiry of the ten years, the contract can be terminated at any time, but remains valid for one year after termination.</p>
+        <p>(3) For investments made up to the date of the expiry of the contract, Articles 1 to 13 shall continue to apply for a further twenty years from the date of expiry.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE at Bonn on October 29, 1964 in four copies, two in German and two in French, each text being equally authentic.</p>
+      <p>For the Federal Republic of Germany: </p>
+      <p>Lahr</p>
+      <p>For the Republic of Niger: </p>
+      <p>A. Sidikou</p>
+    </conclusion>
+  </main>
+</treaty>

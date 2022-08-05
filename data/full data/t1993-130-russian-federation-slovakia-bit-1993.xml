@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Russian Federation - Slovakia BIT (1993)</name>
+    <code>T1993-130</code>
+    <partyisocode n="0">RUS</partyisocode>
+    <partyisocode n="1">SVK</partyisocode>
+    <date_signed>1993-11-30</date_signed>
+    <date_into_force>1996-08-02</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">sk</orig_language>
+    <termination_type/>
+    <docreference>2848</docreference>
+    <comments/>
+    <source>https://www.slov-lex.sk/, https://www.economy.gov.ru/material/departments/d11/investicionnye_soglasheniya/perechen_soglasheniy_mezhdu_pravitelstvom_rf_i_pravitelstvami_inostrannyh_gosudarstv_o_pooshchrenii_i_vzaimnoy_zashchite_kapitalovlozheniy/</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{RUS,SVK}_1993-11-30.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>sk</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-103">EC - Russia PCA (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Slovak Republic and the Government of the Russian Federation on support and mutual protection of investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Slovak Republic and the Government of the Russian Federation (hereinafter referred to as the "Parties"),</p>
+      <p>Observing the creation of favorable conditions for the implementation of investments by investors of the State of one Contracting Party in the territory of the State of the other Contracting Party,</p>
+      <p>Considering that the promotion and reciprocal protection of investments will facilitate the development of mutually beneficial trade, economic and scientific and technical cooperation and encourage entrepreneurial initiatives in this field,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement, the following terms have the meanings hereby assigned to them:</p>
+        <p>1. Investor - any natural person who is a national of one of the Contracting Parties in accordance with its law,</p>
+        <p>- any legal person established and operating in accordance with the law of the State of one of the Contracting Parties, which has its registered office in the territory of the State of that Contracting Party.</p>
+        <p>The condition for the fulfillment of the above terms is that the natural person or legal entity is entitled in accordance with the law of the state of one Contracting Party to make investments in the territory of the state of the other Contracting Party;</p>
+        <p>2. Investment - all assets which an investor of a State of one Contracting Party invests in the territory of the State of the other Contracting Party in accordance with its law, and includes in particular, but not exclusively</p>
+        <p>a) movable and immovable property and related property rights, including liens,</p>
+        <p>b) cash, as well as shares, deposits and other forms of participation in companies and enterprises,</p>
+        <p>c) the right to pecuniary claims that are embedded in the creation of economic value or in services having economic value,</p>
+        <p>d) copyrights, rights to inventions, industrial designs, goods or service marks, company names and technologies, know-how, trade secrets and goodwill,</p>
+        <p>e) the right to carry out business activities established on the basis of a law or agreement, including the rights to explore, prepare and use natural resources.</p>
+        <p>Any change in the form in which assets are invested does not affect their valuation as investments;</p>
+        <p>3. income - amounts resulting from investments according to point 2, which include in particular profit (profit share), dividends, interest, royalties and commission fees, payments for technical assistance and maintenance and other fees;</p>
+        <p>4. territory - territory relating to the Slovak Republic and the Russian Federation and, in relation to the Russian Federation, the exclusive economic zone and the continental shelf, where the Russian Federation exercises sovereign rights and jurisdiction for international exploration, extraction and conservation in accordance with international law.</p>
+      </div>
+      <div type="article" num="2" title="Investment promotion and protection">
+        <p>1. Each Contracting Party shall encourage and create favorable conditions for investors of the State of the other Contracting Party to invest in its territory, and shall allow such investments in accordance with its legal system.</p>
+        <p>2. Each Contracting Party shall, in accordance with its legal system, guarantee full and unconditional legal protection for investments of investors of the State of the other Contracting Party.</p>
+        <p>3. Each Contracting Party shall accord to the investments of investors of the State of the other Contracting Party in its territory fair and equitable treatment and shall refrain from taking unjustified and discriminatory measures which may impede the management, maintenance, use, administration or disposal of the investments.</p>
+      </div>
+      <div type="article" num="3" title="Investment treatment">
+        <p>1. Each Contracting Party shall accord in its territory to investments, returns and activities connected with the investments of investors of the State of the other Contracting Party treatment no less favorable than that accorded to its own investors or to investors of any third State.</p>
+        <p>2. Each Contracting Party reserves the right to determine, on the basis of its legal system, the sectors and spheres of activity in which the activities of foreign investors will be used or restricted. Any new exclusion or restriction imposed by a Contracting Party shall not apply in respect of investments already made in its territory by investors of the State of the other Contracting Party until the date of entry into force of the exclusion or restriction.</p>
+        <p>3. The treatment of the most-favored-nation clause granted in accordance with paragraph 1 shall not apply to advantages granted or granted by a Party under</p>
+        <p>a) a free trade area, a customs or economic union or an international agreement on regional economic cooperation,</p>
+        <p>b) the agreement of the Russian Federation with states which previously belonged to the Union of Soviet Socialist Republics,</p>
+        <p>c) double taxation agreements or other agreements in the field of taxation.</p>
+      </div>
+      <div type="article" num="4" title="Compensation for losses">
+        <p>A Contracting Party in whose territory the investments of investors of the State of the other Contracting Party have suffered damage as a result of war, armed conflict, civil unrest, a declaration of a state of emergency or other similar events shall provide such investors with respect to restoration of assets settlement, such treatment as will not be less favorable than that provided by that Contracting Party to its own investors or to investors of third countries.Payments associated with these refunds will be made without undue delay and will be freely transferable.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p> 1. Investments of investors of the State of one Contracting Party in the territory of the State of the other Contracting Party shall not be subject to expropriation, nationalization or other measures having equivalent effect (hereinafter "expropriation") unless such measures are taken in the public interest by law, are non-discriminatory and are discriminatory. accompanied by the payment of immediate, adequate and effective compensation. Such compensation must correspond to the market value of the expropriated investment immediately before the expropriation or at the time when the future expropriation became officially known. The compensation shall be paid without undue delay in a freely convertible currency and shall be transferred from the territory of the State of one Contracting Party to the territory of the State of the other Contracting Party. Upon payment of the compensation, interest will also be included according to the interest rate in the territory of the Contracting Party where the investments were made.</p>
+        <p>2. The investor of the investments concerned shall have the right, in accordance with the law of the State of the expropriating Contracting Party, to request a judicial or other independent review of his case without delay, including the determination of the value of his investments in accordance with the principles contained in paragraph 1.</p>
+      </div>
+      <div type="article" num="6" title="Transfer of payments related to investments">
+        <p>1. Each Contracting Party shall guarantee to investors of the State of the other Contracting Party, after payment of the taxes and charges levied by it, a smooth foreign transfer of payments which are linked to investments, in particular:</p>
+        <p>a) basic and additional means to maintain or increase investment,</p>
+        <p>b) revenues as defined in Article 1 of this Agreement,</p>
+        <p>c) amounts to repay loans related to the investment,</p>
+        <p>d) amounts received by investors for partial or complete liquidation, or for the sale of an investment,e)refunds under Articles 4 and 5 of this Agreement.</p>
+        <p>2. Transfers of the payments referred to in this Article shall be made in a freely convertible currency, at the exchange rate at the time of the transfer and in accordance with the monetary policy rules of the Contracting Party in whose territory the investment is made.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>1. If a Contracting Party or an agency authorized by it provides a payment to an investor of the State of one Contracting Party as a guarantee for an investment in the territory of the State of the other Contracting Party, the other Contracting Party shall recognize the transfer of all rights and entitlements of the or an agency authorized by it in accordance with the law or other legislation.</p>
+        <p>2. The Contracting Party or its authorized agency shall be granted the right to exercise all rights and requirements to the extent that they would be exercised by the investor.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of investment disputes between one contracting party and an investor of the state of the other contracting party">
+        <p>1. Disputes between one Contracting Party and an investor of the State of the other Contracting Party concerning investments, including disputes concerning their scope, conditions and procedures for the payment of compensation, shall, as far as possible, be settled by negotiation.</p>
+        <p>2. If these disputes cannot be settled by negotiation within six months from the date of the written notification of the investor of the State of one Contracting Party to the other Contracting Party at the option of the investor, the dispute may be submitted for settlement.</p>
+        <p>a) the competent court or arbitration of the Contracting Party in whose territory the investment is located,</p>
+        <p>b) International Center for the Settlement of Investment Disputes (hereinafter "the Center"), if the Slovak Republic and the Russian Federation become members of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature in Washington, DC, 18 March 1965 (hereinafter referred to as the "Convention"), or by using the Additional Procedure of the Center in the event that the Slovak Republic or the Russian Federation is not yet a member of the Convention,</p>
+        <p>c) An international arbitration tribunal established on an ad hoc basis under the arbitration rules of the United Nations Commission on International Trade Law (UNCITRAL).</p>
+        <p>3. The arbitral award shall be final and binding on the parties to the dispute.</p>
+      </div>
+      <div type="article" num="9" title="Consultations">
+        <p>The Contracting Parties may, at the request of either of them, hold consultations on questions concerning the interpretation or application of this Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Settlement of disputes between the contracting parties">
+        <p>1. Disputes between the Contracting Parties concerning the interpretation and application of this Agreement shall be settled by negotiation. If the dispute cannot be settled in this way within six months, it shall, at the request of either Contracting Party, be submitted to arbitration for settlement.</p>
+        <p>2. An arbitral tribunal shall be established for each individual case. Each Party shall designate one member of the arbitration panel. The arbitrators thus appointed shall elect a national of a third State as chairman, who shall be appointed by common accord of the Contracting Parties. The arbitrators of the arbitral tribunal shall be appointed within two months from the time when one of the Parties expresses an interest in submitting the dispute to arbitration. The chairperson of the arbitration panel shall be appointed within three months from the date of the appointment of the members of the arbitration panel.</p>
+        <p>3. If no appointment has been made within the time limits referred to in paragraph 2, either Contracting Party may, unless otherwise agreed, request the President of the International Court of Justice to make the appointment. If the President is a national of a Contracting Party or otherwise unable to perform this function, the Vice-President of the International Court of Justice shall apply for appointment. If the Vice-President is also a national of a Contracting State or otherwise unable to exercise this power, the oldest member of the International Court of Justice, who is not a national of either Contracting Party, shall be requested to be appointed.</p>
+        <p>4. The arbitral tribunal shall reach its decision by a majority of votes. This decision is binding. Each Contracting Party shall bear the expenses associated with the activities of its arbitrator in the arbitration proceedings. Expenses related to the activities of the Chairman and other expenses of the Contracting Party shall be borne in equal parts. The arbitral tribunal shall determine its own rules of procedure in all other matters.</p>
+      </div>
+      <div type="article" num="11" title="Application of the agreement">
+        <p>The provisions of this Agreement shall apply to investments made by investors of one Contracting Party in the territory of the other Contracting Party after January 1, 1987, taking into account the provisions of the Protocol to this Agreement, which forms an integral part thereof.</p>
+      </div>
+      <div type="article" num="12" title="Application of other regulations">
+        <p>In the event that the provisions of another international treaty by which both Contracting Parties are or will be bound or by the legislation of one of the Contracting Parties provide for a more favorable regime than that contained in this Agreement, more favorable treatment shall apply.</p>
+      </div>
+      <div type="article" num="13" title="Entry into force, duration and termination of the agreement">
+        <p>1. This Agreement shall enter into force on the date of the second notification that the Parties' national procedures required for its entry into force have been completed.</p>
+        <p>2. This Agreement is concluded for a period of 15 years and after that period shall remain in force until the expiration of 12 months from the date on which either Party notifies the other in writing of its intention to terminate this Agreement.</p>
+        <p>3. The provisions of this Agreement relating to investments made before the expiry of this Agreement shall remain in force for a further period of 15 years from the date of its termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Bratislava on 30 November 1993 in duplicate, each in the Slovak and Russian languages, both texts being equally authentic.</p>
+      <p>For the Government of the Slovak Republic:</p>
+      <p>J&#xFA;lius T&#xF3;th</p>
+      <p>(signed)</p>
+      <p>For the Government of the Russian Federation:</p>
+      <p>Yuri Fyodorovich Jarov</p>
+      <p>(signed)</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" title="Protocol to the agreement between the government of the slovak republic and the government of the russian federation on the promotion and reciprocal protection of investments">
+        <p>PROTOCOL </p>
+        <p>As regards Article 11 of the Agreement, the Contracting Parties note that:</p>
+        <div type="article" num="1">
+          <p>The Agreement shall also apply to all investments made before 1 January 1987 under international bilateral and multilateral agreements concluded within the framework of the former Council for Mutual Economic Assistance, provided that such investments are transformed in accordance with that Party's foreign investment legislation, in which territory the investments were made. At the same time, neither party will oppose such a transformation.</p>
+        </div>
+        <div type="article" num="2">
+          <p>THe condition referred to in paragraph 1 of this Protocol shall not apply if the legislation of the country in whose territory the investment is situated does not require such a transformation.</p>
+        </div>
+      </div>
+    </attachments>
+  </main>
+</treaty>

@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Argentina - Chile BIT (1991)</name>
+    <code>T1991-7</code>
+    <partyisocode n="0">ARG</partyisocode>
+    <partyisocode n="1">CHL</partyisocode>
+    <date_signed>1991-08-02</date_signed>
+    <date_into_force>1995-01-01</date_into_force>
+    <date_terminated>2019-05-01</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">es</orig_language>
+    <termination_type>Replaced by a new treaty</termination_type>
+    <docreference>115</docreference>
+    <comments/>
+    <source>SICE OAS</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by a new treaty</IT_TERMINATION_TYPE>
+    <IT_ORIGIN_LANGUAGE>es</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{ARG,CHL}_1991-08-02.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_OVERLAP" document-code="T2017-7">Argentina - Chile FTA (2017)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-70">Chile - Mercosur Complementation Agreement</relation>
+  </meta>
+  <main>
+    <title>
+      <p>TREATY BETWEEN THE ARGENTINE REPUBLIC AND THE REPUBLIC OF CHILE ON PROMOTION AND RECIPROCAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Argentine Republic and the Republic of Chile, hereinafter referred to as "the Contracting Parties";</p>
+      <p>Desiring to strengthen economic cooperation between the two States,</p>
+      <p>Intending to create favourable conditions for investments made by nationals or companies of either State in the territory of the other State, involving transfers of capital,</p>
+      <p>Recognizing that the promotion and protection of such investments under a treaty can encourage private economic initiatives and improve the well-being of both peoples,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Treaty:</p>
+        <p>1. The term "investments" means, in accordance with the legal provisions of the receiving country, any kind of asset which an investor of one Contracting Party invests in the territory of the other Contracting Party, in accordance with the legislation of such Contracting Party, in particular, but not exclusively:</p>
+        <p>(a) Movable and immovable property as well as any other rights in rem, such as mortgages, liens and pledges;</p>
+        <p>(b) Shares, stocks in companies and other forms of participation in companies, as well as earnings capitalization with the right to be transferred abroad;</p>
+        <p>(c) Liabilities or credits directly connected to an investment and which are lawfully contracted and documented in accordance with the legislation in force in the country in which the investment is made;</p>
+        <p>(d) Intellectual property rights, such as, in particular, copyrights, patents, industrial and commercial designs and models, technical processes, know-how and goodwill;</p>
+        <p>(e) Business concessions under public law, including concessions to search for, extract and exploit natural resources.</p>
+        <p>No change in the legal form in which the assets and capital are invested or reinvested shall affect their status as an investment under this Treaty.</p>
+        <p>2. The term "returns" or "income" shall mean the amounts yielded by an investment over a given period, such as profits, dividends, interest, license fees or other remuneration.</p>
+        <p>3. The term "nationals" shall mean:</p>
+        <p>(a) With respect to the Republic of Chile: Chileans as defined in the Political Constitution of the Republic of Chile;</p>
+        <p>(b) With respect to the Argentine Republic: Argentines as defined in the legal provisions in force in Argentina.</p>
+        <p>4. The term "companies" shall mean any juridical person, established in accordance with the legislation of a Contracting Party, having its seat in the territory of the said Contracting Party, whether or not its activities are directed at profit.</p>
+        <p>5. Notwithstanding the provisions of paragraph 3 of this article, the provisions of this Treaty shall apply only to nationals of a Contracting Party who have not been domiciled for more than two years in the territory of the Contracting Party in which the investment was made and who can prove that such investment originates from abroad.paragraph 3 of this article, the provisions of this Treaty shall apply only to nationals of a Contracting Party who have not been domiciled for more than two years in the territory of the Contracting Party in which the investment was made and who can prove that such investment originates from abroad.</p>
+        <p>6. "Territory" shall mean, in addition to the areas situated within the land and maritime boundaries, the marine and submarine spaces over which the Contracting Parties exercise rights of sovereignty and jurisdiction in accordance with their respective legislation and with international law.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and Protection of Investment">
+        <p>1. Each Contracting Party shall encourage investments by nationals or companies of the other Contracting Party in its territory and shall admit such investments in accordance with its legal provisions in force. In any case, each Party shall accord fair and equitable treatment to investments.</p>
+        <p>2. Investments made by nationals or companies of either Contracting Party in accordance with the laws of the other Contracting Party shall enjoy full protection under this Treaty.</p>
+        <p>3. Neither Contracting Party shall subject the management, utilization, use or enjoyment of investments of nationals or companies of the other Contracting Party in its territory to arbitrary or discriminatory measures.</p>
+      </div>
+      <div type="article" num="3" title="National Treatment and Most-favoured-nation Clause">
+        <p>1. Neither Contracting Party shall subject investments in its territory by or with the participation of nationals or companies of the other Contracting Party to treatment less favourable than it accords to investments of its own nationals or companies or to investments of nationals or companies of any third State.</p>
+        <p>2. Neither Contracting Party shall subject nationals or companies of the other Contracting Party, as regards their activity in connection with investments in its territory, to treatment less favourable than it accords to its own nationals or companies or to nationals or companies of any third State.</p>
+        <p>3. Such treatment shall not include privileges which may be extended by either Contracting Party to nationals or companies of third States on account of its membership in a customs or economic union, common market or free trade area, or on account of its association with any such group. Nor shall such treatment include privileges extended by either Contracting Party to nationals or companies of a third State on account of an investment made under concessionary financing provided for in a bilateral treaty between the said Contracting Party and the country to which the aforementioned investors belong.</p>
+        <p>4. The treatment under this article shall not include privileges accorded by a Contracting Party to nationals or companies of third States by virtue of a double taxation avoidance agreement or other tax agreements.</p>
+      </div>
+      <div type="article" num="4" title="Expropriation, Nationalization and Exceptional Situations">
+        <p>1. Investments by nationals or companies of either Contracting Party shall enjoy full protection as well as juridical security in the territory of the other Contracting Party.</p>
+        <p>2. Investments by nationals or companies of either Contracting Party shall not be expropriated, nationalized or subject to any other measure the effects of which would be tantamount to expropriation or nationalization in the territory of the other Contracting Party, except where the law so requires for reasons of public interest or the public good and against prior compensation. Such compensation shall be equivalent to the value of the investment appropriated immediately before the effective or impending expropriation, nationalization or equivalent measure became public knowledge. The compensation shall be readily convertible and freely transferable. The legality of any such expropriation, nationalization or comparable measure and the amount of compensation shall be subject to review by due process of law.</p>
+        <p>3. Nationals or companies of either Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to war or other armed conflict, revolution, a state of national emergency or insurrection shall be accorded by the latter Contracting Party treatment which is no less favourable than that accorded to its own nationals or companies, as regards restitution, compensation, indemnification or other valuable consideration. Such payments shall be freely transferable.</p>
+      </div>
+      <div type="article" num="5" title="Transfers">
+        <p>1. Each Contracting Party shall guarantee to nationals or companies of the other Contracting Party the free transfer of payments in connection with an investment, in particular:</p>
+        <p>(a) The capital and additional amounts to maintain or increase the capital invested;</p>
+        <p>(b) The returns or earnings;</p>
+        <p>(c) Repayment of loans defined in article 1, paragraph 1 (c);</p>
+        <p>(d) The proceeds from the sale of the whole or any part of the investment;</p>
+        <p>(e) The compensation provided for in article 4.</p>
+        <p>2. The transfer shall be effected without delay in accordance with the procedures established in the territory of each Contracting Party, in freely convertible currency and at the rate of exchange applicable in each case, which shall be equivalent to the most favourable rate of exchange.</p>
+        <p>3. A transfer shall be deemed to have been made "without delay" if it is effected within the period normally required for the completion of transfer formalities. Such period shall commence with the submission of the relevant request and may in no circumstances exceed two months.</p>
+      </div>
+      <div type="article" num="6" title="Subrogation">
+        <p>1. If a Contracting Party or one of its agencies makes payments under a guarantee it has accorded against non-commercial risks in respect of investments made in the territory of the other Contracting Party by one of its nationals or companies, the subrogation of the said Contracting Party or its agency in the same rights as the investor covered by the guarantee shall be recognized. Articles 4 and 5, respectively, of this Treaty shall apply in respect of payments to be made to the Contracting Party or its agency on the basis of such subrogation.</p>
+        <p>2. Nationals or companies shall have the right to file suit or to become a party to actions already initiated to protect such remaining rights as they might claim and which have not been subrogated. Following the institution of the proceeding, the procedure established in article 10 shall be followed.</p>
+      </div>
+      <div type="article" num="7" title="Application of other More Favourable Rules">
+        <p>1. If the legislation of one Contracting Party or obligations under international law not covered by this Treaty that are currently existing or to be established between the Contracting Parties contain a regulation, whether general or specific, entitling investments by nationals or companies of the other Contracting Party to treatment more favourable than that provided for by this Treaty, such regulation shall, to the extent that it is more favourable, take precedence over this Treaty.</p>
+        <p>2. Each Contracting Party shall observe any other obligation that it may have entered into with regard to investments in its territory by nationals or companies of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="8" title="Scope of Application">
+        <p>1. This Treaty shall apply to investments made after its entry into force by the nationals or companies of either Contracting Party in the territory of the other Contracting Party. It shall also apply, however, to investments made prior to its entry into force and which, according to the legislation of the Contracting Party in question, were registered as foreign investments.</p>
+        <p>2. This Treaty shall not apply, however, to disputes or claims that arose or were settled prior to its entry into force, or concerning events that occurred prior to its entry into force or related to the mere continuation of such pre-existing situations.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of Disputes between States">
+        <p>1. Disputes between the Contracting Parties relating to the interpretation or application of this Treaty shall, as far as possible, be settled amicably by the Governments of both Contracting Parties.</p>
+        <p>2. If a dispute cannot be thus settled, it shall, at the request of either Contracting Party, be submitted to an arbitral tribunal.</p>
+        <p>3. The arbitral tribunal shall be established on an ad hoc basis. Each Contracting Party shall appoint one member and these two members shall, by agreement, designate a national of a third State as chairman, who shall be appointed by the Governments of the two Contracting Parties. The members shall be appointed within two months and the chairman within three months after either Contracting Party informed the other Party of its intention to submit the dispute to an arbitral tribunal.</p>
+        <p>4. If the time limits provided for under paragraph 3 are not met, and in the absence of any other agreement, either Contracting Party may request the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting Party or is otherwise prevented from discharging the said function, the appointments shall be made by the Vice-President. If the Vice-President is also a national of either Contracting Party or is also prevented from discharging the said function, the appointments shall be made by the member of the Court next in seniority who is not a national of either Contracting Party.</p>
+        <p>5. The arbitral tribunal shall take its decisions by a majority of votes. Its decisions shall be binding. Each Contracting Party shall defray the costs of the arbitrator it has appointed and of its representation in the arbitral proceedings. The costs of the chairman and the remaining costs shall be defrayed in equal parts by the two Contracting Parties. In all other respects, the tribunal shall determine its own procedure.</p>
+        <p>6. If both Contracting Parties are also parties to the Convention on the Settlement of Investment Disputes between States and Nationals of other States, of 18 March 1965, the arbitral tribunal provided for above may, in consideration of the provisions of article 27, paragraph 1, of the said Convention, not be appealed to insofar as agreement has been reached between the national or company of one Contracting Party and the other Contracting Party under article 25 of the Convention. This shall not affect the possibility of appealing to such arbitral tribunal in the event that a decision of the arbitral tribunal established under the said Convention (article 27) is not complied with, or in the event of subrogation in accordance with the provisions of article 6 of this Treaty.</p>
+      </div>
+      <div type="article" num="10" title="Settlement of Investment Disputes">
+        <p>1. Any dispute concerning investments, as defined in this Treaty, between one Contracting Party and a national or company of the other Contracting Party shall, as far as possible, be settled by amicable consultations between the two parties to the dispute.</p>
+        <p>2. If the dispute cannot be settled within six months from the date on which one of the parties gave notice thereof, it shall, at the request of the national or company, be submitted to:</p>
+        <p>- The domestic courts of the Contracting Party involved in the dispute; or</p>
+        <p>- International arbitration according to the provisions of paragraph 3.</p>
+        <p>Once a national or company has submitted the dispute to the courts of the Contracting Party concerned or to international arbitration, the choice of that procedure shall be final.</p>
+        <p>3. In the event of recourse to international arbitration, the dispute may be submitted to one of the arbitration bodies listed below, at the choice of the national or company:</p>
+        <p>- The International Centre for Settlement of Investment Disputes (ICSID) established by the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature in Washington on 18 March 1965, when both States Parties to this Agreement have acceded to it. If this condition is not met, each Contracting Party consents that the dispute shall be submitted to arbitration in accordance with the regulations of the ICSID Additional Facility;</p>
+        <p>- An ad hoc arbitral tribunal set up in accordance with the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).</p>
+        <p>4. The arbitral tribunal shall issue its ruling in accordance with the provisions of this Treaty, the laws of the Contracting Party involved in the dispute, including its rules on conflict of laws, and the terms of any specific agreement concluded in relation to the investment and the relevant principles of international law.</p>
+        <p>5. The arbitral awards shall be final and binding on the parties to the dispute.</p>
+        <p>6. The Contracting Parties shall refrain from pursuing, through diplomatic channels, arguments concerning the arbitration or a judicial process already under way until the respective proceeding has been concluded, unless the parties to the dispute have failed to abide by the award of the arbitral tribunal or by the judgment of the ordinary court, in accordance with the terms of compliance set out in the award or judgment.</p>
+      </div>
+      <div type="article" num="11" title="Entry Into Force, Duration and Termination">
+        <p>1. This Treaty shall be ratified and the instruments of ratification exchanged as soon as possible in Santiago, Chile.</p>
+        <p>2. This Treaty shall enter into force one month after the date of the exchange of instruments of ratification. It shall remain in force for a period of 10 years and shall be renewed thereafter for an indefinite period unless one of the Contracting Parties denounces it in writing 12 months before its expiry. After 10 years, the Treaty may be denounced at any time by giving 12 months advance notice.</p>
+        <p>3. The provisions of this Treaty shall remain fully in force even in the cases provided for by article 63 of the Vienna Convention on the Law of Treaties, of 23 May 1969.</p>
+        <p>4. Investments made prior to the date of termination of this Treaty shall continue to be protected by the provisions of articles 1 to 10 for an additional period of 15 years from the date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Buenos Aires, on August 2nd, one thousand nine hundred and ninety-one in two original copies, both being equally authentic.</p>
+      <p>FOR THE ARGENTINE REPUBLIC</p>
+      <p>Guido Di Tella</p>
+      <p>Domingo F. Cavallo</p>
+      <p>FOR THE REPUBLIC OF CHILE</p>
+      <p>Enrique Silva Cimma</p>
+      <p>Carlos Ominami</p>
+    </conclusion>
+    <attachments>
+      <p>
+        <b>PROTOCOL</b>
+      </p>
+      <p>In the act of signing the Treaty between the Republic of Argentina and the Republic of Chile on Reciprocal Promotion and Protection of Investments, the plenipotentiaries have also adopted the following provisions, which shall be considered an integral part of the Treaty:</p>
+      <div type="article" num="(1)" title="Ad Article 3, Point 3">
+        <p>In the case that one of the Parties will celebrate in the future an Association Agreement with a customs or economic union, a common market or a Free Trade Zone, it will be convenient to introduce a modification to the exception of Article 3, point 3, paragraph 1.</p>
+      </div>
+      <div type="article" num="(2)" title="Ad Article Iv">
+        <p>For the purposes of the causes on which the law affecting ownership may be based, the Parties understand that the concept of common good includes the causes provided for in their respective legal systems in force.</p>
+      </div>
+      <div type="article" num="(3)" title="Ad Article V">
+        <p>Notwithstanding the provisions of Article 5, the Republic of Chile will guarantee the right of repatriation of the capital invested by Argentine investors, after the expiration of the term of three years, since its internment, provided for in Decree Law No. 600 of 1974.</p>
+        <p>The provisions of the preceding paragraph shall be in force as long as the term provided for in the aforementioned Decree Law.</p>
+        <p>Buenos Aires, August 2, 1991.</p>
+        <p>FOR THE ARGENTINE REPUBLIC</p>
+        <p>Guido Di Tella</p>
+        <p>Domingo F. Cavallo</p>
+        <p>FOR THE REPUBLIC OF CHILE</p>
+        <p>Enrique Silva Cimma</p>
+        <p>Carlos Ominami</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

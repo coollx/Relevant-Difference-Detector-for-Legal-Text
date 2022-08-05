@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Netherlands - Russian Federation BIT (1989)</name>
+    <code>T1989-41</code>
+    <partyisocode n="0">NLD</partyisocode>
+    <partyisocode n="1">RUS</partyisocode>
+    <date_signed>1989-10-05</date_signed>
+    <date_into_force>1991-07-20</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2645</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{NLD,RUS}_1989-10-05.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-103">EC - Russia PCA (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on encouragement and reciprocal protection of investments between the Kingdom of the Netherlands and the Union of Soviet Socialist Republics</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of the Netherlands, and the Government of the Union of Soviet Socialist Republics, (hereinafter referred to as "the Contracting Parties")</p>
+      <p>Desiring to strengthen the traditional ties of friendship between the countries and to extend and intensify the economic relations between them particularly with respect to investments by the investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognizing that agreement upon fair and equitable treatment to be accorded to such investments will stimulate the flow of capital and technology and the economic development of the Contracting Parties.</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purpose of this agreement:</p>
+        <p>(a) The term &#x2018;investor' shall comprise with regard to either Contracting Party:</p>
+        <p>i. Natural persons having the nationality of that Contracting Party in accordance with its laws and having the right to effect in accordance with the laws of their country investments on the territory of the other Contracting Party:</p>
+        <p>ii. Legal persons constituted under the law of that Contracting Party and having the right to effect in accordance with the laws of their country investments on the territory of the other Contracting Party;</p>
+        <p>(b) The term &#x2018;investment' shall comprise every kind of assets to be invested either directly or through an investor of a third State, by investors of the one Contracting Party on the territory of the other Contracting Party in accordance with the laws of the last Contracting Party including in particular, though not exclusively:</p>
+        <p>i. Property such as buildings and equipment and any property rights thereto;</p>
+        <p>ii. Monetary funds, as well as rights derived from shares, bonds and other forms of participation;</p>
+        <p>iii. Title to money or to any other asset of performance having an economic value;</p>
+        <p>iv. Rights in the field of intellectual property, technical processes and know-how;</p>
+        <p>v. Rights to conduct commercial activity, including rights to prospect, explore, extract and exploit natural resources, granted under contract or under the legislation of the Contracting Party in the territory of which such activity is undertaken.</p>
+        <p>(c) The present Agreement shall apply to the territory of each of the Contracting Parties, as well as to the maritime areas extending beyond the territorial sea of each of the Contracting Parties, in which they exercise, in accordance with international law, their sovereign rights of jurisdiction for the purpose of exploring, exploiting and concerning natural resources.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Either Contracting Party shall within the framework of its laws and regulations promote economic cooperation through the protection in its territory of investments of investors of the other Contracting Party. Subject to its right to exercise powers conferred by its laws or regulations, each Contracting Party shall admit such investments.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1) Each Contracting Party shall ensure fair and equitable treatment to the investments of investors of the other Contracting Party and shall not impair by unreasonable or discriminatory measures, the operation, management, maintenance, use, enjoyment or disposal thereof by those investors. Each Contracting Party shall accord to such investments full security and protection.</p>
+        <p>2) The treatment as mentioned in paragraph 1 of this Article, shall not be less favourable than that accorded to investors of any third State.</p>
+        <p>3) The provisions of this Article shall not be construed so as to oblige either Contracting Party to accord preferences and advantages to investors of the other Contracting Party similar to those accorded to investors of a third State</p>
+        <p>(a) By virtue of membership of the former of any existing or future customs union or economic union or an organisation for mutual economic assistance; or</p>
+        <p>(b) In accordance with an international agreement providing for preferences and advantages similar to those granted by this Contracting Party to members of an organisation as referred to in a) above, which has come into force before the date of signing this Agreement: or</p>
+        <p>(c) On the basis of an agreement for the avoidance of double taxation or other agreements or arrangements on taxation, or on the basis of reciprocity with a third State.</p>
+        <p>4) Each Contracting Party shall observe any obligation it may have entered into with regard to investments of investors of the other Contracting Party.</p>
+        <p>5) If the provisions of law of either Contracting Party of obligations under international agreements existing at present or established hereafter between the Contracting Parties contain a regulation, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided for by the present Agreement, such regulation shall to the extent that it is more favourable prevail over the present Agreement.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Each Contracting Party shall guarantee to the investors of the other Contracting Party that their payments related to the investment may be transferred. The transfer shall be made in a freely convertible currency, without undue restriction or delay. Such transfers include in particular but not exclusively:</p>
+        <p>(a) Profits, interest, dividends, royalties, fees and other current income:</p>
+        <p>(b) The proceeds of sale or liquidation of the investment which are due to the investor:</p>
+        <p>(c) Funds in repayment of loans:</p>
+        <p>(d) The unspent part of wages and other remuneration due to the nationals of one Contracting Party employed on the territory of the other Contracting Party in connection with an investment.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party shall guarantee in accordance with its legislation in force at the time of signing this Agreement free transfer of convertible currency funds of enterprises with the participation of investors of the other Contracting Party, amongst other things for the acquisition of raw materials or auxiliary materials, semi-fabricated or finished products, for the replacement of capital assets or for the development of an investment.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Neither Contracting Party shall take any measures depriving investors of the other Contracting Party of their investments nor take any measures having similar effects unless the following conditions are complied with:</p>
+        <p>(a) The measures are taken in the public interest and under due process of law;</p>
+        <p>(b) The measures are not discriminatory;</p>
+        <p>(c) The measures are accompanied by provisions for the payment of just compensation. Such compensation shall represent the real value of the investments affected and shall, in order to be effective for the claimants, be paid and made freely transferable without undue delay, in any freely convertible currency accepted by the claimants.</p>
+      </div>
+      <div type="article" num="7">
+        <p>Investors of the one Contracting Party who suffer losses in respect of their investments in the territory of the other Contracting Party owing to war or other armed conflict, a state of national emergency, civil disturbance or other exceptional situations shall be accorded by the latter Contracting Party fair and equitable treatment, as regards restitution, indemnification, compensation or other settlement, which in any case shall not be less favourable than that accorded to investors of any third State. Resulting payments shall be made without delay and be freely transferable.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1) If the investments of an investor of the one Contracting Party are insured against non-commercial risks under a system established by law or under a contract, any subrogation of the insurer or re-insurer into the rights of the said investor pursuant to the terms of such insurance shall be recognized by the other Contracting Party.</p>
+        <p>2) The insurer or re-insurer shall not be entitled to exercise any rights other than the rights, which the investor would have been entitled to exercise. The subrogation does not affect any right the other Contracting Party may have with regard to the investor.</p>
+      </div>
+      <div type="article" num="9">
+        <p>1) All disputes between one Contracting Party and an investor of the other Contracting Party concerning an investment of the latter shall if possible be settled amicably.</p>
+        <p>2) Disputes concerning the amount or procedure of payment of compensation under Article 6 of this Agreement or concerning the free transfer as defined in Article 4 of this Agreement which cannot be settled amicably within a period of six months from the date either party to the dispute requested amicable settlement, may be referred by the investor to international arbitration or conciliation.</p>
+        <p>3) Each Contracting Party hereby consents to the submission of disputes as referred to in paragraph 2 of this Article to international arbitration or conciliation.</p>
+        <p>4) As to the composition and procedures of the arbitral tribunal, the provisions of paragraphs 2-8 of Article 13 shall be applied accordingly. Nevertheless the president of the Arbitration Institute of the Chamber of Commerce in Stockholm shall be invited to make the necessary appointments.</p>
+      </div>
+      <div type="article" num="10">
+        <p>The provisions of this Agreement shall, from the date of entry into force thereof, also apply to investments, which have been made on or after 1 January 1969.</p>
+      </div>
+      <div type="article" num="11">
+        <p>As regards the Kingdom of the Netherlands, the present Agreement shall apply to the Kingdom of the Netherlands as a whole, unless the notification provided for in Article 14, paragraph (1) provides otherwise.</p>
+      </div>
+      <div type="article" num="12">
+        <p>Either Contracting Party may propose to the other Party to consult on any matter concerning the interpretation or application of the Agreement. The other Party shall accord sympathetic consideration to and shall afford adequate opportunity for such consultation.</p>
+      </div>
+      <div type="article" num="13">
+        <p>1) Any dispute between the Contracting Parties concerning the interpretation or application of the present Agreement, which cannot be settled within a reasonable lapse of time by means of diplomatic negotiations, shall, unless the Contracting Parties have otherwise agreed, be submitted, at the request of either Contracting Party, to an arbitral tribunal.</p>
+        <p>2) The arbitral tribunal shall be composed of three members. Each Contracting Party shall appoint one arbitrator and the two arbitrators thus appointed shall together appoint a third arbitrator as their chairman who is not a national of either Contracting Party.</p>
+        <p>3) If one of the Contracting Parties fails to appoint its arbitrator and has not proceeded to do so within two months after an invitation from the other Contracting Party to make such appointment, the latter Contracting Party may invite the President of the International Court of Justice to make the necessary appointment.</p>
+        <p>4) If the two arbitrators are unable to reach agreement, in the two months following their appointment, on the choice of the third arbitrator, either Contracting Party may invite the President of the International Court of Justice, to make the necessary appointment.</p>
+        <p>5) If, in the cases provided for in the paragraphs (3) and (4) of this Article, the President of the International Court of Justice is prevented from discharging the said function or is a national of either Contracting Party, the Vice-President of the International Court of Justice shall be invited to make the necessary appointments. If the Vice-President is prevented from discharging the said function or is a national of either Contracting Party the most senior member of the Court available who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>6) The tribunal shall decide on the basis of respect for the law. Before the tribunal decides, it may at any stage of the proceedings propose to the Contracting Parties, that the dispute be settled amicably. The foregoing provisions shall not prejudice the power of the tribunal to decide the dispute on the principle of equity if the Contracting Parties so agree.</p>
+        <p>7) Unless the Contracting Parties decide otherwise, the tribunal shall determine its own procedure.</p>
+        <p>8) The tribunal shall reach its decision by a majority of votes. Such decision shall be final and binding on the Contracting Parties.</p>
+      </div>
+      <div type="article" num="14">
+        <p>1) The present Agreement shall enter into force the thirtieth day following the date on which the Contracting Parties have informed each other in writing that the procedures constitutionally required therefore in their respective countries have been complied with and shall remain in force for a period of fifteen years.</p>
+        <p>2) Unless notice of termination has been given by either Contracting Party at least six months before the date of the expiry of its validity, the present Agreement shall be extended tacitly for periods of ten years, each Contracting Party reserving the right to terminate the Agreement upon notice of at least six months before the date of expiry of the current period of validity.</p>
+        <p>3) In respect of investments made before the date of the termination of the present Agreement the foregoing Articles thereof shall continue to be effective for a further period of fifteen years from that date.</p>
+        <p>4) Subject to the period mentioned in paragraph (2) of this Article, the Government of the Kingdom of the Netherlands shall be entitled to terminate the application of the present Agreement separately in respect of any of the parts of the Kingdom.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS THEREOF, the undersigned representatives, duly authroized thereto, have signed the present Agreement.</p>
+      <p>DONE in duplicate at [place] on [date], in the Netherlands, Russian and English languages, the three texts being equally authentic. In case of difference of interpretation, the interpretation will be done in accordance with the English text.</p>
+      <p>For the Government of the Kingdom of the Netherlands:</p>
+      <p>For the Government of the Union of Soviet Socialist Republics:</p>
+    </conclusion>
+  </main>
+</treaty>

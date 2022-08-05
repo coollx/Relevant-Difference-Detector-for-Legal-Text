@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Malaysia - Sri Lanka BIT (1982)</name>
+    <code>T1982-15</code>
+    <partyisocode n="0">LKA</partyisocode>
+    <partyisocode n="1">MYS</partyisocode>
+    <date_signed>1982-04-16</date_signed>
+    <date_into_force>1995-10-31</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2482</docreference>
+    <comments>http://www.miti.gov.my/miti/resources/auto%20download%20images/5567e02a07486.pdf</comments>
+    <source>Malaysian Ministry of Trade and Industry</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{LKA,MYS}_1982-04-16.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of Malaysia and the Government of the Democratic Socialist Republic of Sri Lanka for the promotion and protection of investment</p>
+    </title>
+    <preamble>
+      <p>The Government of Malaysia and the Government of the Democratic Socialist Republic of Sri Lanka hereinafter referred to as the ''Government of Sri Lanka";</p>
+      <p>Desiring to create favourable conditions for greater economic cooperation between them and in particular for investment by nationals of one State in the territory of the other State;</p>
+      <p>Recognizing the need to protect investment by nationals and companies of both States and to stimulate the flow of capital with a view to the economic prosperity of both States</p>
+      <p>Hove agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>(a)  "investment" means every kind of asset and in particular, though not exclusively, includes: -</p>
+        <p>(i) movable and immovable property and any other property rights such as mortgages, liens or pledges:</p>
+        <p>(ii)  shares, stocks and debentures of companies or interests in the property of such companies:</p>
+        <p>(iii)  claims to money or to any performance under contract having a financial value;</p>
+        <p>(iv)  copyrights, industrial property rights (such as patents for inventions, trade marks, industrial designs), know-how, trade-names and goodwill;</p>
+        <p>(v)  business concessions conferred by law or under contract, including concessions to search for, cultivate, sxtract or exploit natural resources.</p>
+        <p>(b)  "returns" means the amounts yielded by an investments and in particular, though not exclusively, incluaes profit, interest, capital gains, dividends, royalties or fees.</p>
+        <p>(c)  "nationals" means: -</p>
+        <p>(i)  in respect of Malaysia: any person who is a citizen of Malaysia according to its constitution;</p>
+        <p>(ii)  in respect of Sri Lanka: a person who is a citizen of Sri Lanka according to Its laws,</p>
+        <p>(d)  "companies" means:-</p>
+        <p>(i)  in respect of Malaysia: any company wish a limited liability incorporated in the territory of Malaysia or any juridical person or any association of persons or partnership or sole proprietorship lawfully constituted in accordance with the law in force in any part of the territory of Malaysia;</p>
+        <p>(ii)  in respect of Sri Lanka: corporations, firms or associations incorporated or constituted under the law in force in any part of Sri Lanka,</p>
+        <p>(e)  "territory" means: -</p>
+        <p>(i)  in respect of Malaysia: all the states in Malaysia:</p>
+        <p>(ii)  In respect of Sri Lanka; the territory which Constitutes the Republic of Sri Lanka.</p>
+      </div>
+      <div type="article" num="2" title="Applicability of this agreement">
+        <p>(1)  The term "investment" shall refer:-</p>
+        <p>(a)  in respect of investments in the territory of Malaysia, to all investments made by Sri Lankan Nationals or companies in projects classified by the appropriate Ministry of Malaysia in accordance with its legislation and administrative practice as an "approved project";</p>
+        <p>(b)  in respect of investments in the territory of Sri Lanka, to all investments made by nationals and companies of Malaysia which are specifically approved in writing by the Government of Sri Lanka or by any of its designated agencies, and upon such conditions, if any, as shall be deemed fit.</p>
+        <p>(2)  Any alteration of the form in which assets are invested shall not affect their classification as investment, provided that such alteration is not contrary to the approval, if any, granted in respect of the assets originally Invested.</p>
+      </div>
+      <div type="article" num="3" title="Promotion and protection of investment">
+        <p>(1)  Each Contracting Party shall encourage and create favourable conditions for nationals or companies of the other Contracting Party to invest capital in its territory, and, subject to its rights to exercise powers conferred by its laws, shall admit such capital.</p>
+        <p>(2)  Investments of nationals or companies of either Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party. Neither Contracting Party shall in any way impair by unreasonable or discriminatory measures the management, maintenance, use. enjoyment or disposal of Investments in its territory of nationals or companies of the other Contracting Party. Each Contracting Party shall observe any obligation it may have entered into with regard to investments of nationals or companies of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="4" title="Most-favoured-nation provisions">
+        <p>(1)  Neither Contracting Party shall in its territory subject investments or returns of nationals or companies of the other Contracting Party to treatment less favourable than that which it accords to investments or returns of its own nationals or companies or to Investments or returns of nationals or companies of any third State.</p>
+        <p>(2)  Neither Contracting Party shall in its territory subject nationals or companies of the other Contracting Party, as regards their management, use, enjoyment or disposal of their investments, to treatment less favourable than that which it accords to its own nationals or companies or to nationals or companies of any third State.</p>
+        <p>(3] Nationals or companies of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection or riot in the territory of the latter Contracting Party shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which the latter Contracting Party accords to nationals or companies or any third State.</p>
+      </div>
+      <div type="article" num="5" title="Exceptions">
+        <p>The provisions in this Agreement relative to the grant of treatment not less favourable than that accorded to the nationals or companies of either Contracting Party or of any third State shall not be construed so as to oblige one Contracting Party to extend to the nationals or companies of the other the benefit of any treatment, preference or privilege which may be extended by the former Contracting Party by virtue of: -</p>
+        <p>(a)  the formation of a custom union, a free trade arrangement or any regional and interregional arrangement; or</p>
+        <p>(b)  the adoption of an agreement designed to lead to the formation or extension of such a union or arrangement as specified in paragraph (a) of this Article within a reasonable length of time; or</p>
+        <p>(c)  any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation">
+        <p>Neither of the parties shall take measures of expropriation, nationalisation or disposession or any other measures having effect equivalent to nationalisation or expropriation, against investments belonging to nationals or companies of the other Contracting Party, unless the measures are taken in the public interest, on a non-discriminatory basis and under due process of law and provided that provisions be made for prompt, effective and adequate compensation. The amount of compensation, which shall have seen fixed at the time of expropriation, nationalisation or dispossession, shall be settled in convertible and transferable currency and be paid without undue delay to the person entitled thereto.</p>
+      </div>
+      <div type="article" num="7" title="Repatriation of investment">
+        <p>Each Contracting Party shall in respect of investments allow nationals or companies of the other Contracting Party free transfer of their capital and of returns from it. Nevertheless each Contracting Party shall have the right to restrict in exceptional circumstances, for balance of payments needs, the transfer of such proceeds in a manner consistent with its rights and obligations as a member of the International Monetary Fund.</p>
+      </div>
+      <div type="article" num="8" title="Laws">
+        <p>This Agreement shall apply to investment made in the territory of either Contracting Party in accordance with its legislation or rules or regulations by nationals or companies of the other Contracting Party prior to as well as after the entry into force of this Agreement.</p>
+      </div>
+      <div type="article" num="9" title="Reference to international center for settlement of investment disputes">
+        <p>(1) Each Contracting Party hereby consents to submit to the International Center for the Settlement of Investment Disputes [hereinafter referred to as "the Center") for settlement by conciliation or arbitration under the Convention on the Settlement of Investment Disputes between States and Nationals of Other States opened for signature at Washington on 16 March 1965 any legal dispute arising between that Contracting Party and a national or a company of the other Contracting Party concerning an investment of the latter in the territory of the former.</p>
+        <p>(2)  A company which is incorporated or constituted under the law in force in the territory of one Contracting Party and in which before such a dispute arises the majority of shares are owned by nationals or companies of the other Contracting Party shall in accordance with Article 25(2) (b) of the Convention be treated for the purposes of the Convention as a company of the ether Contracting Party. If any such dispute should arise and agreement cannot be reached or the dispute cannot be finally disposed of within twelve months between the parties to this dispute through pursuit of local remedies or otherwise, then, if the national or company affected also consent in writing to submit the dispute to the Center for settlement by conciliation or arbitration under the Convention, either party may institute proceedings by addressing a request to that effect to the Secretary-General of the Center as provided in Articles 20 and 36 of the Convention. In the event of disagreements to whether conciliation or arbitration is the more appropriate procedure the national or company affected snail have the right to choose. The Contracting Party which is a party to the dispute shall not raise as an objection at any stage of the proceedings or enforcement of an award the fact that the national or company which is the other party to the dispute has received in pursuance of an insurance contract an indemnity in respect of some or all of his or its losses.</p>
+        <p>(3)  Neither Contracting Party shall pursue through diplomatic channels any dispute referred to the Center unless:-</p>
+        <p>(a)  the Secretary-General of the Center or a conciliation commission or an arbitral tribunal constituted by it, decides that the dispute is not within the jurisdiction of the Center; or</p>
+        <p>(b)  the other Contracting Party should fail to abide by or to comply with any award rendered by an arbitral tribunal.</p>
+      </div>
+      <div type="article" num="10" title="Disputes between the contracting parties">
+        <p>(1)  Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>(2)  If a dispute between the Contracting Parties cannot thus be settled, it shall, upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>(3)  Such an arbitral tribunal shall be constituted for each individual case in the following way. Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of third State who on approval by the two Contracting Parties shall be appointed Chairman of the tribunal. The Chairman shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>(4)  If within the periods specified in paragraph (3) of this Article the necessary appointments have not been maaB, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the VicePresident shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he too is prevented from discharging the said function, the Member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>(5)  The arbitral tribunal shall reach its decision by a majority of votes. Such decision shall be binding on both Contracting Parties. Each Contracting Party shall bear the cost of its own member of the tribunal and.of its representation in the arbitral proceedings; the Cost cf the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two Contracting Parties, and this award shall be binding on both Contracting Parties. The tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="11" title="Subrogation">
+        <p>If either Contracting Party maKes payment under an indemnity it has given in respect of an investment or any part thereof in the territory of the other Contracting Party, the latter Contracting Party shall recognise</p>
+        <p>(a)  the assignment, whether under law or pursuant to a legal transaction, of any right or claim from the party indemnified to the former Contracting Party (or its designated Agency); and</p>
+        <p>(b)  that the former Contracting Party Cor its designated Agency) is entitled by virtue of subrogation to exercise the rights and enforce the claims of such a party.</p>
+        <p>The former Contracting Party (or its designated Agency) shall accordingly if it so desires be entitled to assert any such right or claim to the same extent as its predecessor in title either before a Court or tribunal in the territory of the latter Contracting Party or in any other circumstances. If the former Contracting Party acquires amounts in the lawful currency of the ether Contracting Party or credits thereof by assignment under the terms of an indemnity the former Contracting Party shall be accorded in respect thereof treatment not less favourable than that accorded to the funds of companies or nationals of the latter Contracting Party or of any third State deriving from investment activities similar to those in which the party indemnified was engaged. Such amounts and credits snail be freely available to the former Contracting Party concerned for the purpose of meeting its expenditure in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="12" title="Entry in force, duration and termination">
+        <p>(1)  This Agreement shall be ratified and shall enter into force on the exchange of instruments/of ratification.</p>
+        <p>(2)  This Agreement shall remain in force for a period of ten years. Thereafter it shall continue in force until the expiration of twelve months from the date on which either Contracting Party shall have given written notice of termination to the other. Provided that in respect of investments made whilst the Agreement is in force, its provisions shall continue in effect with respect to such investments for a period of ten years after the date of termination and without prejudice to the application thereafter of the rules of general international law.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the undersigned, duly authorised thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done at Kuala Lumpur, this 16th day of April, 1982, in six original copies, two each in Sahasa Malaysia, Sinhala and English all three texts being equally authentic. In the case of divergence between the texts of this Agreement, the English text shall prevail.</p>
+      <p>For the Government of Malaysia.</p>
+      <p>For the Government of the Democratic Socialist Republic of Sri Lanka.</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" title="Exchange of letters between the government of malaysia and the government of the democratic socialist republic of sri lanka constituting an understanding regarding the exclusion from national treatment in the mutual agreement for the promotion and protection of investment">
+        <p>16 May 1995</p>
+        <p>Excellency,</p>
+        <p>1. I have the honour to refer to the Agreement between the Government of Malaysia and the Government of the Democratic Socialist Republic of Sri Lanka for the Mutual Promotion and Protection of Investments signed on 16 April 1982 at Kuala Lumpur, Malaysia hereinafter referred to as "the said Agreement".</p>
+        <p>2.  It has been the understanding of the Government of Malaysia and the Government of Sri Lanka that for the purpose of Article 4 of the said Agreement, national treatment in the territory of Malaysia shall not be accorded to investments in the banking and insurance sectors. Should circumstances in these sectors at a later date change, either party can request for a negotiation which shall take place on a date to be agreed by both Contracting Parties.</p>
+        <p>3.  The above understanding shall not in any way affect the grant of most favoured nation treatment to investments in the banking and insurance sectors in the territory of Malaysia, in accordance with Article 4 of the said Agreement.</p>
+        <p>4.  I have the honour to propose that this Note, which is authentic in English and Bahasa Malaysia, and your reply to that effect shall constitute the understanding between our two Governments and shall be regarded as an integral part of the said Agreement.</p>
+        <p>5.  Accept, Excellency, renewed assurances of my highest consideration.</p>
+        <p>Minister of Foreign Affairs</p>
+        <p>For The Government of Malaysia</p>
+      </div>
+      <div type="annex" title="Exchange of letters between the government of malaysia and the government of sri lanka constituting an understanding regarding the exclusion from national treatment in the mutual agreement for the promotion and protection of investment">
+        <p>Date: 16 May 1995</p>
+        <p>Excellency,</p>
+        <p>1. I have the honour to refer to your Note dated 16 May 1995.</p>
+        <p>2.  I have further the honour to confirm the understanding of the Government of Malaysia and the Government of Sri Lanka that for the purpose of Article 4 of the said Agreement, national treatment in the territory of Malaysia shall not be accorded to investments in the banking and insurance sectors. Should circumstances in these sectors at a later date change, either party can request a negotiation which shall take place on a date to be agreed by both Contracting Parties.</p>
+        <p>3.  I confirm that your Note dated 16 May 1995 and my reply, which is authentic in English and Sinhala shall constitute the understanding between our Governments and shall be regarded as an integral part of the said Agreement.</p>
+        <p>4.  Accept, Excellency, renewed assurances of my highest consideration.</p>
+        <p>Minister of Foreign Affairs</p>
+        <p>For the Government of Sri Lanka</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

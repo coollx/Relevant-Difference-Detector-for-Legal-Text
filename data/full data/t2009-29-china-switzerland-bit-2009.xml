@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>China - Switzerland BIT (2009)</name>
+    <code>T2009-29</code>
+    <partyisocode n="0">CHE</partyisocode>
+    <partyisocode n="1">CHN</partyisocode>
+    <date_signed>2009-01-27</date_signed>
+    <date_into_force>2010-04-13</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en, fr</orig_language>
+    <termination_type/>
+    <docreference>978</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CHE,CHN}_2009-01-27.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en, fr</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_REPLACING" document-code="T1986-5">China - Switzerland BIT (1986)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Swiss Federal Council and the Government of the People's Republic of China on the Promotion and Reciprocal Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>Preamble</p>
+      <p>The Government of the People's Republic of China and the Swiss Federal Council,</p>
+      <p>Desiring to intensify economic cooperation to the mutual benefit of both States,</p>
+      <p>Intending to create and maintain favourable conditions for investments by investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognizing the need to promote and protect foreign investments with the aim to foster the economic prosperity of both States,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>(1) The term "investment" shall include every kind of asset, and in particular:</p>
+        <p>(a) Movable and immovable property as well as any other rights in rem, such as servitudes, mortgages, liens, pledges and usufructs;</p>
+        <p>(b) Shares, parts or any other kind of participation in companies;</p>
+        <p>(c) Claims to money or to any performance having an economic value;</p>
+        <p>(d) Copyrights, industrial property rights (such as patents, utility models, industrial designs or models, trade or service marks, trade names, indications of origin), know-how and goodwill;</p>
+        <p>(e) Business concessions under public law, including concessions to search for, extract or exploit natural resources as well as all other rights given by law, by contract or by decision of the authority in accordance with the law.</p>
+        <p>(2) The term "investor" refers with regard to either Contracting Party to:</p>
+        <p>(a) Natural persons who, according to the law of that Contracting Party, are considered to be its nationals;</p>
+        <p>(b) Legal entities, including companies, corporations, business associations and other organisations, which are constituted or otherwise duly organised under the law of that Contracting Party and have their seat, together with real economic activities, in the territory of the same Contracting Party;</p>
+        <p>(c) Legal entities established under the law of a third State but effectively controlled by natural persons as defined in (a) above or by legal entities as defined in (b) above.</p>
+        <p>(3) The term "returns" means the amounts yielded by an investment and includes in particular, profits, interest, capital gains, dividends, royalties and fees.</p>
+        <p>(4) The term "territory" means the territory of either Contracting Party, including the land territory, the internal waters and, where applicable, the territorial sea and the airspace above them, as well as any maritime area beyond the territorial sea of the Contracting Party concerned, including the seabed, subsoil and natural resources thereof, over which that Party exercises sovereign rights or jurisdiction in accordance with domestic and international law.</p>
+      </div>
+      <div type="article" num="2" title="Scope of application">
+        <p>The present Agreement shall apply to investments in the territory of one Contracting Party made in accordance with its laws and regulations by investors of the other Contracting Party, whether prior to or after the entry into force of the Agreement. It shall however not be applicable to claims or disputes arising out of events which occurred prior to its entry into force.</p>
+      </div>
+      <div type="article" num="3" title="Promotion, admission">
+        <p>(1) Each Contracting Party shall in its territory promote as far as possible investments by investors of the other Contracting Party and admit such investments in accordance with its laws and regulations.</p>
+        <p>(2) When a Contracting Party shall have admitted an investment on its territory, it shall provide, in accordance with its laws and regulations, all necessary permits or authorisations in connection with such investment including permits for the carrying out of licensing agreements and contracts for technical or administrative assistance as well as authorisations required for personnel of the investor's choice.</p>
+      </div>
+      <div type="article" num="4" title="Protection, treatment">
+        <p>(1) Investments and returns of investors of each Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party. Neither Contracting Party shall in any way impair by unreasonable or discriminatory measures the management, maintenance, use, enjoyment, extension or disposal of such investments.</p>
+        <p>(2) Each Contracting Party shall in its territory accord investments or returns of investors of the other Contracting Party treatment not less favourable than that which it accords to investments or returns of its own investors (national treatment) or to investments or returns of investors of any third State (MFN treatment), whichever is more favourable to the investor concerned.</p>
+        <p>(3) Each Contracting Party shall in its territory accord investors of the other Contracting Party, as regards the management, maintenance, use, enjoyment or disposal of their investments, treatment not less favourable than that which it accords to its own investors (national treatment) or investors of any third State (MFN treatment), whichever is more favourable to the investor concerned.</p>
+        <p>(4) If a Contracting Party accords special advantages to investors of any third State by virtue of an agreement establishing a free trade area, a customs union or a common market or by virtue of an agreement on the avoidance of double taxation, it shall not be obliged to accord such advantages to investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="5" title="Transfers">
+        <p>(1) Each Contracting Party in whose territory investments have been made by investors of the other Contracting Party shall grant those investors the transfer of the amounts relating to such investments, in particular of:</p>
+        <p>(a) Returns;</p>
+        <p>(b) Payments relating to loans incurred, or other contractual obligations undertaken, for the investment;</p>
+        <p>(c) Amounts assigned to cover expenses relating to the management of the investment;</p>
+        <p>(d) Royalties and other payments deriving from rights enumerated in Article 1, paragraph (1), letters (c), (d) and (e) of this Agreement;</p>
+        <p>(e) Earnings and other remuneration of personnel engaged from abroad in connection with the investment;</p>
+        <p>(f) The initial capital and additional amounts to maintain or increase the investment;</p>
+        <p>(g) The proceeds of the partial or total sale or liquidation of the investment, including possible increment values.</p>
+        <p>(2) The transfer mentioned above shall be made without delay in a freely convertible currency and at the prevailing market rate of exchange applicable within the Contracting Party accepting the investments and on the date of transfer. In the event that the market rate of exchange does not exist, the rate of exchange shall correspond to the cross rate obtained from those rates which would be applied by the International Monetary Fund on the date of payment for conversions of the currencies concerned into Special Drawing Rights.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation, compensation">
+        <p>(1) Neither of the Contracting Parties shall take, either directly or indirectly, measures of expropriation, nationalization or any other measures having the same nature or the same effect against investments of investors of the other Contracting Party, unless the measures are taken in the public interest, on a non-discriminatory basis and provided that provisions be made for compensation. Such compensation shall amount to the market value of the investment expropriated immediately before the expropriatory action was taken or became public knowledge, whichever is earlier. The amount of compensation shall include interest at a normal commercial rate from the date of dispossession until the date of payment, shall be settled in a freely convertible currency, be paid without delay and be freely transferable. The investor affected shall have a right, under the law of the Contracting Party making the expropriation, to prompt review, by a judicial or other independent authority of that Contracting Party, of his case and of the valuation of his investment in accordance with the principles set out in this paragraph.</p>
+        <p>(2) Where a Contracting Party expropriates the assets of a company which is incorporated or constituted under the law in force in any part of its own territory, and in which investors of the other Contracting Party own shares, it shall, to the extent necessary and subject to its laws, ensure, that compensation according to paragraph (1) of this Article will be made available to such investors.</p>
+      </div>
+      <div type="article" num="7" title="Compensation for losses">
+        <p>The investors of one Contracting Party whose investments have suffered losses due to war or to any other armed conflict, revolution, state of emergency, rebellion, civil disturbance, or any other similar event in the territory of the other Contracting Party shall benefit, on the part of this latter, from a treatment in accordance with Article 4 of this Agreement as regards restitution, indemnification, compensation or other settlement.</p>
+      </div>
+      <div type="article" num="8" title="Other commitments">
+        <p>Each Contracting Party shall observe any obligation it may specifically have entered into with regard to investments in its territory by investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="9" title="More favourable provisions">
+        <p>If provisions in the legislation of either Contracting Party or rules of international law entitle investments by investors of the other Contracting Party to treatment more favourable than is provided for by this Agreement, such provisions or rules shall to the extent that they are more favourable prevail over this Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Principle of subrogation">
+        <p>Where one Contracting Party has granted any financial guarantee against non-commercial risks in regard to an investment by one of its investors in the territory of the other Contracting Party, the latter shall recognize the rights of the first Contracting Party by virtue of the principle of subrogation to the rights of the investor when payment has been made under this guarantee by the first Contracting Party.</p>
+      </div>
+      <div type="article" num="11" title="Disputes between a contracting party and an investor of the other contracting party">
+        <p>(1) For the purpose of solving disputes with respect to investments between a Contracting Party and an investor of the other Contracting Party and without prejudice to Article 12 of this Agreement (Disputes between the Contracting Parties), consultations will take place between the parties concerned.Article 12 of this Agreement (Disputes between the Contracting Parties), consultations will take place between the parties concerned.</p>
+        <p>(2) If these consultations do not result in a solution within six months from the date of the written request for consultations, the investor may submit the dispute either to the courts or the administrative tribunals of the Contracting Party in whose territory the investment has been made or to international arbitration. In the latter event the investor has the choice between either of the following:</p>
+        <p>(a) The International Centre for Settlement of Investment Disputes (ICSID) provided for by the Convention on the Settlement of Investment Disputes between States and Nationals of other States, opened for signature at Washington, on March 18, 1965; or</p>
+        <p>(b) An ad hoc-arbitral tribunal which, unless otherwise agreed upon by the parties to the dispute, shall be established under the arbitration rules of the United Nations Commission on International Trade Law (UNCITRAL).</p>
+        <p>(3) Each Contracting Party hereby consents to the submission of an investment dispute to international arbitration.</p>
+        <p>(4) A dispute that has been submitted, in accordance with paragraph 2, to a competent court of the Contracting Party concerned, may only be submitted to international arbitration after withdrawal by the investor of the case from the domestic court.</p>
+        <p>(5) The Contracting Party which is party to the dispute shall at no time whatsoever during the process assert as a defence its immunity or the fact that the investor has received, by virtue of an insurance contract, a compensation covering the whole or part of the incurred damage.</p>
+        <p>(6) Neither Contracting Party shall pursue through diplomatic channels a dispute submitted to international arbitration unless the other Contracting Party does not abide by and comply with the arbitral award.</p>
+        <p>(7) The arbitral award shall be final and binding for the parties to the dispute and shall be executed without delay according to the law of the Contracting Party concerned.</p>
+      </div>
+      <div type="article" num="12" title="Disputes between the contracting parties">
+        <p>(1) Disputes between the Contracting Parties regarding the interpretation or application of the provisions of this Agreement shall if possible be settled through diplomatic channels.</p>
+        <p>(2) If both Contracting Parties cannot reach an agreement within six months after the beginning of the dispute between themselves, the latter shall, upon request of either Contracting Party, be submitted to an arbitral tribunal of three members. Each Contracting Party shall appoint one arbitrator, and these two arbitrators shall nominate a chairman who shall be a national of a third State.</p>
+        <p>(3) If one of the Contracting Parties has not appointed its arbitrator and has not followed the invitation of the other Contracting Party to make that appointment within two months, the arbitrator shall be appointed upon the request of that Contracting Party by the President of the International Court of Justice.</p>
+        <p>(4) If both arbitrators cannot reach an agreement about the choice of the chairman within two months after their appointment, the latter shall be appointed upon the request of either Contracting Party by the President of the International Court of Justice.</p>
+        <p>(5) If, in the cases specified under paragraphs (3) and (4) of this Article, the President of the International Court of Justice is prevented from carrying out the said function or is a national of either Contracting Party, the appointment shall be made by the Vice-President, and if the latter is prevented or is a national of either Contracting Party, the appointment shall be made by the most senior Judge of the Court who is not a national of either Contracting Party.</p>
+        <p>(6) Subject to other provisions made by the Contracting Parties, the tribunal shall determine its own procedure. Each Contracting Party shall bear the cost of its own member of the tribunal and of its representation in the arbitral proceedings. The cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties, unless the arbitral tribunal decides otherwise.</p>
+        <p>(7) The decisions of the tribunal are final and binding for each Contracting Party.</p>
+      </div>
+      <div type="article" num="13" title="Final provisions">
+        <p>(1) Both Governments shall notify each other through diplomatic channels that they have complied with the legal requirements for the entry into force of international agreements. This agreement shall enter into force on the day when the second notification is received, and shall remain binding for a period of ten years. Unless written notice of termination is given six months before the expiration of this period, the Agreement shall be considered as renewed on the same terms for a period of two years, and so forth.</p>
+        <p>(2) In case of official notice as to the termination of the present Agreement, the provisions of Articles 1 to 12 shall continue to be effective for a further period of ten years for investments made before the termination.</p>
+        <p>(3) This Agreement replaces the Agreement on Reciprocal Promotion and Protection of Investments between the Government of the People's Republic of China and the Government of the Swiss Confederation, signed on November 12, 1986 in Beijing.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned, duly authorised thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done in duplicate, at Berne, on the 27th of January 2009, in Chinese, French and English language, each text being equally authentic. In case of divergences the English text shall prevail.</p>
+      <p>For the Government of the People's Republic of China</p>
+      <p>Chen Deming</p>
+      <p>For the Swiss Federal Council</p>
+      <p>Doris Leuthard</p>
+    </conclusion>
+    <attachments>
+      <p>Protocol to the Agreement between the Swiss Federal Council and the Government of the People's Republic of China on the Promotion and Reciprocal Protection of Investments</p>
+      <p>On signing the Agreement between the Swiss Federal Council and the Government of the People's Republic of China on the Promotion and Reciprocal Protection of Investments, the plenipotentiaries, being duly authorized, have, in addition, agreed on the following provisions, which shall be regarded as an integral part of the said Agreement:</p>
+      <div type="article" title="Ad article 4, paragraphs (2) and (3)">
+        <p>In respect of the People's Republic of China, national treatment shall not apply to:</p>
+        <p>(a) Any non-conforming measures existing at the time of entering into force of this Agreement within its territory;</p>
+        <p>(b) The continuation of any non-conforming measure referred to in subparagraph a);</p>
+        <p>(c) An amendment to any non-conforming measure referred to in subparagraph a) to the extent that the amendment does not increase the non-conformity of the measure, as it existed immediately before the amendment, with those obligations.</p>
+        <p>It will be endeavoured to progressively remove the non-conforming measures.</p>
+        <p>For the purposes of the above, "measure" means any measure of general application taken by the People's Republic of China, whether in the form of a law, regulation, rule, procedure, decision or administrative action.</p>
+      </div>
+      <div type="article" title="Ad article 5">
+        <p>(a) With regard to the People's Republic of China:</p>
+        <p>- Article 5 paragraph (1) (b) will apply provided that a loan agreement has been registered with the relevant foreign exchange administration authority.</p>
+        <p>- Article 5 paragraph (1) (g) will apply provided that the transfer shall comply with the relevant formalities stipulated by the applicable Chinese laws and regulations relating to exchange control.</p>
+        <p>To the extent that the formalities mentioned above are no longer required according to the relevant provisions of Chinese law, Article 5 shall apply without said restrictions.</p>
+        <p>(b) A transfer shall be deemed to have been made "without delay" within the meaning of Article 5 paragraph (2) if effected within such period as is normally required for the completion of transfer formalities. The said period shall commence on the day on which the relevant request has been submitted to the relevant foreign exchange administration with full and authentic documentation and information and may on no account exceed two (2) months.</p>
+      </div>
+      <div type="article" title="Ad article 11 paragraph (2)">
+        <p>(a) The People's Republic of China, when acting as a Contracting Party involved in a dispute, may require the investor concerned to exhaust the domestic administrative review procedure specified by the laws and regulations of the People's Republic of China before submission of the dispute to the arbitration procedures stipulated in paragraph (2) of Article 11. This review procedure shall not exceed three (3) months.</p>
+        <p>(b) If an investor as defined in paragraph 2(c) of Article 1 has submitted a claim in the sense of Article 11 paragraph 2 under an agreement relating to investment with a third State, it is confirmed that that investor shall not have the right to submit the same claim under the paragraph 2 of Article 11 of this Agreement.</p>
+      </div>
+      <div type="article" title="Ad article 11 paragraph (3)">
+        <p>In regard of the consent of a Contracting Party to the submission of an investment dispute to international arbitration, it is understood that the said paragraph shall prevail over any other international agreement a Contracting Party may have entered into with respect to the settlement of investment disputes.</p>
+        <p>For the Government of the People's Republic of China</p>
+        <p>Chen Deming</p>
+        <p>For the Swiss Federal Council</p>
+        <p>Doris Leuthard</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

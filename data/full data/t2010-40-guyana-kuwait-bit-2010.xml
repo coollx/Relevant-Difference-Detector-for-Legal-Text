@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Guyana - Kuwait BIT (2010)</name>
+    <code>T2010-40</code>
+    <partyisocode n="0">GUY</partyisocode>
+    <partyisocode n="1">KWT</partyisocode>
+    <date_signed>2010-01-17</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1850</docreference>
+    <comments>No Investment Chapter, only a Trade Agreement; Full text: en</comments>
+    <source>Guyana Ministry of Foeign Affairs</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{GUY,KWT}_2010-01-17.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>TRADE AGREEMENT BETWEEN THE GOVERNMENT OF THE CO-OPERATIVE REPUBLIC OF GUYANA AND THE GOVERNMENT OF THE STATE OF KUWAIT</p>
+    </title>
+    <preamble>
+      <p>The Government of the Government of the Co-operative Republic of Guyana and the State of Kuwait, hereafter referred to as the "Contracting Parties".</p>
+      <p>Desirous to develop trade relations between the two countries, on the basis of equality and mutual benefits.</p>
+      <p>Convinced of the need to develop and expand the exchange of goods and services,</p>
+      <p>Have agreed on the following:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>The Contracting Parties take all necessary measures to enlarge and diversify exchange of goods and services between the two countries, through this agreement.</p>
+      </div>
+      <div type="article" num="2">
+        <p>The Contracting Parties promote conclusion of contracts between juridical and natural persons in the Stale of Kuwait and the Co-operative Republic of Guyana, in accordance with the laws and regulations in practice in the two Countries.</p>
+      </div>
+      <div type="article" num="3">
+        <p>The Contracting Parties afford each other necessary facilities to participate in trade fairs and international markets to be organized according to the laws and regulations in practice in the two countries.</p>
+      </div>
+      <div type="article" num="4">
+        <p>The Contracting Parties shall encourage the exchange of commercial delegations between the two countries, in accordance with the laws and regulations in practice in the two countries.</p>
+      </div>
+      <div type="article" num="5">
+        <p>The payment for all goods and services done between the two countries in the framework of this agreement should be settled by freely convertible currencies in accordance with the laws and regulations of the Contracting Parties.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The Contracting Parties exempt from customs duties and taxes on the following goods according to the laws and regulations in practice in the contracting parties:</p>
+        <p>1.  Sample or advertisement items having no value as goods and which are mainly for promotion and commercial order.</p>
+        <p>2.  Materials and equipment with value of those goods which are reexported after been imported for trade fairs and exhibitions.</p>
+      </div>
+      <div type="article" num="7">
+        <p>The Contracting Parties establish a Joint Trade Commission composed of their representatives whose functions are the following:</p>
+        <p>1.  Follow-up the implementation and operation of articles of this agreement.</p>
+        <p>2.  Evaluate and advise on bilateral trade between the two Contracting Parties.</p>
+        <p>3.  Discuss any proposals by either of the Contracting Parties for enlargement or diversification of trade between the two countries and make necessary recommendations.</p>
+        <p>The Joint Trade Commission shall meet at the request of either Party and consent of the other Party, alternately in Kuwait and Guyana.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1-This Agreement will enter into force on the date of receipt of the last notification from either of the parties notifying the other in writing through diplomatic channels that it has satisfied all the internal constitutional procedures required for its entry into force.</p>
+        <p>2-This Agreement may be amended by mutual consent of both Contracting Parties and any such amendment shall come into force according to the procedure mentioned in paragraph (1) of Article 8, herein.</p>
+        <p>3-This Agreement shall remain in force for a period of five years and shall be automatically renewed for further periods of five years unless either</p>
+        <p>Contracting Parties notifies in writing al least six months prior to the expiration</p>
+        <p>Of this agreement of its intention to terminate it.</p>
+      </div>
+      <div type="article" num="9">
+        <p>The provisions of (his agreement shall continue to be applied to all contracts concluded during its validity but not duly fulfilled at the date of expiry.</p>
+        <p>Any dispute between the Contracting Parties that may result from the implementation or interpretation of this agreement shall be resolved through consultations and negotiations through diplomatic channels.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in Georgetown city, on 19 th of July 2010, in two original copies, in the English and Arabic languages, all texts being equally authentic.</p>
+      <p>FOR THE GOVERNMENT OF THE CO-OPERATIVE REPUBLIC OF GUYANA</p>
+      <p>FOR THE GOVERNMENT OF THE STATE OF KUWAIT</p>
+      <p>Ahmad AL-Haroon Minister of Commerce and Industry</p>
+    </conclusion>
+  </main>
+</treaty>

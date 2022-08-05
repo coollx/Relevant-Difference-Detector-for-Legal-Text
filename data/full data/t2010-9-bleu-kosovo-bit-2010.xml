@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>BLEU - Kosovo BIT (2010)</name>
+    <code>T2010-9</code>
+    <partyisocode n="0">BLEU</partyisocode>
+    <partyisocode n="1">RKS</partyisocode>
+    <date_signed>2010-03-09</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr,en</orig_language>
+    <termination_type/>
+    <docreference>20101</docreference>
+    <comments>text not available at UNCTAD</comments>
+    <source>https://www.senate.be</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr,en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BLEU,RKS}_2010-03-09.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Belgo-Luxembourg Economic Union, on the one hand, and the Government of the Republic of Kosovo, of the other hand, on the reciprocal promotion and protection of investments.</p>
+    </title>
+    <preamble>
+      <p>THE KINGDOM OF BELGIUM,</p>
+      <p>THE WALLOON REGION,</p>
+      <p>THE FLEMISH REGION,</p>
+      <p>and THE BRUSSELS-CAPITAL REGION,</p>
+      <p>as well as</p>
+      <p>THE GRAND DUCHY OF LUXEMBOURG,</p>
+      <p>on the one hand,</p>
+      <p>and</p>
+      <p>THE GOVERNMENT OF THE REPUBLIC OF KOSOVO,</p>
+      <p>On the other hand,</p>
+      <p>(hereinafter referred to individually as the "Contracting Party" or collectively "Contracting Parties")</p>
+      <p>DESIRING to strengthen their economic cooperation by creating favorable conditions for investments by investors from one Contracting Party in the territory of the other Contracting Party;</p>
+      <p>RECOGNIZING that the promotion of sustainable investments is critical for the further development of national and global economies;</p>
+      <p>RECOGNIZING that an international investment agreement should reflect the essential principles of transparency, accountability and legitimacy for all participants in foreign investment processes;</p>
+      <p>RECOGNIZING that the encouragement and reciprocal protection  under international agreements of such investments will be conducive to the stimulation of individual business initiatives and will increase prosperity and welfare in the Contracting Parties;</p>
+      <p>HAVE AGREED as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement,</p>
+        <p>1. The term "investors" shall mean:</p>
+        <p>a) ''nationals", i.e. any natural person who, according to the legislation of the Kingdom of Belgium, the legislation of the Grand-Duchy of Luxembourg or the legislation of the Republic of Kosovo, is considered as a citizen of the Kingdom of Belgium, a citizen of the Grand-Duchy of Luxembourg or a citizen of the Republic of Kosovo respectively;</p>
+        <p>b) "companies", i.e. any corporation, firm or association incorporated or constituted in accordance with the legislation of the Kingdom of Belgium, the legislation of the Grand-Duchy of Luxembourg or the legislation of the Republic of Kosovo and having its registered office in the territory of the Kingdom of Belgium, the territory of the Grand-Duchy of Luxembourg or the territory of the Republic of Kosovo respectively.</p>
+        <p>For the purposes of this Agreement, a company incorporated or constituted under the law of one Contracting Party but effectively controlled, directly or indirectly, by nationals or companies of the other Contracting Party, shall be treated as a company of the latter Contracting Party.</p>
+        <p>2. The term "investments" shall mean any kind of assets and any contribution in cash, in kind or in services, invested or reinvested, directly or indirectly, in accordance with the laws and regulations of the host Contracting Party and more particularly, though not exclusively:</p>
+        <p>a) movable and immovable property as well as any other such rights, including mortgages, leases, liens, pledges, usufruct and other similar rights;</p>
+        <p>b) shares in a company and stock of a company and any other kind of shareholdings, including minority or indirect ones, in companies;</p>
+        <p>c) bonds, debentures, other debt instruments, loans, futures, options and other derivatives and claims to money and to any performance having an economic value;</p>
+        <p>d) intellectual property rights, including copyrights. patents, utility-model patents, industrial designs, trade-marks, trade-names, trade and business secrets, technical! processes, knowhow, and goodwill;</p>
+        <p>e) concessions, licenses, authorizations or permits granted pursuant to domestic law or under contract, including concessions to explore, develop, extract or exploit natural resources, turnkey, construction, management, production, public service concessions and other similar contracts;</p>
+        <p>f) provided that the investment is part or all of a business or commercial operation;</p>
+        <p>Changes in the legal form in which assets and contributions have been invested or reinvested shall not affect their designation as "investments" for the purpose of this Agreement. </p>
+        <p>Such changes are made in accordance with the laws and regulations of the host Contracting Parties.</p>
+        <p>3. The term "returns'' shall mean the amounts yielded by an investment and shall include in particular, though not exclusively, profits, interests, capital increases, dividends, royalties, rent and fees.</p>
+        <p>4. The term "territory" shall mean:</p>
+        <p>a) the land territory of the Kingdom of Belgium and the land territory of the Grand-Duchy of Luxembourg, as well as the maritime areas. i.e. the marine and underwater areas which extend beyond the territorial waters of the Kingdom of Belgium upon which it exercises, in accordance with international law, its sovereign rights and its jurisdiction for the purpose of exploring, exploiting and preserving natural resources;</p>
+        <p>b) the land territory of the Republic of Kosovo means the territory including airspace above it over which it has jurisdiction or sovereign rights for the purpose of exploration and conservation of natural resources, pursuant to the international law.</p>
+        <p>5. The term "environmental legislation" shall mean any legislation of the Contracting Parties, or provision thereof, the primary purpose of which is the protection of the environment, or the prevention of a danger to human, animal, or plant life or health, through:</p>
+        <p>a) the prevention, abatement or control of the release, discharge, or emission of pollutants or environmental contaminants;</p>
+        <p>b) the control of environmentally hazardous or toxic chemicals, substances, materials and wastes, and the dissemination of information related thereto;</p>
+        <p>c) the protection or conservation of wild flora or fauna, including endangered species, their habitat and specially protected natural areas in the Contracting Party's territory.</p>
+        <p>6. The term "Iabour legislation" shall mean legislation of the Contracting Parties, or provisions thereof, that purport to give effect to the following international Iabour standards as defined by the International Labour Organisation:</p>
+        <p>a) the right of association;</p>
+        <p>b) the right to organise and bargain collectively;</p>
+        <p>c) a prohibition on the use of any form of forced or compulsory Iabour;</p>
+        <p>d) a minimum age for the employment of children;</p>
+        <p>e) acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>1. Each Contracting Party shall promote investments in its territory by investors of the other Contracting Party and shall admit such investments in accordance with its legislation.</p>
+        <p>2. Each Contracting Party shall accord to the investments of investors of the other Contracting Party treatment in accordance with customary international law, including fair and equitable treatment and full protection and security.</p>
+        <p>3. Except for measures required to maintain public order, neither Contracting Party shall in its territory impair, either in law or in practice, by arbitrary or discriminatory measures the management, maintenance, sale, operation, use, possession, expansion, liquidation or other disposal of investments of investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="National treatment">
+        <p>1. In respect of all matters governed by this Agreement, each Contracting Party shall accord investments by investors of the other Contracting Party treatment no less favorable than that which it accords to investments in its territory by its own nationals.</p>
+        <p>2. In respect of all matters governed by this Agreement, each Contracting Party shall accord to investors of the other Contracting Party treatment no less favorable than that which it accords to its own investors.</p>
+      </div>
+      <div type="article" num="4" title="Most favored nation treatment">
+        <p>1. In respect of all matters covered by the provisions of this Agreement, each Contracting Party shall accord investments by investors of the other Contracting Party treatment no less favorable than that which it accords to investments made in its territory by investors of a third State.</p>
+        <p>2. In respect of all matters covered by the provisions of this Agreement (including without limitation Article 12), each Contracting Party shall accord to investors of the other Contracting Party treatment no less favorable than that which it accords to investors of any third State.</p>
+        <p>3. This treatment shall not extend to the privileges granted by one Contracting Party to investors of a third State by virtue of its participation or association in a free trade area, customs union, common market or any other form of regional economic organisation.</p>
+        <p>4. The treatment granted by this Article shall not be extended to the privileges granted by one Contracting State to investors of a third State as a consequence of an agreement to avoid double taxation or other international agreement concerning taxation.</p>
+      </div>
+      <div type="article" num="5" title="Environment">
+        <p>1.  Recognising the right of each Contracting Party 10 establish its own levels of domestic environmental protection and environmental development policies and priorities, and to adopt or modify accordingly its environmental legislation each Contracting Party shall strive to ensure that its legislation provides for internationally agreed levels of environmental protection and shall strive to continue to improve its legislation.</p>
+        <p>2. The Contracting Parties recognise that it is inappropriate to encourage investment by relaxing domestic environmental legislation. Accordingly, each Contracting Party shall strive to ensure that it does not waive or otherwise derogate from, or offer to waive or otherwise derogate from, such legislation as an encouragement for the establishment, maintenance or expansion in its territory of an investment.</p>
+        <p>3. The Contracting Parties reaffirm their commitments under the international environmental agreements, which they have accepted. They shall strive to ensure that such commitments are fully recognised and implemented by their domestic legislation.</p>
+      </div>
+      <div type="article" num="6" title="Labour">
+        <p>1. Recognising the right of each Contracting Party to establish its own domestic Iabour standards, and to adopt or modify accordingly its Iabour legislation, each Contracting Party shall strive to ensure that its legislation provides for Iabour standards consistent with the international Iabour standards set forth in paragraph 6 of Article 1 and shall strive to improve those standards in that light.</p>
+        <p>2. The Contracting Parties recognise that it is inappropriate to encourage investment by relaxing domestic Iabour legislation. Accordingly, each Contracting Party shall strive to ensure that it does not waive or otherwise derogate from, or offer to waive or otherwise derogate from, such legislation as an encouragement for the establishment, maintenance or expansion in its territory of an investment.</p>
+        <p>3. Belgium and Luxembourg as members of the International Labour Organisation and Kosovo as a candidate for membership of the International Labour Organisation reaffirm the commitments under the International Labour Organisation Declaration on Fundamental Principles and Rights at Work and its Follow-up. The Contracting Parties shall strive to ensure that such labour principles and the international labour standards set forth in paragraph 6 of Article 1 are recognised and protected by domestic legislation.</p>
+      </div>
+      <div type="article" num="7" title="Deprivation and limitation of property">
+        <p>1. Each Contracting Party undertakes not to adopt any measure of expropriation or nationalisation or any other measure or series of measures having the effect of directly or indirectly dispossessing the investors of the other Contracting Party of their investments in its territory (hereinafter referred to as "expropriation").</p>
+        <p>2. lf reasons of public purpose, security or national interest require a derogation from the provisions of paragraph 1, the following conditions shall be complied with:</p>
+        <p>a) the measures shall be taken under due process of law;</p>
+        <p>b) the measures shall be neither discriminatory, nor contrary to any specific commitments;</p>
+        <p>c) the measures shall be accompanied by the payment of an adequate, effective and prompt compensation.</p>
+        <p>Expropriation shall include situations where one of the Contracting Parties expropriates the assets of a company or enterprise in its territory in which an investor of the other Contracting Party has an investment, including through the ownership of shares.</p>
+        <p>3. Such compensation shall be equivalent to the fair market value of the expropriated investments immediately before the expropriation occurred. The fair market value shall not reflect any change in value occurring because the expropriation had become known earlier.</p>
+        <p>Compensation shall be fully realisable in a convertible currency and freely transferable and shall also include interest at a commercial rate established on a market basis from the date of expropriation until the date of payment.</p>
+        <p>4. Without prejudice to the other provisions of this Agreement, investors of one Contracting Party whose investments suffer losses owing to war or other armed conflict, revolution, a state of national emergency or revolt in the territory of the other Contracting Party shall be granted by the latter Contracting Party a treatment, as regards restitution, indemnification, compensation or other settlement, at least equal to that which the latter Contracting Party grants to its own investors or to the investors of the most favoured nation, whichever is more favourable to the investors concerned.</p>
+      </div>
+      <div type="article" num="8" title="Transfers">
+        <p>1. Without prejudice to the measures adopted or to be adopted by the European Union, each Contracting Party shall grant to investors of the other Contracting Party the free transfer of all payments relating to an investment, including though not exclusively:</p>
+        <p>a) amounts necessary for establishing, maintaining or expanding the investment;</p>
+        <p>b) amounts necessary for payments under a contract, including amounts necessary for repayment of loans, interests, royalties, management fees and other payments resulting from licences, franchises, concessions and other similar rights, as well as salaries of expatriate personnel;</p>
+        <p>c) returns;</p>
+        <p>d) proceeds from the total or partial liquidation of investments, including capital gains or increases in the invested capital;</p>
+        <p>e) compensation paid pursuant to Artiele 7.</p>
+        <p>2. The nationals of each Contracting Party who have been authorised to work in the territory of the other Contracting Party in connection with an investment shall also be permitted to transfer their earnings and other remunerations to their country of origin.</p>
+        <p>3. Transfers shall be made in a freely convertible currency at the rate applicable on the day transfers are made to spot transactions in the currency used.</p>
+        <p>4. Each Contracting Party shall issue the authorisations required to ensure that the transfers can be made without undue delay, with no other expenses than the usual banking costs.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>1. lf one Contracting Party or any public institution of this Party pays compensation to its own investors pursuant to a guarantee providing coverage for an investment, the other Contracting Party shall recognise that t.he farmer Contracting Party or the public institution concerned is subrogated into the rights of the investors.</p>
+        <p>2. As far as the tmnsf&#xE9;rrcd tights are concerned, the other Contracting Party shall be entitled to invoke against the insurer who is subrogated into the rights of the indemnified investors the obligations of the latter under law or contract.</p>
+      </div>
+      <div type="article" num="10" title="Applicable regulations">
+        <p>If an issue relating to investments is covered both by this Agreement and by the national legislation of one Contracting Party or by obligations under international law, existing or to be suscribed to by that Party in the future, the investors of the other Contracting Party shall be entitled to avail themselves of the provisions that are most favorable to them.</p>
+      </div>
+      <div type="article" num="11" title="Special agreements">
+        <p>1.  Investments governed by a specific agreement concluded between one Contracting Party and investors of the other Party shall be covered by the provisions of this Agreement and by those of the specific agreement.</p>
+        <p>2. Each Contracting Party undertakes to ensure at all times that the commitments it has entered into in respect of the investment by investors of the other Contracting Party shall be observed.</p>
+      </div>
+      <div type="article" num="12" title="Settlement of investment disputes">
+        <p>1. Disputes regarding the interpretation or application of this Agreement between an investor of one Contracting Party and the other Contracting Party shall be notified in writing by the investor to the other Contracting Party.</p>
+        <p>As far as possible, the parties to the dispute shall enedeavour to settle the dispute through amicable negotiations.</p>
+        <p>2. lf the dispute cannot be settled amicably within three months from the notification, the dispute shall be submitted, at the option of the investor, either to the competent jurisdiction of the State where the investment was made, or to international arbitration.</p>
+        <p>To this end, each Contracting Party agrees in advance and irrevocably to the settlement of any dispute by this type of arbitration. Such consent implies that both Parties waive the right to demand that all domestic administrative or judiciary remedies be exhausted.</p>
+        <p>3. In case of international arbitration, the dispute shall be submitted for settlement by arbitration to one of the hereinafter mentioned organisations, at the option of the investor:</p>
+        <p>- an ad hoc arbitral tribunal set up according to the arbitration rules laid down by the United Nations Commission on International Trade Law (U.N.C.I.T.R.A.L.) in the territory of a Contracting State to the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards (hereinafter referred to as the "New York Convention");</p>
+        <p>- the International Centre for the Settlement of Investment Disputes (I.C.S.I.D.), set up by the Convention on the Settlement of Investment Disputes between States and Nationals of other States, opened for signature at Washington on March 18, 1965, when each State party to this Agreement has become a party to the said Convention. As long as this requirement is not met, each Contracting Party agrees that the dispute may be submilled to arbitration pursuant to the Rules of the Additional Facility of the I.C.S.I.D.;</p>
+        <p>- an arbitral tribunal (composed of three arbitrators) established:</p>
+        <p>- In accordance with the Rules of Arbitration of the International Chamber of Commerce which will resolve the dispute under the said Rules; and</p>
+        <p>- In the territory of a Contracting State to the New York Convention.</p>
+        <p>4. At any stage of the arbitration proceedings or of the execution of an arbitral award, none of the Contracting Parties involved in a dispute shall be entitled to raise as an objection or as defence to a claim the fact that the investor who is the opposing party in the dispute has received compensation totally or partly covering his losses pursuant to an insurance policy or to the guarantee provided tor in Article 9 of this Agreement.</p>
+        <p>5. The arbitral awards shall be final and bind ing on the parties to the dispute. Each Contracting Party undertakes to execute and comply with the awards in accordance with its national legislation and applicable international agreements in force.</p>
+      </div>
+      <div type="article" num="13" title="Disputes between the contracting parties relating to the interpretation or application of this agreement">
+        <p>1. Any dispute relating to the interpretation or application of this Agreement shall be settled as far as possible through diplomatic channels.</p>
+        <p>2. In the absence of a settlement through diplomatic channels, the dispute shall be submitted to a joint commission consisting of representatives of the two Contracting Parties; this commission shall convene without undue delay at the request of the first party to take action.</p>
+        <p>3. If the joint commission cannot settle the dispute, the latter shall be submitted, at the request of either Contracting Party, to an arbitration tribunal set up as follows for each individual case:</p>
+        <p>a) Each Contracting Pany shall appoint one arbitrator (who may or may not be a national of either Contracting Party) within a period of two months from the date on which either Contracting Party has informed the other Party of its intention to submit the dispute to arbitration. Within a period of two months following their appointment, these two arbitrators shall appoint by mutual agreement a national of a third State as chairman of the arbitration tribunal.</p>
+        <p>b) If these time limits have not been complied with, either Contracting Party shall request the President of the International Court of Justice to make the necessary appointment(s).</p>
+        <p>c) If the President of the International Court of Justice is a national of either Contracting Party or of a State with which one of the Contracting Parties has no diplomatic relations or if, for any other reason, he cannot exercise this function, the Vice-President of the International Court of Justice shall be requested to make the appointment(s).</p>
+        <p>d) If the Vice-President of the International Court of Justice is a national of either Contracting Party or of a State with which one of the Contracting Parties has no diplomatic relations or if, for any other reason, he cannot exercise this function, the member of the International Court of Justice next in seniority shall be requested to make the appointment(s).</p>
+        <p>4. The tribunal thus constituted shall determine its own rules of procedure. Its decisions shall be taken by a majority vote; they shall be final and binding on the Contracting Parties.</p>
+        <p>5. Each Contracting Party shall bear the costs resulting from the appointment of its arbitrator. The expenses in connection with the appointment of the third arbitrator and the administrative costs of the tribunal shall be borne equally by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="14" title="Transparency">
+        <p>Each Contracting Party shall, to the extent possible, ensure that its laws, regulations and administrative rulings of general application respecting any matter governed by this Agreement are published promptly or otherwise made available in such manner as to enable interested persons and the other Party to become acquainted with them.</p>
+      </div>
+      <div type="article" num="15" title="Consultations">
+        <p>The Contracting Parties shall consult each other concerning any matter related to the application or interpretation of this Agreement concerning investments.</p>
+      </div>
+      <div type="article" num="16" title="Previous investments">
+        <p>This Agreement shall govern investments made by investors of one Contracting Party in the territory of the other Contracting Party in accordance with the latter's laws and regulations after 10 June 1999.</p>
+      </div>
+      <div type="article" num="17" title="Entry into force and duration">
+        <p>1. This Agreement shall enter into force one month after the date of the receipt of the last written notification regarding ratification by the Contracting Parties. This Agreement shall remain in force for a period of ten years.</p>
+        <p>2. Unless notice of termination is given by either Contracting Party at least six months before the expiry of its period of validity, this Agreement shall be tacitly extended each time for a further period of ten years, it being understood that each Party reserves the right to terminate the Agreement  (through diplomatic channels) given at least six months before the date of expiry of the current period of validity.</p>
+        <p>3. Investments made prior to the date of termination of this Agreement, shall be covered by the provisions of this Agreement for a period of ten years from the date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned representatives, duly authorised thereto by their respective Governments, have signed this Agreement.</p>
+      <p>DONE at Pristina, on 9th March 2010, in two original copies, each in English, French, Dutch, Albanian and Serbian languages, all texts being equally authentic. The text in the English language will prevail in case of divergence of interpretation.</p>
+      <p>FOR THE BELGIUM-LUXEMBOURG ECONOMIC UNION:</p>
+      <p>For the Kingdom of Belgium</p>
+      <p>For the Walloon Region</p>
+      <p>For the Flemish Region</p>
+      <p>For the Brussels-Capital Region</p>
+      <p>For the Grand-Duchy of Luxembourg</p>
+      <p>Yves LETERME</p>
+      <p>Prime Minister</p>
+      <p>FOR THE GOVERNMENT OF THE REPUBLIC OF KOSOVO</p>
+      <p>Hashim THACI</p>
+    </conclusion>
+  </main>
+</treaty>

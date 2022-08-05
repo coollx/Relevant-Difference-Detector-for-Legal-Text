@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Gambia - Mali BIT (2004)</name>
+    <code>T2004-66</code>
+    <partyisocode n="0">GMB</partyisocode>
+    <partyisocode n="1">MLI</partyisocode>
+    <date_signed>2004-05-14</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>1647</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{GMB,MLI}_2004-05-14.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2003-46">ECOWAS Energy Protocol</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2008-36">ECOWAS Supplementary Act on Investments (2008)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2003-46">ECOWAS Energy Protocol</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2008-36">ECOWAS Supplementary Act on Investments (2008)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+  </meta>
+  <main/>
+</treaty>

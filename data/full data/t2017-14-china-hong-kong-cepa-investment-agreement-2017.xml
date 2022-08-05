@@ -1,0 +1,534 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>China - Hong Kong CEPA Investment Agreement (2017)</name>
+    <code>T2017-14</code>
+    <partyisocode n="0">CHN</partyisocode>
+    <partyisocode n="1">HKG</partyisocode>
+    <date_signed>2017-06-28</date_signed>
+    <date_into_force>2017-06-28</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>3780</docreference>
+    <comments>Cursory Translation</comments>
+    <source>https://www.tid.gov.hk/english/cepa/legaltext/cepa14.html</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CHN,HKG}_2017-06-28.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2003-35">China - Hong Kong CEPA (2003)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2015-16">China - Hong Kong CEPA Trade in Services Agreement (2015)</relation>
+    <relation type="IT_OVERLAP" document-code="T2015-16">China - Hong Kong CEPA Trade in Services Agreement (2015)</relation>
+    <relation type="IT_OVERLAP" document-code="T2003-35">China - Hong Kong CEPA (2003)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>MAINLAND AND HONG KONG CLOSER ECONOMIC PARTNERSHIP ARRANGEMENT INVESTMENT AGREEMENT</p>
+    </title>
+    <preamble>
+      <p>Preamble</p>
+      <p>To promote and protect investments by investors ofthe Mainland (1) and the Hong Kong Special Administrative Region (hereinafter referred to as the "two sides") in the other side, to progressively reduce or eliminate substantially all discriminatory measures on investments between the two sides, to protect the rights of investors and to promote achieving progressive liberalisation and facilitation of investments of the two sides, as well as to further enhance the level of bilateral economic and trade exchanges and cooperation, the two sides decided to sign, under the framework of the Mainland and Hong Kong Closer Economic Partnership Arrangement (hereinafter referred to as "CEPA"), the Investment Agreement between the Mainland and the Hong Kong Special Administrative Region (hereinafter referred to as "Hong Kong") as follows:</p>
+      <div type="foot_note">(1) The "Mainland" refers to the entire customs territory of China.</div>
+    </preamble>
+    <body>
+      <div type="chapter" num="1" title="Initial Provisions">
+        <div type="article" num="1" title="Relationship with CEPA">
+          <p>1. This Agreement is the Investment Agreement of CEPA.</p>
+          <p>2. Article 5 (National Treatment), Article 6 (Most-Favoured Treatment), Article 7 (Performance Requirements) and Article 8 (Senior Management, Boards of Directors and Entry of Personnel) do not apply to measures affecting any sectors and any forms of investments covered by the Agreement on Trade in Services of CEPA.</p>
+        </div>
+        <div type="article" num="2" title="Definitions">
+          <p>For the purpose of this Agreement,</p>
+          <p>1. "investment" means every asset that an investor owns or controls, directly or indirectly, that has the characteristics of an investment, including such characteristics as the commitment of capital or other resources, the expectation of gain or profit, and the assumption of risks. Forms that an investment may take include, though not exclusively:</p>
+          <p>(i) An enterprise;</p>
+          <p>(ii) Shares, stocks and other forms of equity participation in an enterprise;</p>
+          <p>(iii) Bonds, debentures, loans and other debt instruments, including debt instruments issued by an enterprise or one side (2);</p>
+          <p>(iv) Futures, options and other derivatives;</p>
+          <p>(v) Turnkey, construction, management, production, concession, revenue-sharing and other similar contracts;</p>
+          <p>(vi) Intellectual property rights;</p>
+          <p>(vii) Licenses, authorisations, permits and similar rights conferred pursuant to the laws of one side (3) (4); and</p>
+          <p>(viii) Other tangible or intangible assets, movable or immovable property, and related property rights, such as leases, mortgages, liens and pledges.</p>
+          <p>For greater certainty, any change in the form in which an asset is invested does not affect its character as an investment.</p>
+          <p>2. "investor" means one side, or a natural person or an enterprise of one side, that seeks to make, is making or has made a covered investment;</p>
+          <p>3. "covered investment" means, with respect to one side, an investment in its area that an investor of the other side owns or controls, directly or indirectly, and exists on the date of the coming into effect of this Agreement or is made or acquired thereafter;</p>
+          <p>4. "natural person" means, in the case of the Mainland, a citizen of the People's Republic of China; and in the case of Hong Kong, a permanent resident of the Hong Kong Special Administrative Region of the People's Republic of China;</p>
+          <p>5. "enterprise" means:</p>
+          <p>(i) An entity constituted or organised under the laws of one side, whether or not for profit, whether privately-owned or governmentally-owned, and whether its liabilities are limited or otherwise, such as a public institution, corporation, foundation, agency, cooperative, trust, society, association and similar entity and a private company, firm, partnership, establishment, joint venture and organisation;</p>
+          <p>(ii) A branch of any such entity;</p>
+          <p>6. "measure" includes any law, regulation, rule, procedure, decision, requirement, administrative action, or practice;</p>
+          <p>7. "government procurement" means the process by which a government obtains the use of or acquires goods or services, or any combination thereof, for governmental purposes by any contractual means including purchase, rental or lease with or without an option to buy, as well as build-operate-transfer contracts and public works concession contracts, etc., and not with a view to commercial sale or resale or use in the production or supply of goods or services for commercial sale or resale;</p>
+          <p>8. "returns" means the amounts yielded by investments, and in particular, though not exclusively, profits, capital gains, dividends, interest, royalties, returns-in-kind or other income;</p>
+          <p>9. "disputing investor" means an investor that makes a claim under Article 19 (Dispute Settlement between a Hong Kong Investor and the Mainland) or Article 20 (Dispute Settlement between a Mainland Investor and Hong Kong);</p>
+          <p>10. "disputing side" means one side against which a claim is made under Article 18 (Dispute Settlement between the Two Sides under this Agreement), Article 19 (Dispute Settlement between Hong Kong Investor and the Mainland Side) or Article 20 (Dispute Settlement between the Mainland Investor and the Hong Kong Side);</p>
+          <p>11. "disputing party" means the disputing investor or the disputing side;</p>
+          <p>12. "WTO Agreement" means the Marrakesh Agreement Establishing the World Trade Organisation, done at Marrakesh on 15 April 1994;</p>
+          <p>13. "TRIPS Agreement" means the Agreement on Trade-Related Aspects of Intellectual Property Rights, contained in Annex 1C of the WTO Agreement, as revised or amended from time to time by a revision or amendment that applies to the two sides and including any waiver of any provision thereof granted by the General Council of the World Trade Organisation (WTO);</p>
+          <p>14. "taxation agreement" means an agreement, convention, treaty or arrangement for the avoidance of double taxation or other bilateral or multilateral taxation agreement, convention, treaty or arrangement;</p>
+          <p>15. "competition authority" means:</p>
+          <p>(i) In the case of the Mainland, the authority for enforcement of the Anti-Monopoly Law and the authority (for enforcement) of the Law Against Unfair Competition under the State Council, or their successors; and</p>
+          <p>(ii) In the case of Hong Kong, the Competition Commission established under the Competition Ordinance (Cap. 619), or its successor;</p>
+          <p>16. "information protected under its competition laws" means:</p>
+          <p>(i) In the case of the Mainland, information protected from disclosure under the relevant provisions of the Anti- Monopoly Law, the Pricing Law and the Law Against Unfair Competition, or any successor provisions; and</p>
+          <p>(ii) In the case of Hong Kong, information protected by the Competition Ordinance (Cap. 619), or any successor provisions.</p>
+          <div type="foot_note">(2) Some forms of debt, such as bonds, debentures and long-term notes, are more likely to have the characteristics of an investment, while other forms of debt, such as claims to payment that are immediately due and result from the sale of goods or services, are less likely to have such characteristics.</div>
+          <div type="foot_note">(3) Whether a particular type of licence, authorisation, permit or similar instrument (including a concession to the extent that it has the nature of such an instrument) is an asset that has the characteristics of an investment also depends on such factors as the nature and extent of the rights that the holder has under the laws of one side. Among such instruments that do not constitute an asset that has the characteristics of an investment are those that do not create any rights protected under the laws of one side. For greater certainty, the foregoing is without prejudice to whether any asset associated with such instruments has the characteristics of an investment.</div>
+          <div type="foot_note">(4) The term "investment" does not include an order or judgment entered in a judicial or administrative action.</div>
+        </div>
+        <div type="article" num="3" title="Scope of Application">
+          <p>1. This Agreement shall apply to measures adopted or maintained by one side relating to investors of the other side and covered investments.</p>
+          <p>2. This Agreement shall apply to investments made by investors of one side in the other side prior to or after the coming into effect of this Agreement, but shall not apply to the "investment disputes" as referred to in paragraph 1 of Article 19 (Dispute Settlement between a Hong Kong Investor and the Mainland) and paragraph 1 of Article 20 (Dispute Settlement between a Mainland Investor and Hong Kong) of this Agreement, settled before the coming into effect of this Agreement.</p>
+          <p>3. The obligations of one side under this Agreement shall apply to any entity when it exercises any regulatory, administrative or other governmental authority delegated to it by that side, such as the power to expropriate, grant licences, approve commercial transactions, or impose quotas, fees or other charges.</p>
+        </div>
+      </div>
+      <div type="chapter" num="2" title="Substantive Obligations">
+        <div type="article" num="4" title="Minimum Standard of Treatment">
+          <p>1. One side shall ensure that fair and equitable treatment is accorded to investors of the other side and their covered investments, and shall provide full protection and security.</p>
+          <p>2. In paragraph 1 of this Article:</p>
+          <p>(i) "fair and equitable treatment" means that one side shall not deny justice in criminal, civil or administrative adjudicatory proceedings in accordance with due process of law, or implement manifest discriminatory or arbitrary measures;</p>
+          <p>(ii) "full protection and security" means that one side shall adopt reasonable and necessary measures to provide police protection to the investors of the other side and their covered investments.</p>
+          <p>3. A breach of another provision of this Agreement does not establish that there has been a breach of this Article.</p>
+          <p>4. For greater certainty, the mere fact that one side takes or fails to take an action that may be inconsistent with an investor's expectations does not constitute a breach of this Article, regardless of whether there is loss or damage to the covered investment as a result.</p>
+          <p>5. For greater certainty, the mere fact that a subsidy or grant has not been issued, renewed or maintained, or has been modified or reduced, by one side, does not constitute a breach of this Article, regardless of whether there is loss or damage to the covered investment as a result.</p>
+        </div>
+        <div type="article" num="4" title="National Treatment">
+          <p>1. One side shall accord to investors of the other side treatment no less favourable than that it accords, in like circumstances, to its own investors with respect to the establishment, acquisition, expansion, management, conduct, operation, and sale or other disposition of investments in its area.</p>
+          <p>2. One side shall accord to covered investments treatment no less favourable than that it accords, in like circumstances, to investments of its own investors with respect to the establishment, acquisition, expansion, management, conduct, operation, and sale or other disposition of investments in its area.</p>
+        </div>
+        <div type="article" num="6" title="Most-favoured Treatment">
+          <p>1. One side shall accord to investors of the other side treatment no less favourable than that it accords, in like circumstances, to investors of any other party with respect to the establishment, acquisition, expansion, management, conduct, operation, and sale or other disposition of investments in its area.</p>
+          <p>2. One side shall accord to covered investments treatment no less favourable than that it accords, in like circumstances, to investments of investors of any other party with respect to the establishment, acquisition, expansion, management, conduct, operation, and sale or other disposition of investments in its area.</p>
+          <p>3. For greater certainty, the provisions of this Agreement shall not be so construed as to prevent one side from conferring or according advantages to adjacent countries or regions in order to facilitate investments that engage in local production and consumption in contiguous frontier zones.</p>
+          <p>4. For greater certainty, the "treatment" referred to in paragraphs 1 and 2 of this Article does not encompass dispute resolution mechanisms in other investment agreements, international investment treaties and other trade agreements.</p>
+        </div>
+        <div type="article" num="7" title="Performance Requirements">
+          <p>1. Neither side may impose or enforce the following requirements, or enforce a commitment or undertaking, in connection with the establishment, acquisition, expansion, management, conduct, operation, or sale or other disposition of a covered investment in its area:</p>
+          <p>(i) To export a given level or percentage of goods or services;</p>
+          <p>(ii) To achieve a given level or percentage of domestic content;</p>
+          <p>(iii) To purchase, use or accord a preference to goods produced in its area, or to purchase goods from a person in its area;</p>
+          <p>(iv) To relate in any way the volume or value of imports to the volume or value of exports or to the amount of foreign exchange inflows associated with the investment;</p>
+          <p>(v) To restrict sales of goods or services in its area that the investment produces or supplies by relating those sales in any way to the volume or value of its exports or foreign exchange earnings;</p>
+          <p>(vi) To transfer a particular technology, a production process or other proprietary knowledge to a person in its area; or</p>
+          <p>(vii) To supply exclusively from the area of one side the goods that the investment produces or the services that it provides to a specific regional market or to the world market.</p>
+          <p>2. Neither side may condition the receipt or continued receipt of an advantage, in connection with the establishment, acquisition, expansion, management, conduct, operation, or sale or other disposition of a covered investment in its area, on compliance with the following requirements:</p>
+          <p>(i) To achieve a given level or percentage of domestic content;</p>
+          <p>(ii) To purchase, use or accord a preference to goods produced in its area, or to purchase goods from a person in its area;</p>
+          <p>(iii) To relate in any way the volume or value of imports to the volume or value of exports or to the amount of foreign exchange inflows associated with the investment; or</p>
+          <p>(iv) To restrict sales of goods or services in its area that the investment produces or supplies by relating those sales in any way to the volume or value of its exports or foreign exchange earnings.</p>
+          <p>3. (i) Nothing in paragraph 1 shall be construed to prevent one side from imposing or enforcing any requirement, or enforcing any commitment or undertaking, in connection with an investment of an investor of the other side in its area, to locate production, supply a service, train or employ workers, construct or expand particular facilities, or carry out research and development, in its area, provided that such measures are consistent with sub- paragraph 1(vi).</p>
+          <p>(ii) Nothing in paragraph 2 shall be construed to prevent one side from conditioning the receipt or continued receipt of an advantage, in connection with an investment of an investor of the other side in its area, on compliance with a requirement to locate production, supply a service, train or employ workers, construct or expand particular facilities, or carry out research and development, in its area.</p>
+          <p>(iii) Sub-paragraph 1(vi) does not apply to the following situations or measures:</p>
+          <p>(1) If one side authorises use of an intellectual property right in accordance with Article 31 of the TRIPS Agreement, or to measures requiring the disclosure of proprietary information that fall within the scope of, and are consistent with, Article 39 of the TRIPS Agreement; or</p>
+          <p>(2) If the requirement is imposed or the commitment or undertaking is enforced by the judicial authority or competition authority to remedy a practice determined after judicial or administrative process to be anticompetitive under the competition laws of one side.</p>
+          <p>(iv) Sub-paragraphs 1(i), 1(ii), 1(iii) and sub-paragraphs 2(i) and 2(ii) do not apply to qualification requirements for goods or services with respect to export promotion and foreign aid programs.</p>
+          <p>(v) Sub-paragraphs 1(ii), 1(iii), 1(vi), 1(vii) and sub- paragraphs 2(i) and 2(ii) do not apply to government procurement.</p>
+          <p>(vi) Sub-paragraphs 2(i) and 2(ii) do not apply to requirements imposed by the importing side relating to the content of goods necessary to qualify for preferential tariffs or preferential quotas.</p>
+          <p>4. For greater certainty, paragraphs 1 and 2 do not apply to any commitment, undertaking or requirement other than those set out in those paragraphs.</p>
+          <p>5. This Article does not preclude the enforcement of any commitment, undertaking or requirement between private parties, if one side did not impose or require the commitment, undertaking or requirement.</p>
+        </div>
+        <div type="article" num="8" title="Senior Management, Boards of Directors and Entry of Personnel">
+          <p>1. One side may not require that an enterprise of that side that is a covered investment appoint to a senior management position an individual of any particular nationality.</p>
+          <p>2. One side may require that a majority of the board of directors, or any committee thereof, of an enterprise of that side that is a covered investment be of a particular nationality or resident in the area of that side, provided that the requirement does not materially impair the ability of the investor to exercise control over its investment.</p>
+          <p>3. Subject to its laws and policies relating to entry and stay, one side shall permit a natural person of the other side employed by an enterprise that is a covered investment of an investor, or a subsidiary or affiliate of such an enterprise, to enter and stay temporarily in a capacity that is managerial or executive or that requires specialised knowledge.</p>
+        </div>
+        <div type="article" num="9" title="Non-conforming Measures">
+          <p>1. Article 5 (National Treatment), Article 6 (Most-Favoured Treatment), Article 7 (Performance Requirements) and Article 8 (Senior Management, Boards of Directors and Entry of Personnel) do not apply to:</p>
+          <p>(i) 1. Any existing non-conforming measures maintained by one side, as specified in its lists in Table 1 of Part I (Schedule of the Mainland) in Annex 2 or Part II (Schedule of Hong Kong) in Annex 2; and</p>
+          <p>2. Any measure maintained or adopted after the date of coming into effect of this Agreement that, at the time of sale or other disposition of a government's equity interests in, or the assets of, an existing enterprise owned or invested by the government or an existing governmental entity, prohibits or imposes limitations on the ownership or control of equity interests or assets, or imposes nationality requirements relating to senior management or members of the board of directors;</p>
+          <p>(ii) The continuation or prompt renewal of any non-conforming measure referred to in sub-paragraph (i); or</p>
+          <p>(iii) An amendment to any non-conforming measure referred to in sub-paragraph (i), to the extent that the amendment does not increase the non-conformity of the measure, as it existed immediately before the amendment, with the obligations in Article 5 (National Treatment), Article 6 (Most-Favoured Treatment), Article 7 (Performance Requirements) and Article 8 (Senior Management, Boards of Directors and Entry of Personnel).</p>
+          <p>2. Article 5 (National Treatment), Article 6 (Most-Favoured Treatment), Article 7 (Performance Requirements) and Article 8 (Senior Management, Boards of Directors and Entry of Personnel) do not apply to the measures adopted or maintained by one side with respect to sectors, sub-sectors or activities as set out in Table 2 of Part I (Schedule of the Mainland) in Annex 2 or Part II (Schedule of Hong Kong) in Annex 2.</p>
+          <p>3. For greater certainty, Hong Kong will not impose any new discriminatory measures on Mainland investors in the areas of non- services investments covered by this Agreement in respect of the obligations under Article 5 (National Treatment), Article 6 (Most- Favoured Treatment), Article 7 (Performance Requirements) and Article 8 (Senior Management, Boards of Directors and Entry of Personnel). The two sides shall, through consultation, formulate and implement measures for further liberalisation by Hong Kong for Mainland investors and their covered investments. The specific commitments will be listed in Part II (Schedule of Hong Kong) of Annex 2 to this Agreement.</p>
+          <p>4. Without prejudice to the other provisions and the annexes to this Agreement, an investor of one side must fulfil the relevant requirements in relation to the definition of "investor" in Annex 1 to this Agreement in order to enjoy the treatment of investments as set out in Article 5 (National Treatment), Article 6 (Most-Favoured Treatment), Article 7 (Performance Requirements) and Article 8 (Senior Management, Boards of Directors and Entry of Personnel).</p>
+          <p>5. In respect of intellectual property rights, one side may derogate from Article 5 (National Treatment), Article 6 (Most- Favoured Treatment) and Article 7 (Performance Requirements) of this Agreement in a manner that is consistent with agreements regarding intellectual property rights to which both sides are parties or applicable to both sides.</p>
+          <p>6. Article 5 (National Treatment), Article 6 (Most-Favoured Treatment) and Article 8 (Senior Management, Boards of Directors and Entry of Personnel) do not apply to:</p>
+          <p>(i) Government procurement by one side;</p>
+          <p>(ii) ( Subsidies or grants provided by one side, including government-supported loans, guarantees and insurance.</p>
+          <p>However, should the laws of one side provide otherwise for sub- paragraphs (i) and (ii) of this paragraph, such laws shall prevail.</p>
+          <p>7. If the two sides have different understandings with respect to the scope of the tables in Annex 2 to this Agreement, the two sides shall make an interpretation through the Committee on Investment established in accordance with Article 17 (Committee on Investment).</p>
+        </div>
+        <div type="article" num="10" title="Special Formalities and Information Requirements">
+          <p>1. Nothing in Article 5 (National Treatment) shall be construed to prevent one side from adopting or maintaining a measure that prescribes special formalities in connection with investors and covered investments, such as a requirement that investors be residents of that side, or that covered investments be legally constituted under the laws of that side, provided that such formalities do not materially impair the obligations of that side owed to investors and covered investments of the other side.</p>
+          <p>2. Notwithstanding Article 5 (National Treatment) and Article 6 (Most-Favoured Treatment), one side may require an investor or covered investment of the other side to provide information concerning the investor or the covered investment solely for informational or statistical purposes. The former side shall protect any confidential business information from disclosure that would prejudice the competitive position of the investor or the covered investment. Nothing in this paragraph shall be construed to prevent one side from otherwise obtaining or disclosing information in connection with the equitable and good faith application of its laws.</p>
+        </div>
+        <div type="article" num="11" title="Expropriation">
+          <p>1. Covered investments or returns of investors of one side shall not be expropriated or subjected to measures having an effect equivalent to expropriation in the area of the other side (hereinafter referred to as "expropriation"), except for a public purpose, in accordance with due process of law, in a non-discriminatory manner and on payment of compensation. For greater certainty, this Article shall be interpreted in accordance with Annex 3.</p>
+          <p>2. The compensation referred to in paragraph 1 of this Article shall be equivalent to the real value (5) of the expropriated investment immediately before the expropriation, or before the impending expropriation became public knowledge, whichever is earlier, and shall include interest at a normal commercial rate, accrued from the date of expropriation until the date of payment. Compensation shall be fully realisable, freely transferable, and paid without delay. The affected investor shall have a right under the laws of the side making the expropriation to prompt review of its case and of the valuation of its investment by a judicial or other independent authority of that side in accordance with the principles set out in this paragraph.</p>
+          <p>3. This Article does not apply to the issuance of compulsory licenses granted in relation to intellectual property rights, or to other measures related to intellectual property rights, to the extent that such measures are consistent with agreements regarding intellectual property rights to which both sides are parties or applicable to both sides.</p>
+          <p>4. For greater certainty, the mere fact that a subsidy or grant has not been issued, renewed or maintained, or has been modified or reduced, by one side, does not constitute an expropriation, regardless of whether there is loss or damage to the covered investment as a result.</p>
+          <div type="foot_note">(5) For greater certainty, the real value shall be calculated on the basis of the market value of the expropriated investment.</div>
+        </div>
+        <div type="article" num="12" title="Compensation for Losses">
+          <p>1. Notwithstanding the provision of sub-paragraph 6(ii) of Article 9 (Non-Conforming Measures), investors of one side who suffer losses in respect of covered investments owing to war, state of emergency, insurrection, riot, natural disaster or other similar events, shall be accorded treatment by the other side, in respect of restitution, indemnification, compensation or other settlement, no less favourable than that it accords in like circumstances, to its own investors or to investors of any other party, whichever is most favourable.</p>
+          <p>2. Notwithstanding paragraph 1 of this Article, if an investor of one side, in the situations referred to in paragraph 1 of this Article, suffers a loss in the area of the other side resulting from:</p>
+          <p>(i) Requisitioning of its covered investment or part thereof by the other side; or</p>
+          <p>(ii) Destruction of its covered investment or part thereof by the other side, which was not required by the necessity of the situation,</p>
+          <p>The latter side shall provide the investor restitution, compensation or both, as appropriate, for that loss. Any compensation shall be made in accordance with the principles set out under paragraph 2 of Article 11 (Expropriation).</p>
+        </div>
+        <div type="article" num="13" title="Subrogation">
+          <p>If one side or its agency makes a payment to an investor of that side under a guarantee or a contract of insurance that it has granted to a covered investment of that investor, the other side shall recognise the transfer of any right or claim of that investor to the former side or its agency. The subrogated right or claim shall not be greater than the original right or claim of the said investor. Such right may be exercised by the former side or its agency so authorised.</p>
+        </div>
+        <div type="article" num="14" title="Transfer (6)">
+          <p>1. One side shall permit all transfers relating to a covered investment to be made freely, and without delay, into and out of its area. Those transfers include:</p>
+          <p>(i) Contributions to capital;</p>
+          <p>(ii) Profits, dividends, capital gains, and proceeds from the sale of all or part of the covered investment or from the partial or complete liquidation of the covered investment;</p>
+          <p>(iii) Interest, royalty payments, management fees, and technical assistance and other fees;</p>
+          <p>(iv) Payments made under a contract, including a loan agreement or an employment contract;</p>
+          <p>(v) Payments made pursuant to Article 11 (Expropriation) and Article 12 (Compensation for Losses);</p>
+          <p>(vi) Payments arising out of Chapter 3 (Investment Facilitation and Settlement of Disputes); and</p>
+          <p>(vii) Earnings and remuneration of a natural person of one side who works in a covered investment in the area of the other side.</p>
+          <p>2. One side shall permit transfers relating to a covered investment to be made in a freely usable currency at the market rate of exchange prevailing at the time of transfer.</p>
+          <p>3. One side shall permit returns-in-kind relating to a covered investment to be made as authorised or specified in a written agreement between that side and a covered investment or an investor of the other side.</p>
+          <p>4. Notwithstanding paragraphs 1 to 3, one side may prevent or delay a transfer through the equitable, non-discriminatory and good faith application of its laws relating to:</p>
+          <p>(i) Bankruptcy, insolvency, or the protection of the rights of creditors;</p>
+          <p>(ii) Issuing, trading, or dealing in securities, futures, options, or derivatives;</p>
+          <p>(iii) Criminal offenses;</p>
+          <p>(iv) Financial reporting or record keeping of transfers when necessary to assist law enforcement or financial regulatory authorities; or</p>
+          <p>(v) Ensuring compliance with orders or judgments in judicial or administrative proceedings.</p>
+          <p>5. In case of a serious balance of payments difficulty or of a threat thereof, one side may implement measures to restrict transfer in accordance with the relevant principles of the Articles of Agreement of the International Monetary Fund. Those measures shall be imposed on an equitable and non-discriminatory basis, implemented only temporarily and progressively eliminated following the improvement of such kind of circumstances, and shall not exceed what is necessary to deal with such kind of circumstances.</p>
+          <p>6. Provided that such measures are not applied in an arbitrary or unjustifiable manner, and provided that such measures do not constitute a disguised restriction on international trade or investment, paragraphs 1 to 3 shall not be construed to prevent one side from adopting or maintaining measures that are necessary to secure compliance with laws, including those relating to the prevention of deceptive and fraudulent practices, that are not inconsistent with this Agreement.</p>
+          <div type="foot_note">(6) Article 14 (Transfer) does not affect one side's ability to administer its capital account for the maintenance of the stability and soundness of its financial system, such as the foreign exchange market, stock market, bond market and financial derivatives market.</div>
+        </div>
+      </div>
+      <div type="chapter" num="3" title="Investment Facilitation and Settlement of Disputes">
+        <div type="article" num="15" title="Promotion and Facilitation of Investments">
+          <p>1. One side shall encourage investors of the other side to make investments in its area.</p>
+          <p>2. To enhance the level of investment facilitation between the two sides, one side agrees to review from time to time and progressively simplify the formalities and requirements on investors of the other side investing in the area of the former side.</p>
+          <p>3. The two sides agree to provide the other side with investment facilitation, including:</p>
+          <p>(i) One side will facilitate investors of the other side in obtaining investment information, relevant operating licences, personnel entry and exit, and business operations and management;</p>
+          <p>(ii) One side will facilitate organising and holding, for the other side and its investors, of symposiums, seminars and other activities beneficial to investments;</p>
+          <p>(iii) One side will endeavour to establish clear and uniform standards and procedures for examining and approving investment applications, and to optimise permissions, qualification requirements and procedures in relation to investments;</p>
+          <p>(iv) One side will agree to stipulate a reasonable timeframe for relevant approving institutions to examine investment applications and to make decisions on such applications, and will promptly inform the applicants of the outcomes of the relevant approval applications;</p>
+          <p>(v) One side will, in accordance with its laws, make known the required information that has been omitted from an incomplete investment application, and provide the opportunity for correction;</p>
+          <p>(vi) One side will encourage and promote the cooperation and coordination among their various regulatory institutions, and, where possible, establish a "one-stop" approving institution, and stipulate the responsibilities and authorities of each regulatory institution in relation to approval and the responsibilities and authority of co- approval by multiple institutions in accordance with the laws;</p>
+          <p>(vii) One side will, on a best endeavour basis, keep the costs of the investors in the application process for approval to the lowest, and any fee to be charged shall be commensurate with the necessary administrative cost in handling the application;</p>
+          <p>(viii) One side will, on a best endeavour basis, enable investors of the other side to gain access to and use public infrastructure facilities under reasonable and non- discriminatory conditions.</p>
+        </div>
+        <div type="article" num="16" title="Transparency of Laws and Policies">
+          <p>1. One side shall, with a view to promoting the understanding of its laws and policies pertaining to or affecting covered investments:</p>
+          <p>(i) Promptly make such laws and policies public and readily accessible, including by electronic means;</p>
+          <p>(ii) If requested, provide copies of specified laws and policies to the other side; and</p>
+          <p>(iii) If requested, consult with the other side with a view to explaining specified laws and policies.</p>
+          <p>2. One side shall ensure that investors of the other side can become acquainted with its laws and policies pertaining to the conditions of admission of investments, including procedures for application and registration, criteria for examination and approval of an application, timelines for processing an application and rendering a decision, and review or appeal procedures of a decision.</p>
+          <p>3. One side is encouraged to:</p>
+          <p>(i) Publish in advance any measure that it proposes to adopt; and</p>
+          <p>(ii) Provide interested persons and the other side a reasonable opportunity to comment on the proposed measure.</p>
+        </div>
+        <div type="article" num="17" title="Committee on Investment">
+          <p>1. The two sides agree to set up the Committee on Investment under the mechanism of the CEPA Joint Steering Committee to deal with matters arising from this Agreement, through the responsible contact person designated by the authority of each side.</p>
+          <p>2. Functions of the Committee on Investment include:</p>
+          <p>(i) Investment consultation: exchange of investment information, launching of investment promotions, promoting investment facilitation, and provision of consultation on matters related to this Agreement;</p>
+          <p>(ii) Notification and coordination of investment disputes: for the "investment disputes" as referred to in paragraph 1 of Article 19 (Dispute Settlement between a Hong Kong Investors and the Mainland) or paragraph 1 of Article 20 (Dispute Settlement between a Mainland Investors and Hong Kong), if the two sides consider necessary, one side shall notify its relevant authorities or institutions and coordinate the handling of the "investment disputes" in its area, or notify the other side of the "investment disputes" in the areas of the former side;</p>
+          <p>(iii) Settlement of disputes: settlement of disputes between the two sides with respect to the interpretation, implementation and application of this Agreement through consultation;</p>
+          <p>(iv) Interpretation of the Agreement: the two sides may, if they consider necessary, make an interpretation on the tables in Annex 2 to this Agreement through consultation in accordance with paragraph 7 of Article 9 (Non- Conforming Measures);</p>
+          <p>(v) Any other tasks related to this Agreement as agreed by the two sides.</p>
+          <p>3. Any decisions by the Committee on Investment shall be made by consensus of the two sides, and shall be promptly reported to the CEPA Joint Steering Committee.</p>
+        </div>
+        <div type="article" num="18" title="Dispute Settlement between the Two Sides Under this Agreement">
+          <p>1. Any disputes between the two sides with respect to the interpretation, implementation or application of this Agreement shall be settled by the two sides through consultation.</p>
+          <p>2. The two sides shall settle disputes through consultation in accordance with the mechanism set out in Article 17 (Committee on Investment) of this Agreement.</p>
+        </div>
+        <div type="article" num="19" title="Dispute Settlement between a Hong Kong Investor and the Mainland">
+          <p>1. A dispute arising from a claim by a Hong Kong investor that it or its covered investment has suffered losses or damages resulting from a breach by the Mainland authorities or institutions of the obligations provided in this Agreement (7) in relation to the Hong Kong investors or their covered investments (hereinafter referred to as "investment disputes") may be settled by the following means:</p>
+          <p>(i) Resolution through amicable consultation between the disputing parties;</p>
+          <p>(ii) Resolution through the complaint handling organisations for foreign investors in the Mainland in accordance with the relevant requirements of the Mainland;</p>
+          <p>(iii) Resolution through the function of notification and coordination of investment disputes under Article 17 (Committee on Investment) of this Agreement;</p>
+          <p>(iv) Resolution through administrative review in accordance with the laws of the Mainland;</p>
+          <p>(v) Resolution through mediation whereby a Hong Kong investor may submit an investment dispute arising from this Agreement(8) between that investor and the Mainland to a mediation institution of the Mainland side;</p>
+          <p>(vi) Recourse to the judicial proceedings under the laws of the Mainland.</p>
+          <p>2. Mediation under sub-paragraph 1(v) of this Article shall be subject to the laws and regulations of the Mainland. Full use of the functions of the mediation mechanism shall be made to ensure the effective settlement of disputes. The Mainland will make arrangements for the mediation mechanism.</p>
+          <p>3. If a Hong Kong investor has already chosen to settle a dispute in accordance with sub-paragraphs 1(iv) or 1(vi) of this Article, it shall not submit the same dispute to the mediation institution of the Mainland for mediation unless such submission is in compliance with the relevant laws and regulations of the Mainland.</p>
+          <p>4. For "investment disputes" referred to in paragraph 1 of this Article which have entered into judicial proceedings prior to the coming into effect of this Agreement, unless agreed upon by the disputing parties and in compliance with the laws and regulations of the Mainland, the mediation procedure provided under sub-paragraph 1(v) of this Article shall not apply.</p>
+          <p>5. If a Hong Kong investor has already chosen to settle a dispute in accordance with any method in sub-paragraphs 1(ii) to 1(vi) of this Article, it shall not submit the same dispute to the complaint handling organisations for foreign investors in the Mainland for resolution by coordination unless it is in compliance with the relevant laws and regulations of the Mainland.</p>
+          <p>6. For greater certainty, in settlement of disputes involving tax matters, the authority under the relevant taxation agreement of one side shall determine whether the taxation agreement governs such kind of disputes. Methods of resolution of disputes involving tax matters are limited to those specified in Article 23 (Mutual Agreement Procedure) of the Arrangement between the Mainland of China and the Hong Kong Special Administrative Region for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income.</p>
+          <div type="foot_note">(7) Limited to Article 4 (Minimum Standard of Treatment), Article 5 (National Treatment), Article 6 (Most- Favoured Treatment), Article 7 (Performance Requirements), paragraph 1 of Article 8 (Senior Management, Boards of Directors and Entry of Personnel), paragraph 2 of Article 8 (Senior Management, Boards of Directors and Entry of Personnel), Article 11 (Expropriation), Article 12 (Compensation for Losses) and Article 14 (Transfer).</div>
+          <div type="foot_note">(8) Limited to Article 4 (Minimum Standard of Treatment), Article 5 (National Treatment), Article 6 (Most-Favoured Treatment), Article 7 (Performance Requirements), paragraph 1 of Article 8 (Senior Management, Boards of Directors and Entry of Personnel), paragraph 2 of Article 8 (Senior Management, Boards of Directors and Entry of Personnel), Article 11 (Expropriation), Article 12 (Compensation for Losses) and Article 14 (Transfer).</div>
+        </div>
+        <div type="article" num="20" title="Dispute Settlement between a Mainland Investor and Hong Kong">
+          <p>1. A dispute arising from a claim by a Mainland investor that it or its covered investment has suffered losses or damages resulting from a breach by the Hong Kong authorities or institutions of the obligations provided in this Agreement (9) in relation to the Mainland investors or their covered investment, may be settled by the following means:</p>
+          <p>(i) Resolution through amicable consultation between the disputing parties;</p>
+          <p>(ii) Resolution through the complaint handling mechanism established by the relevant Hong Kong authorities or institutions in accordance with the relevant requirements of Hong Kong;</p>
+          <p>(iii) Resolution through the function of notification and coordination of investment disputes established under Article 17 (Committee on Investment) of this Agreement;</p>
+          <p>(iv) Resolution through mediation whereby a Mainland investor may submit an investment dispute arising from this Agreement (10) between that investor and Hong Kong to a mediation institution of Hong Kong;</p>
+          <p>(v) Recourse to the judicial proceedings under the laws of Hong Kong.</p>
+          <p>2. If a Mainland investor has already chosen to settle a dispute in accordance with sub-paragraph 1(v) of this Article, it shall not submit the same dispute to the mediation institution of Hong Kong for mediation unless such submission is in compliance with the relevant laws and regulations of Hong Kong.</p>
+          <p>3. For "investment disputes" referred to in paragraph 1 of this Article which have entered into judicial proceedings prior to the coming into effect of this Agreement, unless agreed upon by the disputing parties and in compliance with the laws and regulations of Hong Kong, the mediation procedure provided under sub-paragraph 1(iv) of this Article shall not apply.</p>
+          <p>4. For greater certainty, in settlement of disputes involving tax matters, the authority under the relevant taxation agreement of one side shall determine whether the taxation agreement governs such kind of disputes. Methods of resolution of disputes involving tax matters are limited to those specified in Article 23 (Mutual Agreement Procedure) of the Arrangement between the Mainland of China and the Hong Kong Special Administrative Region for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income.</p>
+          <div type="foot_note">(9) Limited to Article 4 (Minimum Standard of Treatment), Article 5 (National Treatment), Article 6 (Most-Favoured Treatment), Article 7 (Performance Requirements), paragraph 1 of Article 8 (Senior Management, Boards of Directors and Entry of Personnel), paragraph 2 of Article 8 (Senior Management, Boards of Directors and Entry of Personnel), Article 11 (Expropriation), Article 12 (Compensation for Losses) and Article 14 (Transfer).</div>
+          <div type="foot_note">(10) Limited to Article 4 (Minimum Standard of Treatment), Article 5 (National Treatment), Article 6 (Most- Favoured Treatment), Article 7 (Performance Requirements), paragraph 1 of Article 8 (Senior Management, Boards of Directors and Entry of Personnel), paragraph 2 of Article 8 (Senior Management, Boards of Directors and Entry of Personnel), Article 11 (Expropriation), Article 12 (Compensation for Losses) and Article 14 (Transfer).</div>
+        </div>
+      </div>
+      <div type="chapter" num="4" title="Final Provisions">
+        <div type="article" num="21" title="Denial of Benefits">
+          <p>1. One side may, at any time including after the institution of any proceedings in accordance with Chapter 3 (Investment Facilitation and Settlement of Disputes), deny the benefits of this Agreement to an investor of the other side that is an enterprise of that other side and to covered investments of that investor if:</p>
+          <p>(i) Investors of any other party own or control the enterprise; and</p>
+          <p>(ii) The denying side adopts or maintains measures with respect to that other party:</p>
+          <p>1. That prohibit transactions with the enterprise; or</p>
+          <p>2. That would be violated or circumvented if the benefits of this Agreement were accorded to the enterprise or to its covered investments.</p>
+          <p>2. For greater certainty, one side may deny the benefits of this Agreement pursuant to paragraph 1 of this Article at any time, including after the initiation of any proceedings in accordance with Chapter 3 (Investment Facilitation and Settlement of Disputes).</p>
+        </div>
+        <div type="article" num="22" title="Exceptions">
+          <p>1. Provided that such measures are not applied in an arbitrary or unjustifiable manner, or do not constitute a disguised restriction on trade or investment, nothing in this Agreement shall be construed to prevent one side from adopting or maintaining measures, including environmental measures:</p>
+          <p>(i) Necessary to ensure compliance with laws that are not inconsistent with the provisions of this Agreement;</p>
+          <p>(ii) Necessary to protect human, animal or plant life or health; or</p>
+          <p>(iii) Relating to the conservation of living or non-living exhaustible natural resources if such measures are made effective in conjunction with restrictions on domestic production or consumption.</p>
+          <p>2. Nothing in this Agreement shall be construed to prevent one side from maintaining or adopting exception measures that are consistent with the rules of the WTO.</p>
+          <p>3. (i) Nothing in this Agreement shall be construed to require one side to furnish or allow access to information the disclosure of which would impede law enforcement or would be contrary to that side's laws protecting confidential information of the government, personal privacy, the confidentiality of the financial affairs and accounts of individual customers of financial institutions.</p>
+          <p>(ii) Nothing in this Agreement shall be construed to require, during the course of any dispute settlement procedure under this Agreement, one side to furnish or allow access to information protected under its competition laws, or a competition authority of one side to furnish or allow access to any other information that is secret or otherwise protected from disclosure.</p>
+          <p>4. Any measure adopted by one side in conformity with a decision adopted by the WTO pursuant to Article IX:3 of the WTO Agreement shall be deemed to be not in breach of this Agreement. An investor may not claim under this Agreement that such a measure is in breach of this Agreement.</p>
+          <p>5. This Agreement shall not be construed to require one side to furnish or allow access to information, if that side determines that the disclosure of such information may be contrary to its essential security interests, or to prevent one side from taking any measures that it considers necessary to protect its essential security interests.</p>
+          <p>6. One side reserves the right to establish or maintain any restrictive measures relating to investors and covered investments of the other side in the event that the implementation of this Agreement causes substantial impact on its sectors or public interests.</p>
+        </div>
+        <div type="article" num="23" title="Financial Prudence">
+          <p>1. Notwithstanding any other provisions of this Agreement, one side shall not be prevented from adopting or maintaining measures relating to financial services for prudential reasons. These prudential reasons (11) include the protection of investors, depositors, policy holders, or persons to whom a fiduciary duty is owed by a financial services supplier, or to ensure the integrity and stability of the financial system. (12)</p>
+          <p>2. Nothing in this Agreement applies to non-discriminatory measures of general application in pursuit of monetary or related credit policies or exchange rate policies. (13)</p>
+          <p>3. The term "financial service" shall bear the same meaning of financial service as defined in paragraph 5(a) of the Annex on Financial Services to the WTO General Agreement on Trade in Services and the term "financial service supplier" contained in that paragraph also includes public entity as defined in paragraph 5(c) of the Annex on Financial Services.</p>
+          <p>4. For greater certainty, this Agreement shall not be construed as preventing one side from adopting measures that are applicable to a financial institution, or from enforcing measures in a financial institution, relating to the investors or covered investments of the other side necessary to ensure compliance with laws that are not inconsistent with the provisions of this Agreement, including measures relating to the prevention of false and fraudulent practices or measures to deal with the effects of default on financial services contracts, provided that the manner in which such measures are applied would not constitute a means of arbitrary or unjustifiable discrimination to countries (or regions) where like conditions prevail or a disguised restriction on the investment of the financial institution.</p>
+          <div type="foot_note">(11) The term "prudential reasons" shall be interpreted as including the maintenance of the safety, stability, soundness and financial responsibility of individual financial institutions or the financial system, as well as the maintenance of the safety and financial and operational integrity of payment and clearing systems.</div>
+          <div type="foot_note">(12) The two sides confirm that, in the case of determining whether a certain specific measure falls within the scope of paragraph 1 of Article 23 (Financial Prudence), resolution shall be sought through consultation by the financial services authorities of the two sides.</div>
+          <div type="foot_note">(13) For greater certainty, measures of general application taken in pursuit of monetary and related credit policies or exchange rate policies do not include measures that expressly nullify or amend contractual provisions that specify the currency of denomination or the rate of exchange of currencies.</div>
+        </div>
+        <div type="article" num="24" title="Taxation">
+          <p>1. Except as provided in this Article, nothing in this Agreement shall apply to taxation measures.</p>
+          <p>2. Nothing in this Agreement shall affect the rights and obligations of one side under any taxation agreement. In the event of any inconsistency between the provisions of this Agreement and any such agreement, the provisions of that taxation agreement shall prevail to the extent of the inconsistency.</p>
+          <p>3. Nothing in this Agreement shall be construed to require one side to furnish or allow access to information the disclosure of which would be contrary to that side's laws protecting information concerning the taxation affairs of a taxpayer.</p>
+          <p>4. The provisions of Article 11 (Expropriation) shall apply to taxation measures. (14)</p>
+          <p>5. The question on whether a measure of one side is a taxation measure set out in paragraph 1 of this Article shall only be jointly determined by the authorities under the taxation agreement of the two sides through consultation. The joint determination by the authorities under the taxation agreement of the two sides shall bind any procedures of resolving a claim by an investor under this Agreement.</p>
+          <p>6. No claim may be made by an investor pursuant to paragraph 4 of this Article unless:</p>
+          <p>(i) The investor provides a copy of the notice of claim to the authorities under the taxation agreement of the two sides; and</p>
+          <p>(ii) Six months after receiving notification of the claim by the investor, the authorities under the taxation agreement of the two sides fail to reach a joint determination that the measure in question is not an expropriation.</p>
+          <p>(14) For greater certainty, non-discriminatory tax preservation adopted or executed for the assurance of fair and effective imposition of taxes or tax collection, and penal measures for illegal offences do not constitute expropriation under Article 11 (Expropriation).</p>
+        </div>
+        <div type="article" num="25" title="Environmental Measures (15)">
+          <p>The two sides recognise that it is inappropriate to encourage investments by investors of the other side by relaxing its environmental measures. Accordingly, one side should not waive, be in breach of or otherwise derogate from such environmental measures to encourage investors of the other side with respect to the establishment, acquisition, expansion or retention of investments in the area of the former side.</p>
+          <div type="foot_note">(15) For the purpose of this Article, environmental measures are limited to environmental laws, regulations, procedures, requirements or practices.</div>
+        </div>
+        <div type="article" num="26" title="Non-derogation">
+          <p>1. This Agreement shall not prevent investors of one side from taking advantage of any laws of the other side or any other obligations between the two sides which are applicable to the investors and their covered investments and are more favourable than the provisions of this Agreement.</p>
+          <p>2. One side shall observe any other obligations it has entered into with regard to covered investments of investors of the other side.</p>
+        </div>
+        <div type="article" num="27" title="Annexes and Footnotes">
+          <p>The Annexes and footnotes to this Agreement form an integral part of this Agreement.</p>
+        </div>
+        <div type="article" num="28" title="Supplements and Amendments">
+          <p>The provisions of this Agreement or its annexes may be supplemented or amended in writing when the need arises. Any supplement and amendment shall come into effect after it has been signed by the duly authorised representatives of the two sides.</p>
+        </div>
+        <div type="article" num="29" title="Coming Into Effect and Implementation">
+          <p>This Agreement shall come into effect on the day of signature by the representatives of the two sides, and shall be implemented on 1 January 2018.</p>
+        </div>
+      </div>
+    </body>
+    <conclusion>
+      <p>This Agreement is signed in duplicate in the Chinese language.</p>
+      <p>This Agreement is signed on 28 June 2017 in Hong Kong.</p>
+      <p>Vice Minister of Commerce People's Republic of China</p>
+      <p>(Signature)</p>
+      <p>Financial Secretary Hong Kong Special</p>
+      <p>Administrative Region of the People's Republic of China</p>
+      <p>(Signature)</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" num="Annex 1" title="Relevant Requirements on the Definition of &quot;Investor&quot;">
+        <p>1. A Hong Kong enterprise investing in the Mainland in the form of commercial presence may constitute an "investor" under paragraph 2 of Article 2 (Definitions) of this Agreement if the following conditions are fulfilled:</p>
+        <p>1.1. Be incorporated or established pursuant to the Companies Ordinance or other relevant laws of the Hong Kong Special Administrative Region (2), and have obtained a valid Business Registration Certificate; and</p>
+        <p>1.2. Engage in substantive business operations in Hong Kong. The criteria for determination are:</p>
+        <p>(1) Years of operation required</p>
+        <p>A Hong Kong investor should be incorporated or established in Hong Kong, and have engaged in substantive business operations for 3 years or more (3);</p>
+        <p>(2) Profits tax</p>
+        <p>During the period of substantive business operations in Hong Kong, a Hong Kong investor should have paid profits tax in accordance with the laws;</p>
+        <p>(3) Business premises</p>
+        <p>A Hong Kong investor should own or rent premises in Hong Kong to engage in substantive business operations. The scale of its business premises should be commensurate with the scope and the scale of its business in Hong Kong; and</p>
+        <p>(4) Employment of staff</p>
+        <p>More than 50% of the staff employed in Hong Kong by the Hong Kong investor should be residents staying in Hong Kong without limit of stay, and people from the Mainland staying in Hong Kong on One Way Permit.</p>
+        <p>For greater certainty, a Hong Kong enterprise investing in the Mainland in any forms other than commercial presence does not need to fulfil the conditions as stipulated in Articles 1.1 and 1.2.</p>
+        <p>2. Unless otherwise provided in this Agreement and its Annexes, a Hong Kong natural person investing in the Mainland shall constitute "investor" under paragraph 2 of Article 2 (Definitions) of this Agreement only if he or she is a permanent resident of the Hong Kong Special Administrative Region of the People's Republic of China.</p>
+        <p>3. To become a qualified "investor" under paragraph 2 of Article 2 (Definitions) of this Agreement, a Hong Kong investor applying to invest in the Mainland in the form of commercial presence in accordance with this Agreement should meet the following requirements:</p>
+        <p>3.1. A Hong Kong investor in the form of an enterprise should submit a certificate issued by the Trade and Industry Department of the Government of the Hong Kong Special Administrative Region (hereinafter referred to as the "TID"). When applying for the certificate, a Hong Kong investor must declare the nature and scope of its business in Hong Kong together with the nature and scope of its intended investment in the Mainland, and submit the following documents and information, and the statutory declaration to the TID for examination:</p>
+        <p>3.1.1. Documents and information (if applicable)</p>
+        <p>(1) Copy of the Certificate of Incorporation issued by the Companies Registry of the Hong Kong Special Administrative Region;</p>
+        <p>(2) Copies of the Business Registration Certificate of the Hong Kong Special Administrative Region and an Extract of Information in the Register of Businesses;</p>
+        <p>(3) Annual reports or audited financial statements of the Hong Kong investor for the past 3 years;</p>
+        <p>(4) Original or copy of document(s) substantiating that the Hong Kong investor owns or rents business premises in Hong Kong;</p>
+        <p>(5) Copy of the Profits Tax Returns, Notice of Assessment and Demand for Tax in respect of the Hong Kong investor for the past 3 years; in the event of loss, the Hong Kong investor should provide supporting document(s) from the relevant department of the Hong Kong Special Administrative Region attesting to the loss;</p>
+        <p>(6) Copy of the Employer's Return of Remuneration and Pensions of the Hong Kong investor in respect of the remuneration and pension of its employees in Hong Kong, and the original or a copy of other relevant document(s) substantiating that the company fulfils the requirement of Article 1.2(4) of this Annex on the percentage threshold;</p>
+        <p>(7) Original or copy of other relevant document(s) substantiating that the Hong Kong investor engages in substantive business operations in Hong Kong, such as licences, permits, or confirmation letters issued by relevant authorities or bodies in Hong Kong relevant to the nature and scope of business in Hong Kong as required by the laws of Hong Kong or this Annex.</p>
+        <p>3.1.2. Statutory declaration</p>
+        <p>For any Hong Kong investor applying to obtain treatment under this Agreement, its authorised representative should make a statutory declaration pursuant to the procedures and requirements of the Oaths and Declarations Ordinance of the Hong Kong Special Administrative Region (4). The form of the declaration will be determined by the relevant authorities of the Mainland and the Hong Kong Special Administrative Region through consultation.</p>
+        <p>3.1.3. Application form for certificate</p>
+        <p>The TID may, in the circumstances it considers necessary, entrust other government departments of the Hong Kong Special Administrative Region, statutory bodies, or independent professional institutions (personnel) to conduct verification. The TID will issue a certificate to an applicant that it considers to have fulfilled the criteria of Hong Kong investor as required under this Annex. The contents and form of the certificate will be determined by the relevant authorities of the Mainland and the Hong Kong Special Administrative Region through consultation. The relevant authorities of the Mainland and the Hong Kong Special Administrative Region may discuss and announce circumstances that allow the exemption of such certificate.</p>
+        <p>3.2. A Hong Kong investor in the form of a natural person should provide identification of his or her Hong Kong permanent resident status. For Chinese citizens among such investors, their Home Visit Permit for Hong Kong and Macau Residents or Hong Kong Special Administrative Region passport should also be provided.</p>
+        <p>4. To be qualified as an "investor" under paragraph 2 of Article 2 (Definitions) of this Agreement, when applying to the Mainland's examining authorities to invest in the form of commercial presence under this Agreement, a Hong Kong investor should follow the following procedures:</p>
+        <p>4.1. When applying to engage in a covered investment in the Mainland within the scope of Annex 2, a Hong Kong investor should submit to the Mainland's examining authorities the certificate as required under Article 3 of this Annex.</p>
+        <p>4.2. Pursuant to the powers conferred under Mainland laws, the Mainland's examining authorities, in examining the application for Hong Kong investments, may at the same time verify the qualifications of the Hong Kong investor when they consider necessary. The Mainland's examining authorities should request the Hong Kong investor to provide documents and information, and statutory declaration as required in Article 3 of this Annex within a stipulated period, and submit written justification for verifying the qualifications of the Hong Kong investor to the Ministry of Commerce.</p>
+        <p>4.3. When holding a different view in respect of the qualification of the Hong Kong investor, the Mainland's examining authorities should inform the Hong Kong investor within a stipulated period, and notify the Ministry of Commerce. The Ministry of Commerce will in turn inform the TID, giving the reasons for the divergent views. The Hong Kong investor may, through the TID and with written justification, request the Ministry of Commerce for reconsideration. The Ministry of Commerce should give a written reply to the TID within a stipulated period.</p>
+        <p>5. A Mainland investor investing in Hong Kong shall comply with the requirements in paragraph 2 of Article 2 (Definitions) of this Agreement.</p>
+        <p>6. In this Annex, "commercial presence" means any type of business or professional establishment of one side, including through:</p>
+        <p>6.1 The constitution, acquisition or operation of an enterprise, or</p>
+        <p>6.2. The constitution or operation of a branch or a representative office, within the area of the other side.</p>
+        <div type="foot_note">(1) For greater certainty, without prejudice to the other provisions and the requirements under the annexes to this Agreement, an investor of one side must fulfil the relevant requirements in relation to the definition of "investor" referred in Annex 1 to this Agreement in order to enjoy the treatment of investments as set out under Article 5 (National Treatment), Article 6 (Most-Favoured Treatment), Article 7 (Performance Requirements) and Article 8 (Senior Management, Boards of Directors and Entry of Personnel).</div>
+        <div type="foot_note">(2) Any overseas company, representative office, liaison office, "mail box company" and company specifically established for providing certain services to its parent company, which is registered in Hong Kong, is not a Hong Kong investor under this Annex.</div>
+        <div type="foot_note">(3) From the day this Agreement comes into effect, where more than 50% of the equity interest of a Hong Kong investor has been owned for at least one year since a merger or acquisition by an investor other than one from either side, the investor which has been acquired or merged will be regarded as a Hong Kong investor.</div>
+        <div type="foot_note">(4) A person is subject to criminal liability under Hong Kong law if he wilfully makes a false or untrue declaration pursuant to the Oaths and Declarations Ordinance.</div>
+      </div>
+      <div type="annex" num="Annex 2" title="Schedules of the Mainland and Hong Kong"/>
+      <div type="part" num="I" title="Schedule of the Mainland">
+        <div type="annex" num="Table 1" title="Negative List of Non-Rollback Provisions)">
+          <p>Notes</p>
+          <p>1. Pursuant to Article 9 (Non-Conforming Measures), the schedule of the Mainland in this Annex stipulates the existing measures which are not subject to some or all of the obligations imposed by the following provisions:</p>
+          <p>1) Article 5 (National Treatment);</p>
+          <p>2) Article 6 (Most-Favoured Treatment);</p>
+          <p>3) Article 7 (Performance Requirements); or</p>
+          <p>4) Article 8 (Senior Management, Boards of Directors and Entry of Personnel).</p>
+          <p>2. Each item stipulates that:</p>
+          <p>1) Sector refers to the corresponding sector of the item as agreed by the two sides;</p>
+          <p>2) Obligations concerned clarifies the provisions aforementioned in paragraph 1. Pursuant to sub-paragraph 1(i) of Article 9 (Non-Conforming Measures), the provisions as mentioned do not apply to the non-conformities of the description as referred to in paragraph 3; and</p>
+          <p>3) Description sets out the contents of the non-conforming measures of the item.</p>
+          <p>3. Pursuant to sub-paragraph 1(i) of Article 9 (Non-Conforming Measures) and subject to sub-paragraph 1(iii) of Article 9 (Non- Conforming Measures), the provisions of this Agreement listed in the obligations concerned of an item do not apply to the non- conformities in the description of that item.</p>
+          <p>4. When interpreting an item of the schedule, all parts of the item and the corresponding provisions of this Agreement for that item should be considered. Unless otherwise clearly provided in a particular item, the description prevails over all other parts in the interpretation of an item.</p>
+          <p>5. Where there is any overlap between Table 1 and Table 2, notwithstanding the obligations under paragraph 1 of Article 9 and this Annex, one side still holds the right to adopt or maintain the relevant measures under paragraph 2 of Article 9 and Table 2.</p>
+          <p>6. For the purpose of the schedule of the Mainland in this Annex:</p>
+          <p>1) Hong Kong investors should meet the relevant requirements of Annex 1 to this Agreement.</p>
+          <p>2) Hong Kong investors shall not invest refers to the fact that Hong Kong investors shall not invest directly or indirectly in the Mainland, including directly or indirectly possessing shareholding, shares of any amount, or other forms of investment interests.</p>
+          <p>3) The Mainland side being the controlling shareholder refers to the situation that the sum of proportion of direct or indirect investments made by external investors (including Hong Kong investors) shall not exceed 49%.</p>
+          <p>4) The Mainland side being the corresponding controlling shareholder refers to the sum of proportion of investments made by investors of the Mainland in a foreign-funded enterprise is larger than the proportion of investment made by external investors.</p>
+          <p>5) Restricted to equity joint venture refers to the fact that only equity joint venture by investors from the two sides are allowed.</p>
+          <p>6) Investment proportion refers to the proportion of accumulated investments or shareholding of direct or indirect investments made by an investor and its related parties in individual enterprises.</p>
+          <p>7) Hong Kong financial institution refers to an institution that is registered in Hong Kong and its establishment has been approved or permitted and is regulated by financial regulatory authorities in the area it is located.</p>
+        </div>
+        <div type="annex" num="&#xA0;1" title="Development of Exclusive Economic Zones and Continental Shelf">
+          <p>Sector: Development of Exclusive Economic Zones and Continental Shelf </p>
+          <p>Obligations concerned: National Treatment (Article 5) </p>
+          <p>Description: Any organisations or individuals (including international organisations) from Hong Kong shall obtain the approval from the Central Government or relevant Mainland authorities to develop the natural resources of the Exclusive Economic Zones and continental shelf, or to drill for any purposes on the continental shelf, as stipulated in the Law on the Exclusive Economic Zone and the Continental Shelf.</p>
+        </div>
+        <div type="annex" num="&#xA0;2" title="Exploitation of Petroleum Oil and Natural Gas">
+          <p>Sector: Exploitation of Petroleum Oil and Natural Gas </p>
+          <p>Obligations concerned: National Treatment (Article 5) </p>
+          <p>Description: Hong Kong investors can only exploit petroleum oil, natural gas or coal seam gas through signing of production sharing contract with petroleum oil and gas companies (2) which are approved by the Central Government or relevant Mainland authorities to have the franchise of forming partnerships with foreign investments. For the purpose of land-based petroleum oil, natural gas or coal seam gas, when the franchise is completely liberalised to Mainland investors, Hong Kong investors are allowed to perform exploitation of land-based petroleum oil, natural gas or coal seam gas the form of equity joint venture or cooperation. For greater certainty, the investments made by Hong Kong investors in the exploitation of non-conventional resources, such as oil shale, oil sands or shale gas, are not restricted by the measures of this item. </p>
+          <div type="foot_note">(2) For the purpose of this item, "Petroleum oil and gas companies which are approved by the Central Government or relevant Mainland authorities to have the franchise of forming partnerships with foreign investments" refers to companies that have been approved by the Central Government or relevant Mainland authorities to be responsible for forming partnerships with foreign investments in the exploitation of land-based petroleum oil resources (petroleum oil and natural gas businesses), marine petroleum oil resources (petroleum oil and natural gas businesses) and coal seam gas business respectively. The companies currently responsible for forming partnerships with foreign investments in the business of land-based petroleum oil exploitation are China National Petroleum Corporation and China Petrochemical Corporation (Sinopec Group); the company responsible for forming partnerships with foreign investments in the business of marine petroleum oil exploitation is China National Offshore Oil Corporation; while the companies exploiting coal seam gas include China United Coalbed Methane Corporation, Limited and other companies designated by the State Council. The above companies hold the franchise of performing exploration, development and production of petroleum oil and natural gas in partnership with foreign enterprises in the zones (waters) approved by the State Council.</div>
+        </div>
+        <div type="annex" num="&#xA0;3" title="Exploitation and Smelting of Mineral Products">
+          <p>Sector: Exploitation and Smelting of Mineral Products </p>
+          <p>Obligations concerned: National Treatment (Article 5) </p>
+          <p>Description: </p>
+          <p>1. Hong Kong investors shall not invest in the exploitation of rare earths. Investments of Hong Kong investors in smelting and separation of rare earths are restricted to equity joint ventures. </p>
+          <p>2. Hong Kong investors shall not invest in the exploitation of tungsten, molybdenum, tin, antimony or fluorite. </p>
+          <p>3. Hong Kong investors are restricted to equity joint ventures in the investment of graphite exploitation.</p>
+        </div>
+        <div type="annex" num="&#xA0;4" title="Manufacture of Transportation Carriers">
+          <p>Sector: Manufacture of Transportation Carriers </p>
+          <p>Obligations concerned: National Treatment (Article 5) Performance Requirements (Article 7) </p>
+          <p>Description: </p>
+          <p>1. The shareholding percentage of the Mainland side with respect to investments by Hong Kong investors in the manufacture of vehicles (passenger and commercial vehicles) or specialised vehicles shall not be less than 50%. </p>
+          <p>2. A Hong Kong investor may establish at most two equity joint venture enterprises manufacturing vehicle products of the same category (passenger or commercial vehicles). Investors who form equity joint ventures with Mainland partners to acquire other Mainland automobile manufacturing enterprises are exempted from the above restriction. 3. The Mainland side must be the controlling shareholder in the investments of Hong Kong investors in the manufacture of ground effect or water effect aeroplanes and the manufacture of drones and aerostats.</p>
+        </div>
+        <div type="annex" num="&#xA0;5" title="Franchise Authorised by the Government">
+          <p>Sector: Franchise Authorised by the Government </p>
+          <p>Obligations concerned: National Treatment (Article 5) </p>
+          <p>Description: Hong Kong investors shall not invest in the production of tobacco leaves, cigarettes, re-dried tobacco leaves, cigars, smoking tobacco and other tobacco products (3) </p>
+          <div type="foot_note">(3) For the purpose of this item, tobacco products refer to products entirely or partially produced with tobacco leaves as the raw ingredient for inhaling, sucking, chewing or snorting.</div>
+        </div>
+        <div type="annex" num="&#xA0;6" title="Atomic Energy">
+          <p>Sector: Atomic Energy</p>
+          <p> Obligations concerned: National Treatment (Article 5)</p>
+          <p> Description: Hong Kong investors shall not invest in the exploitation, smelting, purification, conversion or isotope separation of radioactive mineral resources or the production and processing of nuclear fuels.</p>
+        </div>
+        <div type="annex" num="&#xA0;7" title="All Sectors">
+          <p>Sector: All Sectors </p>
+          <p>Obligations concerned: National Treatment (Article 5)</p>
+          <p> Description: With respect to the sectors involved in the non- conforming measures in Table 1 and Table 2 of Annex 2 to this Agreement, the relevant Mainland authorities will administer the admission of investments by Hong Kong investors.</p>
+        </div>
+        <div type="annex" num="&#xA0;8" title="All Sectors">
+          <p>Sector: All Sectors</p>
+          <p> Obligations concerned: National Treatment (Article 5)</p>
+          <p> Description: </p>
+          <p>1. Hong Kong investors investing in the Mainland shall register for foreign exchange in accordance with regulations, and comply with relevant regulations on foreign exchange management with respect to the opening of accounts, transmission of capital, receiving and paying, cross-border securities investment quotas, etc. Hong Kong investors using Renminbi (RMB) for investments in the Mainland shall comply with the relevant regulations with respect to cross-border RMB business management.</p>
+          <p> 2. Unless otherwise provided in the following paragraphs, Hong Kong investors shall not trade via their own accounts or accounts of others in the exchange markets, open markets or over-the- counter markets in the Mainland (4), or invest in the Mainland by other means: 1) money market instruments (including cheque, bill, deposit certificate); 2) foreign exchange; 3) derivative products including, but not limited to, futures and options; 4) exchange rate and interest rate instruments, including products such as swaps, forward rate agreements, etc.; 5) transferable securities (except B-shares); 6) other negotiable instruments and financial assets. </p>
+          <p>3. Notwithstanding the requirements in paragraph 2 of this provision, Hong Kong investors, provided that they meet the requirements set by the Central Government or relevant authorities in the Mainland, shall be allowed to open relevant securities accounts and relevant futures accounts, including but not limited to: 1) Qualified Foreign Institutional Investors (including QFII and RQFII) (5); 2) Hong Kong permanent residents working and living in the Mainland; 3) Hong Kong investors investing with reference to the strategic investment regime for foreign investors investing in Mainland listed companies; 4) Hong Kong natural persons as participants of equity incentive scheme of Mainland listed companies; 5) Hong Kong investors engaging in trades in specific types of Mainland futures; 6) nominee holders of Hong Kong investors participating in Shanghai Connect or Shenzhen Connect (i.e. Hong Kong Securities Clearing Company Limited); 7) nominee holders of Hong Kong investors participating in Bond Connect (i.e. debt securities custody and settlement institutions in Hong Kong designated by the Hong Kong Monetary Authority). </p>
+          <p>4. Notwithstanding the requirements in paragraph 2 of this provision, Hong Kong investors, provided that they meet the requirements set by the Central Government or relevant authorities in the Mainland, shall be allowed to invest in the interbank bond market: 1) Monetary authorities in Hong Kong, international financial organisations or sovereign wealth funds shall be allowed to engage in bond transactions in cash, bond repurchase, bond lending, bond futures, as well as interest rate swaps, forward rate agreements and other transactions approved by the People's Bank of China (PBOC) in the interbank market. 2) Qualified financial institutions such as Hong Kong commercial banks, insurance companies, securities firms, fund management companies and other asset management institutions, and their investment products, as well as mid-to-long-term institutional investors such as pension funds, charity funds, endowment funds etc. shall be allowed to engage in trading approved by the PBOC, such as bond transaction in cash in the interbank bond market. 3) Qualified Foreign Institutional Investors (including QFII and RQFII) are allowed to engage in transactions approved by the PBOC, such as bond transaction in cash in the interbank bond market. 4) Hong Kong RMB business clearing banks or Hong Kong participating banks that have already entered the interbank bond market shall be allowed to engage in transactions in bond repurchase. </p>
+          <p>5. Notwithstanding the requirements in paragraph 2 of this provision, Hong Kong investors, provided that they meet the requirements offset by the Central Government or relevant authorities in the Mainland, shall be allowed to engage in foreign exchange transactions in the Mainland interbank foreign exchange market: monetary authorities in Hong Kong, official reserve management institutions, international financial organisations, sovereign wealth funds, RMB business clearing banks, or Hong Kong participating banks of RMB purchase and sales business that meet certain requirements.</p>
+          <div type="foot_note">(4) For greater certainty, Hong Kong investors shall not become ordinary members of stock exchanges or members of futures exchanges.</div>
+          <div type="foot_note">(5) For the purpose of this item, Qualified Foreign Institutional Investors (including QFII and RQFII) engaging in stocks or futures exchange etc. are subject to the following restrictions: need to obtain qualification approval of the China Securities Regulatory Commission and the quotas granted by the State Administration of Foreign Exchange, and to comply with the relevant requirements with respect to qualification approval, quotas, shareholding ratio, scope of investments, transmission of capital, lock-up period and proportional limitation of assets etc.</div>
+        </div>
+        <div type="annex" num="9" title="All Sectors">
+          <p>Sector: All Sectors </p>
+          <p>Obligations concerned: National Treatment (Article 5) </p>
+          <p>Description: </p>
+          <p>1. Hong Kong investors shall neither engage in business operations in the Mainland in the form of sole proprietors, nor become members of farmers' professional cooperatives. </p>
+          <p>2. Hong Kong investors shall not establish foreign-funded partnership enterprises with respect to the industries, areas or businesses containing restrictions of "Hong Kong investors shall not invest", "the Mainland side being the controlling shareholder", "the Mainland side being the corresponding controlling shareholder" as set out in Table 1 and Table 2 of Annex 2 to this Agreement, as well as those with required foreign capital ratio.</p>
+        </div>
+        <div type="annex" num="Table 2" title="(Negative List of Rollback Provisions)">
+          <p>Notes</p>
+          <p>1. Pursuant to Article 9 (Non-Conforming Measures), the schedule of the Mainland in this Annex stipulates, with respect to specific sectors, sub-sectors or activities, that the Mainland may maintain the existing restrictive measures or adopt revised or more restrictive measures that do not conform with the obligations under the following provisions:</p>
+          <p>1) Article 5 (National Treatment);</p>
+          <p>2) Article 6 (Most-Favoured Treatment);</p>
+          <p>3) Article 7 (Performance Requirements); or</p>
+          <p>4) Article 8 (Senior Management, Boards of Directors and Entry of Personnel).</p>
+          <p>2. Each item stipulates that:</p>
+          <p>1) Sector refers to the corresponding sector of the item as agreed by the two sides;</p>
+          <p>2) Obligations concerned clarifies the provisions mentioned in paragraph 1. Pursuant to paragraph 2 of Article 9 (Non- Conforming Measures), the provisions as mentioned do not apply to the non-conformities in the sectors, sub-sectors or activities listed in relevant provisions; and</p>
+          <p>3) Description set out the scope of the sectors, sub-sectors or activities of the item.</p>
+          <p>3. Pursuant to paragraph 2 of Article 9 (Non-Conforming Measures), the provisions of this Agreement listed in the obligations concerned of an item do not apply to the sectors, sub-sectors or activities in the description of that item.</p>
+          <p>4. For the purpose of the schedule of the Mainland in this Annex, Hong Kong investors should meet the relevant requirements of Annex 1 to this Agreement.</p>
+          <div type="article" num="&#xA0;1" title="Atomic Energy">
+            <p>Sector: Atomic Energy (6)</p>
+            <p> Obligations concerned: National Treatment (Article 5) Performance Requirements (Article 7) Senior Management, Boards of Directors and Entry of Personnel (Article 8)</p>
+            <p> Description: The Mainland reserves the right to adopt measures with respect to spent fuel reprocessing, nuclear facility decommissioning, radioactive waste disposal, and business in nuclear import.</p>
+            <div type="foot_note">(6) For greater certainty, this item does not apply to Hong Kong investors investing in the construction and operation of nuclear power stations, and technologies in isotope, radiation and laser.</div>
+          </div>
+          <div type="article" num="&#xA0;2" title="Traditional Arts and Crafts and Chinese Medicines">
+            <p>Sector: Traditional Arts and Crafts and Chinese Medicines</p>
+            <p> Obligations concerned: National Treatment (Article 5) Performance Requirements (Article 7) Senior Management, Boards of Directors and Entry of Personnel (Article 8) </p>
+            <p>Description: The Mainland reserves the right to adopt or maintain any measures with respect to the traditional arts and crafts (7) in the production of rice paper and inksticks etc. The Mainland reserves the right to adopt or maintain any measures with respect to the application of processing techniques such as steaming, stir-frying, broiling or calcining of Chinese medicine decoction pieces, and the production of proprietary Chinese medicinal products formulated with confidential prescriptions.</p>
+            <div type="foot_note">(7) For the purpose of this item, traditional arts and crafts refer to a variety of handicrafts and techniques that have a long history, involve exquisite skills, have been passed on from generation to generation, have complete technical processes, have been made of natural materials, have a distinct ethnic style and local features, and are renowned domestically and overseas.</div>
+          </div>
+          <div type="article" num="&#xA0;3" title="Land">
+            <p>Sector: Land </p>
+            <p>Obligations concerned: National Treatment (Article 5) Performance Requirements (Article 7) Senior Management, Boards of Directors and Entry of Personnel (Article 8) </p>
+            <p>Description: The Mainland reserves the right to adopt or maintain any measures with respect to restricting Hong Kong investors and their investments in the use of or contracting for the operation of agricultural lands (8). </p>
+            <div type="foot_note">(8) For the purpose of this item, agricultural lands refer to lands directly used for agricultural production, including cultivated land, forest land, grassland, land for irrigation and water conservancy, and water surfaces for aquaculture etc.</div>
+          </div>
+          <div type="article" num="4" title="All Sectors">
+            <p>Sector: All Sectors </p>
+            <p>Obligations concerned: National Treatment (Article 5) </p>
+            <p>Description: </p>
+            <p>1. The Mainland, on the basis of foreign debts management system, reserves the right to adopt measures with respect to the borrowing of foreign debts by domestic enterprises and individuals. </p>
+            <p>2. Notwithstanding the requirements in paragraph 1 of this provision, Hong Kong investors shall be allowed to provide Renminbi and foreign currency financing to Mainland domestic enterprises under the policy framework of Nationwide Macro- prudential Management of Full-scale Cross-border Financing.</p>
+          </div>
+          <div type="article" num="&#xA0;5" title="All Sectors">
+            <p>Sector: All Sectors</p>
+            <p> Obligations concerned: National Treatment (Article 5) </p>
+            <p>Description: The Mainland reserves the right to adopt or maintain any measures with respect to policy-based or development financial services (9) received by Mainland investors and their investments.</p>
+            <div type="foot_note">(9) For the purpose of this item, when this Agreement comes into effect, policy-based financial services refer to the relevant financial services provided by the Export-Import Bank of China, Agricultural Development Bank of China, and China Export and Credit Insurance Corporation; and development financial services refer to the relevant financial services provided by China Development Bank.</div>
+          </div>
+          <div type="article" num="&#xA0;6" title="All Sectors">
+            <p>Sector: All Sectors </p>
+            <p>Obligations concerned: National Treatment (Article 5) Performance Requirements (Article 7) Senior Management, Boards of Directors and Entry of Personnel (Article 8) </p>
+            <p>Description: The Mainland reserves the right to adopt or maintain any measures with respect to the assessment, transfer and disposal of any types of interests resulting from direct or indirect investments by the government in an enterprise. For greater certainty, this item does not apply to the assessment, transfer or disposal of any types of interests resulting from direct or indirect investments by the government in an enterprise, if following the transaction, the relevant assets will no longer be owned by the government.</p>
+          </div>
+          <div type="article" num="&#xA0;7" title="Minority Nationalities">
+            <p>Sector: Minority Nationalities (10)</p>
+            <p> Obligations concerned: National Treatment (Article 5) Performance Requirements (Article 7) Senior Management, Boards of Directors and Entry of Personnel (Article 8) </p>
+            <p>Description: The Mainland reserves the right to adopt or maintain any measures with respect to any rights of or preferential measures accorded to an area where people of a minority nationality live in a concentrated community in order to balance economic development and maintain social fairness.</p>
+            <div type="foot_note">(10) For the purpose of this item, minority nationalities refer to the 55 nationalities other than Han nationality out of the 56 nationalities confirmed by the Central Government, with population lower than that of the Han nationality.</div>
+          </div>
+        </div>
+      </div>
+      <div type="part" num="II" title="Schedule of Hong Kong">
+        <div type="foot_note">(11) This is implemented in accordance with the relevant provisions of this Agreement. Non-conforming measures reserved by Hong Kong will be listed in this Annex after consultation between the two sides.</div>
+        <div type="foot_note">(12) For greater certainty, the Schedule in this Part does not apply to measures affecting any sectors and any forms of investments covered by the Agreement on Trade in Services of CEPA.</div>
+        <div type="annex" num="Annex 3" title="Expropriation">
+          <p>The two sides confirm their shared understanding that:</p>
+          <p>1. Paragraph 1 of Article 11 (Expropriation) addresses two situations. The first situation is direct expropriation, in which an investment is directly expropriated through formal transfer of title or outright seizure. The second situation is indirect expropriation, in which an action or a series of actions by one side has an effect equivalent to direct expropriation without formal transfer of title or outright seizure.</p>
+          <p>2. The determination of whether an action or a series of actions by one side, in a specific fact situation, constitutes an indirect expropriation, requires a case-by-case, fact-based inquiry that considers, among other factors:</p>
+          <p>(i) The economic impact of the action by one side, although the fact that an action or a series of actions by one side has an adverse effect on the economic value of an investment, standing alone, does not establish that an indirect expropriation has occurred;</p>
+          <p>(ii) The extent to which the action or the series of actions interferes with distinct, reasonable investment-backed expectations; and</p>
+          <p>(iii) The character and objective of the action or the series of actions.</p>
+          <p>3. Except in rare circumstances, a non-discriminatory measure of one side that is designed and applied to protect legitimate public welfare objectives, such as public morals, public health, safety and the environment, does not constitute an indirect expropriation.</p>
+        </div>
+      </div>
+    </attachments>
+  </main>
+</treaty>

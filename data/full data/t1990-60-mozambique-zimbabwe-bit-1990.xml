@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Mozambique - Zimbabwe BIT (1990)</name>
+    <code>T1990-60</code>
+    <partyisocode n="0">MOZ</partyisocode>
+    <partyisocode n="1">ZWE</partyisocode>
+    <date_signed>1990-09-12</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>2624</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{MOZ,ZWE}_1990-09-12.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2006-87">SADC Investment Protocol (2006)</relation>
+  </meta>
+  <main/>
+</treaty>

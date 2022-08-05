@@ -1,0 +1,350 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>ASEAN - Hong Kong, China SAR Investment Agreement (2017)</name>
+    <code>T2017-9</code>
+    <partyisocode n="0">ASEAN</partyisocode>
+    <partyisocode n="1">HKG</partyisocode>
+    <date_signed>2017-11-12</date_signed>
+    <date_into_force>2019-06-17</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>3793</docreference>
+    <comments/>
+    <source>https://asean.org/storage/2012/05/AHKIA.pdf</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ASEAN,HKG}_2017-11-12.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_OVERLAP" document-code="T2005-63">Hong Kong, China SAR - Thailand BIT (2005)</relation>
+    <relation type="IT_OVERLAP" document-code="T2005-63">Hong Kong, China SAR - Thailand BIT (2005)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT ON INVESTMENT AMONG THE GOVERNMENTS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE'S REPUBLIC OF CHINA AND THE MEMBER STATES OF THE ASSOCIATION OF SOUTHEAST ASIAN NATIONS</p>
+    </title>
+    <preamble>
+      <p>The Governments of the Member States of the Association of Southeast Asian Nations ("ASEAN"), namely Brunei Darussalam, the Kingdom of Cambodia ("Cambodia"), the Republic of Indonesia ("Indonesia"), the Lao People's Democratic Republic ("Lao PDR"), Malaysia, the Republic of the Union of Myanmar ("Myanmar"), the Republic of the Philippines ("Philippines"), the Republic of Singapore ("Singapore"), the Kingdom of Thailand ("Thailand"), and the Socialist Republic of Viet Nam ("Viet Nam") (hereinafter referred to collectively as the "ASEAN Member States" and individually as an "ASEAN Member State"), and the Government of the Hong Kong Special Administrative Region of the People's Republic of China ("the Hong Kong Special Administrative Region"), the latter having been duly authorised to conclude this Agreement by the Central People's Government of the People's Republic of China;</p>
+      <p>RECOGNISING the importance of enhancing investment flows among the Parties;</p>
+      <p>RECOGNISING that the creation of a business-friendly environment will be conducive to the stimulation of business initiative for greater investment among the Parties; and</p>
+      <p>REAFFIRMING that this Agreement is part of a wider process of economic integration and trade liberalisation among the Parties, initiated by the ASEAN - Hong Kong, China Free Trade Agreement;</p>
+      <p>HAVE AGREED AS FOLLOWS:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>(a) Area in respect of:</p>
+        <p>(i) Each ASEAN Member State means its territory; and</p>
+        <p>(ii) The Hong Kong Special Administrative Region means the Hong Kong Special Administrative Region as delineated by the Order of State Council of the People's Republic of China No. 221 dated 1 July 1997, which includes Hong Kong Island, Kowloon and the New Territories;</p>
+        <p>(b) Covered investment means, with respect to a Party, an investment in its Area of an investor of any other Party, in existence as of the date of entry into force of this Agreement or established, acquired or expanded thereafter, and has been admitted, according to its laws, regulations and policies, and where applicable, specifically approved in writing by its competent authority;</p>
+        <p>(c) Freely usable currency means a freely usable currency as determined by the International Monetary Fund ("IMF") under its Articles of Agreement and any amendments thereto;</p>
+        <p>(d) GATS means the General Agreement on Trade in Services in Annex 1B to the WTO Agreement;</p>
+        <p>(e) Investment (1) means every kind of asset that an investor owns or controls, and that has the characteristics of an investment, such as the commitment of capital or other resources, the expectation of gains or profits or the assumption of risk, including but not limited to:</p>
+        <p>(i) Movable and immovable property and other property rights such as mortgages, liens or pledges;</p>
+        <p>(ii) Shares, stocks, bonds and debentures and any other forms of participation in a juridical person and rights derived therefrom;</p>
+        <p>(iii) Intellectual property rights which are recognised pursuant to the laws and regulations of a host Party;</p>
+        <p>(iv) Claims to money or to any contractual performance having financial value (2);</p>
+        <p>(v) Business concessions required for conducting economic activities and having financial value conferred by law or under a contract, including any concession to search for, cultivate, extract or exploit natural resources;</p>
+        <p>For the purpose of the definition of "investment", returns that are invested shall be treated as investments and any alteration of the form in which assets are invested or reinvested shall not affect their character as investments;</p>
+        <p>(f) Investor of a Party means a natural person of a Party or a juridical person of a Party that has made an investment in the Area of another Party;</p>
+        <p>(g) Juridical person means any legal entity duly constituted or otherwise organised under the applicable law of a Party, whether for profit or otherwise, and whether privately-owned or governmentally-owned, including any corporation, trust, partnership, joint venture, sole proprietorship, association or similar organisation;</p>
+        <p>(h) Measures mean any measure by a Party, whether in the form of a law, regulation, rule, procedure, decision, administrative action, or in any other form affecting investors or investments, and include measures taken by:</p>
+        <p>(i) In the case of ASEAN Member States,</p>
+        <p>(1) Central, regional, or local governments or authorities; and</p>
+        <p>(2) Non-governmental bodies in the exercise of powers delegated by central, regional, or local governments or authorities; and</p>
+        <p>(ii) In the case of the Hong Kong Special Administrative Region,</p>
+        <p>(1) The Government of the Hong Kong Special Administrative Region; and</p>
+        <p>(2) Non-governmental bodies in the exercise of powers delegated by the Government of the Hong Kong Special Administrative Region;</p>
+        <p>(i) Natural person of a Party shall have the meaning as agreed by the Parties under Article 22 (Work Programme);</p>
+        <p>(ii) Newer ASEAN Member States means Cambodia, Lao PDR, Myanmar and Viet Nam;</p>
+        <p>(k) Parties means the ASEAN Member States and the Hong Kong Special Administrative Region collectively;</p>
+        <p>(l) Party means an ASEAN Member State or the Hong Kong Special Administrative Region;</p>
+        <p>(m) Returns mean amounts yielded by or derived from an investment including, but not limited to, any profits, interests, capital gains, dividends, royalties or fees;</p>
+        <p>(n) TRIPS Agreement means the Agreement on Trade-Related Aspects of Intellectual Property Rights in Annex 1C to the WTO Agreement, as revised or amended from time to time by a revision or amendment that applies to the Parties and including any waiver in force among the Parties of any provision thereof granted by Members of the World Trade Organization in accordance with the WTO Agreement; and</p>
+        <p>(o) WTO Agreement means the Marrakesh Agreement Establishing the World Trade Organization, done on 15 April 1994.</p>
+        <p>(1) For greater certainty, the term "investment" does not include an order or judgment entered in a judicial or administrative action or an arbitral award made in an arbitral proceeding.</p>
+        <p>(2) For greater certainty, investment does not mean claims to money that arise solely from: (i) commercial contracts for sale of goods or services; or (ii) the extension of credit in connection with such commercial contracts.</p>
+      </div>
+      <div type="article" num="2" title="Scope">
+        <p>1. This Agreement shall apply to measures adopted or maintained by a Party relating to:</p>
+        <p>(a) Investors of any other Party; and</p>
+        <p>(b) Covered investments.</p>
+        <p>2. This Agreement shall not apply to:</p>
+        <p>(a) Government procurement;</p>
+        <p>(b) Subsidies or grants provided by a Party;</p>
+        <p>(c) Taxation measures except under Article 12 (Transfers);</p>
+        <p>(d) Claims arising out of events which occurred, or claims which had been raised, prior to the entry into force of this Agreement;</p>
+        <p>(e) Services supplied in the exercise of governmental authority by the relevant body or authority of a Party. For the purposes of this Agreement, a service supplied in the exercise of governmental authority means any service which is supplied neither on a commercial basis nor in competition with one or more service suppliers; and</p>
+        <p>(f) Measures adopted or maintained by a Party to the extent that they are covered by Chapter 8 (Trade in Services) of the ASEAN - Hong Kong, China Free Trade Agreement.</p>
+        <p>3. Notwithstanding subparagraph 2 (f), Article 5 (Treatment of Investment), Article 10 (Expropriation and Compensation), Article 11 (Compensation for Losses or Damages), Article 12 (Transfers), Article 14 (Subrogation) and Article 20 (Settlement of Investment Disputes between a Party and an Investor) shall apply, mutatis mutandis, to any measure affecting the supply of a service by a service supplier of a Party through commercial presence in the Area of any other Party but only to the extent that any such measure relates to a covered investment and an obligation under this Agreement regardless of whether or not such service sector is scheduled in the latter Party's Schedule of Commitments under Chapter 8 (Trade in Services) of the ASEAN - Hong Kong, China Free Trade Agreement.</p>
+      </div>
+      <div type="article" num="3" title="National treatment">
+        <p>Each Party shall accord to investors of any other Party, and to covered investments of investors of any other Party, treatment no less favourable than that it accords, in like circumstances, to its own investors and to investments of its own investors with respect to the management, conduct, operation, use, and sale or other disposition of investments in its Area.</p>
+        <p>Footnote (3) For greater certainty, the titles of Article 3 (National Treatment) and Article 4 (Most-Favoured-Nation Treatment), and references to the same in this Agreement, have no implication on the status of the Hong Kong Special Administrative Region as a part of the People's Republic of China.</p>
+      </div>
+      <div type="article" num="4" title="Most-favoured-nation treatment">
+        <p>1. Each Party shall accord to investors of another Party treatment no less favourable than that it accords, in like circumstances, to investors of any other Party or a non-Party with respect to the management, conduct, operation, use, and sale or other disposition of investments in its Area.</p>
+        <p>2. Each Party shall accord to covered investments treatment no less favourable than that it accords, in like circumstances, to investments in its Area of investors of any other Party or a non-Party with respect to the management, conduct, operation, use, and sale or other disposition of investments in its Area.</p>
+        <p>3. The treatment, as set forth in paragraphs 1 and 2, shall not include:</p>
+        <p>(a) Any preferential treatment accorded to investors or their investments under any existing bilateral, regional or international agreements or arrangements or any forms of economic or regional cooperation with any non-Party; and</p>
+        <p>(b) Any existing or future preferential treatment accorded to investors or their investments</p>
+        <p>Under any agreement or arrangement between or among ASEAN Member States, or between or among the Hong Kong Special Administrative Region and other customs territories of the People's Republic of China.</p>
+        <p>4. Notwithstanding paragraphs 1 and 2, if a Party accords more favourable treatment to investors of another Party or a non-Party or their investments by virtue of any future agreement or arrangement to which the Party is a party, it shall not be obliged to accord such treatment to investors of any other Party or their investments. However, upon request from any other Party, it shall accord adequate opportunity to negotiate the benefits granted therein.</p>
+        <p>5. For greater certainty, the obligation in this Article does not encompass a requirement for a Party to extend to investors of another Party dispute resolution procedures other than those set out in this Agreement.</p>
+      </div>
+      <div type="article" num="5" title="Treatment of investment">
+        <p>1. Each Party shall accord to covered investments fair and equitable treatment and full protection and security.</p>
+        <p>(a) "fair and equitable treatment" requires each Party not to deny justice in any legal or administrative proceedings in accordance with the principle of due process of law;</p>
+        <p>(b) "full protection and security" requires each Party to take such measures as may be reasonably necessary to ensure the physical protection and security of the covered investment; and</p>
+        <p>(c) The concepts of "fair and equitable treatment" and "full protection and security" do not require treatment in addition to or beyond that which is required under customary international law, and do not create additional substantive rights.</p>
+        <p>3. A determination that there has been a breach of another provision of this Agreement, or of a separate international agreement, does not establish that there has been a breach of this Article.</p>
+      </div>
+      <div type="article" num="6" title="Non-conforming measures">
+        <p>1. Article 3 (National Treatment) and Article 4 (Most-Favoured-Nation Treatment) shall not apply to:</p>
+        <p>(a) Any existing non-conforming measure maintained by a Party:</p>
+        <p>(i) In the case of an ASEAN Member State, at the central or regional levels of government, as set out by that Party in its Schedule to List 1 under Annex 1 (Schedules of Reservations), or at the local level of government; and</p>
+        <p>(ii) In the case of the Hong Kong Special Administrative Region, as set out in its Schedule to List 1 under Annex 1 (Schedules of Reservations);</p>
+        <p>(b) The continuation or prompt renewal of any non-conforming measure referred to in subparagraph 1 (a); or</p>
+        <p>(c) An amendment to any non-conforming measure referred to in subparagraph 1 (a) to the extent that the amendment does not decrease the conformity of the measure, as it existed as of the date of entry into force of that Party's Schedule to List 1 under Annex 1 (Schedules of Reservations), with Article 3 (National Treatment) and Article 4 (Most-Favoured-Nation Treatment).</p>
+        <p>2. Article 3 (National Treatment) and Article 4 (Most-Favoured-Nation Treatment) shall not apply to any measure that a Party adopts or maintains with respect to sectors, subsectors or activities as set out in its Schedule to List 2 under Annex 1 (Schedules of Reservations).</p>
+        <p>3. Procedures for the modification of the Schedules are to be agreed pursuant to Article 22 (Work Programme).</p>
+        <p>4. Article 3 (National Treatment) and Article 4 (Most-Favoured-Nation Treatment) shall not apply to any measure that falls within Article 5 of the TRIPS Agreement, and any measure that is covered by an exception to, or derogation from, the obligations under Article 3 or Article 4 of the TRIPS Agreement.</p>
+        <p>Footnote (4) This Article is subject to Article 22 (Work Programme).</p>
+      </div>
+      <div type="article" num="7" title="Transparency">
+        <p>1. Each Party shall make publicly available or provide upon request of another Party, its laws, regulations, procedures and administrative guidelines of general application as well as any of its international investment agreements in force which may affect the covered investments of investors of any Party.</p>
+        <p>2. Nothing in this Agreement shall require a Party to furnish or allow access to any confidential or proprietary information, including information concerning particular investors or covered investments, the disclosure of which would impede law enforcement, or be contrary to public interest or to its laws protecting confidentiality, or prejudice legitimate commercial interests of particular investors, public or private.</p>
+      </div>
+      <div type="article" num="8" title="Security exceptions">
+        <p>1. Nothing in this Agreement shall be construed to:</p>
+        <p>(a) Require a Party to furnish or allow access to any information, the disclosure of which it considers contrary to its essential security interests;</p>
+        <p>(b) Prevent a Party from taking any actions which it considers necessary for the protection of its essential security interests:</p>
+        <p>(i) Relating to the traffic in arms, ammunition and implements of war and to such traffic in other goods and materials or relating to the supply of services as carried on, directly or indirectly, for the purpose of supplying or provisioning any military establishments;</p>
+        <p>(ii) Taken in time of war or other emergency in domestic or international relations;</p>
+        <p>(iii) Relating to fissionable and fusionable materials or the materials from which they are derived;</p>
+        <p>(iv) Taken to protect critical public infrastructures, including communication, power and water infrastructures, from deliberate attempts intended to disable or degrade such infrastructures; or</p>
+        <p>(c) Prevent a Party from taking any action in pursuance of the obligations that apply to it under the United Nations Charter for the maintenance of international peace and security.</p>
+        <p>2. The ASEAN - Hong Kong, China Free Trade Area Joint Committee ("AHKFTA Joint Committee") established pursuant to Article 1 (AHKFTA Joint Committee) of Chapter 12 (Institutional Provisions) of the ASEAN - Hong Kong, China Free Trade Agreement shall be informed to the fullest extent possible of measures taken under subparagraphs 1 (b) and 1 (c) and of their termination.</p>
+      </div>
+      <div type="article" num="9" title="General exceptions">
+        <p>1. Subject to the requirement that such measures are not applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination between the Parties or their investors where like conditions prevail, or a disguised restriction on investors of another Party or their investments, nothing in this Agreement shall be construed to prevent the adoption or enforcement by any Party of measures:</p>
+        <p>(a) Necessary to protect public morals or to maintain public order (5);</p>
+        <p>(b) Necessary to protect human, animal or plant life or health;</p>
+        <p>(c) Necessary to secure compliance with laws or regulations which are not inconsistent with the provisions of this Agreement including those relating to:</p>
+        <p>(i) The prevention of deceptive and fraudulent practices or to deal with the effects of a default on contracts;</p>
+        <p>(ii) The protection of the privacy of individuals in relation to the processing and dissemination of personal data and the protection of confidentiality of individual records and accounts; or</p>
+        <p>(iii) Safety;</p>
+        <p>(d) Inconsistent with Article 3 (National Treatment), provided that the difference in treatment is aimed at ensuring the equitable or effective imposition or collection of direct taxes in respect of investors of any other Party or their investments (6);</p>
+        <p>(e) Imposed for the protection of national treasures of artistic, historic or archaeological value; or</p>
+        <p>(f) Relating to the conservation of exhaustible natural resources if such measures are made effective in conjunction with restrictions on domestic production or consumption.</p>
+        <p>2. Insofar as measures affecting the supply of financial services are concerned, paragraph 2 (Domestic Regulation) of the Annex on Financial Services of GATS is incorporated into and shall form part of this Agreement, mutatis mutandis.</p>
+        <p>(5) The public order exception may be invoked by a Party only where a genuine and sufficiently serious threat is posed to one of the fundamental interests of society.</p>
+        <p>(6) For the purpose of this subparagraph, footnote 6 of Article XIV of GATS is incorporated into and shall form part of this Agreement, mutatis mutandis.</p>
+      </div>
+      <div type="article" num="10" title="Expropriation and compensation">
+        <p>1. A Party shall not expropriate covered investments of an investor of any other Party, either directly or through measures equivalent to expropriation ("expropriation"), except:</p>
+        <p>(a) For a public purpose;</p>
+        <p>(b) In accordance with due process of law;</p>
+        <p>(c) On a non-discriminatory basis; and</p>
+        <p>(d) Upon payment of compensation accordance with the requirements of Article.</p>
+        <p>2. For the purpose of subparagraph 1 (d), compensation shall:</p>
+        <p>(a) Be equivalent to the fair market value (if the expropriating Party is an ASEAN Member State) or real value (if the expropriating Party is the Hong Kong Special Administrative Region) of the expropriated investment at the time when the expropriation was publicly announced (8), or when the expropriation occurred, whichever is applicable;</p>
+        <p>(b) Not reflect any change in value occurring because the intended expropriation had become known earlier;</p>
+        <p>(c) Be settled and paid without undue delay (9); and</p>
+        <p>(d) Be effectively realisable and freely transferable between the Areas of the Parties.</p>
+        <p>3. In the event of delay, the compensation referred to in subparagraph 1 (d) shall include appropriate interest (10) at the prevailing commercial rate. The compensation, including any accrued interest, shall be payable either in the currency of the expropriating Party, or if requested by the investor, in a freely usable currency.</p>
+        <p>4. Notwithstanding paragraphs 1, 2, and 3, any measure of expropriation relating to land shall be as defined in the existing laws and regulations of the expropriating Party on the date of entry into force of this Agreement, and shall be, for the purposes of and upon payment of compensation, in accordance with the aforesaid laws and regulations. Such compensation shall be subject to any subsequent amendments to the aforesaid laws and regulations relating to the amount of compensation where such amendments follow the general trends in the market value of the land.</p>
+        <p>5. For greater certainty, this Article does not apply to the issuance of compulsory licences granted in relation to intellectual property rights, or to the revocation, limitation, or creation of intellectual property rights, to the extent that such issuance, revocation, limitation, or creation is consistent with TRIPS Agreement (11).</p>
+        <p>Footnote (7) This Article is subject to Annex 2 (Expropriation and Compensation).</p>
+        <p>Footnote (8) ln the case of the Philippines, the time when or immediately before the expropriation was publicly announced refers to the date of filing of the Petition for Expropriation.</p>
+        <p>Footnote (9) The Parties understand that there may be legal and administrative processes that need to be observed before payment can be made.</p>
+        <p>Footnote (10) For Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, the Philippines, Thailand and Viet Nam, in the event of delay, the rate and procedure for payment of interest of compensation for expropriation of covered investments of investors of another Party shall be determined in accordance with their laws, regulations and policies provided that such laws, regulations and policies are applied on a non-discriminatory basis.</p>
+        <p>Footnote (11) The Parties recognise that, for the purposes of this Article, the term "revocation" of intellectual property rights includes the cancellation or nullification of such rights, and the term "limitation" of intellectual property rights includes exceptions to such rights.</p>
+      </div>
+      <div type="article" num="11" title="Compensation for losses or damages">
+        <p>Each Party shall accord to investors of another Party that have suffered loss or damage relating to their covered investments in the Area of the former Party owing to war, armed conflict, a state of emergency, revolution, insurrection, civil strife or any other similar event in that former Party, treatment, as regards restitution, indemnification, compensation or any other settlement, that is no less favourable than that which it accords, in like circumstances, to its own investors or to investors of a non-Party.</p>
+      </div>
+      <div type="article" num="12" title="Transfers">
+        <p>1. Each Party shall allow all transfers relating to a covered investment to be made freely and without delay into and out of its Area. Such transfers include:</p>
+        <p>(a) Contributions to capital, including the initial contribution;</p>
+        <p>(b) Profits, capital gains, dividends, royalties, licence fees, technical assistance and technical and management fees, interest and other current income accruing from any covered investment;</p>
+        <p>(c) Proceeds from the total or partial sale or liquidation of any covered investment;</p>
+        <p>(d) Payments made under a contract, including a loan agreement;</p>
+        <p>(e) Payments made pursuant to Article 10 (Expropriation and Compensation) and Article 11 (Compensation for Losses or Damages);</p>
+        <p>(f) Payments arising out of the settlement of a dispute by any means including adjudication, arbitration or the agreement of the parties to the dispute; and</p>
+        <p>(g) Earnings and other remuneration of personnel engaged from abroad in connection with that covered investment.</p>
+        <p>2. Each Party shall allow such transfers relating to a covered investment to be made in a freely usable currency at the market rate of exchange prevailing at the time of transfer.</p>
+        <p>3. Notwithstanding paragraphs 1 and 2, a Party may prevent or delay a transfer through the equitable, non-discriminatory, and good faith application of its laws and regulations relating to any of the following:</p>
+        <p>(a) Bankruptcy, insolvency, or the protection of the rights of creditors;</p>
+        <p>(b) Issuing, trading, or dealing in securities, futures, options, or derivatives;</p>
+        <p>(c) Criminal or penal offences and the recovery of the proceeds of crime;</p>
+        <p>(d) Financial reporting or record keeping of transfers when necessary to assist law enforcement or financial regulatory authorities;</p>
+        <p>(e) Ensuring compliance with orders or judgments in judicial or administrative proceedings;</p>
+        <p>(f) Taxation;</p>
+        <p>(g) Social security, public retirement, or compulsory savings schemes;</p>
+        <p>(h) Severance entitlements of employees; and</p>
+        <p>(i) Requirement to register and satisfy other transfer formalities imposed by the Central Bank or other relevant authorities of a Party.</p>
+        <p>4. Nothing in this Agreement shall affect the rights and obligations that apply to the Parties under the Articles of Agreement of the IMF, including the use of exchange actions which are in conformity with the Articles of Agreement of the IMF, provided that a Party shall not impose restrictions on any capital transactions inconsistently with its specific commitments regarding such transactions, except under Article 13 (Temporary Safeguard Measures) or at the request of the IMF.</p>
+      </div>
+      <div type="article" num="13" title="Temporary safeguard measures">
+        <p>1. A Party may adopt or maintain measures not conforming with its obligations under Article 3 (National Treatment) relating to cross-border capital transactions and Article 12 (Transfers):</p>
+        <p>(a) In the event of serious balance of payments and external financial difficulties or threat thereof; or</p>
+        <p>(b) In cases where, in exceptional circumstances, movements of capital cause or threaten to cause serious difficulties for macroeconomic management, in particular monetary and exchange rate policies.</p>
+        <p>2. The measures referred to in paragraph 1 shall:</p>
+        <p>(a) Be consistent with the Articles of Agreement of the IMF;</p>
+        <p>(b) Avoid unnecessary damage to the commercial, economic and financial interests of another Party;</p>
+        <p>c) Not exceed those necessary to deal with the circumstances described in (d) paragraph 1; be temporary and phased out progressively as the situation specified in paragraph 1 improves; and</p>
+        <p>(e) Be applied such that any one of the other Parties is treated no less favourably than any other Party or non-Party.</p>
+        <p>3. Any measures adopted or maintained under paragraph 1 or any changes therein shall be promptly notified to the other Parties.</p>
+      </div>
+      <div type="article" num="14" title="Subrogation">
+        <p>1. If a Party or an agency of a Party makes a payment to an investor of that Party under a guarantee, a contract of insurance or other form of indemnity it has granted on non-commercial risks in respect of a covered investment, the host Party shall recognise the subrogation or transfer of any right or claim in respect of such investment. The subrogated or transferred right or claim shall not be greater than the original right or claim of the investor.</p>
+        <p>2. Where a Party or an agency of a Party has made a payment to an investor of that Party and has taken over rights and claims of the investor, that investor shall not, unless authorised to act on behalf of the Party or the agency making the payment, pursue those rights and claims against the host Party.</p>
+        <p>3. In the exercise of subrogated rights or claims, a Party or the agency of the Party exercising such rights or claims shall disclose the coverage of the claims arrangement with its investors to the host Party.</p>
+      </div>
+      <div type="article" num="15" title="Promotion of investment">
+        <p>The Parties shall cooperate in promoting and increasing awareness of the region as an investment area through, among others:</p>
+        <p>(a) Increasing investments between the Parties;</p>
+        <p>(b) Organising investment promotion activities;</p>
+        <p>(c) Promoting business matching events;</p>
+        <p>(d) Organising and supporting the organisation of various briefings and seminars on investment opportunities and on investment laws, regulations and policies; and</p>
+        <p>(e) Conducting information exchanges on other issues of mutual concern relating to investment promotion and facilitation.</p>
+      </div>
+      <div type="article" num="16" title="Facilitation of investment">
+        <p>Subject to their laws and regulations, the Parties shall cooperate to facilitate investments among the Parties through, among others:</p>
+        <p>(a) Creating the necessary environment for all forms of investment;</p>
+        <p>(b) Simplifying procedures for investment applications and approvals;</p>
+        <p>(c) Promoting dissemination of investment information, including investment rules, regulations, policies and procedures; and</p>
+        <p>(d) Establishing one-stop investment centres in the respective host Parties to provide assistance and advisory services to the business sectors including facilitation of operating licences and permits.</p>
+      </div>
+      <div type="article" num="17" title="Special formalities and disclosure of information">
+        <p>1. Nothing in Article 3 (National Treatment) or Article 4 (Most-Favoured-Nation Treatment) shall be construed to prevent a Party from adopting or maintaining a measure that prescribes special formalities in connection with covered investments, including a requirement that covered investments be legally constituted under the laws or regulations of the Party, provided that such formalities do not materially impair the protections afforded by a Party to investors of another Party and covered investments pursuant to this Agreement.</p>
+        <p>2. Notwithstanding Article 3 (National Treatment) or Article 4 (Most-Favoured-Nation Treatment), a Party may require an investor of another Party, or a covered investment, to provide information concerning that investment solely for informational or statistical purposes. The Party shall protect to the extent possible any confidential information which has been provided from any disclosure that would prejudice legitimate commercial interests of the investor or the covered investment. Nothing in this paragraph shall be construed to prevent a Party from otherwise obtaining or disclosing information in connection with the equitable and good faith application of its law.</p>
+      </div>
+      <div type="article" num="18" title="Special and differential treatment for the newer asean member states">
+        <p>In order to increase the benefits of this Agreement for the newer ASEAN Member States, and in accordance with the objectives set out in the Preamble, the Parties recognise the importance of according special and differential treatment to the newer ASEAN Member States under this Agreement, through:</p>
+        <p>(a) Technical assistance to strengthen their capacity in relation to investment policies and promotion, including in areas such as human resource development;</p>
+        <p>(b) Access to information on the investment policies of other Parties, business information, relevant databases and contact points for investment promotion agencies;</p>
+        <p>(c) Commitments in areas of interest to the newer ASEAN Member States; and</p>
+        <p>(d) Recognising that commitments by each newer ASEAN Member State may be made in accordance with its stage of development.</p>
+      </div>
+      <div type="article" num="19" title="Denial of benefits">
+        <p>1. A Party may deny the benefits of this Agreement to:</p>
+        <p>(a) An investor of another Party that is a juridical person of such other Party and to investments of that investor if an investor of a non-Party owns or controls the juridical person and the juridical person has no substantive business operations in the Area of such other Party;</p>
+        <p>(b) An investor of another Party that is a juridical person of such other Party and to investments of that investor if an investor of the denying Party owns or controls the juridical person and the juridical person has no substantive business operations in the Area of any Party, other than the denying Party; or</p>
+        <p>(c) An investor of another Party that is a juridical person of such other Party and to investments of that investor if persons of a non-Party own or control the juridical person and the denying Party adopts or maintains measures with respect to the non-Party or a person of the non-Party that prohibit transactions with the juridical person or that would be violated or circumvented if the benefits of this Agreement were accorded to the juridical person or to its investments.</p>
+        <p>2. Notwithstanding paragraph 1 and subject to prior notification to the relevant Party, Thailand may, under its applicable laws and regulations, deny the benefits of this Agreement relating to the admission, establishment, acquisition and expansion of investments to an investor of another Party that is a juridical person of such Party and to investments of such an investor where Thailand establishes that the juridical person is owned or controlled by natural persons or juridical persons of a non-Party or the denying Party.</p>
+        <p>3. In the case of Thailand, a juridical person is:</p>
+        <p>(a) "owned" by natural persons or juridical persons of a Party or a non-Party if more than 50 percent of the equity interest in it is beneficially owned by such persons;</p>
+        <p>(b) "controlled" by natural persons or juridical persons of a Party or non-Party if such persons have the power to name a majority of its directors or otherwise to legally direct its actions.</p>
+        <p>4. Without prejudice to paragraph 1, the Philippines may deny the benefits of this Agreement to investors of another Party and to investments of that investor, where the Philippines establishes that such investor has made an investment in breach of the provisions of Commonwealth Act No. 108, entitled "An Act to Punish Acts of Evasion of Laws on the Nationalization of Certain Rights, Franchises or Privileges", as amended by Presidential Decree No. 715, otherwise known as "The Anti-Dummy Law", as may be amended.</p>
+        <p>5. A Party's right to deny the benefits of this Agreement as provided for in this Article may be exercised at any time, including after the institution of arbitration proceedings in accordance with Article 20 (Settlement of Investment Disputes between a Party and an Investor).</p>
+      </div>
+      <div type="article" num="20" title="Settlement of investment disputes between a party and an investor">
+        <p>This Article shall be agreed by the Parties under Article 22 (Work Programme).</p>
+      </div>
+      <div type="article" num="21" title="Consultations and dispute settlement between the parties">
+        <p>Chapter 13 (Consultations and Dispute Settlement) of the ASEAN - Hong Kong, China Free Trade Agreement shall apply mutatis mutandis to this Agreement.</p>
+      </div>
+      <div type="article" num="22" title="Work programme">
+        <p>1. The Parties shall enter into discussions on:</p>
+        <p>(a) Annex 1 (Schedules of Reservations);</p>
+        <p>(b) Procedures for the modification of Annex 1 (Schedules of Reservations);</p>
+        <p>(c) The application of Article 10 (Expropriation and Compensation) to taxation measures that constitute expropriation;</p>
+        <p>(d) The definition of "natural person of a Party"; and</p>
+        <p>(e) Article 20 (Settlement of Investment Disputes between a Party and an Investor).</p>
+        <p>2. The Parties shall conclude the discussions referred to in paragraph 1 within one year of the date of entry into force of this Agreement under paragraph 1 or 2 of Article 26 (Entry into Force), unless otherwise agreed by the Parties. The discussions shall be overseen by the AHKFTA Joint Committee.</p>
+        <p>3. Annex 1 (Schedules of Reservations) shall enter into force on a date to be agreed by the Parties.</p>
+        <p>4. Article 3 (National Treatment) and Article 4 (Most- Favoured-Nation Treatment) shall not apply until Annex 1 (Schedules of Reservations) enters into force in accordance with paragraph 3.</p>
+      </div>
+      <div type="article" num="23" title="Relation between this agreement and the asean - hong kong, china free trade agreement">
+        <p>1. Unless otherwise specified in this Agreement, provisions in the ASEAN - Hong Kong, China Free Trade Agreement shall not apply to this Agreement.</p>
+        <p>2. In the event of any inconsistency between this Agreement and the ASEAN - Hong Kong, China Free Trade Agreement, the Parties shall proceed to hold consultations within the AHKFTA Joint Committee pursuant to its functions under Article 1 (AHKFTA Joint Committee) of Chapter 12 (Institutional Provisions) of the ASEAN - Hong Kong, China Free Trade Agreement with a view to finding a mutually satisfactory solution.</p>
+      </div>
+      <div type="article" num="24" title="Annexes and footnotes">
+        <p>The Annexes and footnotes to this Agreement constitute an integral part of this Agreement.</p>
+      </div>
+      <div type="article" num="25" title="Amendments">
+        <p>This Agreement may be amended by the Parties by agreement in writing.</p>
+      </div>
+      <div type="article" num="26" title="Entry into force">
+        <p>1. This Agreement shall be subject to ratification, acceptance or approval. The instrument of ratification, acceptance or approval by a Party shall be deposited with the depositary who shall promptly notify all other Parties of each deposit. This Agreement shall enter into force on 1 January 2019 for the Parties that have deposited their instruments of ratification, acceptance or approval provided that the Hong Kong Special Administrative Region and at least four ASEAN Member States have deposited their instruments of ratification, acceptance or approval.</p>
+        <p>2. If this Agreement does not enter into force on the date referred to in paragraph 1, it shall enter into force, for the Parties that have deposited their instruments of ratification, acceptance or approval, 60 days after the date by which the Hong Kong Special Administrative Region and at least four ASEAN Member States have deposited their instruments of ratification, acceptance or approval.</p>
+        <p>3. After the entry into force of this Agreement pursuant to paragraph 1 or 2, this Agreement shall enter into force for any other Party 60 days after the date of the deposit of its instrument of ratification, acceptance or approval.</p>
+        <p>4. Notwithstanding the entry into force of this Agreement for a Party pursuant to paragraph 1, 2, or 3 of this Article, the rights and obligations in this Agreement except Article 28 (Withdrawal and Termination) shall not take effect for the Party unless such Party is, at the same time, a party to the ASEAN &#x2013; Hong Kong, China Free Trade Agreement.</p>
+      </div>
+      <div type="article" num="27" title="Depositary">
+        <p>This Agreement including its amendments shall be deposited with the Secretary-General of ASEAN, who shall promptly furnish a certified copy thereof to each Party.</p>
+      </div>
+      <div type="article" num="28" title="Withdrawal and termination">
+        <p>1. Any Party may withdraw from this Agreement by giving 180 days' advance notice in writing to the depositary who shall promptly notify the same to all other Parties.</p>
+        <p>2. Any other Party may request in writing, consultations concerning any matter that would arise from the withdrawal within 60 days after the date of receipt of the notification in paragraph 1 from the depositary. The requested Party shall enter into consultations in good faith upon receipt of the request.</p>
+        <p>3. Any Party giving a notice of withdrawal pursuant to:</p>
+        <p>(a) Paragraph 1 to withdraw from this Agreement shall be deemed to have given a notice of withdrawal at the same time under paragraph 1 of Article 6 (Withdrawal and Termination) of Chapter 14 (Final Provisions) of the ASEAN - Hong Kong, China Free Trade Agreement; and</p>
+        <p>(b) Paragraph 1 of Article 6 (Withdrawal and Termination) of Chapter 14 (Final Provisions) of the ASEAN &#x2013; Hong Kong, China Free Trade Agreement shall be deemed to have given a notice of withdrawal at the same time under paragraph 1 to withdraw from this Agreement.</p>
+        <p>4. This Agreement shall terminate if, pursuant to paragraph 1:</p>
+        <p>(a) The Hong Kong Special Administrative Region withdraws; or</p>
+        <p>(b) This Agreement is in force for less than four ASEAN Member States.</p>
+        <p>5. The ASEAN - Hong Kong, China Free Trade Agreement shall automatically terminate upon the termination of this Agreement pursuant to paragraph 4.</p>
+      </div>
+      <div type="article" num="29" title="Review">
+        <p>The Parties shall undertake a general review of this Agreement with a view to furthering its objectives within three years from the date of entry into force of this Agreement, and every five years thereafter, unless otherwise agreed by the Parties.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Agreement.</p>
+      <p>DONE at Ha Noi, Viet Nam, this Eighteenth Day of May, in the Year Two Thousand and Eighteen, in a single original in the English language.</p>
+      <p>For the Government of Brunei Darussalam</p>
+      <p>PEHIN DATO LIM JOCK SENG</p>
+      <p>Minister at the Prime Minister's Office and Second Minister of Foreign Affairs and Trade</p>
+      <p>For the Government of the Hong Kong Special Administrative Region of the People's Republic of China</p>
+      <p>EDWARD YAU TANG-WAH</p>
+      <p>Secretary for Commerce and Economic Development</p>
+      <p>For the Government of the Kingdom of Cambodia</p>
+      <p>PAN SORASAK</p>
+      <p>Minister of Commerce</p>
+      <p>For the Government of the Republic of Indonesia</p>
+      <p>ENGGARTIASTO LUKITA</p>
+      <p>Minister of Trade</p>
+      <p>For the Government of the Lao People's Democratic Republic</p>
+      <p>KHEMMANI PHOLSENA</p>
+      <p>Minister of Industry and Commerce</p>
+      <p>For the Government of Malaysia</p>
+      <p>DATO' SRI MUSTAPA MOHAMED</p>
+      <p>Minister of International Trade and Industry</p>
+      <p>For the Government of the Republic of the Union of Myanmar</p>
+      <p>KYAW WIN</p>
+      <p>Union Minister for Planning and Finance</p>
+      <p>For the Government of the Republic of the Philippines</p>
+      <p>RAMON M. LOPEZ</p>
+      <p>Secretary of Trade and Industry</p>
+      <p>For the Government of the Republic of Singapore</p>
+      <p>LIM HNG KIANG</p>
+      <p>Minister for Trade and Industry (Trade)</p>
+      <p>For the Government of the Kingdom of Thailand</p>
+      <p>APIRADI TANTRAPORN</p>
+      <p>Minister of Commerce</p>
+      <p>For the Government of the Socialist Republic of Viet Nam</p>
+      <p>TRAN TUAN ANH</p>
+      <p>Minister of Industry and Trade</p>
+    </conclusion>
+    <attachments>
+      <p>This Annex shall be agreed by the Parties under Article 22 (Work Programme).</p>
+      <p>1. An action or a series of related actions by a Party cannot constitute an expropriation unless it interferes with a tangible or intangible property right or property interest (12) under the laws or regulations of that Party, in a covered investment.</p>
+      <p>2. Paragraph 1 of Article 10 (Expropriation and Compensation) addresses two situations:</p>
+      <p>(a) The first situation is direct expropriation, where a covered investment is directly expropriated through formal transfer of title or outright seizure; and</p>
+      <p>(b) The second situation is where an action or series of related actions by a Party has an effect equivalent to direct expropriation without formal transfer of title or outright seizure.</p>
+      <p>3. The determination of whether an action or series of related actions by a Party, in a specific fact situation, constitutes an expropriation of the type referred to in subparagraph 2 (b) requires a case-by-case and fact- based inquiry that considers, among other factors:</p>
+      <p>(a) The economic impact of the government action, although the fact that an action or series of related actions by a Party has an adverse effect on the economic value of a covered investment, standing alone, does not establish that such an expropriation has occurred;</p>
+      <p>(b) Whether the government action breaches the government's prior binding written commitment to the investor whether by contract, licence or other legal document; and</p>
+      <p>(c) The character of the government action, including its objective and whether the action is disproportionate to the public purpose.</p>
+      <p>4. Non-discriminatory regulatory actions by a Party that are designed and applied to achieve legitimate public welfare objectives, such as the protection of public health, safety, and the environment, do not constitute expropriation of the type referred to in subparagraph 2 (b).</p>
+      <p>(12) For greater certainty, "property interest" refers to such property interest as may be applicable under the law of that Party.</p>
+    </attachments>
+  </main>
+</treaty>

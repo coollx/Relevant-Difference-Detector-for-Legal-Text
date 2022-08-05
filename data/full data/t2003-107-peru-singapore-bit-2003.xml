@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Peru - Singapore BIT (2003)</name>
+    <code>T2003-107</code>
+    <partyisocode n="0">PER</partyisocode>
+    <partyisocode n="1">SGP</partyisocode>
+    <date_signed>2003-02-27</date_signed>
+    <date_into_force>2006-08-12</date_into_force>
+    <date_terminated>2009-08-01</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>2753</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{PER,SGP}_2003-02-27.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T2008-74">Peru - Singapore FTA</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF SINGAPORE AND THE GOVERNMENT OF THE REPUBLIC OF PERU ON THE PROM0I10N AND PROTECDON OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Singapore and the Government of the Republic of Peru (each hereinafter referred to as a "Contracting Party"),</p>
+      <p>Desiring to intensify economic cooperation for the mutual benefit of both States and in particular, to create favourable conditions for investments by investors of one State in the territory of the other State;</p>
+      <p>Recognizing that an Agreement for the Promotion and Protection of Investments may encourage private economic initiative and increase the welfare of the peoples of the Republic of Singapore and the Republic of Peru;</p>
+      <p>HAVE AGREED AS FOLLOWS:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement</p>
+        <p>1. The term "investment" means every kind of asset which has the characteristics of an investment permitted by each Contracting Party in accordance with its laws and regulations, including, though not exclusively, any:</p>
+        <p>(a) Movable and immovable property as well as other rights in rem (such as mortgages, liens or pledges) acquired or used to obtain economic benefits, or for business or other purposes;</p>
+        <p>(b) Shares, stocks, debentures and similar interests in companies;</p>
+        <p>(c) Claims to money or to any performance under contract associated with a company and having an economic value;</p>
+        <p>(d) Intellectual property rights (such as copyrights and related rights, trademarks, geographical indications, designs, patents, layout designs (topographies) of integrated circuits) and the benefits accruing to a company as a result of its reputation and connections; and</p>
+        <p>(e) Concessions conferred by law or under contract, including any concession to search for, cultivate, extract or exploit natural resources.</p>
+        <p>Any change in the form of an investment shall not affect its character as an investment provided that the change has been made in accordance with the provisions of Article 2.</p>
+        <p>2. The term "returns" means monetary returns yielded by an investment including any profits, interest, capital gains, dividends, royalties or fees.</p>
+        <p>3. The term "investor" means:</p>
+        <p>(a) A natural person deriving his status as a national of either Contracting Party according to its applicable law;</p>
+        <p>(b) A company which shall refer to a corporation, firm or business association, or a body incorporated or constituted under the law in force of either of the Contracting Parties.</p>
+        <p>4. The term "freely usable currency" means any currency that is widely used to make payments for international transactions and widely traded in the principal international exchange markets.</p>
+      </div>
+      <div type="article" num="2" title="Applicability of this agreement">
+        <p>1. This Agreement shall only apply:</p>
+        <p>(a) In respect of investments in the territory of the Republic of Singapore, to all investments made by investors of the Republic of Peru, which are specifically approved in writing by the competent authority designated by the Government of the Republic of Singapore and upon such conditions, if any, as it shall deem fit;</p>
+        <p>(b) In respect of investments in the territory of the Republic of Peru, to all investments made by investors of the Republic of Singapore, in accordance with the Laws and regulations of the Republic of Peru.</p>
+        <p>2. The provisions of the foregoing paragraph shall apply to all investments made by investors of either Contracting Party in the territory of the other Contracting Party, whether made before or after the coming into force of this Agreement. However, this Agreement shall not apply to any dispute which arose before its entry into force, notwithstanding that it has not yet been settled before that date.</p>
+      </div>
+      <div type="article" num="3" title="Promotion and protection of investments">
+        <p>1. Each Contracting Party shall promote within its territory investments made by investors of the other Contracting Party.</p>
+        <p>2. Investments made or approved under Article 2 shall be accorded fair and equitable treatment and protection in accordance with this Agreement.</p>
+        <p>3. Each Contracting Party shall publish its laws and regulations relating to investments. The Contracting Parties shall encourage the exchange of information on investment opportunities in their territory in order to increase investment flows.</p>
+      </div>
+      <div type="article" num="4" title="Treatment of investments">
+        <p>Neither Contracting Party shall in its territory subject investments made or approved in accordance with the provisions of Article 2 or returns of investors of the other Contracting Party to treatment less favourable than that which it accords to investments or returns of investors of any third State.</p>
+      </div>
+      <div type="article" num="5" title="Exceptions">
+        <p>1. The provisions of this Agreement shall not be construed so as to oblige one Contracting Party to extend to investors of the other Contracting Party the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>(a) Any customs union, free trade area, free trade arrangement, common market, monetary union or similar international agreement, to which either of the Contracting Party is or may become a party; the adoption of an agreement designed to lead to the formation or extension of such a union, area or arrangement; or any Investment Guarantee Agreement entered into prior to the date of entry into force of this Agreement;</p>
+        <p>(b) Any arrangement with a third State or States in the same geographical region designed to promote regional cooperation within the framework of specific projects and border development agreements.</p>
+        <p>2. The provisions of this Agreement shall not apply to matters of taxation. Such matters shall be governed by any Avoidance of Double Taxation Treaty between the two Contracting Parties and the domestic law of each Contracting Party.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation">
+        <p>1. Neither Contracting Party shall take any measure of expropriation, nationalization or other measures having effect equivalent to nationalization or expropriation (hereinafter referred to as "expropriation") against the investment of investors of the other Contracting Party unless the measures are taken for any purpose authorised by law, on a non-discriminatory basis, in accordance with its laws and against compensation which shall be effectively realisable and shall be made without unreasonable delay. Such compensation, shall, subject to the laws of each Contracting Party, be the value immediately before the expropriation. The compensation shall be freely convertible and transferable.</p>
+        <p>2. Any measure of expropriation or valuation may, at the request of the investor affected, be reviewed by a judicial or other independent authority of the Contracting Party taking the measures in the manner prescribed by its laws.</p>
+        <p>3. Where a Contracting Party expropriates the assets of a company which is incorporated or constituted under the laws in force in any part of its own territory, and in which investors of the other Contracting Party own shares, it shall ensure that the provisions of paragraph 1 of this Article are applied to the extent necessary to guarantee compensation as specified therein to such investors of the other Contracting Party who are owners of those shares.</p>
+      </div>
+      <div type="article" num="7" title="Compensation for losses">
+        <p>Investors of one of the Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, a state of national emergency, revolt, insurrection or riot in the territory of the latter Contracting Party, shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, if any, no less favourable than that which the latter Contracting Party accords to investors of any third State. Any resulting compensation shall be freely convertible and transferable.</p>
+      </div>
+      <div type="article" num="8" title="Transfers">
+        <p>1. Each Contracting Party shall guarantee to investors of the other Contracting Party the free transfer, on a non-discriminatory basis, of their capital and the returns from any investments made or approved in accordance with Article 2. The transfers shall be made in a freely usable currency, without any restriction or undue delay. Such transfers shall include in particular, though not exclusively:</p>
+        <p>(a) Profits, capital gains, dividends, royalties, interest and other current income accruing from an investment;</p>
+        <p>(b) The proceeds of the total or partial liquidation of an investment;</p>
+        <p>(c) Repayments made pursuant to a loan agreement in connection with an investment;</p>
+        <p>(d) License fees in relation to the matters in Article 1(1)(d);</p>
+        <p>(e) Payments in respect of technical assistance, technical service and management fees;</p>
+        <p>(f) Payments in connection with contracting projects;</p>
+        <p>(g) Earnings of nationals of the other Contracting Party who work in connection with an investment in the territory of the former Contracting Party.</p>
+        <p>2. Nothing in paragraph 1 of this Article shall affect the free transfer of compensation paid under Articles 6 and 7 of this Agreement.</p>
+        <p>3. Notwithstanding paragraph 1, a Party may prevent a transfer through the equitable, non-discriminatory and good faith application to its laws relating to:</p>
+        <p>(a) Bankruptcy, insolvency or the protection of the rights of creditors;</p>
+        <p>(b) Issuing, trading or dealing in securities;</p>
+        <p>(c) Criminal or penal offences, and the recovery of the proceeds of crime;</p>
+        <p>(d) Ensuring the satisfaction of judgements in adjudicatory proceedings.</p>
+        <p>In addition, paragraph 1 of this Article shall be without prejudice to the taxation laws of the Contracting Parties and to any social security and public retirement schemes.</p>
+      </div>
+      <div type="article" num="9" title="Exchange rate">
+        <p>The transfers referred to in Articles 6 to 8 of this Agreement shall be effected at the prevailing market rate in freely usable currency at the time of transfer.</p>
+      </div>
+      <div type="article" num="10" title="Laws">
+        <p>For the avoidance of any doubt, it is declared that all investments shall, subject to this Agreement, be governed by the laws in force in the territory of the Contracting Party in which such investments are made.</p>
+      </div>
+      <div type="article" num="11" title="Prohibitions and restrictions">
+        <p>The provisions of this Agreement shall not in any way limit the right of either Contracting Party to apply prohibitions or restrictions of any kind or take any other action which is directed to the protection of its essential security interests, or to the protection of public health or the prevention of diseases and pests in animals or plants.</p>
+      </div>
+      <div type="article" num="12" title="Subrogation">
+        <p>1. In the event that either Contracting Party (or any agency, institution, statutory body or corporation designated by it) as a result of an indemnity it has given in respect of an investment or any part thereof makes payment to its own investors in respect of any of their claims under this Agreement, the other Contracting Party acknowledges that the former Contracting Party (or any agency, institution, statutory body or corporation designated by it) is entitled by virtue of subrogation to exercise the rights and assert the claims of its own investors. The subrogated rights or claims shall not be greater than the original rights or claims of the said investor.</p>
+        <p>2. Any payment made by one Contracting Party (or any agency, institution, statutory body or corporation designated by it) to its investors shall not affect the right of such investors to make their claims against the other Contracting Party in accordance with Article 13.</p>
+      </div>
+      <div type="article" num="13" title="Investment disputes">
+        <p>1. Any dispute between an investor of one Contracting Party and the other Contracting Party in connection with an investment in the territory of the other Contracting Party, relating to an alleged breach of an obligation under this Agreement, shall, as far as possible, be settled amicably through negotiations between the parties to the dispute. The party intending to resolve such dispute through negotiations shall give written notice to the other of its intention.</p>
+        <p>2. If the dispute cannot be thus resolved as provided in paragraph 1 of this Article, within six months from the date of the notice given thereunder, then, unless the parties have otherwise agreed, it shall, upon the request of either party to the dispute, be submitted to conciliation or arbitration by the International Centre for Settlement of Investment Disputes (called "the Centre" in this Agreement) established by the Convention on the Settlement of Investment Disputes between the States and Nationals of Other States opened for signature at Washington on 18 March, 1965 (called "the Convention" in this Agreement). For this purpose, each Contracting Party hereby irrevocably consents in advance under Article 25 of the Convention to submit any dispute to the Centre.</p>
+      </div>
+      <div type="article" num="14" title="Disputes between the contracting parties">
+        <p>1. Any dispute between the Contracting Parties concerning the interpretation or application of this Agreement shall, as far as possible, be settled through negotiation.</p>
+        <p>2. If any dispute cannot be thus settled, it shall upon the request of either Contracting Party be submitted to arbitration. The arbitral tribunal (hereinafter called "the tribunal") shall consist of three arbitrators, one appointed by each Contracting Party and the third, who shall be Chairman of the tribunal, appointed by agreement of the Contracting Parties.</p>
+        <p>3. Within two months of receipt of the request for arbitration, each Contracting Party shall appoint one arbitrator, and within two months of such appointment of the two arbitrators, the Contracting Parties shall appoint the third arbitrator.</p>
+        <p>4. If the tribunal shall not have been constituted within four months of receipt of the request for arbitration, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to appoint the arbitrator or arbitrators not yet appointed. If the President is a national of either Contracting Party or if he is unable to do so, the Vice-President may be invited to do so. If the Vice-President is a national of either Contracting Party or if he is unable to do so, the Member of the International Court of Justice next in seniority who is not a national of either Contracting Party may be invited to make the necessary appointments, and so on.</p>
+        <p>5. The tribunal shall reach its decision by a majority of votes.</p>
+        <p>6. The tribunal's decision shall be final and the Contracting Parties shall abide by and comply with the terms of its award.</p>
+        <p>7. Each Contracting Party shall bear the costs of its own member of the tribunal and of its representation in the arbitration proceedings and half the costs of the Chairman and the remaining costs. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two Parties, and this award shall be binding on both Parties.</p>
+        <p>8. The tribunal shall apply the provisions of this Agreement and the procedural criteria provided by international law, if any. Apart from this, the tribunal shall determine its own rules of procedure.</p>
+      </div>
+      <div type="article" num="15" title="Other obligations">
+        <p>If the legislation of either Contracting Party or international obligations existing at present or established hereafter between the Contracting Parties in addition to this Agreement, result in a position entitling investments by investors of the other Contracting Party to treatment more favourable than is provided for by this Agreement, such position shall not be affected by this Agreement. Each Contracting Party shall observe any commitment in accordance with its laws additional to those specified in this Agreement entered into by the Contracting Party, its investors with investors of the other Contracting Party as regards their investments.</p>
+      </div>
+      <div type="article" num="16" title="Entry into force, duration and termination">
+        <p>1. Each Contracting Party shall notify the other Contracting Party of the fulfillment of its internal legal procedures required for the bringing into force of this Agreement. This Agreement shall enter into force on the thirtieth day from the date of notification of the later Contracting Party.</p>
+        <p>2. This Agreement shall remain in force for a period of fifteen years and shall continue in force thereafter unless, after the expiry of the initial period of fourteen years, either Contracting Party, at any time, notifies in writing the other Contracting Party of its intention to terminate this Agreement. The notice of termination shall become effective one year after it has been received by the other Contracting Party.</p>
+        <p>3. In respect of investments made prior to the date when the notice of termination of this Agreement becomes effective, the provisions of Articles 1 to 15 shall remain in force for a further period of fifteen years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF the undersigned representatives, duly authorised thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done in duplicate at Singapore on 27 February 2003, in the English and Spanish languages, each version being equally authentic. In the event of divergence in the text or interpretation, the English text shall prevail.</p>
+      <p>Prof. S Jayakumar</p>
+      <p>Minister for Foreign Affairs</p>
+      <p>For the Government of the Republic of Singapore</p>
+      <p>HE Ambassador Allan Wagner</p>
+      <p>Minister of Foreign Affairs of Peru</p>
+      <p>For the Government of the Republic of Peru</p>
+    </conclusion>
+  </main>
+</treaty>

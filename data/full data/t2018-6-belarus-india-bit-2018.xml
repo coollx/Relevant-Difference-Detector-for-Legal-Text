@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Belarus - India BIT (2018)</name>
+    <code>T2018-6</code>
+    <partyisocode n="0">BLR</partyisocode>
+    <partyisocode n="1">IND</partyisocode>
+    <date_signed>2018-09-24</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>20188</docreference>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BLR,IND}_2018-09-24.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACING" document-code="T2002-35">Belarus - India BIT (2002)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>TREATY BETWEEN THE REPUBLIC OF BELARUS AND THE REPUBLIC OF INDIA ON INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Republic of Belarus and the Republic of India (hereinafter referred to as the "Party" individually or the "Parties" collectively);</p>
+      <p>Desiring to promote bilateral cooperation between the Parties with respect to foreign investments; and</p>
+      <p>Recognizing that the promotion and the protection of investments of investors of one Party in the territory of the other Party will be conducive to the stimulation of mutually beneficial business activity, to the development of economic cooperation between them and to the promotion of sustainable development,</p>
+      <p>Reaffirming the right of Parties to regulate investments in their territory in accordance with their law and policy objectives,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="chapter" num="I" title="Preliminary">
+        <div type="article" num="1" title="Definitions">
+          <p>For the purposes of this Treaty:</p>
+          <p>1.1.  "confidential information" means business confidential information, e.g. confidential commercial, financial or technical information which could result in material loss or gain or prejudice a disputing party's competitive position, and information that is privileged or otherwise protected from disclosure under the law of a Party.</p>
+          <p>1.2. "customary international law" means general and consistent practice accepted as law.</p>
+          <p>1.3. "Designated Representative" shall be defined by each Party through diplomatic channels.</p>
+          <p>1.4. "investment" means an enterprise constituted, organised &#xB7;and operated in good faith by an investor in accordance with the law of the Party in whose territory the investment is made, taken together with the assets of the enterprise, which have the characteristics of an investment such as the commitment of capital or other resources, certain duration, the expectation of gain or profit, the assumption of risk and contribution to the development ofthe Party in whose territory the investment is made.</p>
+          <p>An enterprise may possess the following assets:</p>
+          <p>a) Shares, stocks and other forms of equity instruments;</p>
+          <p>b) A debt instrument or security;</p>
+          <p>c) A loan</p>
+          <p>(i) Where the debtor is an affiliate of the investor, or</p>
+          <p>(ii) Where the original maturity ofthe loan is at least three years;</p>
+          <p>d) Licenses, permits, authorisations or similar rights which have any significant economic value, conferred in accordance with the law of a Party;</p>
+          <p>e) Rights conferred by contracts of a long-term nature such as those to cultivate, extract or exploit natural resources in accordance with the law of a Party;</p>
+          <p>f) Intellectual Property Rights as recognized by the law of the Party where investments are made;</p>
+          <p>g) Moveable or immovable property and related rights;</p>
+          <p>h) Any other interests of the enterprise which involve substantial economic activity and out of which the enterprise derives significant financial value.</p>
+          <p>For greater clarity, investment does not include the following assets of an enterprise:</p>
+          <p>(i) Portfolio investments of the enterprise;</p>
+          <p>(ii) Debt securities issued by a government or government-owned or controlled enterprise, or loans to a government or government-owned or controlled enterprise;</p>
+          <p>(iii) Any pre-operational expenditure relating to admission, establishment, acquisition or expansion of the enterprise incurred before the commencement of substantial business operations of the enterprise in the territory of the Party where the investment is made;</p>
+          <p>(iv) Claims to money that arise solely from commercial contracts for the sale of goods or services by a national or enterprise in the territory of a Party to an enterprise in the territory of another Party;</p>
+          <p>(v) Goodwill, brand value, market share or similar intangible rights;</p>
+          <p>(vi) Claims to money that arise solely from the extension of credit in connection with any commercial transaction;</p>
+          <p>(vii) An order or judgment sought or entered m any judicial, administrative or arbitral proceeding;</p>
+          <p>(viii)  any other claims to money that do not involve the kind of interest or operations set out in the definition of investment in this Treaty.</p>
+          <p>1.5. For the purposes ofparagraph 4 of this Article, "enterprise" means:</p>
+          <p>(i) Any legal person or entity constituted, organised and operated in compliance with the law of a Party including any company such as joint stock company, corporation, partnership, sole proprietorship, or other association; and</p>
+          <p>(ii) A branch of any such entity established in the territory of a Party, if permitted by the law of such a Party and carrying out business activities there.</p>
+          <p>1.6. "investor" means:</p>
+          <p>(a) A natural person, who is a national or citizen of a Party in accordance with its law. A natural person who is a dual national or citizen, in accordance with its law, shall be deemed to be exclusively a national or citizen of the country of her or his dominant and effective nationality/citizenship, where she/he ordinarily or permanently resides. In no event the investor shall be a national of a Party in whose territory the investment is made; or</p>
+          <p>(b) A legal entity, other than a branch or representative office, that is constituted, organised and operated under the law of that Party and that has substantial business activities in the territory of that Party; or</p>
+          <p>(c) A legal entity, other than a branch or representative office, that is constituted, organised and operated under the laws of that Party and that is directly or indirectly owned or controlled by a natural person of that Party or by a legal entity mentioned under sub-clause (b) herein, that has made an investment in the territory ofthe other Party.</p>
+          <p>The concept of substantial business activity shall require an overall examination of all the circumstances on a case-by-case basis.</p>
+          <p>1.7. "law" includes:</p>
+          <p>In respect of Belarus: normative legal acts of the Republic of Belarus.</p>
+          <p>In respect of India:</p>
+          <p>(i) The Constitution, legislation, subordinate/delegated legislation, laws and bylaws, rules and regulations, ordinance, notifications, policies, guidelines, procedures, administrative measures/executive actions at all levels of government, as amended, interpreted or modified from time to time;</p>
+          <p>(ii) Decisions, judgments, orders and decrees by Courts, regulatory authorities, judicial and administrative institutions having the force of law within the territory of a Party.</p>
+          <p>1.8. "local government" includes:</p>
+          <p>In respect of Belarus: Local sub-regional Councils, local sub-regional executive committees and local administrations in accordance with the law of the Republic of Belarus.</p>
+          <p>In respect of India:</p>
+          <p>(i) An urban local body, municipal corporation or village level government; or</p>
+          <p>(ii) An enterprise owned or controlled by an urban local body, a municipal corporation or a village level government.</p>
+          <p>1.9. "measure" includes law, rule, procedure, decision, administrative action, requirement or practice.</p>
+          <p>1.10. "PCA Optional Rules" means the Permanent Court of Arbitration Optional Rules for Arbitration Disputes between Two States, 20 October 1992.</p>
+          <p>1.11. The term "Pre-investment activity" includes:</p>
+          <p>a) Any activities undertaken by the investor or its enterprise prior to the establishment of the investment in accordance with the law of the Party where the investment is made;</p>
+          <p>b) Any activity undertaken by the investor or its investment pursuant to compliance with sectoral limitations on foreign equity, and other limits and conditions applicable under any law relating to the admission of investments in the Party where the investment is made in specific sectors falls within the meaning of "Pre-investment activity".</p>
+          <p>1.12. "Regional government" means a State Government or a Union Territory administration in the case of India but does not include local governments; and in case of the Republic of Belarus means regional Councils and Minsk city council, regional executive committees and Minsk.</p>
+          <p>1.13. "territory" means:</p>
+          <p>In respect of India: the territory of the Republic of India in accordance with the Constitution of India, including its territorial waters and the airspace above it and other maritime zones including the Exclusive Economic Zone and continental shelf over which the Republic of India has sovereignty, sovereign rights, or exclusive jurisdiction in accordance with its law and the 1982 United Nations Convention on the Law of the Sea and international law.</p>
+          <p>In respect of Belarus: the territory of the Republic of Belarus in accordance with the Constitution of the Republic of Belarus, including land, internal waters and the airspace of the Republic of Belarus and the territory on which the Republic of Belarus exercises sovereignty and jurisdiction in accordance with international law.</p>
+          <p>1.14. For the purposes of Chapter IV:</p>
+          <p>(i) "Defending Party" means a Party against which a claim is made under Article 13.</p>
+          <p>(ii) "disputing party" means a Defending Party or a disputing investor.</p>
+          <p>(iii) "disputing parties" means a disputing investor and a Defending Party.</p>
+          <p>(iv) "disputing investor" means an investor of a Party that makes a claim against the other Party on its behalf under Article 13, and where relevant, includes an investor of a Party that makes a claim on behalf of the locally established enterprise.</p>
+          <p>(v) "ICSID" means the International Centre for Settlement of Investment Disputes.</p>
+          <p>(vi) "ICSID Additional Facility Rules" means the Rules Governing the Additional Facility for the Administration of Proceedings by the Secretariat of the International Centre for Settlement of Investment.</p>
+          <p>(vii) "ICSID Convention" means the Convention on the Settlement of Investment Disputes between States and Nationals of other States, done at Washington on 18 March 1965.</p>
+          <p>(viii) "New York Convention" means the United Nations Convention on the Recognition and Enforcement of Foreign Arbitral A wards, done at New York on 10 June 1958.</p>
+          <p>(ix) "Non-disputing Party" means the Party to this Treaty which is not a party to a dispute under Chapter IV ofthis Treaty.</p>
+          <p>(x) "UNCITRAL Arbitration Rules" means the arbitration rules of the United Nations Commission on International Trade Law.</p>
+        </div>
+        <div type="article" num="2" title="Scope and General Provisions">
+          <p>2.1. This Treaty shall apply to measures adopted or maintained by a Party relating to investments of investors of another Party in its territory, in existence as of the date of entry into force of this Treaty or established, acquired, or expanded thereafter and which have been admitted by a Party in accordance with its law.</p>
+          <p>2.2. Subject to the provisions of Chapter Ill ofthis Treaty, nothing in this Treaty shall extend to any Pre-investment activity related to establishment, acquisition or expansion of any investment, or to any measure related to such Pre-investment activities, including terms and conditions under such measure which continue to apply in the post-investment period to the management, conduct, operation, sale or other disposition of such investments.</p>
+          <p>2.3. This Treaty shall not apply to claims arising out of events which occurred, or claims which have been raised prior to the entry into force of this Treaty.</p>
+          <p>2.4. This Treaty shall not apply to:</p>
+          <p>(i) Any measure by a local government;</p>
+          <p>(ii) Any law or measure regarding taxation, including measures taken to enforce taxation obligations.</p>
+          <p>For greater certainty, it is clarified that where the State in which investment is made, decides that conduct alleged to be a breach of its obligations under this Treaty is a subject matter of taxation, such decision of that State, whether before or after the commencement of arbitral proceedings, shall be non-justiciable and it shall not be open to any arbitration tribunal to review such decision;</p>
+          <p>(iii) The issuance of compulsory licenses granted in relation to intellectual property rights, or to the revocation, limitation or creation of intellectual property rights, to the extent that such issuance, revocation, limitation or creation is consistent with the national law and international obligations of the Party concerned;</p>
+          <p>(iv) Government procurement by a Party;</p>
+          <p>(v) Subsidies or grants provided by a Party;</p>
+          <p>(vi) Services supplied in exercise of governmental authority by the relevant body or authority of a Party. For the purposes of this provision, a service supplied in exercise of governmental authority means any service which is not supplied on a commercial basis.</p>
+          <p>2.5. The Annex in this Treaty constitutes an integral part of this Treaty and is to be accorded the same effect as other provisions in this Treaty.</p>
+        </div>
+      </div>
+      <div type="chapter" num="II" title="Obligations of Parties">
+        <div type="article" num="3" title="Treatment of Investments">
+          <p>3.1. No Party shall subject investments made by investors of the other Party to measures which constitute a violation of customary international law through:</p>
+          <p>(i) Denial of justice in any judicial or administrative proceedings; or</p>
+          <p>(ii) Fundamental breach of due process; or</p>
+          <p>(iii) Targeted discrimination on manifestly unjustified grounds, such as gender, race or religious belief; or</p>
+          <p>(iv) Manifestly abusive treatment, such as coercion, duress and harassment.</p>
+          <p>3.2. Each Party shall accord in its territory to investments of the other Party and to investors with respect to their investments full protection and security. For greater certainty, "full protection and security" only refers to Party's obligations relating to physical security of investors and to investments made by the investors of the other Party and not to any other obligation whatsoever.</p>
+          <p>3.3. A determination that there has been a breach of another provision of this Treaty, or of a separate international agreement, does not establish that there has been a breach of this Article.</p>
+          <p>3.4 While considering an alleged breach of this article, a Tribunal shall take account of whether the investor or, as appropriate, the locally established enterprise, pursued action for remedies before domestic courts or tribunals prior to initiating a claim under this Treaty.</p>
+        </div>
+        <div type="article" num="4" title="Non-discriminatory Treatment">
+          <p>4.1. Each Party shall apply to investors or to investments made by investors of the other Party, measures that accord no less favourable treatment than that it accords, in like circumstances, to its own investors and to investments by such investors, in a non-discriminatory manner, with respect to the management, conduct, operation, sale or other disposition of investments in its territory.</p>
+          <p>For greater certainty, whether treatment is accorded in "like circumstances" depends on the totality of the circumstances, including whether the relevant treatment distinguishes between investors or investments on the basis of legitimate regulatory objectives. These circumstances include, but are not limited to, (a) the goods or services consumed or produced by the investment; (b) the actual and potential impact of the investment on third persons, the local community, or the environment, and (c) the practical challenges ofregulating the investment.</p>
+          <p>4.2. The treatment accorded by a Party under paragraph 1 of this Article means, with respect to a Regional government, treatment no less favourable than the treatment accorded, in like circumstances, by that Regional government to investors, and to investments of investors, of the Party of which it forms a part.</p>
+        </div>
+        <div type="article" num="5" title="Expropriation">
+          <p>5.1. Neither Party may nationalize or expropriate an investment of an investor (" expropriation") of the other Party either directly or through measures having an effect equivalent to expropriation (indirectly), except for reasons of public purpose, in accordance with the due process of law and on payment of adequate compensation. For the avoidance of doubt, any measure of expropriation relating to land shall be for the purposes as set out in a law of a Party concerned relating to land acquisition and any questions as to public purpose and compensation shall be determined in accordance with the procedure specified in such law. Such compensation shall at least be equivalent to the fair market value of the expropriated investment immediately on the day before the expropriation takes place ("date of expropriation"), and shall not reflect any change in value occurring because the intended expropriation had become known earlier. Valuation criteria shall include going concern value, asset value, and other criteria, as appropriate, to determine fair market value.</p>
+          <p>5.2. Payment of compensation shall be made in a freely convertible currency. Interest on payment of compensation, where applicable, shall be paid in simple interest at a commercially reasonable rate from the date of expropriation until the date of actual payment. On payment, compensation shall be freely transferable in accordance with Article 6.</p>
+          <p>5.3. (a) Expropriation may be direct or indirect:</p>
+          <p>(i) Direct expropriation occurs when an investment is nationalised or otherwise directly expropriated through formal transfer of title or outright seizure; and</p>
+          <p>(ii) Indirect expropriation occurs if a measure or senes of measures of a Party has an effect equivalent to direct expropriation, in that it substantially or permanently deprives the investor of the fundamental attributes of property in its investment, including the right to use, enjoy and dispose of its investment, without formal transfer oftitle or outright seizure.</p>
+          <p>(b) The determination of whether a measure or a series of measures have an effect equivalent to expropriation requires a case&#xAD;by-case, fact-based inquiry, that takes into consideration:</p>
+          <p>(i) The economic impact of the measure or series of measures, although the sole fact that a measure or series of measures of a Party has an adverse effect on the economic value of an investment does not establish that an indirect expropriation has occurred;</p>
+          <p>(ii) The duration ofthe measure or series of measures of a Party;</p>
+          <p>(iii) The character of the measure or series of measures, notably their object, context and intent; and</p>
+          <p>(iv) Whether a measure by a Party, breaches that Party's prior binding written commitment to the investor whether by contract, licence or other legal document.</p>
+          <p>5.4. The Parties agree that an action taken by a Party in its commercial capacity shall not constitute expropriation or any other measure having similar effect.</p>
+          <p>5.5. Non-discriminatory regulatory measures by a Party or measures or awards by judicial bodies of a Party that are designed and applied to protect legitimate public interest or public purpose objectives such as public health, safety and the environment shall not constitute expropriation under this Article.</p>
+          <p>5.6. While considering an alleged breach of this Article, Tribunal shall take account of whether the investor or, as appropriate, the locally established enterprise, pursued action for remedies before domestic courts or tribunals prior to initiating a claim under this Treaty.</p>
+        </div>
+        <div type="article" num="6" title="Transfers">
+          <p>6.1. Subject to its law, each Party shall permit all funds of an investor of the other Party related to an investment in its territory to be freely transferred on a non-discriminatory basis after payment of the respective taxes and duties. Such funds include, in particular, but not limited to:</p>
+          <p>(i) Contributions to capital;</p>
+          <p>(ii) Profits, dividends, capital gains and proceeds from the sale of all or any part of the investment or from the partial or complete liquidation ofthe investment;</p>
+          <p>(iii) Interest, royalty payments, management fees, and technical assistance and other fees;</p>
+          <p>(iv) Payments made under a contract, including a loan agreement;</p>
+          <p>(v) Payments made pursuant to Article 5 [Expropriation], Article 7 [Compensation for losses] and under Chapter IV.</p>
+          <p>6.2 Unless otherwise agreed to between the Parties, currency transfer under paragraph 1 of this Article shall be permitted in the currency of the original investment or any other convertible currency. Such transfer shall be made at the market rate of exchange on the date of transfer.</p>
+          <p>6.3. Nothing in this Treaty shall prevent a Party from conditioning or preventing a transfer through a non-discriminatory, good faith application of its law, including actions relating to:</p>
+          <p>(i) Bankruptcy, insolvency or the protection of the rights of the creditors;</p>
+          <p>(ii) Compliance with judicial, arbitral or administrative decisions and awards;</p>
+          <p>(iii) Compliance with labour obligations;</p>
+          <p>(iv) Financial reporting or record keeping of transfers when necessary to assist law enforcement or financial regulatory authorities;</p>
+          <p>(v) Issuing, trading or dealing in securities, futures, options, or derivatives;</p>
+          <p>(vi) Compliance with the law on taxation;</p>
+          <p>(vii) Criminal or penal offences and the recovery of the proceeds of crime;</p>
+          <p>(viii) Social security, public retirement, or compulsory savmgs schemes, including provident funds, retirement gratuity programs and employees insurance programs;</p>
+          <p>(ix) Severance entitlements of employees;</p>
+          <p>(x) Requirement to register and satisfy other formalities imposed by the central bank and other relevant authorities of a Party; and</p>
+          <p>(xi) Requirements to lock-in initial capital investments, as per the respective Party's law , where applicable, provided that, any new measure which would require a lock-in period for investments will not apply to existing investments.</p>
+          <p>6.4. Notwithstanding anything in paragraphs 1 and 2 ofthis Article to the contrary, the Parties may temporarily restrict transfers in the event of serious balance-of-payments difficulties or threat thereof, or in cases where, in exceptional circumstances, movements of capital cause or threaten to cause serious difficulties for macroeconomic management, in particular, monetary and exchange rate policies.</p>
+        </div>
+        <div type="article" num="7" title="Compensation for Losses">
+          <p>Each Party shall accord to investors of the other Party, and to investments by such investors, non-discriminatory treatment with respect to measures, including restitution, indemnification, compensation or other settlement, it adopts or maintains relating to losses suffered by investments in its territory owing to war or other armed conflict, civil strife, state of national emergency or a natural disaster.</p>
+        </div>
+        <div type="article" num="8" title="Subrogation">
+          <p>8.1. If a Party or its designated agency makes a payment to any of its investors under a guarantee or a contract of insurance it has entered into in respect of an investment, the other Party shall recognize the validity of the subrogation in favour of such Party or agency to any right or title held by the investor.</p>
+          <p>8.2 A Party or its designated agency which is subrogated to the rights of an investor in accordance with paragraph 1 of this Article shall be entitled in all circumstances to the same rights as those of the investor in respect of the investment. Such rights may be exercised by the Party or its designated agency thereof, or by the investor if the Party or any agency so authorizes.</p>
+        </div>
+        <div type="article" num="9" title="Entry and Sojourn of Personnel">
+          <p>Subject to its law relating to the entry and sojourn of non-citizens , each Party shall permit natural persons of the other Party employed by theinvestor or the locally established enterprise to enter and remain in its territory for the purpose of engaging in activities connected with the investment.</p>
+        </div>
+        <div type="article" num="10" title="Transparency">
+          <p>10.1. Each Party shall, to the extent possible, ensure that its law in respect of any matter covered by this Treaty are promptly published or otherwise made available in such a manner as to enable interested persons and the other Party to become acquainted with them.</p>
+          <p>10.2 Each Party shall, as provided for in its laws and regulations:</p>
+          <p>(i) Publish any such measure that it proposes to adopt; and</p>
+          <p>(ii) Provide interested persons and the other Party a reasonable opportunity to comment on such proposed measures.</p>
+          <p>10.3. Each Party shall, upon request by the other Party, promptly respond to specific questions from and provide information to the other Party with respect to matters referred to in paragraph 1 of this Article.</p>
+          <p>10.4. Nothing in this Treaty shall require a Party to furnish or allow access to confidential information, the disclosure of which would impede law enforcement, or otherwise be contrary to the public interest, or which would prejudice legitimate commercial interests of particular juridical persons, public or private.</p>
+        </div>
+      </div>
+      <div type="chapter" num="II" title="Investor's obligations">
+        <div type="article" num="11" title="Compliance with law">
+          <p>The Parties reaffirm and recognize that:</p>
+          <p>(i) Investors and their investments shall comply with all laws of a Party concerning the establishment, acquisition, management, operation and disposition of investments.</p>
+          <p>(ii) Investors and their investments shall not, either prior to or after the establishment of an investment, offer, promise, or give any undue pecuniary advantage, gratification or gift whatsoever, whether directly or indirectly, to a public servant or official of a Party as an inducement or reward for doing or forbearing to do any official act or obtain or maintain other improper advantage nor shall be complicit in inciting, aiding, abetting, or conspiring to commit such acts.</p>
+          <p>(iii) Investors and their investments shall comply with the provisions of law of the Parties concerning taxation, including timely payment of their tax liabilities.</p>
+          <p>(iv) An investor shall provide such information as the Parties may require concerning the investment in question and the corporate history and practices of the investor, for purposes of decision making in relation to that investment or solely for statistical purposes.</p>
+        </div>
+        <div type="article" num="12" title="Corporate social responsibility">
+          <p>Investors and their enterprises operating within the territory of each Party shall endeavor to voluntarily incorporate internationally recognized standards of corporate social responsibility in their practices and internal policies, such as statements of principle that have been endorsed or are supported by the Parties. These principles may address issues such as labour, the environment, human rights, community relations and anti corruption.</p>
+        </div>
+      </div>
+      <div type="chapter" num="II" title="Settlement of disputes between an investor and a party">
+        <div type="article" num="13" title="Scope">
+          <p>13.1. Without prejudice to the rights and obligations of the Parties under Chapter V, this Chapter establishes a mechanism for the settlement of disputes between an investor of the other Party and a Defending Party with respect to its investment, arising only out of an alleged breach of an obligation under Chapter II of this Treaty, other than the obligation under Article 9 and 10 of this Treaty.</p>
+          <p>13.2. An arbitral tribunal ("Tribunal") constituted under this Chapter shall not decide disputes arising solely from an alleged breach of a contract between a Party and an investor. Such disputes shall only be resolved by the domestic courts or in accordance with the dispute resolution provisions set out in the relevant contract.</p>
+          <p>13.3. An investor may not submit a claim .to arbitration under this Chapter if the investment has been made through fraudulent misrepresentation, concealment, corruption, money laundering or conduct amounting to an abuse of process or similar illegal mechanisms.</p>
+          <p>13.4. In addition to other limits on its jurisdiction, the Tribunal constituted under this Chapter shall not have the jurisdiction to:</p>
+          <p>(i) Review the merits of a decision made by a judicial authority of the Parties; or</p>
+          <p>(ii) Accept jurisdiction over any claim that is or has been subject of an arbitration under Chapter V.</p>
+          <p>13.5. A dispute between an investor of the other Party and a Defending Party shall proceed sequentially in accordance with this Chapter.</p>
+        </div>
+        <div type="article" num="14" title="Proceedings under different international agreements">
+          <p>Where claims are brought pursuant to this Chapter and another international agreement and:</p>
+          <p>a) There is a potential for overlapping compensation; or</p>
+          <p>b) The other international claim could have a significant impact on the resolution ofthe claim brought pursuant to this Chapter, the Tribunal constituted under this Chapter shall, as soon as possible after hearing the disputing parties, stay its proceedings or otherwise ensure that proceedings brought pursuant to another international agreement are taken into account in its decision, order or award.</p>
+        </div>
+        <div type="article" num="15" title="Conditions precedent to submission of a claim to arbitration">
+          <p>15.1. In respect of a claim that the Defending Party has breached an obligation under Chapter 11, other than an obligation under Article 9 or 10, a disputing investor must first submit its claim before the relevant domestic courts or administrative bodies of the Defending Party for the purpose of pursuing domestic remedies in respect of the same measure or similar factual matters for which a breach of this Treaty is claimed. Such claim before the relevant domestic courts or administrative bodies of the Defending Party must be submitted within two (2) year(s) from the date on which the investor first acquired, or should have first acquired, knowledge of the measure in question and knowledge that the investment, or the investor with respect to its investment, had incurred loss or damage as a result.</p>
+          <p>For greater certainty, in demonstrating compliance with the obl-igation to exhaust local remedies, the investor shall not assert that the obligation to exhaust local remedies does not apply or has been met on the basis that the claim under this Treaty is by a different party or in respect of a different cause of action.</p>
+          <p>The requirement to exhaust local remedies shall not be applicable if the disputing investor can demonstrate that there are no available domestic legal remedies capable of reasonably providing relief in respect of the same measure or similar factual matters for which a breach of this Treaty is claimed by the investor.</p>
+          <p>15.2. Where applicable, if, after exhausting all relevant judicial or administrative remedies relating to the measure underlying the claim for at least a period of five years from the date on which the investor first acquired knowledge of the measure in question, no resolution has been reached satisfactory to the investor, the investor may commence a proceeding under this Chapter by transmitting a notice of dispute ("notice of dispute") to the Defending Party.</p>
+          <p>15.3. The notice of dispute shall specify the name and address of the disputing investor; set out the factual basis of the claim, including the measures at issue; specify the provisions of the Treaty alleged to have been breached and any other relevant provisions; demonstrate compliance with paragraphs 1 and 2 of this Article, where applicable; specify the relief sought and the approximate amount of damages claimed; and furnish evidence establishing that the disputing investor is an investor of the other Party.</p>
+          <p>15.4. For no less than six ( 6) months after receipt of the notice of dispute, the disputing parties shall use their best efforts to try to resolve the dispute amicably through meaningful consultation, negotiation or other third party procedures. In all such cases, the place of such consultation or negotiation or settlement shall be the capital city of the Defending Party, unless otherwise agreed by the disputing parties.</p>
+          <p>15.5. In the event that the disputing parties cannot settle the dispute amicably under paragraph 4 of this Article, a disputing investor may submit a claim to arbitration pursuant to this Treaty, but only if the following additional conditions are satisfied:</p>
+          <p>(i) Not more than seven (7) years have elapsed from the date on which the disputing investor first acquired, or should have first acquired, knowledge of the measure in question and knowledge that the disputing investor with respect to its investment, had incurred loss or damage as a result; or</p>
+          <p>(ii) Where applicable, not more than twelve (12) months have elapsed from the conclusion of domestic proceedings pursuant to paragraph 1 of this Article;</p>
+          <p>(iii) At least 90 days before submitting any claim to arbitration, the disputing investor has transmitted to the Defending Party a written notice of its intention to submit the claim to arbitration ("notice of arbitration"). The notice of arbitration shall:</p>
+          <p>a. Attach the notice of dispute and the record of its transmission to the Defending Party with the details thereof;</p>
+          <p>b. Provide the consent to arbitration by the disputing investor, or where applicable, by the locally established enterprise, in accordance with the procedures set out in this Treaty;</p>
+          <p>c. Specify the name of the arbitrator appointed by the disputing investor.</p>
+          <p>15.6. No arbitral proceedings shall be initiated under this Article if the disputing investor or the locally established enterprise continues proceedings before any administrative bodies or court or other dispute settlement procedures under the law of the Party, with respect to the measure of the Defending Party that is all~ged to be a breach referred to in paragraph 1 of Article 13 of this Treaty.</p>
+        </div>
+        <div type="article" num="16" title="Submission of claim to arbitration">
+          <p>16.1. A disputing investor who meets the conditions precedent provided for in Article 15 may submit the claim to arbitration under:</p>
+          <p>a) The ICSID Convention, provided that both the Parties are full members of the Convention;</p>
+          <p>b) The Additional Facility Rules of ICSID, provided that either Party, but not both, is a member of the ICSID Convention; or</p>
+          <p>The UNCITRAL Arbitration Rules.</p>
+          <p>16.2. The applicable arbitration rules shall govern the arbitration except to the extent modified by this Chapter, and supplemented by any subsequent rules adopted by the Parties.</p>
+          <p>16.3. A claim is submitted to arbitration under this Chapter when:</p>
+          <p>a) The request for arbitration under paragraph (1) of Article 36 of the ICSID Convention is received by the Secretary-General of ICSID;</p>
+          <p>b) The notice of arbitration under Article 2 of Schedule C of the ICSID Additional Facility Rules is received by the Secretary-General of ICSID; or</p>
+          <p>c) The notice of arbitration given under the UNCITRAL Arbitration Rules is received by the Defending Party.</p>
+          <p>16.4. Delivery of notice and other documents on a Party shall be made to the Designated Representative for each Party.</p>
+        </div>
+        <div type="article" num="17" title="Consent to arbitration">
+          <p>17.1. Each Party consents to the submission of a claim to arbitration in accordance with the terms of this Treaty.</p>
+          <p>17.2. The consent given in paragraph 1 of this Article and the submission by a disputing investor of a claim to arbitration satisfies the requirement of:</p>
+          <p>a) Chapter II of the ICSID Convention (Jurisdiction of the Centre) and the Additional Facility Rules for written consent ofthe parties; and</p>
+          <p>b) Article II of the New York Convention for an agreement in writing.</p>
+        </div>
+        <div type="article" num="18" title="Appointment of arbitrators">
+          <p>18.1. Unless otherwise agreed by the disputing parties within 30 days from the date of receipt of the notice of arbitration, the Tribunal shall consist of three arbitrators with relevant expertise or experience in public international law, international trade and international investment law, or the resolution of disputes arising under international trade or international investment agreements.</p>
+          <p>18.2. The arbitrators shall be independent of, and not be affiliated with or take instructions from a disputing party or the government of a Party with regard to trade and investment matters. Arbitrators shall not take instructions from any organisation, government or disputing party with regard to matters related to the dispute.</p>
+          <p>18.3. One arbitrator shall be appointed by each of the disputing parties and the third arbitrator ("Presiding Arbitrator") shall be appointed by agreement of the eo-arbitrators and the disputing parties.</p>
+          <p>18.4. If the Tribunal has not been constituted within one hundred twenty (120) days from the date that a claim is submitted to arbitration under this Article, the appointing authority under this Article shall be the following:</p>
+          <p>a) In case of an arbitration submitted under ICSID Convention or the ICSID Additional Facility Rules, the Secretary-General of ICSID;</p>
+          <p>b) In case of an arbitration submitted under the UNCITRAL Arbitration Rules, the Secretary-General of the Permanent Court of Arbitration;</p>
+          <p>Provided that if the appointing authority referred to in sub-paragraph (b) of paragraph 4 of this Article, is a national of a Party, the appointing authority shall be in the following order: the President, the Vice-President or the next most senior Judge of the International Court of Justice who is not a national of either Party.</p>
+          <p>18.5. The appointing authority shall appoint in her/his discretion and after consultation with the disputing parties, the arbitrator or arbitrators not yet appointed.</p>
+          <p>18.6. The Presiding Arbitrator of the Tribunal shall be a national of a State with which both Parties maintain diplomatic relations.</p>
+        </div>
+        <div type="article" num="19" title="Prevention of conflict of interest of arbitrators and challenges">
+          <p>19.1. Every arbitrator appointed to resolve disputes under this Treaty shall during the entire arbitration proceedings be impartial, independent and free of any actual or potential conflict of interest.</p>
+          <p>19.2. Upon nomination and, if appointed, every arbitrator shall, on an ongoing basis, disclose in writing any circumstances that may, in the eyes of the disputing parties, give rise to doubts as to her/his independence, impartiality, or freedom from conflicts of interest. This includes any items listed in this Article and any other relevant circumstances pertaining to the subject matter of the dispute, and to existing or past, direct or indirect, financial, persona], business, or professional relationships with any of the parties, legal counsels, representatives, witnesses, or eo-arbitrators. Such disclosure shall be made immediately upon the arbitrator acquiring knowledge of such circumstances, and shall be made to the eo-arbitrators, the parties to the arbitration and the appointing authority, if any, making an appointment. Neither the ability of those individuals or entities to access this information independently, nor the availability of that information in . the public domain, will relieve any arbitrator of his or her affirmative duty to make these disclosures. Doubts regarding whether disclosure is required shall be resolved in favour of such disclosure.</p>
+          <p>19.3. A disputing party may challenge an arbitrator appointed under this Treaty:</p>
+          <p>a) If facts or circumstances exist that may, in the eyes of the parties, give rise to justifiable doubts as to the arbitrator's independence, impartiality or freedom from conflicts of interest; or</p>
+          <p>b) In the event that an arbitrator fails to act or in the event of the de jure or de facto impossibility of the arbitrator performing his or her functions.</p>
+          <p>Provided that no such challenge may be initiated after fifteen (15) days of that party:</p>
+          <p>(i) Learning of the relevant facts or circumstances through a disclosure made under paragraph 2 of this Article by the arbitrator, or</p>
+          <p>(ii) Otherwise becoming aware of the relevant facts or circumstances relevant to a challenge under paragraph 3 of this Article, whichever is later.</p>
+          <p>19.4. The notice of challenge shall be communicated to the other disputing party, to the arbitrator who is challenged, to the other arbitrators and to the appointing authority under paragraph 4 of Article 18. The notice of challenge shall state the reasons for the challenge.</p>
+          <p>19.5. When an arbitrator has been challenged by a disputing party, the other disputing party may agree to the challenge. The arbitrator may also, after the challenge, withdraw from his or her office. In neither case does this imply acceptance ofthe validity of the grounds for the challenge.</p>
+          <p>19.6. If, within fifteen (15) days from the date of the notice of challenge, the disputing parties do not agree to the challenge or the challenged arbitrator does not withdraw, the disputing party making the challenge may elect to pursue it. In that case, within thirty (30) days from the date of the notice of challenge, it shall seek a decision on the challenge by the appointing authority as specified under paragraph 4 of Article 18.</p>
+          <p>19.7. The appointing authority as specified under paragraph 4 of Article 18 shall accept the challenge made under paragraph 3 of this Article if, even in the absence of actual bias, there are circumstances that would give rise to justifiable doubts as to the arbitrator's lack of independence, impartiality, freedom from conflicts of interest, or ability to perform his or her role, in the eyes of an objective third party.</p>
+          <p>19.8. In any event where an arbitrator has to be replaced during the course of the arbitral proceedings, a substitute arbitrator shall be appointed or chosen pursuant to the procedure provided for in the Treaty and the arbitration rules that were applicable to the appointment or choice of the arbitrator being replaced. This procedure shall apply even if during the process of appointing the arbitrator to be replaced, a disputing party to the arbitration had failed to exercise its right to appoint or to participate in the appointment.</p>
+          <p>19.9. If an arbitrator is replaced, the proceedings may resume from the stage where the arbitrator who was replaced or ceased to perform his or her functions unless otherwise agreed by the disputing parties.</p>
+          <p>19.10. A justifiable doubt as to an arbitrator's independence or impartiality or freedom from conflicts of interest shall be deemed to exist on account of the following factors, including if:</p>
+          <p>a) The arbitrator or her/his associates or relatives have an interest in the outcome of the particular arbitration;</p>
+          <p>b) The arbitrator is or has been a legal representative or advisor of the appointing party or an affiliate of the appointing party in the preceding three (3) years prior to the commencement of arbitration;</p>
+          <p>c) The arbitrator is a lawyer in the same law firm as the counsel to one of the parties;</p>
+          <p>d) The arbitrator is acting concurrently with the lawyer or law firm of one ofthe parties in another dispute;</p>
+          <p>e) The arbitrator's law firm is currently rendering or has rendered services to one of the parties or to an affiliate of one of the parties out ofwhich such law firm derives financial interest;</p>
+          <p>f) The arbitrator has received a full briefing of the merits or procedural aspects of the dispute from the appointing party or her/his counsel prior to her/his appointment;</p>
+          <p>g) The arbitrator is a manager, director or member of the governing body, or has a similar controlling influence by virtue of shareholding or otherwise in one ofthe parties;</p>
+          <p>h) The arbitrator has publicly advocated a fixed position regarding an issue on the case that is being arbitrated.</p>
+          <p>19.11. In the event that either or both Parties after completion of their respective procedures adopt a separate code of conduct for arbitrators to be applied in disputes arising out of this Treaty, the relevant parts of this Treaty, such as disclosure obligations, the independence and impartiality of arbitrators and confidentiality, shall be replaced or supplemented by mutual agreement of the Parties.</p>
+        </div>
+        <div type="article" num="20" title="Conduct of arbitral proceedings">
+          <p>20.1. Unless the disputing parties agree otherwise, the Tribunal shall hold the arbitration in the territory of a country that is a party to the New York Convention, selected in accordance with:</p>
+          <p>a) The ICSID Additional Facility Rules if the arbitration is under those Rules or the ICSID Convention; or</p>
+          <p>b) The UNCITRAL Arbitration Rules if the arbitration is under those Rules.</p>
+          <p>20.2. Unless otherwise agreed by the disputing parties, the Tribunal may determine the legal seat of arbitration. In doing so, the Tribunal shall take into consideration the convenience of the disputing parties and the arbitrators, the location of the subject matter, the proximity ofthe evidence, and give special consideration to the capital city ofthe Defending Party.</p>
+          <p>20.3 When considering matters of evidence or production of documents, the Tribunal shall not have any powers to compel production of documents which the Defending Party claims are protected from disclosure under the rules on confidentiality or privilege under its law.</p>
+          <p>20.4. The Non-disputing Party may make oral and written submissions to the Tribunal regarding the interpretation of this Treaty.</p>
+        </div>
+        <div type="article" num="21" title="Dismissal of frivolous claims">
+          <p>21.1. Without prejudice to the Tribunal's authority to address other objections, a Tribunal shall address and decide as a preliminary question any objection by the Defending Party that a claim submitted by the investor is: (a) not within the scope of the Tribunal's jurisdiction, or (b) manifestly without legal merit or unfounded as a matter of law.</p>
+          <p>21.2. Such objection shall be submitted to the Tribunal as soon as possible after the Tribunal is constituted, and in no event later than the date the Tribunal fixes for the Defending Party to submit its counter-memorial (or, in the case of an amendment to the notice of arbitration, the date the Tribunal fixes for the Defending Party to submit its response to the amendment).</p>
+          <p>21.3. On receipt of an objection under this Article, the Tribunal shall suspend any proceedings on the merits, establish a schedule for considering the objection consistent with any schedule it has established for considering any other preliminary question and issue a decision or award on the objection, stating the grounds thereof. In deciding an objection under this Article, the Tribunal shall assume to be true, claimant's factual allegations in support of any claim in the notice of arbitration (or any amendment thereof). The Tribunal may also consider any relevant facts not in dispute.</p>
+          <p>21.4. The Tribunal shall issue a decision or an award under this Article no later than 150 days after the date of the receipt of the request under paragraph 2 of this Article. However, if a Defending Party requests a hearing, the Tribunal may take an additional thirty (30) days to issue the decision or award.</p>
+          <p>21.5. The Defending Party does not waive its right to raise any objection as to competence or any argument on the merits merely because the Defending Party did or did not raise an objection or make use of the expedited procedure set out in this Article.</p>
+          <p>21.6.  When the Tribunal decides on a preliminary objection by a Defending Party under paragraphs 2 or 3 of this Article, the Tribunal may, if warranted, award to the prevailing Defending Party reasonable costs and attorneys' fees incurred in submitting or opposing the objection. In determining whether such an award is warranted, the Tribunal shall consider whether either the claim by the disputing investor or the objection by the Defending Party was frivolous, and shall provide the disputing parties a reasonable opportunity to present its cases.</p>
+        </div>
+        <div type="article" num="22" title="Transparency in arbitral proceedings">
+          <p>22.1. Subject to applicable law regarding protection of confidential information, the Defending Party shall make available to the public the following documents relating to a dispute under this Chapter:</p>
+          <p>a) The notice of dispute and the notice of arbitration;</p>
+          <p>b) Pleadings and other written submissions on jurisdiction and the merits submitted to the Tribunal, including submissions by a Non-disputing Party;</p>
+          <p>c) Transcripts of hearings, where available; and</p>
+          <p>d) Decisions, orders and awards issued by the Tribunal.</p>
+          <p>22.2. Hearings for the presentation of evidence or for oral argument ("hearings") shall be made public in accordance with the following provisions:</p>
+          <p>a) Where there is a need to protect confidential information or protect the safety of participants in the proceedings, the Tribunal shall make arrangements to hold in private that part ofthe hearing requiring such protection.</p>
+          <p>b) The Tribunal shall make logistical arrangements to facilitate public access to hearings, including by organizing attendance through video links or such other means as it deems appropriate. However, the arbitral tribunal may, after consultation with the disputing parties, decide to hold all or part of the hearings in private where this becomes necessary for logistical reasons, such as when the circumstances render any original arrangement for public access to a hearing infeasible.</p>
+          <p>22.3. An award of a Tribunal rendered under this Chapter shall be made publicly available, subject to the redaction of confidential information. Where a Defending Party determines that it is in the public interest. to do so and notifies the Tribunal of that determination, all other documents submitted to, or issued by, the Tribunal shall also be publicly available, subject to the redaction of confidential information.</p>
+        </div>
+        <div type="article" num="23" title="Burden of proof and applicable law">
+          <p>23.1. This Treaty shall be interpreted in the context of the high level of deference that international law accords to States with regard to their development and implementation of domestic policies.</p>
+          <p>23.2. The disputing investor at all times bears the burden of establishing: (a) jurisdiction; (b) the existence of an obligation under Chapter II of this Treaty, other than the obligation under Article 9 or 1 0; (c) a breach of such obligation;(d) that the investment, or the investor with respect to its investment, has suffered actual and non-speculative losses as a result ofthe breach; and (e) that those losses were directly caused by the breach.</p>
+          <p>23.3. The applicable law for the Tribunal constituted under this Chapter shall be: (a) this Treaty; (b) the general principles of public international law relating to the interpretation of treaties, including the presumption of consistency between treaties to which the Parties are party; and (c) for matters relating to domestic law, the law. of the Defending Party.</p>
+        </div>
+        <div type="article" num="24" title="Joint interpretations">
+          <p>24.1. Interpretations of specific provisions and decisions on application of this Treaty issued subsequently by the Parties in accordance with this Treaty shall be binding on tribunals established under this Treaty upon issuance of such interpretations or decisions.</p>
+          <p>24.2. In accordance with the Vienna Cpnvention on the Law of Treaties, 1969 and customary international law, other evidence of the Parties subsequent agreement and practice regarding interpretation or application of this Treaty shall constitute authoritative interpretations ofthis Treaty and must be taken into account by tribunals under this Chapter.</p>
+          <p>24.3. The Tribunal may, on its own account or at the request of a Defending Party, request the joint interpretation of any provision of this Treaty that is subject of a dispute. The Parties shall submit in writing any joint decision declaring their interpretation to the Tribunal within sixty (60) days of the request. Without prejudice&#xB7; to the rights of the Parties under paragraphs 1 and 2 of this Article, if the Parties fail to submit a decision to the Tribunal within sixty (60) days, any interpretation issued individually by a Party shall be forwarded to the disputing parties and the Tribunal, which may take into account such interpretation.</p>
+        </div>
+        <div type="article" num="25" title="Expert reports">
+          <p>Without prejudice to the appointment of other kinds of experts where authorized by the applicable arbitration rules, and unless the disputing parties disapprove, the Tribunal may appoint experts to report to it in writing on any factual issue concerning environmental, health, safety, technical or other scientific matters raised by a disputing party, subject to such terms and conditions as the disputing parties may agree.</p>
+        </div>
+        <div type="article" num="26" title="Award">
+          <p>26.1. An award shall include a judgement as to whether there has been a breach by the Defending Party of any rights conferred under this Treaty in respect of the disputing investor and its investment and the legal basis and the reasons for its decisions.</p>
+          <p>26.2. The Tribunal shall reach its decision by a majority of votes. Such decision shall be binding on both disputing parties to the arbitration.</p>
+          <p>26.3. The Tribunal can only award monetary compensation for a breach of the obligations under Chapter II of this Treaty. Monetary damages shall not be greater than the loss suffered by the investor or, as applicable, the locally established enterprise, reduced by any prior damages or compensation already provided by a Party. For the calculation of monetary damages, the Tribunal shall also reduce the damages to take into account any restitution of property or repeal or modification of the measure, or other mitigating factors. Mitigating factors can include, current and past use of the investment, the history of its acquisition and purpose, compensation received by the investor from other sources, any unremedied harm or damage that the investor has caused to the environment or local community or other relevant considerations regarding the need to balance public interest and the interests of the investor.</p>
+          <p>26.4. The Tribunal shall not award punitive or moral damages or any injunctive relief against either of the Parties under any circumstance.</p>
+        </div>
+        <div type="article" num="27" title="Finality and enforcement of awards">
+          <p>27.1. An award made by the Tribunal shall have no binding force except between the disputing parties and in respect of the particular case and the Tribunal must clearly state those limitations in the text of the award.</p>
+          <p>27.2. Subject to paragraph 3 of this Article, a disputing party shall abide by and comply with an award without delay.</p>
+          <p>27.3. A disputing party may not seek enforcement of a final award until:</p>
+          <p>a) In the case of a final award made under the ICSID Convention</p>
+          <p>(i) One hundred twenty (120) days have elapsed from the date the award was rendered and no disputing party has requested revision or annulment of the award, or</p>
+          <p>(ii) Revision or annulment proceedings have been completed; and</p>
+          <p>b) In the case of a final award under the ICSID Additional Facility Rules or the UNCITRAL Arbitration Rules</p>
+          <p>(i) Ninety (90) days have elapsed from the date the award was rendered and no disputing party has commenced a proceeding to revise, set aside or annul the award, or</p>
+          <p>(ii) A competent court has decided on an application to revise, set aside or annul the award and there is no further appeal.</p>
+          <p>27.4. Each Party shall provide for the enforcement of an award in its territory in accordance with its law.</p>
+          <p>27.5. A claim that is submitted to arbitration under this Chapter shall be considered to arise out of a commercial relationship or transaction for purposes of Article I of the New York Convention.</p>
+        </div>
+        <div type="article" num="28" title="Costs">
+          <p>28.1. The disputing parties shall share the costs of the arbitration, with arbitrator fees, expenses, allowances and other administrative costs. The disputing parties shall also bear the cost of their representation in the arbitral proceedings. The Tribunal may, however, in its discretion direct that the entire costs or a higher proportion of costs be borne by one of the two disputing parties and this determination shall be final and binding on both disputing parties.</p>
+          <p>28.2. The Tribunal may order security for costs at the proposal of the Defending Party. The Tribunal shall especially consider security for costs when there is a reason to believe:</p>
+          <p>a) That the investor will be unable to pay, if ordered to do so, a reasonable part of attorney fees and other costs to the Contracting Party which is the party to the dispute; or</p>
+          <p>b) That the investor has divested assets to avoid the consequences ofthe proceedings.</p>
+          <p>Should the investor fail to pay the security for costs ordered by the tribunal, the Tribunal shall terminate the arbitral proceedings.</p>
+        </div>
+        <div type="article" num="29" title="Appeals facility">
+          <p>The Parties may by agreement or after the completion of their respective procedures regarding the enforcement of this Treaty establish an institutional mechanism which may inClude an appellate mechanism for reviewing investor-state disputes established under a separate international agreement, to develop an appellate body or similar mechanism to review awards rendered by tribunals under this Chapter. Such appellate body or similar mechanism may be designed to provide coherence to the interpretation of provisions in this Treaty. In developing such a mechanism, the Parties may take into account the following issues, among others:</p>
+          <p>a) The nature and composition of an appellate body or similar mechanism;</p>
+          <p>b) The scope and standard of review of such an appellate body;</p>
+          <p>c) Transparency ofproceedings of the appellate body;</p>
+          <p>d) The effect of decisions by an appellate body or similar mechanism;</p>
+          <p>e) The relationship of review by an appellate body or similar mechanism to the arbitral rules that may be selected under paragraph 1 of Article 20 of this Treaty; and</p>
+          <p>f) The relationship of review by an appellate body or similar mechanism to existing domestic law and international law on the enforcement of arbitral awards.</p>
+        </div>
+        <div type="article" num="30" title="Diplomatic Exchange between Parties">
+          <p>30.1. If a disputing investor has commenced a dispute against a Defending Party under this Chapter, the Non-disputing Party shall not give diplomatic protection, or bring an international claim, in respect of such dispute between one of its investors and the Defending Party, unless the Defending Party has failed to abide by and comply with an award or the decisions of its courts, as the case may be, in accordance with this Chapter and other applicable law regarding recognition and enforcement of foreign judgments and arbitral awards.</p>
+          <p>30.2. Nothing in this Chapter precludes a Defending Party from requesting consultations or seeking agreement with the other Party on issues of interpretation or application of the Treaty. In response to such a request, the other Party shall engage in good faith consultations on the matters requested.</p>
+        </div>
+      </div>
+      <div type="chapter" num="V" title="State-state Dispute Settlement">
+        <div type="article" num="31" title="Disputes between Parties">
+          <p>31.1. Disputes between the Parties concerning the interpretation or application of this Treaty including compliance with obligations imder Article 30 or 36, should, as far as possible, be settled through consultation or negotiation, which may include the use of non-binding third-party mediation or other mechanisms.</p>
+          <p>31.2. If a dispute between the Parties cannot be settled within six months from the time the dispute arose, it shall upon the request of either Party be submitted to an arbitral tribunal.</p>
+          <p>31.3. Such an arbitral tribunal shall be constituted for each individual case in the following way: within two months of the receipt of the request for arbitration, each Party shall appoint one member of the arbitral tribunal. Those two members shall then select a national of a third State who, on approval by the two Parties, shall be appointed Chairman of the arbitral tribunal. The Chairman shall be appointed within two months from the date of appointment of the other two members. The Chairman of the arbitral tribunal shall be a national of a State with which both Parties maintain diplomatic relations.</p>
+          <p>31.4. If within the periods specified in paragraph 3 of this Article the necessary appointment(s) have not been made, either Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointment(s). If the President is a national of either Party or if he or she is otherwise prevented from discharging the said function, the Vice President shall be invited to make the necessary appointment(s). If the Vice President is a national of either Party or if he or she too is prevented from discharging the said function, the member of the International Court of Justice next in seniority who is not a national of either Party shall be invited to make the necessary appointment(s).</p>
+          <p>31.5. The arbitral tribunal shall reach its decision by a majority of votes. Such decision shall be binding on both Parties.</p>
+          <p>31.6. The Parties to the arbitration shall share the costs of the arbitration, including the arbitrator fees, expenses, allowances and other administrative costs. Each Party shall bear the cost of its representation in the arbitral proceedings. The arbitral tribunal may, however, in its discretion direct that the entire costs or a higher proportion of costs shall be borne by one of the two disputing Parties and this determination shall be binding on both disputing Parties.</p>
+          <p>31.7. The arbitral tribunal shall decide all questions relating to its competence and, subject to any agreement between the disputing Parties, determine its own procedure, taking into account the PCA Optional Rules.</p>
+        </div>
+      </div>
+      <div type="chapter" num="VI" title="Exceptions">
+        <div type="article" num="32" title="General Exceptions">
+          <p>32.1. Nothing in this Treaty shall be construed to prevent the adoption or enforcement by a Party of measures of general applicability applied on a non-discriminatory basis in good faith that are necessary to:</p>
+          <p>(i) Protect public morals or maintaining public order;</p>
+          <p>(ii) Protect human, animal or plant life or health;</p>
+          <p>(iii) Ensure compliance with laws and regulations that are not inconsistent with the provisions of this Treaty;</p>
+          <p>(iv) Protect and conserve the environment, including all living and non-living natural resources;</p>
+          <p>(v) Protect national treasures or monuments of artistic, cultural, historic or archaeological value.</p>
+          <p>In considering whether a measure is necessary, the Tribunal shall take into account whether there was no less restrictive alternative measure reasonably available to a Party.</p>
+          <p>32.2. Nothing in this Treaty shall apply to non-discriminatory measures of general application taken by a central bank or monetary authority of a Party in pursuit of monetary and related credit policies or exchange rate policies. This paragraph is without prejudice to a Party's rights and obligations under Article 6 of this Treaty.</p>
+          <p>32.3 Nothing in this Treaty shall affect the rights and obligations of Parties as members of the International Monetary Fund under the IMF Articles of Agreement, as applicable from time to time, including the use of exchange actions which are in conformity with the IMF Articles of Agreement. In case of any inconsistency between the provisions of this Treaty and the IMF Articles of Agreement, the latter shall prevail.</p>
+        </div>
+        <div type="article" num="33" title="Security Exceptions">
+          <p>33.1. Nothing in this Treaty shall be construed:</p>
+          <p>(i) To require a Party to furnish any information, the disclosure of which it considers contrary to its essential security interests; or</p>
+          <p>(ii) To prevent a Party from taking any action which it considers necessary for the protection of its essential security interests including but not limited to:</p>
+          <p>a) Action relating to fissionable and fusionable materials or the materials from which they are derived;</p>
+          <p>b) Action taken in time of war or other emergency in domestic or international relations;</p>
+          <p>c) Action relating to the traffic in arms, ammunition and implements of war and to such traffic in other goods and materials as is carried on directly or indirectly for the purpose of supplying a military establishment;</p>
+          <p>d) Action taken so as to protect critical public infrastructure including communication, power and water infrastructures from deliberate attempts intended to disable or degrade such infrastructure;</p>
+          <p>e) Any policy, requirement or measure including, without limitation, a requirement obtaining (or denying) any security clearance to any company, personnel or equipment; or</p>
+          <p>(iii) To prevent a Party from taking any action in pursuance of its obligations under the United Nations Charter for the maintenance of international peace and security.</p>
+          <p>33.2. Each Party shall inform the other Party to the fullest extent possible of measures taken under paragraph 1 of this Article and of their termination, where such measures affect the implementation ofthis Treaty.</p>
+          <p>33.3. Nothing in this Chapter shall be construed to require a Party to accord the benefits of this Treaty to an investor of the other Party where a Party adopts or maintains measures in any legislation or regulations which it considers necessary for the protection of its essential security interests with respect to a non-Party or an investor of a non-Party that would be violated or circumvented if the benefits of this Treaty were accorded to such juridical person or to its investments.</p>
+          <p>33.4. This Article shall be interpreted m accordance with the understanding ofthe Parties on security exceptions as set out in the Annex , which shall form an integral part of this Treaty.</p>
+        </div>
+      </div>
+      <div type="chapter" num="VII" title="Final Provisions">
+        <div type="article" num="34" title="Relationship with other Treaties">
+          <p>Any inconsistency, or question regarding the relationship between this Treaty and another bilateral agreement between the Parties, or a multilateral agreement to which both Parties are a party, shall be resolved in accordance with the Vienna Convention on the Law of Treaties.</p>
+        </div>
+        <div type="article" num="35" title="Denial of Benefits">
+          <p>A Party may at any time, including after the institution of arbitration proceedings in accordance with Chapter IV ofthis Treaty, deny the benefits of this Treaty to:</p>
+          <p>(i) An investment or investor owned or controlled, directly or indirectly, by persons of a non-Party or of the denying Party; or</p>
+          <p>(ii) An investment or investor that has been established or restructured with the primary purpose of gaining access to the dispute resolution mechanisms provided in this Treaty.</p>
+        </div>
+        <div type="article" num="36" title="Consultations and Periodic Review">
+          <p>36.1. Either Party may request, and the other Party shall promptly agree to, consultations in good faith on any issue regarding the interpretation, application, implementation, execution or any other matter including, but not limited to:</p>
+          <p>(i) Reviewing the implementation of this Treaty;</p>
+          <p>(ii) Reviewing the interpretation or application of this Treaty;</p>
+          <p>(iii) Exchanging legal information; and</p>
+          <p>(iv) Subject to Article 30, addressing disputes arising under Chapter IV of this Treaty or any other disputes arising out of investment.</p>
+          <p>36.2. Further to consultations under this Article, the Parties may take any action as they may jointly decide, including making and adopting rules supplementing the applicable arbitral rules under Chapter IV or Chapter V of this Treaty, issuing binding interpretations of this Treaty, and adopting joint measures in order to improve the effectiveness ofthis Treaty.</p>
+          <p>36.3. The representatives of the Parties shall meet every five years after the entry into force of this Treaty to consult and review the operation and effectiveness ofthis Treaty as may be necessary.</p>
+        </div>
+        <div type="article" num="37" title="Amendments">
+          <p>37.1. This Treaty may be amended at any time at the request of either Party. The requesting Party must submit its request in written form explaining the grounds on which the amendment shall be made. The other Party shall consult with the requesting Party regarding the proposed amendment and must also respond to the request in writing.</p>
+          <p>37.2. Such an amendment shall enter into force on the date of receipt of the last notification on the fulfilment of internal procedures of the Parties necessary for the entering into force of the amendment. Any amendment shall constitute an integral part of this Treaty and shall be binding on the arbitral tribunals.</p>
+        </div>
+        <div type="article" num="38" title="Entry Into Force, Duration and Termination">
+          <p>38.1. This Treaty shall be subject to ratification and shall enter into force on the date of exchange of instruments of ratification.</p>
+          <p>38.2. This Treaty shall remain in force for a period often (10) years. This Treaty may be terminated any time after its entry into force if either Party gives to the other Party a prior notice in writing twelve (12) months in advance stating its intention to terminate the Treaty. The Treaty shall stand terminated immediately after the expiry of the twelve (12) months' notice period.</p>
+          <p>38.3. In respect of investments made prior to the date when the termination of this Treaty becomes effective, the provisions of this Treaty shall remain in force for a period of five ( 5) years.</p>
+        </div>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the undersigned, duly authorized thereto, have signed this Treaty.</p>
+      <p>Done in Minsk on this 24th day of September 2018 in two originals each in the Russian, Hindi and English languages, all texts being equally authentic.</p>
+      <p>In case of any divergence in interpretation, the English text shall prevail.</p>
+      <p>Republic of Belarus</p>
+      <p>Republic of India</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" num="Annex" title="Security Exceptions">
+        <p>The Parties confirm the following understanding with respect to interpretation and/or implementation of Article 33 of this Treaty:</p>
+        <p>(i) The measures referred to in paragraph 3 of Article 33 are measures where the intention and objective of the Party imposing the measures is for the protection of its essential security interests. These measures shall be imposed on a non-discriminatory basis and may be found in relevant laws of the Parties.</p>
+        <p>The Parties shall exchange information on the relevant laws within one year from the entry into force of this Treaty and shall also update such information in reasonable time upon request by the other Party.</p>
+        <p>(ii) Where the Party asserts as a defence that conduct alleged to be a breach of its obligations under this Treaty is for the protection of its essential security interests protected by Article 33, any decision of such Party taken on such security considerations and its decision to invoke Article 33 at any time, whether before or after the commencement of arbitral proceedings shall be non-justiciable. It shall not be open to any arbitral tribunal constituted under Chapter IV or Chapter V ofthis Treaty to review any such decision, even where the arbitral proceedings concern an assessment of any claim for damages and/or compensation, or an adjudication of any other issues referred to such arbitral tribunal.</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

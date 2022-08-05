@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Netherlands - Poland BIT (1992)</name>
+    <code>T1992-113</code>
+    <partyisocode n="0">NLD</partyisocode>
+    <partyisocode n="1">POL</partyisocode>
+    <date_signed>1992-09-07</date_signed>
+    <date_into_force>1994-02-01</date_into_force>
+    <date_terminated>2018-06-14</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Unilaterally denounced</termination_type>
+    <docreference>2643</docreference>
+    <comments/>
+    <source>unctad; termination: http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001032</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Unilaterally denounced</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{NLD,POL}_1992-09-07.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="TERMINATED_BY_THIRD_TREATY" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T2020-2">Agreement for the Termination of Bilateral Investment Treaties Between the Member States of the European Union (2020)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Kingdom of the Netherlands and the Republic of Poland on encouragement and reciprocal protection of investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of the Netherlands</p>
+      <p>And</p>
+      <p>The Republic of Poland,</p>
+      <p>(hereinafter referred to as "the Contracting Parties")</p>
+      <p>Desiring to intensify economic cooperation to the mutual benefit of both countries,</p>
+      <p>Intending to create favourable conditions for investments by investors of either Contracting Party in the territory of the other Contracting Party,</p>
+      <p>And</p>
+      <p>Recognizing that encouragement and protection of investments on the basis of this Agreement stimulates the initiative in this field,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Agreement:</p>
+        <p>(a) The term "investments" shall comprise every kind of asset and more particularly, though not exclusively:</p>
+        <p>(i) Movable and immovable property as well as any other rights in rem in respect of every kind of asset;</p>
+        <p>(ii) Rights derived from shares, bonds and other kinds of interests in companies and joint ventures;</p>
+        <p>(iii) Title to money and other assets and to any performance having an economic value;</p>
+        <p>(iv) Rights in the field of intellectual property, technical processes, goodwill and know-how;</p>
+        <p>(v) Rights to conduct economic activity, including rights to prospect, explore, extract and win natural resources, granted under contract, administrative decisions or under the legislation of the Contracting Party in the territory of which such activity is undertaken.</p>
+        <p>(b) The term "investors" shall comprise with regard to either Contracting Party:</p>
+        <p>(i) Natural persons having the nationality of that Contracting Party in accordance with its law;</p>
+        <p>(ii) Without prejudice to the provisions of (iii) hereafter, legal persons constituted under the law of that Contracting Party;</p>
+        <p>(iii) Legal persons, wherever located, controlled, directly or indirectly, by investors of that Contracting Party.</p>
+        <p>(c) The term "territory" includes the maritime areas adjacent to the coast of the State concerned, to the extent to which that State may exercise sovereign rights or jurisdiction in those areas according to international law.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Either Contracting Party shall, within the framework of its laws and regulations, promote economic cooperation through the protection in its territory of investments of investors of the other Contracting Party. Subject to its right to exercise powers conferred by its laws or regulations, each Contracting Party shall admit such investments.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1) Each Contracting Party shall ensure fair and equitable treatment to the investments of investors of the other Contracting Party and shall not impair, by unreasonable or discriminatory measures, the operation, management, maintenance, use, enjoyment or disposal thereof by those investors.</p>
+        <p>2) More particularly, each Contracting Party shall accord to such investments full security and protection which in any case shall not be less than that accorded either to investments of its own investors or to investments of investors of any third State, whichever is more favourable to the investor concerned.</p>
+        <p>3) If a Contracting Party has accorded special advantages to investors of any third State by virtue of agreements establishing customs unions, organizations of mutual economic assistance, economic unions or similar institutions, or on the basis of interim agreements leading to such unions or institutions, that Contracting Party shall not be obliged to accord such advantages to investors of the other Contracting Party.</p>
+        <p>4) The treatment granted under this Article shall not extend to taxes, fees, charges and to fiscal deductions and exemptions granted by either Contracting Party to investors of third States by virtue of a double taxation agreement or other agreements regarding matters of taxation, or on the basis of reciprocity with a third State.</p>
+        <p>5) Each Contracting Party shall observe any obligation it may have entered into with regard to investments of investors of the other Contracting Party.</p>
+        <p>6) If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to this Agreement contain a regulation, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided for by this Agreement, such regulation shall to the extent that it is more favourable prevail over this Agreement.</p>
+      </div>
+      <div type="article" num="4">
+        <p>The Contracting Parties shall guarantee that payments related to an investment may be transferred. The transfers shall be made in a freely convertible currency, without undue restriction or delay. Such transfers include in particular though not exclusively:</p>
+        <p>(a) Profits, interest, dividends and other current income;</p>
+        <p>(b) Funds necessary</p>
+        <p>(i) For the acquisition of raw or auxiliary materials, semi-fabricated or finished products, or</p>
+        <p>(ii) To replace capital assets in order to safeguard the continuity of an investment;</p>
+        <p>(c) Additional funds necessary for the development of an investment;</p>
+        <p>(d) Funds in repayment of loans;</p>
+        <p>(e) Royalties or fees;</p>
+        <p>(f) Earnings of natural persons who are allowed to work in connection with an investment;</p>
+        <p>(g) The proceeds of sale or liquidation of the investment.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Neither Contracting Party shall take any measures depriving, directly or indirectly, investors of the other Contracting Party of their investments unless the following conditions are complied with:</p>
+        <p>(a) The measures are taken in the public interest and under due process of law;</p>
+        <p>(b) The measures are not discriminatory or contrary to any undertaking which the former Contracting Party may have given;</p>
+        <p>(c) The measures are accompanied by provision for the payment of just compensation. Such compensation shall represent the real value of the investments affected and shall, in order to be effective for the claimants, be paid and made transferable, without undue delay, to the country designated by the claimants concerned in any freely convertible currency accepted by the claimants.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Investors of the one Contracting Party who suffer losses in respect of their investments in the territory of the other Contracting Party owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection or riot shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which that Contracting Party accords to its own investors or to investors of any third State, whichever is more favourable to the investors concerned.</p>
+      </div>
+      <div type="article" num="7">
+        <p>If the investments of an investor of the one Contracting Party are insured against non-commercial risks under a system established by law, any subrogation of the insurer or re-insurer into the rights of the said investor pursuant to the terms of such insurance shall be recognized by the other Contracting Party, without prejudice to the latter Contracting Party's right to set off taxes or other public charges due and payable by the investor.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1) Any dispute between one Contracting Party and an investor of the other Contracting Party relating to the effects of a measure taken by the former Contracting Party with respect to the essential aspects pertaining to the conduct of business, such as the measures mentioned in Article 5 of this Agreement or transfer of funds mentioned mentioned in Article 4 of this Agreement, shall to the extent possible, be settled amicably between both parties concerned.</p>
+        <p>2) If such disputes cannot be settled within six months from the date either party request amicable settlement, it shall upon request of the investor be submitted to an arbitral tribunal. In this case the provisions of paragraphs 3&#x2013;9 of Article 12 shall be applied mutatis mutandis. Nevertheless the President of the Arbitration Institute of the Arbitral Tribunal of the Chamber of Commerce in Stockholm shall be invited to make the necessary appointments.</p>
+        <p>3) In case both Contracting Parties have become members of the Convention of 18 March 1965 on the Settlement of Investment Disputes between States and Nationals of the Other States, disputes between either Contracting Party and the investor of the other Contracting Party under the first paragraph of the present Article shall be submitted for settlement by conciliation or arbitration to the International Centre for the Settlement of Investment Disputes.</p>
+      </div>
+      <div type="article" num="9">
+        <p>The provisions of this Agreement shall apply to investments made by investors of the one Contracting Party in the territory of the other Contracting Party after 26 September 1968 and in accordance with the laws and regulations of the latter Contracting Party.</p>
+      </div>
+      <div type="article" num="10">
+        <p>As regards the Kingdom of the Netherlands, this Agreement shall apply to the part of the Kingdom in Europe, the Netherlands Antilles and Aruba, unless the notification provided for in Article 13, paragraph (4) provides otherwise.</p>
+      </div>
+      <div type="article" num="11">
+        <p>Either Contracting Party may propose to consult on any matter concerning the interpretation or application of this Agreement. The other Contracting Party shall accord sympathetic consideration to and shall afford adequate opportunity for such consultation.</p>
+      </div>
+      <div type="article" num="12">
+        <p>1) Any dispute between the Contracting Parties concerning the interpretation or application of this Agreement shall as far as possible be settled through diplomatic channels.</p>
+        <p>2) If the dispute cannot thus be settled within six months, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>3) The arbitral tribunal shall be constituted as follows: each Party shall appoint one arbitrator and these two arbitrators shall agree upon a national of a third State as chairman. The arbitrators shall be appointed within three months, the chairman within five months from the date on which either Party has informed the other party that it intends to submit the dispute to an arbitral tribunal.</p>
+        <p>4) If one of the Parties fails to appoint its arbitrator and has not proceeded to do so within the specified period, the other Party may invite the President of the International Court of Justice to make the necessary appointment. If the two arbitrators are unable to reach agreement, in the specified period, on the choice of the third arbitrator, either Party may invite the President of the International Court of Justice, to make the necessary appointment.</p>
+        <p>5) If, in the cases provided for in the fourth paragraph of this Article, the President of the International Court of Justice is prevented from discharging the said function or is a national or either Contracting Party, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is prevented from discharging the said function or is a national of either Contracting Party the most senior member of the Court available who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>6) The tribunal shall decide on the basis of respect for the law, including particularly this Agreement and other relevant agreements existing between the two Contracting Parties and the universally acknowledged rules and principles of international law. Before the tribunal decides, it may at any stage of the proceedings propose to the Parties that the dispute be settled amicably. The foregoing provisions shall not prejudice the power of the tribunal to decide the dispute ex aequo et bono if the Parties so agree.</p>
+        <p>7) Unless the Parties decide otherwise, the tribunal shall determine its own procedure.</p>
+        <p>8) The tribunal shall reach its decision by a majority of votes. Such decision shall be final and binding on the Parties.</p>
+        <p>9) Each Party shall bear the cost of the arbitrator appointed by itself and its representation. The cost of the chairman as well as the other costs will be borne in equal parts by the Parties.</p>
+      </div>
+      <div type="article" num="13">
+        <p>1) This Agreement shall enter into force on the first day of the second month following the date on which the Contracting Parties have informed each other in writing that the procedures constitutionally required thereof in their respective countries have been complied with, and shall remain in force for a period of 15 years.</p>
+        <p>2) Unless notice of termination has been given by either Contracting Party at least six months before the date of the expiry of its initial period of validity, this Agreement shall be extended tacitly for periods of ten years, each Contracting Party reserving the right to terminate the Agreement upon notice of at least six months before the date of expiry of each current period of validity.</p>
+        <p>3) In respect of investments made before the date of the termination of this Agreement the foregoing Articles thereof shall continue to be effective for a further period of 15 years from that date.</p>
+        <p>4) Subject to the period mentioned in paragraph (2) of this Article, the Government of the Kingdom of the Netherlands shall be entitled to terminate the application of this Agreement separately in respect of any of the parts of the Kingdom.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS THEREOF, the undersigned representatives, duly authorized thereto, have signed this Agreement.</p>
+      <p>DONE in duplicate at Warsaw on September 7, 1992 in the Netherlands, Polish and English languages, the three texts being equally authentic. In case of difference of interpretation the English text will prevail.</p>
+      <p>For the Government of the Kingdom of the Netherlands</p>
+      <p>For the Government of the Republic of Poland</p>
+    </conclusion>
+    <attachments>
+      <p>1) With respect to Article 1 &#x2018;control' means having a substantial interest in or the ability to exercise substantial influence over the management and operation of an investment, provided that such an influence will not be deemed to exist solely as result of a contractual relationship for the provisions of goods or services or the extension of commercial credits in connection with such contracts.</p>
+      <p>2) With respect to the meaning of the term &#x2018;delay' mentioned in Article 4, transfers shall be made in accordance with normal banking and commercial practices and shall in any case be made within a period of 2 months from the date the application for transfer was made.</p>
+      <p>3) The Government of the Republic of Poland affirms its policy of ensuring that bank deposits held within the territory of the Republic of Poland receive a positive real rate of interest.</p>
+      <p>For the Government of the Kingdom of the Netherlands</p>
+      <p>For the Government of the Republic of Poland</p>
+    </attachments>
+  </main>
+</treaty>

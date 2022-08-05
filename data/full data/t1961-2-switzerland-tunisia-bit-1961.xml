@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Switzerland - Tunisia BIT (1961)</name>
+    <code>T1961-2</code>
+    <partyisocode n="0">CHE</partyisocode>
+    <partyisocode n="1">TUN</partyisocode>
+    <date_signed>1961-12-02</date_signed>
+    <date_into_force>1964-01-19</date_into_force>
+    <date_terminated>2014-07-08</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>2997</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CHE,TUN}_1961-12-02.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_OVERLAP" document-code="T2004-52">EFTA - Tunisia FTA (2004)</relation>
+    <relation type="TERMINATED_BY_THIRD_TREATY" document-code="T2004-52">EFTA - Tunisia FTA (2004)</relation>
+    <relation type="IT_REPLACED_BY" document-code="T2012-10">Switzerland - Tunisia BIT (2012)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Treaty between the Swiss Confederation and the Tunisian Republic on the protection and encouragement of&nbsp;capital investments</p>
+    </title>
+    <preamble>
+      <p>The Swiss Confederation and the Republic of Tunisia,</p>
+      <p>Desiring to create favourable conditions for investment capital by nationals and companies of one of the two States in the territory of the State and other</p>
+      <p>Recognizing that a contractual protection of such investments is likely to stimulate private business initiative and will increase prosperity of both nations</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Investment as well as the property rights and interests belonging to nationals or companies, foundations, associations of one of the High Contracting Parties in the territory of the other will receive treatment which is fair and equitable and not less than that granted by each party to its own nationals.</p>
+      </div>
+      <div type="article" num="2">
+        <p>The High Contracting Parties undertake to authorise in using the possibilities offered by the regulations adopted pursuant to their existing legislation or any other more favourable legislation that may be adopted in the future,</p>
+        <p>- The transfer of the actual net profits, interest, dividends, royalties referring to natural or legal persons who are nationals of one of the two countries;</p>
+        <p>- The transfer of proceeds of the total or partial liquidation of investments approved by the country in which they are made;</p>
+        <p>- The transfer of an appropriate portion of the product of the work of nationals who are allowed to work in the territory of one or both of the High Contracting Parties.</p>
+      </div>
+      <div type="article" num="3">
+        <p>If a party or nationaliserait expropriate property rights or interests belonging to nationals or companies, foundations, associations of the other party or holding them to another measure of dispossession, it shall provide for the payment of adequate and effective compensation in accordance with international law. the amount of such compensation, which shall be fixed at the time of expropriation, nationalization or dispossession, other shall be paid without undue delay to the person entitled thereto. the amount of such compensation shall be transferred within a reasonable period of time. however, the measures of expropriation, nationalization or dispossession other shall not be discriminatory, nor contrary to a specific commitment.</p>
+      </div>
+      <div type="article" num="4">
+        <p>If any dispute should arise between the contracting parties concerning the interpretation or the implementation of the provisions of articles 1 to 3) and that the dispute cannot be settled within a period of six months in a satisfactory manner through diplomatic channels, it shall be submitted, at the request of either party to an arbitral tribunal of three members. each Party shall appoint an arbitrator. the two arbitrators appointed shall appoint the Umpire who shall be a national of a third State.</p>
+        <p>If a Party has not appointed its arbitrator and has not followed the invitation of the other party within two months of such appointment, the arbitrator shall be appointed upon the request of that Party, by the President of the International Court of Justice.</p>
+        <p>If the two arbitrators cannot reach an agreement within two months after their appointment, upon the appointment of the Umpire, the latter shall be appointed upon the request of either party by the President of the International Court of Justice.</p>
+        <p>If in the cases specified in paragraphs 2 and 3 of this article, the President of the International Court of Justice is prevented or if he is a national of either party, the appointment shall be made by the Vice-President. if the latter is prevented or if he is a national of either party, the appointment shall be made by the eldest member of the Court who is not a national of either party.</p>
+        <p>Unless the Parties decide otherwise, the tribunal shall determine its own procedure.</p>
+        <p>The decisions of the Tribunal shall be binding on the parties.</p>
+      </div>
+      <div type="article" num="5">
+        <p>The High Contracting Parties agree to conclude an agreement as soon as possible in order to create favourable conditions for private investment in both States and establish appropriate procedures for the promotion and protection of such investment.</p>
+      </div>
+      <div type="article" num="6">
+        <p>1. This Treaty shall be ratified; the exchange of instruments of ratification will take place as soon as possible in Tunis.</p>
+        <p>2. This Treaty shall enter into force one month after the exchange of instruments of ratification. it shall remain in force for a period of ten years and shall be extended indefinitely unless denounced in writing by one of the two Contracting Parties one year before its expiration. at the end of the period of ten years, this treaty may be denounced at any time, but it shall remain in force for a period of one year from the date of its termination.</p>
+        <p>3. In respect of investments made before the date of expiry, the present Treaty is still applicable for a period of ten years from the date of expiry.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Berne on 2 December 1961</p>
+      <p>Approved by the Federal Assembly on 12 June 19621</p>
+      <p>Entry into force this 19 January 1964</p>
+      <p>To the</p>
+      <p>Swiss Confederation:</p>
+      <p>(signed) Long</p>
+      <p>To the</p>
+      <p>The Republic of Tunisia:</p>
+      <p>(signed) Ben Salah</p>
+    </conclusion>
+  </main>
+</treaty>

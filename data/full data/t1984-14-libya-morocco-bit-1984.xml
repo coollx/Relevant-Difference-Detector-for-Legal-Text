@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Libya - Morocco BIT (1984)</name>
+    <code>T1984-14</code>
+    <partyisocode n="0">LBY</partyisocode>
+    <partyisocode n="1">MAR</partyisocode>
+    <date_signed>1984-01-25</date_signed>
+    <date_into_force>1993-09-18</date_into_force>
+    <date_terminated>2001-10-20</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ar</orig_language>
+    <translated>yes</translated>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>2401</docreference>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>ar</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{LBY,MAR}_2000-11-02.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TRANSLATED>yes</IT_TRANSLATED>
+    <relation type="IT_COEXISTS_WITH" document-code="T1990-68">Arab Maghreb Union Investment Agreement (1990)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_REPLACING" document-code="T2000-117">Libya - Morocco BIT (2000)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement Between the Kingdom of Morocco and the Socialist People's Libyan Arab Jamahiriya for the Encouragement and Guarantee of Investments</p>
+    </title>
+    <preamble>
+      <p>To achieve the goals of Arab economic cooperation, and the pursuit of the largest amount of investment of Arab funds in the Arab countries, the Kingdom of Morocco and the Socialist People's Libyan Arab Jamahiriya considered creating favorable conditions for investment in both countries on the grounds that these investments can be an effective tool in the development of the economies of both countries and the creation of Arab economic integration.</p>
+      <p>Desiring to develop the existing economic cooperation, have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>This agreement aims to set the general principles of cooperation between the two parties in the field of encouragement and guarantee of investment.</p>
+      </div>
+      <div type="article" num="2">
+        <p>To achieve the above objectives, the investment institutions of the Socialist People's Libyan Arab Jamahiriya configure and support resident companies in Morocco within the framework of this agreement and the Moroccan laws in force in this area.</p>
+      </div>
+      <div type="article" num="3">
+        <p>The companies mentioned and their branches are empowered to carry out all the necessary actions to achieve the above objectives in the fields of industry, mining, tourism, commerce, marine, real estate, finance, banking and other areas to be agreed upon between them.</p>
+      </div>
+      <div type="article" num="4">
+        <p>a. Investments that are accomplished within the framework of this agreement enjoy the upper limit for each privileges set forth in the investment laws.</p>
+        <p>b. Investments which are subject to a system of special agreements between the state and Libyan investors shall benefit from the privileges and encouragements commensurate with its size and kind after negotiation with the Moroccan government about them.</p>
+      </div>
+      <div type="article" num="5">
+        <p>The Kingdom of Morocco is committed to helping the Libyan investments in the framework of this agreement to achieve its objectives and in all cases must be treated not less favorable than the rest of similar investments, and undertakes to treat them at least the same treatment as any Arab or foreign investments may be granted special advantages by the State. These investments will automatically enjoy the same benefits and without need for any further action.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The net profit of the holding company that Libyan investors own at least 34% of its capital, generated from the income of movable values &#x200B;&#x200B;and proceeds of the contributions resulting from the distribution of profits of its subsidiaries, which bore the tax on professional earnings, is exempted from professional profit tax.</p>
+      </div>
+      <div type="article" num="7">
+        <p>The Moroccan government shall ensure to the Libyan investors the right to transfer the net profits, benefits and feedback dividends to investors or those obtained from the sale or from total or partial liquidation of investments, transfers are done in free currency and official prices prevailing the conversion day and as fast as allowed by the regular administrative procedures .</p>
+      </div>
+      <div type="article" num="8">
+        <p>The Moroccan government shall ensure all real estate, property investment and recurrent profit of Libyan institutions against all means of nationalization, expropriation or confiscation or non-judicial custody.</p>
+        <p>In the case of any action of this kind Moroccan government undertakes to pay a fair compensation and enable the Libyan investors to receive the compensation and transfer it in a free currency.</p>
+      </div>
+      <div type="article" num="9">
+        <p>Each of the parties of the agreement shall perform the settlement of any dispute or difference in respect to the application or interpretation of this Agreement, and in the case of failure to reach agreement, either party has the right to submit the dispute to an arbitration tribunal.</p>
+        <p>The arbitration tribunal is constituted an in each individual case as follows:</p>
+        <p>1. Each party shall appointed a member, and the two member shall choose their president, who must be a citizen of a third country, the appointment of the members must be done during a month and the president within two months from the date on which either party notifies the other party of its intention to submit the dispute to an arbitration tribunal.</p>
+        <p>In the case of the difference between the two members on choosing the president, then choosing this president of the arbitration tribunal upon a request of any of the parties to the Arab Institution for Investment Guarantee.</p>
+        <p>The arbitration tribunal issued its decisions upon majority of votes, and its decision shall be final and binding, each party shall bear the expenses of its member, and for the expenses of the President and the rest of the expenses the arbitration tribunal shall determine their distribution, also the arbitration tribunal shall determine its own procedural rules and shall decide about what is displayed to it during three months of the composition;</p>
+        <p>2. The Parties agree that any dispute between the Moroccan government and investment institutions is resolved through arbitration according to the procedures referred to above in the first paragraph of this agreement;</p>
+        <p>3. This Agreement shall remain in force unless one of the parties notify the other party in writing of its intention to terminate the agreement, and this applies a year after the date of the notice.</p>
+        <p>In the case of termination provisions of this Agreement shall remain in force on acceptable investments pursuant to this Agreement until the completion or liquidation of such investments.</p>
+      </div>
+      <div type="article" num="10">
+        <p>This agreement shall enter into force from the date of ratification by the procedures followed in the two countries</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in Rabat on 22 Rabi II 1404 AH / 1393 from of the death of the Prophet, in two originals in Arabic each has the same force.</p>
+      <p>For the Socialist People's Libyan Arab Jamahiriya:</p>
+      <p>Jadallah Azzouz Talhi</p>
+      <p>Secretary of the General Popular Committee.</p>
+      <p>For the Kingdom of Morocco:</p>
+      <p>Mohammed Karim Alamrani</p>
+      <p>First Minister</p>
+    </conclusion>
+  </main>
+</treaty>

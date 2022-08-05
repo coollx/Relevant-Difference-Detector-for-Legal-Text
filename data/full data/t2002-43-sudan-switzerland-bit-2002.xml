@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Sudan - Switzerland BIT (2002)</name>
+    <code>T2002-43</code>
+    <partyisocode n="0">CHE</partyisocode>
+    <partyisocode n="1">SDN</partyisocode>
+    <date_signed>2002-10-24</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>2968</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CHE,SDN}_2002-10-24.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACING" document-code="T1974-2">Sudan - Switzerland BIT (1974)</relation>
+  </meta>
+  <main/>
+</treaty>

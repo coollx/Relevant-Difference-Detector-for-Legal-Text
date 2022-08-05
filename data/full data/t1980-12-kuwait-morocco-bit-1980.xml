@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Kuwait - Morocco BIT (1980)</name>
+    <code>T1980-12</code>
+    <partyisocode n="0">KWT</partyisocode>
+    <partyisocode n="1">MAR</partyisocode>
+    <date_signed>1980-04-03</date_signed>
+    <date_into_force/>
+    <date_terminated>2001-05-07</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>2300</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{KWT,MAR}_1980-04-03.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACED_BY" document-code="T1999-120">Kuwait - Morocco BIT (1999)</relation>
+  </meta>
+  <main/>
+</treaty>

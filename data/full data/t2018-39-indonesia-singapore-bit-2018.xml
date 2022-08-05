@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Indonesia - Singapore BIT (2018)</name>
+    <code>T2018-39</code>
+    <partyisocode n="0">IDN</partyisocode>
+    <partyisocode n="1">SGP</partyisocode>
+    <date_signed>2018-10-11</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <comments/>
+    <source>https://www.mti.gov.sg/Newsroom/Press-Releases/2018/10/Singapore-and-Indonesia-sign-Bilateral-Investment-Treaty-to-promote-stronger-economic-ties-11Oct2018</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+  </meta>
+  <main/>
+</treaty>

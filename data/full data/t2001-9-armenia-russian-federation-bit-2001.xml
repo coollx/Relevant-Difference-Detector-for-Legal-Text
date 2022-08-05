@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Armenia - Russian Federation BIT (2001)</name>
+    <code>T2001-9</code>
+    <partyisocode n="0">ARM</partyisocode>
+    <partyisocode n="1">RUS</partyisocode>
+    <date_signed>2001-09-15</date_signed>
+    <date_into_force>2006-02-08</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ru</orig_language>
+    <termination_type/>
+    <docreference>190</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ARM,RUS}_2001-09-15.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>ru</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2014-24">Treaty on Eurasian Economic Union (2014)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE RUSSIAN FEDERATION AND THE GOVERNMENT OF THE REPUBLIC OF ARMENIA ON THE PROMOTION AND MUTUAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Russian Federation and the Government of the Republic of Armenia, hereinafter referred to as the Contracting Parties,</p>
+      <p>Desiring to create favorable conditions for investments by investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognizing that the promotion and reciprocal protection of investments under this Agreement will stimulate the flow of capital and promote the development of mutually beneficial trade-economic and scientific-technical cooperation,</p>
+      <p>We have agreed to the following:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement, the following definitions shall mean:</p>
+        <p>a)  "investor" (in respect of each of the Contracting</p>
+        <p>Parties):</p>
+        <p>Any natural person who is a citizen of that Contracting Party;</p>
+        <p>Any legal entity created or organized under the laws of that Contracting Party;</p>
+        <p>b)  "investment" - all kinds of assets, which are invested by the investor of one Contracting Party in the territory of the other Contracting Party in accordance with the latest legislation, and in particular:</p>
+        <p>Movable and immovable property;</p>
+        <p>Shares, stocks and other forms of participation in commercial capital</p>
+        <p>Organizations;</p>
+        <p>A claim on the funds invested to create economic value or that have an economic value and associated with an investment;</p>
+        <p>Exclusive rights to intellectual property (copyrights, patents, industrial designs, models, trademarks or service marks, technology, information having a commercial value, and know-how);</p>
+        <p>Right to engage in entrepreneurial activity, conferred by law or contract, including, in particular, related to the exploration, development, production and exploitation of natural resources.</p>
+        <p>No change in the form of investment does not affect their qualification as investments if such change does not contradict the legislation of the Contracting Party in whose territory the investments were made;</p>
+        <p>c)  "income" - money received from investments, and in particular, profits, dividends, interest, royalties and other fees;</p>
+        <p>d)  "territory of a Contracting Party" - the territory of the Russian Federation, as well as its exclusive economic zone and continental shelf, defined in accordance with the UN Law of the Sea Convention (1982) or the territory of the Republic of Armenia;</p>
+        <p>e)  "law of the Contracting Party" - laws and other normative legal acts of the Russian Federation or the laws and other normative legal acts of the Republic of Armenia.</p>
+      </div>
+      <div type="article" num="2" title="Investment protection">
+        <p>1.  Each Contracting Party shall endeavor to create favorable conditions for investors of the other Contracting Party to make investments in its territory and admit such investments in accordance with its legislation.</p>
+        <p>2.  Each Contracting Party shall ensure, in accordance with its legislation full protection on its territory investments of investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="Expropriation">
+        <p>1.  Investments of investors of one Contracting Party made in the territory of the other Contracting Party may not be subjected to compulsory withdrawal is tantamount to expropriation or nationalization (hereinafter referred to as - expropriation), except in cases where these measures are carried out in the public interest, subject to the order established in accordance with the legislation of the other Contracting Party, are not discriminatory and entail the payment of prompt, adequate and effective compensation.</p>
+        <p>2.  The compensation shall correspond to the market value of the expropriated investment calculated on the date when the official was aware of the actual or impending expropriation. Compensation shall be paid without delay in a freely convertible currency and freely translated from the territory of one Contracting Party in the territory of the other Contracting Party. Since expropriation until</p>
+        <p>Compensation in the amount of the compensation will bear interest at a commercial rate established on a market basis, but not less than six-month LIBOR for USD loans.</p>
+      </div>
+      <div type="article" num="4" title="Damages">
+        <p>Investors of one Contracting Party whose investments suffer losses in the territory of the other Contracting Party owing to war, civil unrest or other similar circumstances, provided in respect of restitution, indemnification, compensation or other settlement mode, the most favorable of those latter Contracting Party shall accord to investors a third country or to its own investors with respect to measures taken by it in connection with such damage.</p>
+      </div>
+      <div type="article" num="5" title="Transfer of payments">
+        <p>1.  Each Contracting Party shall guarantee to investors of the other Contracting Party, after fulfillment of all tax obligations, a free transfer abroad of payments in connection with the investments, and in particular:</p>
+        <p>a)  revenue;</p>
+        <p>b)  funds in repayment of loans and credits recognized by both Contracting Parties as investments, as well as the accrued interest;</p>
+        <p>c)  funds received in connection with the partial or total liquidation or sale of investments;</p>
+        <p>g)  the compensation provided for in Articles 3 and 4 of this Agreement;</p>
+        <p>d)  wages and other remuneration received</p>
+        <p>Investors and individuals, the other Contracting Party who are allowed to work in connection with an investment in the</p>
+        <p>Territory of the first Contracting Party.</p>
+        <p>2.  Transfers of payments are made without delay in a freely convertible currency at the rate applicable on the date of transfer in accordance with the currency legislation of the Contracting Party in whose territory the investments were made.</p>
+      </div>
+      <div type="article" num="6" title="Subrogation">
+        <p>Contracting Party or its designated agency, which made a payment to the investor on the basis of guarantees against non-commercial risks in connection with its investment in the territory of the other Contracting Party will be able to exercise by subrogation the right of the investor to the same extent as the investor. These rights shall be exercised in accordance with the legislation of the latter Contracting Party.</p>
+      </div>
+      <div type="article" num="7" title="Settlement of disputes between a contracting party and an investor of the other contracting party">
+        <p>1.  Disputes between one Contracting Party and an investor</p>
+        <p>The other Contracting Party arising in connection with an investment of an investor in the territory of the first Contracting Party, including disputes relating to the size, conditions, or order the payment of compensation in accordance with articles 3 and 4 of this Agreement, or order the transfer of payments provided for in Article 5 of this Agreement shall be settled as far as possible by negotiations.</p>
+        <p>2.  If the dispute can not be settled through negotiation within six months from the date of the request of any party to a dispute to resolve it through negotiations, it is at the option of the investor can be submitted to:</p>
+        <p>The competent court or tribunal of the Contracting Party in whose territory the investments were made, or</p>
+        <p>A court of arbitration ay Jos in accordance with the Arbitration Rules of the International Trade Law of the United Nations Commission (UNCITRAL), or</p>
+        <p>The International Centre for Settlement of Investment Disputes, established pursuant to the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, done at Washington, March 18, 1965, to resolve the dispute in accordance with the provisions of the Convention (provided that it has entered into force for both Contracting Parties) or in accordance with the Additional Facility rules of the International Centre for settlement of investment disputes (if the Convention has not entered into force for both or one of the Contracting Parties).</p>
+        <p>3.  The award shall be final and binding on both Parties to the dispute. Each Contracting Party undertakes to ensure the execution of such a decision in accordance with its legislation.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between the contracting parties">
+        <p>1.  Disputes between the Contracting Parties concerning the interpretation or application of this Agreement shall be settled through negotiations.</p>
+        <p>If in this way the dispute is not settled within six months from the beginning of negotiations, at the request of either Contracting Party, he referred to the arbitral tribunal.</p>
+        <p>2.  The arbitral tribunal shall be constituted for each individual case, for which each Contracting Party shall appoint one member of the arbitration tribunal within two months from the date of receipt of the notification of the arbitration proceedings. Then, these two members shall select a national of a third State, who on approval of the two Contracting Parties shall be appointed Chairman of the arbitral tribunal within a month from the date of appointment of the other two members.</p>
+        <p>3.  If within the period specified in paragraph 2 of this Article, the necessary appointments have not been made, in the absence of other agreement, either Contracting Party may invite the President of the International Court of Justice to make such appointments. If the chairman of the International Court of Justice is a national of either Contracting Party or is otherwise unable to discharge the said function, then make the necessary appointments invited the Deputy President of the International Court. If the deputy chairman of the International Court of Justice is also a national of either Contracting Party or is otherwise unable to discharge the said function, then make the necessary appointments</p>
+        <p>It offered to the next in seniority member of the International Court of Justice who is not a national of either Contracting Party.</p>
+        <p>4.  The arbitral tribunal shall render its decision by majority vote. This decision is final and binding on the Contracting Parties. Each Contracting Party shall bear the expenses related to the activities of its own appointed member of the tribunal and of its representation in the arbitration proceedings. The costs associated with the arbitration court Chairman and other expenses The Contracting Parties shall bear in equal shares. However, the Court may in its decision that one of the Contracting Parties shall bear a larger share of spending, and that decision will be binding on both Contracting Parties. The arbitral tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="9" title="Consultations">
+        <p>The Contracting Parties shall at the request of any of them, shall hold consultations on matters relating to the interpretation or application of this Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Application of the agreement">
+        <p>This Agreement shall apply to all investments made by investors of one Contracting Party in the territory of the other Contracting Party after its entry into force.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force and duration of the agreement">
+        <p>1.  Each Contracting Party shall notify the other Contracting Party of the completion of internal procedures necessary for the entry into force of this Agreement. This Agreement shall enter into force on the date of the last of the two notifications.</p>
+        <p>2.  This Agreement shall remain in force for a period of fifteen years. After this period it shall be automatically extended for successive five-year periods, unless either Contracting Party notifies the other Contracting Party at least twelve months prior to the expiry of the period of its intention to terminate this Agreement.</p>
+        <p>3.  This Agreement may be amended by mutual written consent of the Contracting Parties. Any amendment shall enter into force after each Contracting Party shall notify the other Contracting Party of the fulfillment of all internal procedures necessary for the entry into force of such amendment.</p>
+        <p>4.  With respect to investments made prior to the date of termination of this Agreement and covered by its action, the provisions of all other articles of this Agreement shall remain in force for a period of fifteen years after its termination date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Yerevan on 15 September 2001 in two copies, each in Russian and Armenian languages, both texts being equally authentic.</p>
+      <p>(Signatures)</p>
+    </conclusion>
+  </main>
+</treaty>

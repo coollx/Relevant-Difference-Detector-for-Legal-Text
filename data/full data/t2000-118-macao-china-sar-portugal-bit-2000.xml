@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Macao, China SAR - Portugal BIT (2000)</name>
+    <code>T2000-118</code>
+    <partyisocode n="0">MAC</partyisocode>
+    <partyisocode n="1">PRT</partyisocode>
+    <date_signed>2000-05-17</date_signed>
+    <date_into_force>2002-05-02</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">pt</orig_language>
+    <termination_type/>
+    <docreference>2439</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>pt</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{MAC,PRT}_2000-05-17.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_OVERLAP" document-code="T1992-70">EC - Macao Trade Agreement</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE MACAO SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE'S REPUBLIC OF CHINA ON THE RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Portuguese Republic and the Macao Special Administrative Region of the People's Republic of China, duly authorized by the Central People's Government of the People's Republic of China, hereinafter referred to as the Contracting Parties:</p>
+      <p>Encouraged by the desire to intensify economic cooperation and strengthen the links between the two Parties;</p>
+      <p>Desiring to create favorable conditions for investment by investors of one Contracting Party in the other Contracting Party;</p>
+      <p>Recognizing that the promotion and protection of investments under this Agreement will contribute to stimulating private initiative;</p>
+      <p>Agree as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The term "investment" shall comprise all kinds of assets and rights invested in the area of &#x200B;&#x200B;one Contracting Party by investors of the other Contracting Party, including in particular but not exclusively:</p>
+        <p>a) The right of ownership over furniture and real estate, as well as other rights in rem, such as mortgages, pledges, bonds and similar rights;</p>
+        <p>b) Shares, quotas, or other type of shareholding, obligations or other rights in the capital of companies and / or economic interests resulting from their activity;</p>
+        <p>c) Credit rights and any other benefits of economic value;</p>
+        <p>d) Intellectual property rights, such as copyrights, patents, industrial designs, trademarks, trade names and trade and industrial secrets;</p>
+        <p>e) Concessions granted by law, contract or administrative act of the competent public authority, including concessions for exploration, research and exploitation of natural resources.</p>
+        <p>Any change in the form of realization of investments shall not affect their qualification as investments, provided that such change is made in accordance with the laws and regulations of the Contracting Party in whose area the investments have been made.</p>
+        <p>The term area comprises:</p>
+        <p>a) With respect to the Portuguese Republic, the territory of that Contracting Party, as defined in its legislation, including the territorial sea and the exclusive economic zone, and where, according to the law and applicable international law, the Republic exercises sovereign power ;</p>
+        <p>b) With regard to the Macao Special Administrative Region of the People's Republic of China, the territory comprising the Macao peninsula and the islands of Taipa and Coloane.</p>
+        <p>3. The term "investor" means:</p>
+        <p>For the Portuguese Republic:</p>
+        <p>a) Natural persons having the nationality of that Contracting Party in accordance with their respective national laws; and</p>
+        <p>b) The legal persons, including companies, commercial companies or other companies or associations, having their headquarters in the area of &#x200B;&#x200B;this Contracting Party and are incorporated and operate in accordance with the law of this Contracting Party;</p>
+        <p>Concerning the Macao Special Administrative Region of the People's Republic of China:</p>
+        <p>a) Individuals who are holders of an identity card of a resident of the Macao Special Administrative Region without Portuguese nationality in accordance with the laws applied in the Macao Special Administrative Region; and</p>
+        <p>b) Legal persons, including commercial companies or other companies or associations, which have their headquarters in the area of &#x200B;&#x200B;this Contracting Party and are incorporated and operate under the law of this Contracting Party.</p>
+        <p>4 - Where, by virtue of the provisions of the preceding paragraph, a natural person is an investor of both Contracting Parties, the situation shall be resolved as follows:</p>
+        <p>a) It shall be deemed to be an investor only in the Contracting Party in which it has a permanent dwelling at its disposal. If he has permanent housing available to him in both Contracting Parties, he shall be deemed to be an investor only of the Contracting Party with which his personal and economic relations (center of vital interests) are closer;</p>
+        <p>b) If the Contracting Party in which the center of vital interests can not be determined or if it does not have permanent housing available to it in any of the Contracting Parties, it shall be deemed to be an investor only of the Contracting Party in which it habitually resides;</p>
+        <p>c) If you habitually stay in both Contracting Parties or if you do not habitually stay in any of them, you will be considered an investor only from Portugal, if you are a national;</p>
+        <p>d) If you are not a national of Portugal, the competent authorities of the Contracting Parties shall settle the case by mutual agreement.</p>
+        <p>5. The term "income" shall mean the amounts generated by investments over a given period, including, but not limited to, profits, dividends, interest, payments due on the use of intellectual property and other income relating to investments, For technical or management assistance.</p>
+        <p>If the investment income is reinvested in the area of &#x200B;&#x200B;the same Contracting Party, the income from that reinvestment shall be treated in the same way as the income from the initial investment.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and Protection of Investments">
+        <p>1. Both Contracting Parties shall promote and encourage, as far as possible, investments in their area by investors of the other Contracting Party, admitting such investments in accordance with their laws and regulations and granting them, in any case, treatment Fair and equitable.</p>
+        <p>2. Investments made by investors of one Contracting Party in the area of &#x200B;&#x200B;the other Contracting Party, in accordance with the legal provisions in force therein, shall enjoy full protection and security in that Contracting Party.</p>
+        <p>3. The Contracting Parties shall not subject the management, maintenance, use, enjoyment or disposal of the investments made in their area by investors of the other Contracting Party to unjustified, arbitrary or discriminatory measures.</p>
+      </div>
+      <div type="article" num="3" title="Treatment and Protection of Investments">
+        <p>1. Investments made by investors of one Contracting Party in the area of &#x200B;&#x200B;the other Contracting Party and their income shall not be treated less favorably than the investment by the latter in the investments and income of its own investors or investors Of any other State.</p>
+        <p>2. Both Contracting Parties shall grant to investors of the other Contracting Party, with respect to the management, maintenance, use, enjoyment or disposition of the investments made in their area, a fair and equitable treatment and not less favorable than that accorded to their own Investors of the other State.</p>
+        <p>3. The provisions of this Article shall not imply the granting by either Contracting Party to investors of the other Contracting Party of any treatment, preference or privilege which may be granted by virtue of:</p>
+        <p>a) Participation in free trade areas, customs unions or common markets, existing or to be created, or in other similar international agreements, including other forms of regional economic cooperation, to which one of the Contracting Parties has acceded or will accede; and</p>
+        <p>b) Bilateral or multilateral agreements, whether regional or not, of a wholly or partly fiscal nature.</p>
+        <p>4. The Contracting Parties consider that the provisions of Article 3 of this Agreement shall be without prejudice to the right of either Contracting Party to apply the relevant provisions of its tax law which establish, in accordance with their legislation, a distinction between taxpayers who do not Are in the same situation as regards their place of residence or the place where their capital is invested.</p>
+      </div>
+      <div type="article" num="4" title="Downloads">
+        <p>1. Both Contracting Parties shall, in accordance with their legislation, guarantee to the investors of the other Contracting Party the free transfer of amounts related to the investments, in particular, but not exclusively:</p>
+        <p>a) Of the capital and additional amounts required to carry out, maintain or expand investments;</p>
+        <p>b) Of the income defined in Article 1 (5) of this Agreement;</p>
+        <p>c) Of the amounts necessary for the servicing, repayment and amortization of loans recognized by both Contracting Parties as investments;</p>
+        <p>d) The proceeds from the sale or the total or partial liquidation of the investments;</p>
+        <p>e) Compensation or other payments provided for in Articles 5 and 6 of this Agreement;</p>
+        <p>f) Any preliminary payments which may have been made on behalf of the investor in accordance with Article 7 of this Agreement;</p>
+        <p>g) Of the salaries of natural persons authorized to work in connection with the investment in the area of &#x200B;&#x200B;the other Contracting Party.</p>
+        <p>2. Transfers referred to in this article shall be made without restriction or delay in convertible currency at the prevailing exchange rate applicable on the date of transfer.</p>
+        <p>3. For the purposes of this Article, a transfer shall be deemed to have taken place without delay where it is effected within the period normally required for completion of the requisite formalities, which may not exceed 30 days from the date of submission Of the transfer request.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>1. Investments made by investors of either Contracting Party in the territory of the other Contracting Party may not be expropriated or subject to other measures having equivalent effect to expropriation (hereinafter referred to as "expropriation"), except by law, in the interest Without discriminatory nature and with prompt compensation.</p>
+        <p>2- The compensation shall correspond to the market value of the expropriated investments on the date immediately prior to, as the case may be, when the expropriation occurs or at the time the future expropriation becomes public knowledge.</p>
+        <p>3- The compensation shall be paid without delay, shall bear interest at the normal bank rate from the date of the expropriation to the date of its liquidation and shall be effective, adequate and freely transferable.</p>
+        <p>4. The investor whose investments have been expropriated shall have the right, in accordance with the law of the Contracting Party in whose area the assets have been expropriated, to the review of his case, in judicial or other proceedings, and to the evaluation of his investments according to With the principles defined in this article.</p>
+      </div>
+      <div type="article" num="6" title="Compensation for Losses">
+        <p>1. Investors of one Contracting Party who suffer loss of investment in the area of &#x200B;&#x200B;the other Contracting Party as a result of war or other armed conflict, revolution, national state of emergency or other events considered equivalent by international law shall receive Contracting Party shall be subject to treatment no less favorable than that accorded to its own investors or to investors of another State, whichever is the more favorable, in respect of restitution, compensation or other relevant factors.</p>
+        <p>2- The compensations provided for in the preceding paragraph shall be transferable, in convertible currency, freely and without delay.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>In the case of one of the Contracting Parties, or an entity designated by it, make payments to one of its investors by virtue of a guarantee given to an investment made in the area of &#x200B;&#x200B;the other Contracting Party, the former shall be subrogated to the rights And shares of that investor, being able to exercise them in the same terms and conditions as the original holder.</p>
+      </div>
+      <div type="article" num="8" title="Disputes between One Contracting Party and an Investor of the other Contracting Party">
+        <p>1- Disputes between an investor of one Contracting Party and the other Contracting Party relating to an investment of the former in the area of &#x200B;&#x200B;the second shall be settled amicably through negotiations.</p>
+        <p>2. If the dispute can not be resolved in accordance with the provisions of the preceding paragraph within a period of six months from the date on which one of the parties lodges it in writing, the investor may choose to submit the dispute to one of the following instances :</p>
+        <p>a) The competent courts of the Contracting Party in whose area the investment is located; or</p>
+        <p>b) An ad hoc arbitral tribunal, established in accordance with the United Nations Commission on Trade and Development (UNCTAD) arbitration rules then in force.</p>
+        <p>3- The decision to submit the dispute to one of the procedures referred to in the previous number is irreversible.</p>
+        <p>4. The judgment shall be binding on both parties in accordance with the domestic law of the Contracting Party in which the investment in question is situated and shall not be subject to any remedy other than those provided for in domestic law, in the case Of paragraph 2 (a), or in the said arbitration rules.</p>
+      </div>
+      <div type="article" num="9" title="Disputes between the Contracting Parties">
+        <p>1. Disputes arising between the Contracting Parties on the interpretation or application of this Agreement shall, as far as possible, be settled amicably through negotiation.</p>
+        <p>2. If the Contracting Parties fail to reach an agreement within six months after the start of negotiations, the dispute may be referred to any entity agreed to by the two parties or, at the request of either party, to an ad hoc arbitral tribunal composed of three arbitrators and Established in terms of the following numbers.</p>
+        <p>3. Each Contracting Party shall appoint an arbitrator and the latter shall propose by agreement a third party as president, who shall be a national of a State which may be considered neutral in relation to the dispute and which shall be jointly appointed by both Contracting Parties.</p>
+        <p>4 - The president of the court can not have Portuguese or Chinese nationality nor the status of resident of Macao.</p>
+        <p>5. The first two arbitrators shall be appointed within two months and the chairman within three months of the date on which either Contracting Party has notified the other in writing of its intention to refer the dispute to an arbitral tribunal.</p>
+        <p>6. If the periods set out in the preceding paragraph are not observed, either of the Contracting Parties may, in the absence of any other agreement, request the President of the International Court of Justice to make the necessary appointments in person.</p>
+        <p>7 - If the President of the International Court of Justice is a national of a State which can not be considered neutral in relation to the dispute, the appointments shall be made by the Vice-President, and if he is also impeded by the same reason, appointments shall Court to follow in the hierarchy.</p>
+        <p>8. The arbitral tribunal shall decide by majority vote and its decisions shall be final and binding on both Contracting Parties.</p>
+        <p>9- Each Contracting Party shall bear the costs of the respective arbitrator and of the respective representation in the proceedings before the court, both of which shall bear the same expenses as the other expenses, including those of the president of the arbitral tribunal and, if applicable, those of the arbitrator. President or Vice-President of the International Court of Justice.</p>
+        <p>10- The arbitral tribunal may, however, decide on a distribution of expenses other than that established in the previous number.</p>
+        <p>11 - The arbitral tribunal shall define the limits of its jurisdiction and its own rules of procedure in all cases not regulated in this Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Application of other Rules">
+        <p>1. Any provisions of the internal law of the Contracting Parties and of the international conventions in force between the two Contracting Parties which establish a regime, general or special, more favorable to investments made by investors of the other Contracting Party shall prevail over this Agreement.</p>
+        <p>2. The provisions of this Agreement shall not relieve the Contracting Parties from the performance of other obligations not included therein which have been or will be assumed in respect of investments made in their area by investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="11" title="Application of the Agreement">
+        <p>1. This Agreement shall apply to all investments made before or after their entry into force by investors of one Contracting Party in the area of &#x200B;&#x200B;the other Contracting Party in accordance with their respective legal provisions.</p>
+        <p>2- Disagreements relating to investments made prior to the entry into force of this Agreement shall be excepted from the provisions of the preceding paragraph.</p>
+      </div>
+      <div type="article" num="12" title="Inquiries">
+        <p>1. The representatives of the Contracting Parties shall, whenever necessary, hold meetings on any matter relating to the interpretation and application of this Agreement.</p>
+        <p>2 - Either Contracting Party may propose to the other the meetings and consultations provided for in the preceding paragraph, and the requested Contracting Party shall take the proposal into consideration and provide an appropriate opportunity to do so.</p>
+      </div>
+      <div type="article" num="13" title="Entry Into Force and Duration">
+        <p>1- This Agreement shall enter into force 30 days after the date on which both Parties have notified each other in writing of compliance with the legal procedures required for this purpose.</p>
+        <p>2- The Agreement shall remain in force for a period of 10 years and shall be automatically renewed for the same periods unless terminated in writing by either Contracting Party at least 12 months before the end of the period of 10 Years.</p>
+        <p>3. Upon termination of this Agreement by denunciation of one of the Contracting Parties, the provisions of Articles 11 to 12 shall remain in force for investments already made for a period of 10 years from the date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in duplicate, in Lisbon, this 17th day of May of the year 2000, in the Portuguese and Chinese languages, both texts being equally authentic.</p>
+    </conclusion>
+  </main>
+</treaty>

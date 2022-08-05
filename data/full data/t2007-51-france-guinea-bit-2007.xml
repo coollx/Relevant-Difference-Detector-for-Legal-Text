@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>France - Guinea BIT (2007)</name>
+    <code>T2007-51</code>
+    <partyisocode n="0">FRA</partyisocode>
+    <partyisocode n="1">GIN</partyisocode>
+    <date_signed>2007-07-10</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>3668</docreference>
+    <comments>text not in UNCTAD</comments>
+    <source>http://invest.gov.gn</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{FRA,GIN}_2007-07-10.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the Republic of Guinea and the Government of the French Republic on the Reciprocal Promotion and Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Guinea and the Government of the French Republic, hereinafter referred to as "the. Contracting Parties ",</p>
+      <p>Desiring to strengthen economic cooperation between the two States and to create favorable conditions for Guinean investments in France and French investments in Guinea,</p>
+      <p>Persuaded that the encouragement and protection of these investments is likely to stimulate the transfer of capital and technology between the two countries, in the interest of their economic development,</p>
+      <p>Have agreed on the following provisions:</p>
+    </preamble>
+    <body/>
+  </main>
+</treaty>

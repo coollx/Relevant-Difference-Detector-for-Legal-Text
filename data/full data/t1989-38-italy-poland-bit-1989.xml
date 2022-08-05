@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Italy - Poland BIT (1989)</name>
+    <code>T1989-38</code>
+    <partyisocode n="0">ITA</partyisocode>
+    <partyisocode n="1">POL</partyisocode>
+    <date_signed>1989-05-10</date_signed>
+    <date_into_force>1993-01-09</date_into_force>
+    <date_terminated>2013-01-08</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">it</orig_language>
+    <termination_type>Terminated by consent</termination_type>
+    <docreference>2113</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Terminated by consent</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{ITA,POL}_1989-05-10.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>it</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE ITALIAN REPUBLIC AND THE PEOPLE'S REPUBLIC OF POLAND ON THE PROMOTION AND PROTECTION OF INVESTMENTS.</p>
+    </title>
+    <preamble>
+      <p>The Italian Republic and the People's Republic of Poland (hereafter referred to as Contracting Parties),</p>
+      <p>Wishing to create favorable conditions for greater economic cooperation between the two States and especially for capital investments by investors of a Contracting Party in the territory of the other Contracting Party and,</p>
+      <p>Recognizing that the encouragement and mutual protection of such investments will help to stimulate entrepreneurial initiatives and develop economic relations between the two Contracting Parties,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. "Investment" means any type of invested asset linked to an economic activity from 1 July 1986 by an investor of a Contracting Party in the territory of the other Contracting Party in accordance with the laws and regulations of that Contracting Party. Without limiting the generality of the foregoing, the term "investment" includes:</p>
+        <p>a) Movable and immovable property, as well as any other property rights in rem, mortgages, pledges, usufruct and similar rights; remit, mortgages, pledges, usufruct and similar rights;</p>
+        <p>b) Shares, shareholdings and corporate bonds or other types of participation in the Company;</p>
+        <p>c) Rights on sums of money invested or any other right for commitments with economic value relating to the investment;</p>
+        <p>d) Copyright, trademarks, patents, industrial designs and other intellectual and industrial property rights, know-how, commercial secrets, trade names and goodwill;</p>
+        <p>e) Any rights conferred by law and any administrative measure including licenses and concessions having the economic value necessary for carrying out an economic activity where provided for by law;</p>
+        <p>2. "Investor" means any natural or legal person of a Contracting Party who invests in the territory of the other Contracting Party.</p>
+        <p>3. "Natural person" means, for each Contracting Party, a natural person having the nationality of that State and residence in accordance with the law of that State, which is the currency of the Italian Party.</p>
+        <p>4. "Legal person" means, with reference to each Contracting Party, any entity having its seat in one of the Contracting Parties in accordance with national law and recognized as such by a legal person, such as a public entity, a company of persons and capital of law Public or private and stable organizations, regardless of whether their liability is limited or not.</p>
+        <p>5. "Income" means the sums received from an investment, including, but not limited to, profits, interest, capital gains, dividends, royalties or other current income.</p>
+        <p>6. Territory means the area within the land borders and also the maritime areas, the land and the subsoil on which the Contracting Parties exercise, under international law, sovereignty, economic or jurisdictional rights.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>1. Each Contracting Party shall encourage investors of the other Contracting Party to make investments in their territory and, in the exercise of the powers conferred by their laws, shall authorize such investments.</p>
+        <p>2. Each Contracting Party shall always ensure fair and equitable treatment to investors of the other Contracting Party. Each Contracting Party shall ensure that the management, maintenance, use, enjoyment, transfer or transformation of investments made in its territory by investors of the other Contracting Party shall in no way be affected by unjustified or discriminatory measures.</p>
+      </div>
+      <div type="article" num="3" title="Most favored country clause">
+        <p>1. Each Contracting Party, within its territory, shall accord to investments made and investors 'income from the other Contracting Party a treatment no less favorable than that reserved for investments made and third party investors' income.</p>
+        <p>2. Each Contracting Party shall treat in its territory the activities connected with the investments of investors of the other Contracting Party in a manner not less favorable than the activities connected with the investments of investors of any third State.</p>
+        <p>3 The treatment referred to in paragraphs 1 and 2 of this Article does not relate to the privileges which one of the Contracting Parties grants to third-country investors on the basis of: paragraphs 1 and 2 of this Article does not refer to the privileges that one of the Contracting Parties grants To third-country investors on the basis of:</p>
+        <p>a) Membership of the Customs Union, Common Market, Free Trade Zone, Organization of Mutual Economic Assistance;</p>
+        <p>b) Agreements aimed at avoiding double taxation with third countries;</p>
+        <p>c) Agreements on cross-border trade facilitation concluded with third countries.</p>
+      </div>
+      <div type="article" num="4" title="Compensation">
+        <p>Where investors in one of the two Contracting Parties are liable for damage or loss in their investments in the territory of the other Party, due to war, other armed conflicts, an emergency or other similar events, they shall receive adequate compensation Damages or losses suffered. Such payments will be freely transferable without undue delay.</p>
+        <p>Investors of one of the Contracting Parties shall be treated no less favorably than third-country investors.</p>
+      </div>
+      <div type="article" num="5" title="Nationalization or espionage">
+        <p>1. Investment by investors of one of the Contracting Parties and the proceeds of the investments themselves shall not be in the territory of the other Contracting Party expropriated, nationalized or subject to measures having equivalent effect, unless this is done in the public interest on the basis of procedures Compliant with the law and against adequate compensation. Such compensation shall be equivalent to the value of the investment immediately prior to the moment in which the expropriation, in fact or intentionally, is publicly known.</p>
+        <p>The payment of the indemnity shall be without undue delay and in any event not later than three months after the date of entry into force of expropriation, nationalization or other measures having equivalent effect. If within three months the payment has not taken place, the compensation will include interest calculated at LIBOR for the period from the beginning of the fourth month until the moment of the actual payment.</p>
+        <p>2. The investor is entitled to request the competent authorities to determine the value of the compensation due by the Contracting Party in whose territory the measures referred to in point 1 have been carried out, as well as to propose action before the ordinary magistrate or an International Arbitration Tribunal In accordance with Article 9 of this Agreement, point 1, as well as to propose action before the ordinary judiciary or an International Arbitration Tribunal in accordance with Article 9 of this Agreement.</p>
+      </div>
+      <div type="article" num="6" title="Transfers">
+        <p>1. Each Contracting Party guarantees to investors of the other Contracting Party, after all tax obligations have been fulfilled, without undue delay, the free transfer in convertible currency of investment maturities and in particular:</p>
+        <p>a) Additional capital and allowances for maintaining and increasing investment;</p>
+        <p>b) Income;</p>
+        <p>c) Repayment of investment credits;</p>
+        <p>d) Revenues from a total or partial sale of equity investments or from total or partial liquidation of the investment;</p>
+        <p>e) Remuneration paid in convertible currency and perceived by the nationals of the other Contracting Party in the context of work contracts relating to an investment made in its territory, to the extent and in the manner prescribed by its national laws and regulations.</p>
+        <p>2. The guarantees referred to in paragraph 1 of this Article shall be no less favorable than those accorded to investors of non-member States, taking into account Article 3 (3) of this Agreement. Point 1 of this Article shall be no less favorable than those accorded to investors of Third countries, having regard to Article 3 (3) of this Agreement.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>In the event that one of the two Contracting Parties has undertaken, in favor of one of its investors, payments due to an insurance guarantee granted for non-commercial risks relating to an investment made in the territory of the other Contracting Party, the latter - under A reserve of opposition to the reciprocal right of repetition of taxes, taxes and contributions not paid and due - it will accept the surrogation of the investor's rights up to the full amount of the guarantee granted.</p>
+        <p>For transfers effected as a result of such substitution, Articles 4, 5 and 6 of this Agreement shall respectively apply.</p>
+      </div>
+      <div type="article" num="8" title="Transfer mode">
+        <p>The transfers referred to in Articles 4, 5, 6 and 7 shall be made in currency convertible to the exchange rate applicable on the date of the transfer in accordance with the rules in force in that Contracting Party in whose territory the investment was made.</p>
+      </div>
+      <div type="article" num="9" title="Dispute settlement arrangements between investors and contracts parties">
+        <p>1. Disputes between investors of one of the Contracting Parties and the other Contracting Party with regard to compensation referred to in Article 5 of this Agreement that have not been resolved within three months of the date of the opening of the dispute shall, at the request of one of the Parties In the dispute itself, subject to the jurisdiction of the ordinary judiciary or an International Arbitration Tribunal. Article 5 of this Agreement which has not been resolved within three months from the date of the opening of the dispute shall, at the request of one of the Parties to the dispute, Jurisdiction of the ordinary judiciary or of an International Arbitration Tribunal.</p>
+        <p>2. If the dispute is submitted to International Arbitration, interested parties may alternatively:</p>
+        <p>a) Resort to the "International Settlement of Investment Controversy" by applying the provisions of the Washington Convention of 18 March 1965 on the "Composition of Investment Disputes between States and Citizens of Other States", if Poland should accede to the Convention.</p>
+        <p>b) Resort to an International Referee or an Ad hoc Arbitration Tribunal on the basis of:</p>
+        <p>I.- Consensual procedure agreed between the parties to the dispute;</p>
+        <p>II.- Appeal to an Arbitral Tribunal made up in accordance with the arbitration rules adopted by the United Nations Commission on International Business Law;</p>
+        <p>3.- If, within three months of the date on which the dispute is opened, the parties have not reached an agreement on the procedures or procedures of its composition, the parties shall initiate a second arbitration on the arbitration rules in force by the United Nations Commission on International Business Law . However, parties to the dispute may agree, in writing, with procedures or arrangements other than those set out above.</p>
+      </div>
+      <div type="article" num="10" title="Disputes between the contracting parties">
+        <p>1. Disputes between the Contracting Parties concerning the interpretation and application of this Agreement shall, as far as possible, be made up of diplomatic channels.</p>
+        <p>2. In the event that such disputes have not been made within three months of the date on which either of the Contracting Parties notified them in writing, they shall, at the request of one of the two Contracting Parties concerned, be subject to the jurisdiction of an ad hoc Arbitral Tribunal In accordance with the provisions of this Article.</p>
+        <p>3. The Arbitral Tribunal shall be constituted for each individual question as follows: within two months from the receipt of the request for arbitration, each of the Contracting Parties shall appoint a member of the Tribunal. The two appointed members of the Tribunal shall subsequently be elected by a third-country national, who shall be the President of the Tribunal after the two Contracting Parties have approved them.</p>
+        <p>The President shall be appointed within three months of the date of the appointment of the other two members of the Tribunal.</p>
+        <p>4. If, within the time limit referred to in paragraph 3 of this Article, appointments have not been made, each of the two Contracting Parties may, in the absence of other agreements, request the appointment of the President of the International Court of Justice. Where such a person is a national of either Contracting Party or for any other reason he or she is not able to perform such a function, the Vice President of the Court shall be appointed to be appointed. If the Vice President is a citizen of either of the two Contracting Parties or for any other cause, it is not possible for him to perform such a function, the senior member of the International Court of Justice who is not a citizen of either Party shall be invited to do so. Paragraph 3 of this Article, appointments shall not be made, each of the two Contracting Parties may, in the absence of other agreements, request the appointment of the President of the International Court of Justice. Where such a person is a national of either Contracting Party or for any other reason he or she is not able to perform such a function, the Vice President of the Court shall be appointed to be appointed. If the Vice President is a citizen of either of the two Contracting Parties or for any other cause, it is not possible for him to perform such a function, the senior member of the International Court of Justice who is not a citizen of either Party shall be invited to do so.</p>
+        <p>5. The Arbitral Tribunal shall decide by majority vote and its decisions shall be binding on the two Contracting Parties. Each of the two Contracting Parties shall bear the costs of their arbitrator and those for his participation in the arbitration proceedings. The expenses for the President and the remaining expenses shall be borne by the two Parties equally. The Court of First Instance may, however, differ from such expenses and that its decision will be binding on the two Contracting Parties. The Arbitral Tribunal will establish its own procedures.</p>
+      </div>
+      <div type="article" num="11" title="Relations between governments">
+        <p>The provisions of this Agreement shall be applied irrespective of the existence of diplomatic or consular relations between the Contracting Parties.</p>
+      </div>
+      <div type="article" num="12" title="Application of other standards">
+        <p>Where the treatment provided by a Contracting Party to investors of the other Contracting Party in accordance with its laws, regulations or other specific provisions or contracts is more favorable than that provided for in this Agreement, the most favorable treatment shall be applied .</p>
+      </div>
+      <div type="article" num="13" title="Entry into force">
+        <p>This Agreement is subject to ratification and will enter into force 30 days after the date of the exchange of the instruments of ratification.</p>
+      </div>
+      <div type="article" num="14" title="Duration and deadline">
+        <p>1. This Agreement shall remain in force for a period of ten years and shall remain in force for a further period of five years unless one of the two Parties denies it in writing one year before its expiry or expiration of the subsequent periods Five years.</p>
+        <p>2. For investments made prior to the expiration of this Agreement, the provisions of Articles 1 to 12 shall remain in force for a further five years from the date of expiration of this Agreement. Articles 1 to 12 shall remain in force for a further five years From the date of expiration of this Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>FOR THE ITALIAN REPUBLIC</p>
+      <p>FOR THE POPULAR REPUBLIC OF POLAND ITS DELEGATE OF THE STATE COUNCIL</p>
+    </conclusion>
+  </main>
+</treaty>

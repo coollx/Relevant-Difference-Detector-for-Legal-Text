@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>France - Singapore BIT (1975)</name>
+    <code>T1975-4</code>
+    <partyisocode n="0">FRA</partyisocode>
+    <partyisocode n="1">SGP</partyisocode>
+    <date_signed>1975-09-08</date_signed>
+    <date_into_force>1976-10-18</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>1608</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{FRA,SGP}_1975-09-08.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the French Republic and the Government of the Republic of Singapore on the Promotion and Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the French Republic and the Government of the Republic of Singapore,</p>
+      <p>Desiring to create favourable conditions in order to increase the economic cooperation between the two countries and in particular the investments of nationals and companies of one State in the territory of another State.</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The term "Investment" means assets of every kind, including but not limited to:</p>
+        <p>a) Movable and immovable property as well as all other real rights such as mortgages, liens, sureties, usufruct and similar rights;</p>
+        <p>b) Stocks, shares, debentures and other kinds of interests in companies;</p>
+        <p>c) Claims and rights to any performance having an economic value;</p>
+        <p>d) Copyrights, industrial property rights, technical processes, trade names and goodwill; and</p>
+        <p>e) Industrial concessions granted by law or under contract, including concessions to search for, culture, extract or exploit natural resources.</p>
+        <p>Any alteration of the form in which assets are invested shall be permitted, provided that such change is not contrary to the approvals granted to the originally invested assets.</p>
+        <p>2. The term "national" means:</p>
+        <p>a) As regards the French Republic, persons who, according to its domestic legislation, have French nationality;</p>
+        <p>b) In respect of the Republic of Singapore, persons who are nationals of the Republic within the meaning of the Constitution of the Republic of Singapore.</p>
+        <p>3. The term "companies" means:</p>
+        <p>a) As regards the French Republic, all legal persons incorporated in France in accordance with its domestic law and having their headquarters in France;</p>
+        <p>b) In respect of the Republic of Singapore, all companies, corporations or associations incorporated or constituted in accordance with the legislation in force in the Republic of Singapore.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Investments of nationals or companies of each Contracting Party shall at all times fair and equitable treatment and they shall be accorded protection and security in the territory of the other party.</p>
+        <p>Investors of either Contracting Party in the territory of the other party shall be subject to a treatment no less favourable than that accorded to investments of nationals or companies of the most favoured of third States.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Each Contracting Party shall in its territory to nationals or companies of the other contracting party as regards their investments and activities associated with such investments, including the management, use and enjoyment, treatment no less favourable than that accorded to nationals or companies of the most favoured State.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1. The Contracting Parties shall not take any measures to expropriate or nationalize or any other measures that dispossess directly or indirectly to nationals or companies of one of the Contracting Parties of their investments in the territory of the other party except for public purposes, and in which case in a non-discriminatory manner and on payment of compensation.</p>
+        <p>2. Such compensation shall represent the market value of the assets in question from the date of expropriation, nationalization or dispossession other; it shall be paid without undue delay and be freely transferable.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party shall guarantee to nationals or companies of the other party with an interest in the investments made within its territory, the free transfer of:</p>
+        <p>a) Income from investments, including the interests, capital gains, profits, dividends, royalties and fees;</p>
+        <p>b) Payments made for the reimbursement of loans contracted regularly;</p>
+        <p>c) The proceeds of the total or partial liquidation of an investment approved;</p>
+        <p>d) The compensation paid under article 4 above;</p>
+        <p>e) An appropriate portion of the income of nationals of each Contracting Party who have been authorised to work in the territory of the other Party in respect of an authorised investment.</p>
+        <p>The transfers referred to in the preceding paragraphs shall be effected without delay at the market rate of exchange applicable on the date of transfer or, failing that, at the official rate of exchange between the two currencies.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The Contracting Parties shall grant the right to an investor of either party to initiate arbitration proceedings before the International Centre for Settlement of Investment Disputes, if a dispute between the investor and the Contracting Party in whose territory the investment is made is not settled within a period of three months.</p>
+      </div>
+      <div type="article" num="7">
+        <p>1. If either Contracting Party undertakes under a guarantee it has accorded within the framework of this Agreement, payments to its own nationals or companies, the other party acknowledges that the first Contracting Party is entitled to exercise and enforce, by virtue of the subrogation, the rights of its own nationals or companies.</p>
+        <p>2. Any such payment made by one Contracting Party to its nationals or companies under an indemnity, shall be without prejudice to the right of nationals or companies to engage in proceedings before the International Centre for the Settlement of Disputes with respect to investments in accordance with article 6, or the right of such nationals or companies to continue the proceedings before the Centre until the resolution of the dispute.</p>
+      </div>
+      <div type="article" num="8">
+        <p>The provisions of this Agreement relating to the implementation of treatment no less favourable than that accorded to nationals or companies of the most favoured State, shall not be construed as obliging either Contracting Party to extend to nationals or companies of the other party the benefit of any treatment, preference or privilege which it may grant under regional arrangements for commercial, customs, tariff or monetary purposes.</p>
+      </div>
+      <div type="article" num="9">
+        <p>The provisions of this Agreement shall apply only to investments made before or after the entry into force of this Agreement if they have been approved in writing by the Contracting Parties in whose territories such investments have been or will be made.</p>
+      </div>
+      <div type="article" num="10">
+        <p>1. Disputes between the Contracting Parties concerning the interpretation or application of this agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>2. If a dispute between the Contracting Parties cannot be settled in this way, it shall be submitted, at the request of either contracting party to an arbitral tribunal.</p>
+        <p>3. The arbitral tribunal shall be constituted for each individual case in the following way:</p>
+        <p>Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the Tribunal. The two members shall then select a national of a third State who shall be appointed Chairman of the Tribunal, subject to the agreement of both contracting parties. The Chairman shall be appointed within two months of the date of appointment of the other two members.</p>
+        <p>4. If the necessary appointments have not been made within the periods specified in paragraph 3 of this article, either Contracting Party may, in the absence of any other agreement, invite the Secretary General of the United Nations to make the necessary appointments.</p>
+        <p>If the Secretary-General is a national of either Contracting Party or if he is otherwise prevented from discharging his or her duties, the President of the International Bank for Reconstruction and Development shall be invited to make the necessary appointments.</p>
+        <p>The Contracting Parties may agree in advance to appoint for a period of five years and may be reappointed, a person who, in the event of a dispute, will serve as Chairman of the arbitral tribunal.</p>
+        <p>5. The arbitral tribunal shall determine its own rules of procedure.</p>
+        <p>6. The decision of the arbitral tribunal shall be final and binding.</p>
+      </div>
+      <div type="article" num="11">
+        <p>Each Contracting Party shall notify the other of the completion of the internal procedures required for the entry into force of this Agreement. This Agreement shall enter into force on the date of the last notification.</p>
+        <p>This agreement is concluded for a period of ten years. It shall be renewed for a period of ten years, tacitly renewed, unless one of the parties made through the diplomatic channels no later than six months prior to the expiry of each period.</p>
+      </div>
+      <div type="article" num="12">
+        <p>On expiry of the period of validity of the present agreement over investments that this agreement was in force will continue to benefit from the protection of its provisions for a further period of twenty years.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement.</p>
+      <p>For the Government of the French Republic:</p>
+      <p>J.-P. FOURCADE</p>
+      <p>For the Government of the Republic of Singapore:</p>
+      <p>HON SUI SEN</p>
+    </conclusion>
+  </main>
+</treaty>

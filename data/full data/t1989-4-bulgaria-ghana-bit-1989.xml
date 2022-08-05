@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Bulgaria - Ghana BIT (1989)</name>
+    <code>T1989-4</code>
+    <partyisocode n="0">BGR</partyisocode>
+    <partyisocode n="1">GHA</partyisocode>
+    <date_signed>1989-10-20</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>675</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BGR,GHA}_1989-10-20.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE PEOPLE'S REPUBLIC OF BULGARIA AND THE GOVERNMENT OF THE REPUBLIC OF GHANA CONCERNING THE MUTUAL PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble/>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement,</p>
+        <p>1. The term "investments" means property values and rights made as investment in accordance with the laws and regulations of the Contracting Party accepting the investment in its territory, including mainly:</p>
+        <p>A) Property rights and other real rights;</p>
+        <p>B) Shares in companies or other forms of interest in such companies;</p>
+        <p>C) A claim to money or to any performance having an economic value;</p>
+        <p>D) Copyrights, industrial property rights (such as patents, licences, trade marks and names), technological process, know how and good will.</p>
+        <p>2. The term "investors" means:</p>
+        <p>In respect of The People's Republic of Bulgaria; A) Juridical persons constituted in compliance with the Bulgarian legislation, having their seat in the territory of the People's Republic of Bulgaria;</p>
+        <p>B) Natural persons who, in compliance with the Bulgarian legislation, are nationals of the People's republic of Bulgaria and inasmuch as they are authorized to act in their capacity of investors in compliance with the Bulgarian law.</p>
+        <p>In respect of the Republic of Ghana: A) Natural persons deriving their status as Ghanaian nationals from the law in force in the Republic of Ghana;</p>
+        <p>B) State corporations and agencies and companies registered under the laws of Ghana which invest or trade abroad.</p>
+        <p>3. The term "returns" means the amounts yielded by investment, such as profits, dividends, interests or other legitimate income.</p>
+        <p>4. The term "territory" means the state territory of the People's Republic of Bulgaria and the Republic of Ghana, as well as the maritime areas adjacent to the coast of the state concerned to the extent to which that state may exercise sovereignty, sovereign rights or jurisdiction in those areas according to international law.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>1. Each Contracting Party shall encourage investors of the other contracting party to make investments in its territory and admit such investments in accordance with its laws and regulations.</p>
+        <p>2. Investments made in accordance with the laws and regulations of the Contracting Party in the territory of which they are made and the returns from such investments, shall enjoy the protection of the present agreement.</p>
+        <p>3. In case of reinvestment of returns from the investments, these reinvestments and their returns will enjoy the same protection as the initial investments.</p>
+      </div>
+      <div type="article" num="3" title="Most favoured nation treatment">
+        <p>1. Investments and activities associated with investments of investors of either contracting party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party.</p>
+        <p>2. The treatment and protection referred to in paragraph 1 of this Article shall not be less favourable than that accorded to investments and activities associated with such investments of investors of any third state.</p>
+        <p>3. The treatment and protection as mentioned in paragraphs 1 and 2 of this Article shall not include any preferential treatment accorded by the other contracting party to investments of investors of a third state based on customs union, free trade zone, economic union, agreement relating to avoidance of double taxation or for facilitating frontier trade.</p>
+      </div>
+      <div type="article" num="4" title="Expropriation and compensation of losses">
+        <p>1. Either Contracting Party may, for public interest, expropriate or nationalize (hereinafter refered to as "expropriation") investment of investors of the other Contracting Party in its territory, but subject to the following conditions;</p>
+        <p>A) Under domestic legal procedure;</p>
+        <p>B) Without discrimination;</p>
+        <p>C) Against compensation,</p>
+        <p>2. The compensation mentioned in Paragraph 1, (C) of this Article shall be equivalent to the value of the expropriated investments at the time when expropriation is proclaimed, be convertible and freely transferable, the compensation shall be paid without unreasonable delay,</p>
+        <p>3. If an investor considers the expropriation mentioned in Paragraph 1 of this Article incompatible with the laws of the Contracting Party taking such expropriation, the competent court of the Contracting Party taking such expropriation shall, upon the request of the investor, review the said expropriation.</p>
+        <p>4. Investors of one Contracting Party who suffer losses in respect of their investments in the territory of the other Contracting Party owing to war, a state of national emergency, armed conflict or other similar events, shall be accorded by the latter Contracting Party, if it provides indemnification or compensation, treatment no less favourable than that accorded to investors of a third state.</p>
+      </div>
+      <div type="article" num="5" title="Repatriation of capital and returns">
+        <p>1. Each Contracting Party shall, subject to its laws and regulations, guarantee investors of the other Contracting Party the transfer of the following:</p>
+        <p>A) Capital and additional amounts that are necessary to maintain or to increase the investments;</p>
+        <p>B) Returns from investments;</p>
+        <p>C) Amounts from the total or partial liquidation of an investment;</p>
+        <p>D) Amounts of the compensation mentioned in Article 4;</p>
+        <p>E) Partial earnings of nationals of the other Contracting Party who work in connection with investment in the territory of the one Contracting Party.</p>
+        <p>2. The transfer mentioned above shall be made after taxation at the official exchange rate in effect of the Contracting Party accepting investment on the date of transfer.</p>
+      </div>
+      <div type="article" num="6" title="Subrogation">
+        <p>If a Contracting Party or its agency makes payment to an investor under a guarantee it has granted to an investment of such investor in the territory of the other Contracting Party, such other contracting party shall recognize the transfer of any right, obligation or claim of such investor to the former Contracting Party or its agency and recognize the subrogation of the former contracting party or its agency to such right, obligation or claim. The subrogated right, obligation or cliam shall not be greater than the original right, obligation or claim of the said investor.</p>
+      </div>
+      <div type="article" num="7" title="Existing investments">
+        <p>This Agreement shall apply to investments which are made by investors of either contracting party in accordance with the laws and regulations of the other Contracting Party in the territory of the latter after January 1, 1957.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between contracting parties">
+        <p>1. Disputes between the Contracting Parties concerning the interpretation or application of this Agreement shall, as far as possible, be settled by consultations through diplomatic channels.</p>
+        <p>2. If a dispute cannot thus be settled within six months, it shall, upon the request of either Contracting Party, be submitted to an ad hoc arbitral tribunal.</p>
+        <p>3. Such ad hoc tribunal comprises of three arbitrators, within two months from the date on which either Contracting Party receives the written notice requesting for arbitration from the other Contracting Party, each Contracting Party shall appoint one arbitrator, those two arbitrators shall, within further two months, together select a third arbitrator who is a national of a third state which has diplomatic relations with both Contracting Parties. The third arbitrator shall be appointed by the two Contracting Parties as chairman of the arbitral tribunal.</p>
+        <p>4. If the ad hoc arbitral tribunal has not been constituted within four months from the date of the receipt of the written notice for arbitration, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to appoint the arbitrator(s) who has or have nctyet been appointed. If the President is a national of either Contracting Party or is otherwise prevented from discharging the said function, the next most senior member of the International Court of Justice who is not a national of either Contracting Party shall be invited to make the necessary appointment(s). The chairman and the members of the arbitration tribunal thus appointed shall be nationals of states with which both Contracting Parties maintain diplomatic relations.</p>
+        <p>5. The ad hoc arbitral tribunal shall determine its own procedure, the tribunal shall reach its award in accordance with the laws of the Contracting Party accepting investment, the provisions of this Agreement and the principles of international law recognized by both Contracting Parties.</p>
+        <p>6. Before the arbitral tribunal decides it may at any stage of the proceeding propose to the parties that the dispute be settled amicably, the tribunal shall reach its award by a majority of votes. Such award shall be final and binding on both Contracting Parties, The ad hoc arbitral tribunal shall explain the reasons of its award.</p>
+        <p>7. Each Contracting Party shall bear the cost of its appointed arbitrator and representation. The relevant costs of the chairman and the ad hoc tribunal shall be borne in equal party by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of dispute on the amount of compensation">
+        <p>1. Any dispute between either Contracting Party and the investor of the other Contracting Party concerning the amount of compensation for expropriation may be submitted to an ad hoc arbitral tribunal.</p>
+        <p>2. Such an arbitral tribunal shall be constituted for each individual case in the following way; each party to the dispute shall apoint an arbitrator, and these two shall select a national of a third state which has diplomatic relations with the two Contracting Parties as chairman. The first two arbitrators shall be appointed within two months of the written notice for arbitration by either party to the dispute to the other, and the chairman be selected within four months. If within the period specified above, the tribunal has not been constituted either party to the dispute may invite the Chairman of the Arbitration Institute of the Stockholm Chamber of Commerce to make the necessary appointments. The chairman and the members of the arbitral tribunal thus appointed shall be nationals of states with which both Contracting Parties maintain diplomatic relations.</p>
+        <p>3. The tribunal shall determine its own procedure, applying The Arbitration Rules of the United Nations Commission for International Trade Law (UNCITRAL) of 15 December 1976.</p>
+        <p>4. The tribunal shall reach its decision by a majority of votes. Such decision shall be final and binding on both parties to the dispute. Both Contracting Parties shall commit themselves to the enforcement of the decision in accordance with their respective domestic law.</p>
+        <p>5. The tribunal shall adjudicate in accordance with the laws of the Contracting Party to the dispute accepting the investment including its rules on the conflict of laws, the provisions of this Agreement, as well as the generally recognized principles of international law accepted by both Contracting Parties.</p>
+        <p>6. Each party to the dispute shall bear the cost of its appointed member of the tribunal and of its representation in the proceedings. The costs of the appointed chairman and the remaining costs in the arbitral proceedings shall be borne in equal parts by the parties to the dispute.</p>
+      </div>
+      <div type="article" num="10" title="Issuance of permits">
+        <p>Either Contracting Party shall grant in accordance with its laws and regulations and as possible the facilities and assistance concerning the entry, stay, work and movement in its territory of nationals of the other Contracting Party and of their families who carry out activities connected with the investments in the sense of the present agreement.</p>
+      </div>
+      <div type="article" num="11" title="Application of other rules">
+        <p>If the treatment to be accorded by one Contracting Party in accordance with its laws and regulations to investments or activities associated with such investments of investors of the other Contracting Party is more favourable than the treatment provided for in this Agreement, the more favourable treatment shall be applicable.</p>
+      </div>
+      <div type="article" num="12" title="Meetings">
+        <p>1. The representatives of the two Contracting Parties will hold meetings when necessary for the purpose of:</p>
+        <p>A) Reviewing the implementation of this agreement;</p>
+        <p>B) Exchanging legal information and investment opportunities;</p>
+        <p>C) Resolving dispute arising out of investment;</p>
+        <p>D) Forwarding proposals on promotion of investment;</p>
+        <p>E) Studying other issues in connection with investment.</p>
+        <p>2. Where either Contracting Party requests consultation on any matters of Paragraph 1 of this Article. The other Contracting Party shall give prompt response and the consultation be held alternately in both states.</p>
+      </div>
+      <div type="article" num="13" title="Entry into force, duration and termination">
+        <p>1. This Agreement is subject to ratification by the competent authorities in the respective states. The Agreement shall enter into force thirty days after the instruments of ratification and shall remain in force for a period of ten years.</p>
+        <p>2. This Agreement shall continue to be in force unless either contracting party gives a written notice for its termination one year before its expiration as specified in paragraph 1 of this Article.</p>
+        <p>3. After the expiration of this initial ten year period, either contracting party may at any time terminate this agreement by giving at least one year's written notice to the other Contracting Party.</p>
+        <p>4. With respect to investments made prior to the date of termination of this agreement, the provisions of Article 1 to 12 shall continue to be effective for a further period of 15 years from such date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof, the duly authorized representatives of thier respective government have signed this agreement.</p>
+      <p>Done in Sofia on 20th October 1989, in two originals in the English Language.</p>
+      <p>For the Government of the People's Republic of Bulgaria</p>
+      <p>For the Government of the Republic of Ghana</p>
+    </conclusion>
+  </main>
+</treaty>

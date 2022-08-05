@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Bulgaria - Netherlands BIT (1999)</name>
+    <code>T1999-17</code>
+    <partyisocode n="0">BGR</partyisocode>
+    <partyisocode n="1">NLD</partyisocode>
+    <date_signed>1999-10-06</date_signed>
+    <date_into_force>2001-03-01</date_into_force>
+    <date_terminated>2021-03-31</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Terminated by consent</termination_type>
+    <docreference>698</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BGR,NLD}_1999-10-06.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Terminated by consent</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACING" document-code="T1988-8">Bulgaria - Netherlands BIT (1988)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T2020-2">Agreement for the Termination of Bilateral Investment Treaties Between the Member States of the European Union (2020)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on encouragement and reciprocal protection of investments between the Republic of Bulgaria and the Kingdom of the Netherlands</p>
+    </title>
+    <preamble>
+      <p>The Kingdom of the Netherlands</p>
+      <p>And</p>
+      <p>The Republic of Bulgaria,</p>
+      <p>Hereinafter referred to as the "Contracting Parties",</p>
+      <p>Desiring to strengthen their traditional ties of friendship and to extend and intensify the economic relations between them particularly with respect to investments by the investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognizing that signing an agreement on the treatment to be accorded to such investments will stimulate the flow of capital and technology as well as the economic development of the Contracting Parties and that fair and equitable treatment of investment is desirable,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Defnitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The term "investment" means every kind of asset and more particularly, though not exclusively:</p>
+        <p>a) Movable and immovable property as well as any other rights in rem;</p>
+        <p>b) Rights derived from shares, stocks, bonds and other kinds of interests in companies and joint ventures;</p>
+        <p>c) Claims to money, to other assets or to any performance having an economic value with regard to the investment;</p>
+        <p>d) Rights in the field of intellectual property including copyrights and trademarks, technical processes, goodwill and know-how;</p>
+        <p>e) Rights granted under public law or under contract, including rights to prospect, explore, extract and exploit natural resources.</p>
+        <p>2. The term "investor" shall comprise:</p>
+        <p>a) With regard to the Kingdom of the Netherlands: natural persons having the nationality of the Kingdom of the Netherlands;</p>
+        <p>With regard to the Republic of Bulgaria: natural persons having the status of citizen of the Republic of Bulgaria;</p>
+        <p>b) With regard to either Contracting Party: legal persons constituted under the law of that Contracting Party;</p>
+        <p>c) With regard to either Contracting Party: legal persons not constituted under the law of that Contracting Party but controlled, directly or indirectly, by natural persons as defined in a) or by legal persons as defined in b)</p>
+        <p>3. The term "territory":</p>
+        <p>a) In respect of the Republic of Bulgaria shall mean the territory under the sovereignty of the Republic of Bulgaria, including the territorial sea, as well as the continental shelf and the exclusive economic zone over which the Republic of Bulgaria exercises sovereign rights and jurisdiction in conformity with national legislation and with international law;</p>
+        <p>b) In respect of the Kingdom of the Netherlands shall mean the territory of the Kingdom of the Netherlands and any area adjacent to the territorial sea which, under the laws applicable in the Kingdom of the Netherlands and in accordance with international law, is the exclusive economic zone or continental shelf of the Kingdom of the Netherlands, in which the Kingdom of the Netherlands exercises jurisdiction or sovereign rights.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and Protection of Investments">
+        <p>Each Contracting Party shall, within the framework of its laws and regulations, promote economic cooperation through the protection in its territory of investments of investors of the other Contracting Party. Subject to its right to exercise powers conferred by its laws or regulations, each Contracting Party shall admit such investments.</p>
+      </div>
+      <div type="article" num="3" title="Treatment of Investors and Investments">
+        <p>1. Each Contracting Party shall ensure fair and equitable treatment of the investments of investors of the other Contracting Party and shall not impair, by unreasonable or discriminatory measures, the operation, management, maintenance, use, enjoyment or disposal thereof by those investors. Each Contracting Party shall accord to such investments full security and protection.</p>
+        <p>2. More particularly, each Contracting Party shall accord to such investments treatment which in any case shall not be less favourable than that accorded either to investments of its own investors or to investments of investors of any third State, whichever is more favourable to the respective investor.</p>
+        <p>3. If a Contracting Party accords special advantages to investors of any third State by virtue of agreements establishing customs unions, economic unions, monetary unions or similar international institutions, or on the basis of interim agreements leading to such unions or institutions, that Contracting Party shall not be obliged to accord such advantages to investors of the other Contracting Party.</p>
+        <p>4. Each Contracting Party shall observe any obligation it may have entered into with regard to investments of investors of the other Contracting Party.</p>
+        <p>5. If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to the present Agreement contain regulations, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided for by the present Agreement, such regulations will to the extent that they are more favourable, prevail over the present Agreement.</p>
+      </div>
+      <div type="article" num="4" title="Fiscal Treatment">
+        <p>With respect to taxes, fees and charges, as well as to fiscal deductions and exemptions, each Contracting Party shall accord to investors of the other Contracting Party as regards their activity, concerning the investments they have made in its territory, treatment not less favourable than that accorded to its own natural persons or legal persons, or to those of any third State that are in the same circumstances, whichever is more favourable. For this purpose, however, no special fiscal advantages shall be taken into account, accorded by that Contracting Party:</p>
+        <p>a) Under an agreement for the avoidance of double taxation; or</p>
+        <p>b) By virtue of its participation in a customs union, economic union or similar institution; or</p>
+        <p>c) On the basis of reciprocity with a third State.</p>
+      </div>
+      <div type="article" num="5" title="Transfers">
+        <p>The Contracting Parties shall guarantee that payments relating to an investment may be transferred. The transfers shall be made in a freely convertible currency at the prevailing exchange rate on the date of transfer, without restriction or delay. Such transfers include in particular though not exclusively:</p>
+        <p>a) Profits, interest, dividends and other current income;</p>
+        <p>b) Funds proven necessary</p>
+        <p>(i) For the acquisition of raw or auxiliary materials, semifabricated or finished products; or</p>
+        <p>(ii) To replace capital assets in order to safeguard the continuity of an investment;</p>
+        <p>c) Additional funds necessary for the development of an investment;</p>
+        <p>d) Funds required for loan repayments;</p>
+        <p>e) Royalties or fees;</p>
+        <p>f) Earnings obtained by natural persons;</p>
+        <p>g) Proceeds obtained from sale or liquidation of the investment;</p>
+        <p>h) Payments arising under the Articles 6 and 7.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation and Compensation">
+        <p>1. Neither Contracting Party shall take any measures depriving, directly or indirectly, investors of the other Contracting Party of their investments unless the following conditions are complied with:</p>
+        <p>a) The measures are taken in the public interest and under due process of law;</p>
+        <p>b) The measures are neither discriminatory nor in contradiction with any obligation which the Contracting Party that takes such measures may have entered into by virtue of an agreement;</p>
+        <p>c) The measures are taken against prompt, adequate and effective compensation. Such compensation shall be equivalent to the fair market value of the expropriated investment immediately before the expropriation measures were taken. The fair market value shall not reflect any change in value because the expropriation had become publicly known earlier. It shall include interest at the prevailing commercial rate from the date the measures were taken, until the date of payment and shall, in order to be effective for the affected investors, be paid and made transferable, without delay to the country designated by the investor concerned and in the currency of the country of the affected investor, or in any freely convertible currency accepted by the affected investor.</p>
+      </div>
+      <div type="article" num="7" title="Compensation for Losses">
+        <p>Investors of one Contracting Party who suffer losses in respect of their investments in the territory of the other Contracting Party due to war or other armed conflict, revolution, a state of national emergency, revolt, coup, insurrection or riot shall be accorded treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which the latter Contracting Party accords to its own investors or to investors of any third State, whichever is more favourable to the investor concerned.</p>
+      </div>
+      <div type="article" num="8" title="Subrogation">
+        <p>If the investments of an investor of one Contracting Party are insured against non-commercial risks or otherwise give rise to payment of indemnification in respect of such investments under a system established by law, regulation or government contract any subrogation of the insurer or re-insurer or Agency designated by one Contracting Party to the rights of the said investor pursuant to the terms of such insurance or under any other indemnity given shall be recognized by the other Contracting Party.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of Disputes between an Investor and a Contracting Party">
+        <p>1. Disputes which might arise between one of the Contracting Parties and an investor of the other Contracting Party concerning an investment of that investor in the territory of the former Contracting Party shall, whenever possible, be settled amicably between the parties concerned.</p>
+        <p>2. If the dispute has not been settled amicably within a period of six months, from the date either Party to the dispute requested amicable settlement, each Contracting Party gives its unconditional consent to submit the dispute at the request of the investor concerned to:</p>
+        <p>a) The International Centre for Settlement of Investment Disputes, for settlement by arbitration or conciliation under the Convention on the Settlement of Investment Disputes between States and Nationals of other States, opened for signature at Washington on 18 March 1965, when both Contracting Parties have become a party to the said Convention;</p>
+        <p>b) The International Centre for Settlement of Investment Disputes under the Rules Governing the Additional Facility for the Administration of Proceedings by the Secretariat of the Centre (Additional Facility of Rules), when one of the Contracting Parties is not a party to the Convention mentioned under a);</p>
+        <p>c) A sole arbitrator or an international ad hoc arbitral tribunal under the Arbitration Rules of the United Nations Commission on International Trade law (UNCITRAL).</p>
+        <p>3. A legal person which is an investor of one Contracting Party and which before such a dispute arises is controlled by investors of the other Contracting Party shall in accordance with Article 1 (6) of the Additional Facility Rules or in accordance with Article 25 (2) b) of the Convention on the Settlement of Investment Disputes between States and Nationals of other States for the purpose of the Rules or the Convention mentioned, be treated as a national of the other Contracting Party.</p>
+        <p>4. The arbitral awards shall be final and binding on both parties to the dispute.</p>
+        <p>5. An investor may also decide to submit a dispute to a competent domestic court. In case a legal dispute concerning an investment in the territory of the Republic of Bulgaria has been submitted to a competent domestic court, this dispute may be submitted to international dispute settlement, after a final verdict has been rendered by the competent domestic court. If a dispute concerns an investment in the territory of the Kingdom of the Netherlands an investor may choose to submit a dispute to international dispute settlement at any time.</p>
+      </div>
+      <div type="article" num="10" title="Application">
+        <p>The provisions of this Agreement shall, from the date of entry into force thereof, also apply to investments which have been made before that date.</p>
+      </div>
+      <div type="article" num="11" title="Consultations">
+        <p>Either Contracting Party may propose to the other Contracting Party to enter into consultation on any matter concerning the interpretation or application of the Agreement. The other Contracting Party shall accord sympathetic consideration to the proposal and shall provide adequate opportunity for such consultations.</p>
+      </div>
+      <div type="article" num="12" title="Settlement of Disputes between the Contracting Parties">
+        <p>1. Any dispute between the Contracting Parties concerning the application or interpretation of this Agreement, which cannot be settled within a reasonable lapse of time by means of diplomatic negotiations between the Contracting Parties, shall, unless the Contracting Parties have otherwise agreed, be submitted, at the request of either Contracting Party, to an arbitral tribunal, composed of three members. Each Contracting Party shall appoint one member of the tribunal and these two members thus appointed shall appoint a third member of the tribunal as their Chairman who is not a national of either Contracting Party.</p>
+        <p>2. If one of the Contracting Parties fails to appoint its member and has not proceeded to do so within two months after the date of the invitation from the other Contracting Party to make such appointment, the latter Contracting Party may invite the President of the International Court of Justice in The Hague to make the necessary appointment.</p>
+        <p>3. If the two members are unable to reach agreement, in the two months following their appointment, on the choice of the third member, either Contracting Party may invite the President of the International Court of Justice in The Hague to make the necessary appointment.</p>
+        <p>4. If, in the cases provided for in the paragraphs 2 and 3 of this Article, the President of the International Court of Justice in The Hague is prevented from discharging the said function or is a national of either Contracting Party, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is prevented from discharging the said function or is a national of either Contracting Party, the member of the International Court of Justice in The Hague next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>5. The arbitration tribunal shall reach its decision on the basis of respect for law as well as for the provisions of the present Agreement. Before the arbitration tribunal decides, it may at any stage of the proceedings propose to the Contracting Parties that the dispute be settled amicably. The foregoing provisions shall not prejudice settlement of the dispute ex aequo et bono if the Contracting Parties so agree.</p>
+        <p>6. Unless the Contracting Parties decide otherwise, the arbitration tribunal determines its own procedure.</p>
+        <p>7. The arbitration tribunal shall reach its decision by a majority of votes. Such decision shall be final and binding on the Contracting Parties.</p>
+        <p>8. Each Contracting Party shall bear the costs of its own member of the tribunal and of its representation in the arbitral proceedings, while the costs of the Chairman and the remaining costs shall be born in equal parts by the Contracting Parties, unless the tribunal decides otherwise.</p>
+      </div>
+      <div type="article" num="13" title="Application of the Agreement Concerning the Kingdom of the Netherlands">
+        <p>As regards the Kingdom of the Netherlands, the present Agreement shall apply to the part of the Kingdom of the Netherlands in Europe and shall also apply to the Netherlands Antilles and to Aruba, unless the notification provided for in Article 14, paragraph 1 states otherwise.</p>
+      </div>
+      <div type="article" num="14" title="Entry Into Force, Duration and Termination of the Agreement">
+        <p>1. The present Agreement shall enter into force on the first day of the second month following the date on which the Contracting Parties have notified each other in writing that their constitutionally required procedures have been complied with, and shall remain in force for a period of fifteen years.</p>
+        <p>2. Unless notice of denunciation has been given by either Contracting Party at least six months before the date of the expiry of its validity, the present Agreement shall be extended tacitly for periods of ten years, whereby each Contracting Party reserves the right to denounce the Agreement upon notice of at least six months before the date of expiry of the current period of validity.</p>
+        <p>3. In respect of investments made before the date of the termination of this Agreement under the terms of the foregoing paragraphs, its validity shall be considered continued for a further period of fifteen years from the date of its termination.</p>
+        <p>4. Subject to the period mentioned in paragraph 2 of this Article, the Kingdom of the Netherlands shall be entitled to denounce the application of the present Agreement, in respect of any of the parts of its territory separately.</p>
+        <p>5. The Protocol attached to the Agreement constitutes an integrated part of it.</p>
+        <p>6. The present Agreement will replace the Agreement between the Government of the People's Republic of Bulgaria and the Government of the Kingdom of the Netherlands on Mutual Encouragement and Protection of Investments, signed in Sofia on 8 March 1988.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned representatives, duly authorized thereto, have signed the present Agreement.</p>
+      <p>DONE in two originals, at Sofia, on 6thOctober 1999 in the Netherlands, Bulgarian and English languages, the three texts being equally authentic. In case of difference of interpretation the English text shall prevail.</p>
+      <p>For the Kingdom of the Netherlands: (sd.) J. J. VAN AARTSEN</p>
+      <p>For the Republic of Bulgaria: (sd.) VALETIN VASSILEV</p>
+    </conclusion>
+    <attachments>
+      <p>Protocol to the Agreement on encouragement and reciprocal protection of investments between the Republic of Bulgaria and the Kingdom of the Netherlands.</p>
+      <p>On the signing of the Agreement on encouragement and reciprocal protection of investments between the Republic of Bulgaria and the Kingdom of the Netherlands, the undersigned representatives have agreed on the following provisions which constitute an integral part of the Agreement:</p>
+      <p>Ad Article 1 (2) (c)</p>
+      <p>For greater clarity as to whether an investor not constituted under the law of a Contracting Party is controlled, directly or indirectly, by natural or legal persons of that Contracting Party as referred to in 1 (2) (a) or (b): control of an investor means control in fact, determined after an examination of the actual circumstances in each situation. In any such examination, all relevant factors should be considered, including</p>
+      <p>(a) financial interest, including equity interest, in the controlled investor;</p>
+      <p>(b) ability to exercise substantial influence over the management and operation of the controlled investor; and</p>
+      <p>(c) ability to exercise substantial influence over the selection of members of the board of directors or any other managing body.</p>
+      <p>Where there is doubt as to whether direct or indirect control exists, an investor claiming such control has the burden of proof.</p>
+      <p>Ad Article 2 and 3</p>
+      <p>The Kingdom of the Netherlands takes note that according to the Constitution of the Republic of Bulgaria, foreign natural and legal persons cannot obtain ownership over land in the territory of the Republic of Bulgaria. Any legal person, constituted under the law of the Republic of Bulgaria, can obtain ownership over land in the territory of Bulgaria.</p>
+      <p>With respect to the admittance of investors and the expansion of their investments in the territory of the Republic of Bulgaria concerning: - rights in rem over property in relation to national security;</p>
+      <p>- representation before court and legal services, excluding legal advices on questions connected with the business activity; and</p>
+      <p>- the setting up of gambling games, lotteries and other similar games,</p>
+      <p>the Republic of Bulgaria shall accord to the investors of the Kingdom of the Netherlands treatment not less favourable than that accorded to the investors of any third State.</p>
+      <p>Ad Article 5</p>
+      <p>With respect to transfers the Contracting Parties agree that in relationship with the free, unrestricted and undelayed transfer, some legal non-discriminatory requirements may have to be fulfilled. It is confirmed that such requirements shall not impair or derogate from the free, unrestricted and undelayed transfer guaranteed in this Agreement.</p>
+      <p>DONE in two originals, at ..................., on ......................, in the Bulgarian, Netherlands and English languages, the three texts being equally authentic. In case of difference of interpretation the English text will prevail.</p>
+      <p>For the Republic of Bulgaria:</p>
+      <p>For the Kingdom of the Netherlands</p>
+    </attachments>
+  </main>
+</treaty>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Libya - San Marino BIT (2006)</name>
+    <code>T2006-78</code>
+    <partyisocode n="0">LBY</partyisocode>
+    <partyisocode n="1">SMR</partyisocode>
+    <date_signed>2006-12-10</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>2405</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{LBY,SMR}_2006-12-10.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main/>
+</treaty>

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Iran, Islamic Republic of - Uzbekistan BIT (2000)</name>
+    <code>T2000-100</code>
+    <partyisocode n="0">IRN</partyisocode>
+    <partyisocode n="1">UZB</partyisocode>
+    <date_signed>2000-06-11</date_signed>
+    <date_into_force>2004-07-11</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2053</docreference>
+    <comments>http://rc.majlis.ir/fa/law/show/93919</comments>
+    <source>Iran Islamic Parliament Research Center</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{IRN,UZB}_2000-06-11.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2005-45">ECO Investment Agreement</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE ISLAMIC REPUBLIC OF IRAN AND THE GOVERNMENT OF THE REPUBLIC OF UZBEKISTAN ON THE PROMOTION AND RECIPROCOAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>PREAMBLE</p>
+      <p>The Government of the Islamic Republic of Iran and the Government of the Republic of Uzbekistan, hereinafter referred to as the "Contracting Parties",</p>
+      <p>Desiring to establish and intensify economic cooperation to the mutual benefit of both States,</p>
+      <p>Intending to create and maintain favorable conditions for investments of investors of one Contracting Party in the territory of the other Contracting Party, and</p>
+      <p>Recognizing the need for the protection of investments of investors of both Contracting Parties in the territory of the other Contracting Party,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement the meaning of the terms used therein are as follows:</p>
+        <p>1 The term "investment" refers to every kind of asset, invested by investors of one Contracting Party in the territory of the other Contracting Party:</p>
+        <p>a Movable and immovable property as well as rights related thereto, such as mortgages, liens, pledges or usufruct;</p>
+        <p>b Shares or any kind of participation in companies;</p>
+        <p>c Money and / or any collectable claims to money;</p>
+        <p>d Intellectual and industrial property rights such as patents, utility models, industrial designs or models, trademarks, and trade names, know-how and goodwill;</p>
+        <p>e Rights to search for, extract or exploit natural resources in accordance with laws and regulations of the Contracting Parties.</p>
+        <p>2 The term "investor/investors" refers to the following persons of either Contracting Party:</p>
+        <p>a Natural persons possessing the nationality of one of the Contracting Parties in accordance with its laws.</p>
+        <p>b Legal persons of either Contracting Party which are established under the national laws of that Contracting Party, and their headquarters or their real economic activities are located in the territory of that Contracting Party.</p>
+        <p>3 The term "returns" means investment funds that are obtained legally in particular but not exclusively, profits from investments, interests from financing, capital gains, dividends, fees and royalties.</p>
+        <p>4 The term "territory":</p>
+        <p>a In case of Islamic Republic of Iran refers to the areas under the sovereignty or jurisdiction of the Islamic Republic of Iran, as the case may be, and includes its maritime areas.</p>
+        <p>b In case of Republic of Uzbekistan means the territory of Uzbekistan, including its territorial sea and any area which Uzbekistan exercises sovereign rights, in accordance with its legislation and international law with regard to exploitation, exploration and conservation of natural resources.</p>
+      </div>
+      <div type="article" num="2" title="Promotion of investment">
+        <p>1 Each Contracting Party shall encourage its investors to invest in the territory of the other Contracting Party.</p>
+        <p>2 Each Contracting Party shall promote and create favorable conditions for investors of the other Contracting Party in its territory, in accordance with its laws and regulations.</p>
+      </div>
+      <div type="article" num="3" title="Admission of investment">
+        <p>1 Each Contracting Party shall admit investments of investors of the other Contracting Party in its territory, in accordance with its national laws and regulations and shall issue a certificate of acceptance or a certificate of State registration.</p>
+        <p>2 When an investment is admitted, either Contracting Party shall, in accordance with its national laws and regulations, grant the necessary permits for the realization of such an investment.</p>
+      </div>
+      <div type="article" num="4" title="Protection of investment">
+        <p>1 Investments of natural and legal persons of either Contracting Party effected within the territory of the other Contracting Party shall receive the host Contracting Party's full legal protection and fair treatment not less favourable than accorded to its own investors or to investors of any third State in like circumstances.</p>
+      </div>
+      <div type="article" num="5" title="More favorable provisions">
+        <p>Notwithstanding the terms set forth in this Agreement, more favorable provisions which have been agreed or may be agreed upon by either Contacting Parties with an investor of the other Contracting Party are applicable.</p>
+      </div>
+      <div type="article" num="6" title="Expropriation and compensation">
+        <p>1 Investments of natural and legal persons of either Contracting Party shall not be nationalized, confiscated, expropriated or subjected to similar measures by the other Contracting Party, except such measures are taken for public purposes, in accordance with due process of law, in a non-discriminatory manner, and upon payment of prompt and effective compensation.</p>
+        <p>2 The amount of compensation shall be equivalent to the value of investment immediately before the action of nationalization, confiscation or expropriation was taken.</p>
+      </div>
+      <div type="article" num="7" title="Losses">
+        <p>Investors of either Contracting Party whose investments suffer losses due to any armed conflict, war or similar state of emergency in the territory of the other Contracting Party shall be accorded by the other Contracting Party treatment no less favorable than that accorded to its own investors or to investors of any third State.</p>
+      </div>
+      <div type="article" num="8" title="Repatriation and transfer">
+        <p>1 Each Contracting Party shall permit in good faith the following transfers related to investments referred to in this Agreement, to be made freely and without delay in and out of its territory:</p>
+        <p>a Returns;</p>
+        <p>b Proceeds from the sale and/or liquidation of all or part of an investment;</p>
+        <p>c Sums paid pursuant to Article 6 and 7 of this Agreement;</p>
+        <p>d Loan installments which are related to an investment and paid out of such investment activities;</p>
+        <p>e Monthly salaries and wages received by employees of an investor of one Contracting Party who have obtained in the territory of the host Contracting Party, the corresponding work permits related to that investment;</p>
+        <p>f Payments arising from a decision of the authority referred to in Article 12.</p>
+        <p>2 Transfers shall promptly be effected in a convertible currency, without delay and at the applicable rate of exchange on the date of transfer in the territory of the Contracting Party where the investment is made.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>If a Contracting Party or its designated agency, within the framework of a legal system, subrogates an investor pursuant to a payment made under an insurance or guarantee agreement against non-commercial risks.</p>
+        <p>a Such subrogation shall be recognized by the other Contracting Party.</p>
+        <p>b The subrogate shall not be entitled to exercise any rights other than the rights which the investor would have been entitled to exercise.</p>
+        <p>c Disputes between the subrogee and the host Contracting Party shall be settled in accordance with Article 12 of this Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Observance of commitments">
+        <p>Either Contracting Party shall guarantee the observance of the commitments it has entered into with respect to investments of natural and legal persons of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="11" title="Scope of the agreement">
+        <p>This Agreement shall apply to investments approved by the competent authorities of the host Contracting Party. The competent authority in the Islamic Republic of Iran is the Organization for Investment, Economic and Technical Assistance or any other authority which may succeed it.</p>
+      </div>
+      <div type="article" num="12" title="Settlement of disputes between a contracting party and an investor of the other contracting party">
+        <p>1 Any dispute between the host Contracting Party and an investor or investors of the other Contracting Party shall as far as possible be settled in an amicable manner through negotiation and consultation.</p>
+        <p>2 In the event that the dispute between the host Contracting Party and the investor(s) cannot be settled within six months from the date of the written application for settlement, each of them may submit the dispute for settlement to the competent courts of the host Contracting Party; or with due regard to its national laws and regulations to an Arbitral Tribunal referred to in paragraph 5 below.</p>
+        <p>3 Any dispute primarily referred to the competent court of the host Contracting Party, as long as it is pending, cannot be referred to arbitration except with parties' agreement; and in the event that a final judgment is rendered, it cannot be referred to arbitration.</p>
+        <p>4 National courts shall not have jurisdiction over any dispute referred to arbitration. However, the provisions of this paragraph do not bar the winning party to seek for the enforcement of the arbitral award before national courts.</p>
+        <p>5 The host Contracting Party or the investor(s) of the other Contracting Party who desires to refer to arbitration shall appoint an arbitrator through a written notice sent to the other party. The other party shall appoint an arbitrator within sixty days from the date of receipt of the said notice and the appointed arbitrators shall within sixty days from the date of the last appointment, appoint the Chairperson. In the event that either party fails to appoint its arbitrator within the mentioned period and/or the appointed arbitrators fail to agree on the Chairperson, either party may request the Secretary General of the International Arbitration Tribunal to appoint a party's arbitrator or a Chairperson. However, the Chairperson shall be a national of a State having diplomatic relations with both Contracting Parties at the time of the appointment.</p>
+      </div>
+      <div type="article" num="13" title="Settlement of disputes between the contracting parties">
+        <p>1 All disputes arising between the Contracting Parties relating to the interpretation and application of this Agreement shall, in the first place, be settled amicably through consultations and negotiations. In case of disagreement, either Contracting Party may, subject to its laws and regulations, while sending a notice to the other Contracting Party, refer the case to an Arbitral Tribunal of three members consisting of two arbitrators appointed by the Contracting Parties. The arbitrators appointed by the Contracting Parties shall appoint a Chairman. Each of the two Contracting Parties shall appoint an arbitrator within sixty days from the date on which the request for arbitration is received. The arbitrators appointed by the Contracting Parties shall appoint a Chairman within sixty days from the date of the appointment of the second arbitrator. If the necessary appointments of arbitrators have not been made in the period specified, either party, may invite the President of the International Court of Justice to make the necessary appointments. In any event, a Chairman must be a national of a third State having diplomatic relations with both Contracting Parties at the time of the appointment.</p>
+        <p>2 In the event that the President of the International Court must appoint a Chairman and if the President of the International Court of Justice is prevented from carrying out the said function or if he is a national of either Contracting Party, the appointment shall be made by the Vice-President of the International Court of Justice, and if the Vice-President is also prevented from carrying out the said function or he is a national of either Contracting Party, the appointment shall be made by the senior member of the said court who is not a national of either Contracting Party.</p>
+        <p>3 The Arbitration Tribunal shall, taking all other matters that parties have agreed to, lay down its own procedures and determine the place of arbitration.</p>
+        <p>4 The decisions of the Arbitration Tribunal shall be binding on both Contracting Parties.</p>
+      </div>
+      <div type="article" num="14" title="Validity of the agreement">
+        <p>1 This Agreement shall be ratified by the competent authorities of each Contracting Party.</p>
+        <p>2 This Agreement shall enter into force for a period of ten years after thirty days from the date of receipt of the last of the two notifications by which the Contracting Parties shall communicate officially to each other that their respective ratification procedures have been completed. This Agreement shall remain in force thereafter unless one of the Contracting Parties notifies the other Contracting Party in writing of its intention to terminate it. The termination shall come into effect six months after the date of reception of the notification.</p>
+        <p>3 After the expiration of the validity or termination of this Agreement its provisions shall apply to investments under this Agreement for a further period of ten years.</p>
+      </div>
+      <div type="article" num="15" title="Amendments">
+        <p>Amendments will only be applicable of both Contracting Parties have agreed in writing. This amendment shall be in force pursuant to the followed procedures in Article 14.</p>
+      </div>
+      <div type="article" num="16" title="Term and termination">
+        <p>This Agreement is done in duplicate in Persian, Uzbek and English languages and all texts are equally authentic. In case of divergence of interpretation, the English text shall prevail.</p>
+        <p>This Agreement is done at Tehran on June 11, 2000 corresponding to 22nd Khordad 1379 by the signature of the representatives of the Governments of the Islamic Republic of Iran and the Republic of Uzbeksitan.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Signature of the Government of the Islamic Republic of Iran</p>
+      <p>Signature of the Government of the Republic of Uzbekistan</p>
+    </conclusion>
+  </main>
+</treaty>

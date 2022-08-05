@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Tajikistan - Thailand BIT (2005)</name>
+    <code>T2005-87</code>
+    <partyisocode n="0">THA</partyisocode>
+    <partyisocode n="1">TJK</partyisocode>
+    <date_signed>2005-08-09</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>3018</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{THA,TJK}_2005-08-09.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main/>
+</treaty>

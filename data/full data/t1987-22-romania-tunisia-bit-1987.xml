@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Romania - Tunisia BIT (1987)</name>
+    <code>T1987-22</code>
+    <partyisocode n="0">ROU</partyisocode>
+    <partyisocode n="1">TUN</partyisocode>
+    <date_signed>1987-09-23</date_signed>
+    <date_into_force>1988-05-20</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ro</orig_language>
+    <termination_type/>
+    <docreference>19871</docreference>
+    <comments>information on the Tunisian ratification at http://www.legislation.tn/. The 1995 BIT between the same parties, wrongly mentions 11.11.1987 as the date of signature of this agreement</comments>
+    <source> http://legislatie.just.ro/Public/DetaliiDocument/45736</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ROU,TUN}_1987-09-23.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>ro</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_REPLACED_BY" document-code="T1995-205">Romania - Tunisia BIT (1995)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the Socialist Republic of Romania and the Government of the Tunisian Republic on the promotion and mutual guarantee of investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Socialist Republic of Romania and the Government of the Republic of Tunisia, hereinafter referred to as Contracting Parties,</p>
+      <p>Desiring to strengthen the economic cooperation relations existing between the two states,</p>
+      <p>Encouraged by the will to create favorable conditions for the investments made by the investors of one between the Contracting Parties in the territory of the other Contracting Party,</p>
+      <p>Convinced that a mutual guarantee of investments is likely to stimulate the initiative in the economic field,</p>
+      <p>Have agreed on the following provisions:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>1. Each Contracting Party undertakes to encourage and promote in the territory or investments of the investors of the other Contracting Party.</p>
+        <p>2. Investments approved and made in the territory of one of the Contracting Parties, in accordance with its legislation, shall enjoy the protection and guarantees provided by this Agreement.</p>
+      </div>
+      <div type="article" num="2">
+        <p>For the purposes of this agreement:</p>
+        <p>1. Investments means all the goods, services and financial means that contribute to achieving an economic objective.</p>
+        <p>2. Benefits means the amounts that result from investments as gains, determined according to the law of the contracting party in whose territory the investment was made.</p>
+        <p>3. Investors means:</p>
+        <p>a) For the Socialist Republic of Romania, Romanian economic units with legal personality and which, according to the Romanian law, have the attributions of foreign trade and economic cooperation with the foreigner;</p>
+        <p>b) For the Tunisian Republic, the natural persons of Tunisian nationality, within the meaning of the nationality code, as well as any legal person having its seat or territory of the Tunisian Republic and constituted according to the legislation in force.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1. Each Contracting Party undertakes to ensure a fair and equitable treatment of investments made in the territory or by investors of the other Contracting Party.</p>
+        <p>2. Each Contracting Party shall grant, on its territory, investments and investors of the other Contracting Party, a treatment no less favorable than that accorded to investments and investors of any third State.</p>
+        <p>3. If, under the law of one of the Contracting Parties or of existing international obligations or to be assumed in the future by one of the Contracting Parties, in addition to this agreement, more favorable provisions for investments and investors of the other Contracting Party arise, these more favorable provisions shall prevail compared to those of this Agreement.</p>
+        <p>4. The provisions of this Agreement, regarding the treatment of the most favored nation, will not apply to the advantages that each of the contracting parties will grant to the investors of any third country, based on their participation in an economic or customs union, the common market, the free zone. exchange, regional economic organization, as well as by virtue of bilateral agreements of a regional character regarding specific investment operations or international agreements on avoiding double taxation.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1. If a Contracting Party expropriates it for public utility, nationalizes investments made by investors of the other Contracting Party or takes any other measures having a similar effect on them, it shall guarantee the payment of a corresponding compensation. the value of the investment at the date of expropriation, nationalization or similar measures. At the latest at the time of taking these measures, an appropriate procedure will be provided to determine the amount and the method of payment of the compensation, which will have to be effectively achievable, paid without delay and freely transferable.</p>
+        <p>2. At the request of the interested party, the amount of the compensation may be reassessed by the competent court of the country in which the investment was made.</p>
+        <p>3. If a dispute between an investor and the contracting party in whose territory the investment has been made regarding the amount of compensation continues to exist after the final decision of the national court, any of them is entitled to submit the dispute, within two months from the exhaustion of the appeals domestic or from the expiration of the term provided for in the next paragraph, to the International Center for the Settlement of Investment Relative Disputes, for conciliation or arbitration, in accordance with the procedure set out in the Convention opened for signature in Washington on March 18, 1965.</p>
+        <p>3. However, the condition regarding the exhaustion of the remedies provided for by the law of the Contracting Party in whose territory the investment was made will not be able to be opposed by this Contracting Party after a term of six months from the date of the first act of the litigation procedure for regulating this dispute by the courts.</p>
+        <p>4. Investors of a Contracting Party whose investments have suffered losses in the territory of the other Contracting Party, in the event of war or other armed conflict or of a state of national emergency, shall benefit from the latter, in respect of compensation, of a treatment which will be no less favorable than that granted to investors of any third state. The amounts regarding these compensations will be freely transferable.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party undertakes to authorize, in accordance with the legal provisions in force in its territory, the free transfer of:</p>
+        <p>a) The benefits and dividends distributed, the product of the partial or total liquidation of the investment;</p>
+        <p>b) Royalties arising from a technical assistance contract previously approved by the competent authorities of each of the two countries;</p>
+        <p>c) Repayments of loans granted including interest, the conditions of which have been previously approved by the competent authorities of each of the two countries;</p>
+        <p>d) The remuneration of the citizens authorized to work within the framework of an investment made in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="6">
+        <p>If one of the Contracting Parties, by virtue of a guarantee given for an investment made in the territory of the other Contracting Party, makes payments to its own investors, it is hereby subrogated to the rights, obligations and actions of the respective investors. The subrogation in the rights and obligations of the insured investor also extends to the transfer right mentioned in art. 4 and 5 above. The paying contracting party will not be able to acquire rights or assume obligations greater than those of the insured investor.</p>
+      </div>
+      <div type="article" num="7">
+        <p>1. Currency transfers according to art. 4, 5 and 6 will be carried out without delay, in convertible currency in which the investment was made or in another freely convertible currency, if so agreed, at the exchange rate in force at the date of transfer.</p>
+        <p>2. It is considered as having been carried out "without delay" the transfer that is carried out within a normal period necessary for the preparation of the transfer formalities. The deadline runs from the day on which the transfer request was submitted to the competent authorities, together with the necessary documents, and will in no case exceed a period of two months.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1. The differences between the Contracting Parties, regarding the interpretation and application of this Agreement, shall be resolved, as far as possible, by negotiation between the two Contracting Parties. If the dispute cannot be settled within a period of six months from the beginning of the negotiations, it will be submitted, at the request of one of the contracting parties, to an arbitral tribunal.</p>
+        <p>2. The arbitral tribunal shall be constituted for each individual case, as follows: each contracting party shall appoint an arbitrator and the two arbitrators shall appoint, by agreement, a president who must be a third-country national. If the arbitrators are not appointed within two months of receiving the arbitration request, the contracting party that has not appointed its arbitrator agrees to be appointed by the president of the International Court of Justice. If the two arbitrators cannot agree on the appointment of the president, within two months of their appointment, he will be appointed, at the request of one of the contracting parties, by the president of the International Court of Justice.</p>
+        <p>If the President of the International Court of Justice is a citizen of one of the Contracting Parties or if he is prevented from exercising his function, the respective appointments will be made by the Vice-President of the International Court of Justice. If he is also a citizen of one of the Contracting Parties or is prevented from exercising his function, the respective appointments will be made by the oldest member of the International Court of Justice, who is not a citizen of one of the Contracting Parties.</p>
+        <p>2. The arbitral tribunal shall make its decisions on the basis of the provisions of this agreement and of other similar agreements concluded by the contracting parties, as well as on the general principles and norms of international law. The arbitral tribunal shall adopt its decisions by a majority of votes. Before deciding the decision, the court may propose to the contracting parties, at any stage of the dispute, an amicable settlement of the dispute. The decisions of the arbitral tribunal are final and binding on the contracting parties.</p>
+        <p>4. Each Contracting Party shall bear the expenses of the arbitrator whom it has appointed and those incurred by its representatives in the debates of the tribunal. The expenses regarding the president and the other expenses will be borne in equal parts by the Contracting Parties.</p>
+        <p>5. Unless the Contracting Parties agree otherwise, the arbitral tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="9">
+        <p>1. The present agreement will be subject to ratification, according to the constitutional procedure of each country, and the exchange of the instruments of ratification will take place as soon as possible.</p>
+        <p>2. The agreement shall enter into force one month after the date of the exchange of the instruments of ratification. The agreement remains in force for a period of 10 years and will be renewed by tacit renewal for similar periods, except in the case of written denunciation, by one of the contracting parties, one year before the expiry of each period.</p>
+        <p>3. The provisions of this Agreement shall also apply to investments made prior to its entry into force by investors of one Contracting Party and accepted in the territory of the other Contracting Party in accordance with its law.</p>
+        <p>4. For the investments made before the expiration date, this agreement will remain applicable for 10 years, starting from the expiration date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>As the undersigned representatives, duly authorized by their respective governments, have signed this Agreement.</p>
+      <p>Done at Tunis on 23 September 1987, in two original copies, each in the Romanian, Arabic and French languages, all texts having the same value. In case of differences of interpretation, the text in French will be considered as the reference text.</p>
+      <p>For the Government of the Socialist Republic of Romania,</p>
+      <p>Constantin Stanca</p>
+      <p>For the Government of the Tunisian Republic,</p>
+      <p>Ahmed Ben Arfa</p>
+    </conclusion>
+  </main>
+</treaty>

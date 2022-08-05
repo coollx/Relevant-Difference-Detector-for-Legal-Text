@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Greece - Turkey BIT (2000)</name>
+    <code>T2000-83</code>
+    <partyisocode n="0">GRC</partyisocode>
+    <partyisocode n="1">TUR</partyisocode>
+    <date_signed>2000-01-20</date_signed>
+    <date_into_force>2001-11-24</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1820</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{GRC,TUR}_2000-01-20.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title/>
+    <preamble>
+      <p>The Republic of Turkey and the Hellenic Republic, hereinafter called the Parties.</p>
+      <p>Desiring to promote greater economic cooperation between them, particularly with respect to investments by investors of one Party in the territory of the other Party.</p>
+      <p>Recognizing that agreement upon the treatment to be accorded to such investments will stimulate the flow of capital and technology and the economic development of the Parties.</p>
+      <p>Agreeing that fair and equitable treatment of investment is desirable in order to maintain a stable framework for investment and maximum effective utilization of economic resources, and</p>
+      <p>Having resolved to conclude an agreement concerning the promotion and reciprocal protection of investments,</p>
+      <p>Hereby agree as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="I" title="Definitions">
+        <p>For the purpose of this Agreement;</p>
+        <p>1. The term "investor" means:</p>
+        <p>(a) Natural persons deriving their status as nationals of either Party according to its applicable law,</p>
+        <p>(b) Legal persons such as companies, corporations, business associations and partnerships, which are constituted or otherwise duly organized under the laws of a Party and have their headquarters or their effective economic activities in the territory of that Party.</p>
+        <p>2. The term "investment" means every kind of asset invested by an investor of one Party in the territory of the other Party in accordance with the legislation of the latter Party, and in particular, though not exclusively, includes:</p>
+        <p>(a) Shares, stocks or any other form of participation in companies;</p>
+        <p>(b) Returns reinvested, claims to money or any other rights having financial value related to an investment;</p>
+        <p>(c) Movable and immovable property, as well as any other rights in rem such as mortgages, ususfructus, liens, pledges and any other similar rights;</p>
+        <p>(d) Intellectual property rights;</p>
+        <p>(e) Business concessions conferred by law or by contract or by decision of the authority, including concessions related to natural resources.</p>
+        <p>3. The term "returns" means the amounts yielded by an investment and includes in particular, though not exclusively, profit, interest, capital gains, royalties, fees and dividends.</p>
+        <p>4. The term "territory" means, with regard to either Party its territory territorial sea, as well as the maritime areas over which it has jurisdiction or sovereign rights for the purposes of exploration, exploitation and conservation of natural resources, pursuant to international law.</p>
+      </div>
+      <div type="article" num="II" title="Scope of application">
+        <p>This Agreement shall apply to investments in the territory of one Party made in accordance with its legislation, by investors of the other Party prior to as well as after its entry into force. It shall however not apply to disputes which arose prior to its entry into force.</p>
+      </div>
+      <div type="article" num="III" title="Promotion, protection and treatment of investments">
+        <p>1. Each Party shall promote in its territory investments by investors of the other Party and shall admit such investments in accordance with its legislation.</p>
+        <p>2. Investments once established and returns of investors of a Party shall, at all times, be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Party. Each Party shall ensure that the management, maintenance, use, enjoyment or disposal, in its territory, of investments by investors of the other Party, is not in any way impaired-by unjustifiable or discriminatory measures.</p>
+        <p>3. Each Party shall accord to investments, including returns, made in its territory by investors of the other Party, treatment not less favourable than that which it accords to investments of its own investors or to investments of investors of any third State, whichever is more favourable.</p>
+        <p>4. Each Party shall accord to investors of the other Party, as regards their activity in connection with investments in its territory, treatment not less favourable than that which it accords to its own investors or to investors of any third State, whichever is more favourable.</p>
+        <p>5. Subject to the application of a Party's laws, regulations and procedures relating to the entry, stay and work of natural persons:</p>
+        <p>(a) A Party shall examine in good faith requests by investors of the other Party, and key personnel who are employed by such investors, to enter and remain temporarily in its territory to engage in activities connected with the investments, including the provision of advice or key technical services.</p>
+        <p>(b) Companies which are legally constituted under the applicable laws and regulations of one Party, and which are investments of investors of the other Party, shall be permitted to engage top managerial and technical personnel of their choice, regardless of nationality.</p>
+        <p>6. The provisions of this Article shall not be construed so as to oblige one Party to extend to the investors of the other Party the benefit of any treatment, preference or privilege resulting from;</p>
+        <p>(a) Its participation to any existing or future customs union, regional economic organization or similar international agreements,</p>
+        <p>(b) Any international agreement or arrangement relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="IV" title="Expropriation and compensation">
+        <p>1. Investments shall not be expropriated, nationalized or subjected, directly or indirectly, to measures of similar effect except for a public purpose, in a non-discriminatory manner, upon payment of prompt, adequate and effective compensation, and in accordance with due process of law and the general principles of treatment provided for in Article III of this Agreement.</p>
+        <p>2. Compensation shall be equivalent to the market value of the expropriated investment before the expropriatory action was taken or became publicly known. Compensation shall be paid without delay and be freely transferable in accordance with Article V. In case of undue delay in payment, it shall include interest from the date of expropriation until the date of payment.</p>
+        <p>3. Investors of either Party whose investments suffer losses in the territory of the other Party owing to war, insurrection, civil disturbance or other similar events in the territory of that Party, shall be accorded by such other Party treatment no less favourable than that accorded to its own investors or to investors of any third country, whichever is the most favourable treatment, as regards any compensatory measures it adopts in relation to such losses.</p>
+        <p>4. Without prejudice to paragraph 1 of this Article, investors of one Party who, in any of the situations referred to in that paragraph suffer losses in the territory of the other Party resulting from:</p>
+        <p>a) Requisitioning of their investment or part thereof by the latter's forces or authorities, or</p>
+        <p>b) Destruction of their investment or part thereof by the latter forces or authorities which was not required by the necessity of the situation,</p>
+        <p>Shall be accorded restitution or compensation which in either case shall be prompt, adequate and effective.</p>
+      </div>
+      <div type="article" num="V" title="Repatriation and transfer">
+        <p>1. Each Party shall permit all transfers related to an investment to be made freely and without delay into and out of its territory Such transfers include:</p>
+        <p>(a) Capital and additional amounts to maintain or increase the investment,</p>
+        <p>(b) Returns,</p>
+        <p>(c) Proceeds from the sale or liquidation of all or any part of an investment,</p>
+        <p>(d) Compensation pursuant to Article IV,</p>
+        <p>(e) Reimbursements and interest payments deriving from loans in connection with investments,</p>
+        <p>(f) Salaries, wages and other remunerations received by the nationals of one Party who have obtained in the territory of the other Party the corresponding work permits in relation to an investment,</p>
+        <p>(g) Payments arising from the settlement of an investment dispute.</p>
+        <p>2. Transfers shall be made in any convertible currency at the rate of exchange prevailing at the date of transfer.</p>
+      </div>
+      <div type="article" num="VI" title="Subrogation">
+        <p>1. If the investment of an investor of one Party is insured against non-commercial risks under a system established by law, any subrogation of the insurer which stems from the terms of the insurance agreement shall be recognized by the other Party.</p>
+        <p>2. The insurer shall not be entitled to exercise any rights other than the rights which the investor would have been entitled to exercise.</p>
+        <p>3. Disputes between a Party and an insurer shall be settled in accordance with the provisions of Article VII of this Agreement.</p>
+      </div>
+      <div type="article" num="VII" title="Settlement of disputes between one party and investors of the other party">
+        <p>1. Disputes between one of the Parties and an investor of the other Party concerning an obligation of the former in connection with an investment of the latter under this Agreement, shall be notified by the investor to the host Party of the investment. As far as possible, the investor and the concerned Party shall endeavour to settle these disputes by consultations and negotiations in good faith.</p>
+        <p>2. If these disputes, cannot be settled in this way within six months following the date of the notification mentioned in paragraph 1, the dispute can be submitted, as the investor may choose,</p>
+        <p>(a) To the International Center for Settlement of Investment Disputes (ICSID) set up by the "Convention on Settlement of Investment Disputes Between States and Nationals of other States",</p>
+        <p>(b) To an ad hoc court of arbitration laid down under the Arbitration Rules of Procedure of the United Nations Commission for International Trade Law (UNCITRAL),</p>
+        <p>(c) To the Court of Arbitration of the Paris International Chamber of Commerce,</p>
+        <p>(d) In accordance with any previously agreed dispute settlement procedure.</p>
+        <p>Each Party hereby consents to the submission of such dispute to international arbitration.</p>
+        <p>3. The arbitration awards shall be final and binding for both parties to the dispute Each Party commits itself to execute the award according to its national law</p>
+      </div>
+      <div type="article" num="VIII" title="Settlement of disputes between the parties">
+        <p>1. The Parties shall seek in good faith and a spirit of cooperation a rapid and equitable solution to any dispute between them concerning the interpretation or application of this Agreement. In this regard, the Parties agree to engage in direct and meaningful negotiations to arrive at such solutions. If the Parties cannot reach an agreement within six months after the beginning of negotiations between themselves through the foregoing procedure, the disputes may be submitted, upon the request of either Party, to an arbitral tribunal of three members.</p>
+        <p>2. Within two months of receipt of a request, each Party shall appoint an arbitrator. The two arbitrators shall select a third arbitrator as Chairman, who is a national of a third State In the event either Party fails to appoint an arbitrator within the specified time, the other Party may request the President of the International Court of Justice to make the appointment.</p>
+        <p>3. If both arbitrators cannot reach an agreement about the choice of the Chairman within two months after their appointment, the Chairman shall be appointed upon the request of either Party by the President of the International Court of Justice.</p>
+        <p>4. If in the cases specified under paragraphs (2) and (3) of this Article, the President of the International Court of Justice is prevented from carrying out the said function or if he is a national of either Party, the appointment shall be made by the Vice-President, and if the Vice-President is prevented from carrying out the said function or if he is a national of either Party, the appointment shall be made by the most senior member of the Court who is not a national of either Party.</p>
+        <p>5. The tribunal shall have three months from the date of the selection of the Chairman to agree upon rules of procedure consistent with the other provisions of this Agreement. In the absence of such agreement, the tribunal shall request the President of the International Court of Justice to designate rules of procedure taking into account generally recognized rules of international arbitral procedure.</p>
+        <p>6. Unless otherwise agreed, all submissions shall be made and all hearings shall be completed within eight months from the date of selection of the Chairman, and the tribunal shall render its decision within two months after the date of the final submissions or the date of the closing of the hearings whichever is later The arbitral tribunal shall reach its decision which shall be final and binding, by a majority of votes.</p>
+        <p>7. Expenses incurred by the Chairman the other arbitrators and other costs of the proceedings shall be paid for equally by the Parties. The tribunal may however, at its discretion, decide that a higher proportion of the costs be paid by one of the Parties.</p>
+        <p>8. A dispute shall not be submitted to an international arbitration court under the provisions of this Article, if the same dispute has been brought before another international arbitration court under the provisions of Article VII and is still pending before the court. This will not impair the engagement in direct and meaningful negotiations between both Parties.</p>
+      </div>
+      <div type="article" num="IX" title="Application of other rules">
+        <p>1. If the provisions of law of either Party or obligations under international law existing at present or established hereafter between the Parties in addition to this Agreement, contain a regulation, whether general or specific, entitling investments by investors of the other Party to a treatment more favourable than is provided for by this Agreement, such regulation shall, to the extent that it is more favourable, prevail over this Agreement.</p>
+        <p>2. Each Party shall observe any other obligation it may have entered into with regard to a specific investment of an investor of the other Party.</p>
+      </div>
+      <div type="article" num="X" title="Consultations">
+        <p>Representatives of the Parties shall, whenever necessary, hold consultations on any matter affecting the implementation of this Agreement. These consultations shall be held on the proposal of one of the Parties at a place and at a time to be agreed upon through diplomatic channels.</p>
+      </div>
+      <div type="article" num="XI" title="Entry into force">
+        <p>1. This Agreement shall enter into force thirty (30) days after the date on which the exchange of instruments of ratification has been completed It shall remain in force for a period of ten (10) years and shall continue in force unless terminated in accordance with paragraph 2 of this Article.</p>
+        <p>2. Either Party may by giving one year's written notice to the other Party terminate this Agreement at the end of the initial ten (10) year period or at any time thereafter.</p>
+        <p>3. This Agreement may be amended by written agreement between the Parties Any amendment shall enter into force thirty (30) days after the Parties have exchanged the notifications that all internal requirements for the entry into force of such amendment have been completed.</p>
+        <p>4. With respect to investments made prior to the date of termination of this Agreement and to which this Agreement otherwise applies, the provisions of all the other Articles of this Agreement shall thereafter continue to be effective for a further period of ten (10) years from such date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE in duplicate in Ankara on the day of 20th January 2000 in the Turkish, Greek and English languages. All texts are equally authentic.</p>
+      <p>In case of divergence of interpretation the English text shall prevail.</p>
+    </conclusion>
+  </main>
+</treaty>

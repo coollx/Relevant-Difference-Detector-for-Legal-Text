@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Congo, Democratic Republic of the - Korea, Republic of BIT (1990)</name>
+    <code>T1990-22</code>
+    <partyisocode n="0">COD</partyisocode>
+    <partyisocode n="1">KOR</partyisocode>
+    <date_signed>1990-07-19</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>1036</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{COD,KOR}_1990-07-19.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACED_BY" document-code="T2005-36">Congo, Democratic Republic of the - Korea, Republic of BIT (2005)</relation>
+  </meta>
+  <main/>
+</treaty>

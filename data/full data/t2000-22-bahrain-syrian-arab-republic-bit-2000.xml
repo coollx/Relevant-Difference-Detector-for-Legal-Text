@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Bahrain - Syrian Arab Republic BIT (2000)</name>
+    <code>T2000-22</code>
+    <partyisocode n="0">BHR</partyisocode>
+    <partyisocode n="1">SYR</partyisocode>
+    <date_signed>2000-09-20</date_signed>
+    <date_into_force>2001-12-18</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ar</orig_language>
+    <termination_type/>
+    <docreference>357</docreference>
+    <comments/>
+    <source>https://www.legalaffairs.gov.bh/LegislationSearchDetails.aspx?id=3166</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>ar</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BHR,SYR}_2000-09-20.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on the Promotion and Protection of Investment between the Government of the State of Bahrain and the Government of the Syrian Arab Republic</p>
+    </title>
+    <preamble>
+      <p>The Government of the State of Bahrain, and </p>
+      <p>The Government of the Syrian Arab Republic,</p>
+      <p>Desiring to create conditions conducive to more economic cooperation between them and, in particular, encouraging investments made by investors from one of the two countries in the other country,</p>
+      <p>Realizing that the encouragement and mutual protection in accordance with Arab and international agreements create an "encouraging" situation to stimulate trade initiatives and increase prosperity in both countries,</p>
+      <p>And keen on support and develop the appropriate climate for investment, under which economic and financial resources can be transferred between them and in a way that merits economic and Arab integration,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this agreement:</p>
+        <p>1. "Investment" means the various funds invested by natural or legal persons affiliated with one of the two countries in the other country in accordance with the "investment promotion laws and regulations in force in each of them, including for example:</p>
+        <p>A. The movable and immovable property of investment projects related to one of the investment laws in effect in the host contracting country, as well as related guarantees such as mortgages, debt securities, concessions and other mortgages. </p>
+        <p>B. Companies 'shares, bonds, securities, and shares in the ownership of companies that are permitted to be traded according to the laws and regulations in force in both countries.</p>
+        <p>C. Industrial and intellectual property rights, which include the rights related to publication, patents, trademarks, trade names, and industrial designs.Trade secrets, pure manufacturing processes, know-how and commercial reputation established by the laws of the contracting parties and used in a licensed investment project in accordance with the provisions of one of their investment laws.</p>
+        <p>2. The word "investor" means:    </p>
+        <p>A. The natural persons of the nationality of one of the contracting parties according to his laws and practicing the investment activity in the territory of the other contracting party according to the laws and regulations in effect.</p>
+        <p>B. Legal persons (entities and units recognized by this person in accordance with the laws of the contracting party), including public, private and joint companies and institutions engaged in investment activity in the country of the other contracting party.</p>
+        <p>3. The term "returns" means the net amounts resulting from the investment in accordance with the laws in force in the host country, including in particular, and not limited to profits and dividends.</p>
+        <p>4. The term "territory" means:</p>
+        <p>A. Regarding the State of Bahrain:</p>
+        <p>The term "Bahrain" (the State of Bahrain) means its geographical meaning. It means the land of the State of Bahrain, including its islands, the territorial sea, and the overgrown region, and any marine area located outside the territorial seas of the State of Bahrain where this region is or is likely to become in the future classified according to the national law of the State of Bahrain and in accordance with international law as a region that the State of Bahrain is entitled to exercise Its rights in relation to the bottom of its seas and below the surface of its soil and natural resources.</p>
+        <p>B. Regarding the Syrian Arab Republic:</p>
+        <p>It means Syria (the Syrian Arab Republic) in its geographical sense. It means the land of the Syrian Arab Republic, including the territorial sea, the continental mainland, the subsoil thereof, and the airspace above it and all other areas outside the Syrian territorial waters over which Syria exercises the right of sovereignty in accordance with international rights and its national legislation for the purposes of extracting and investing natural, biological, mining resources and all other rights,  which are found in water, land and under the seabed.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>1. Each of the contracting parties encourages and creates "favorable conditions" for investors from the other contracting party to invest capital in a region and accepts such investments in accordance with its national laws, regulations and policies.             </p>
+        <p>2. Each of the contracting parties shall provide the facilities and permits necessary for the entry, exit, residence and work of the investor, and for those whose actions are connected "permanently" or "temporarily" with investment from experts, administrators, technicians and workers in accordance with" the legislation and laws in force in the host country.              </p>
+        <p>3. Each of the contracting parties shall be obligated to grant a fair and equitable treatment to the investments of the investors of the other contracting party, and it shall also not be the management, maintenance, use, transfer, enjoyment or assignment of the investment made by the investors of the other contracting party in its region, as well as the companies and projects that took place in it. These investments are subject to any special procedures or legally unjustified.             </p>
+        <p>4. The investments and their returns that are employed by a natural or legal person in the country of the other contracting party shall enjoy the facilities, incentives and other forms of encouragement, including exemptions from taxes and fees stipulated in the investment laws and regulations in force in the host country for investment. The licensing instrument for each of these investments determines the investment law that applies to it according to the nature of the project and its composition.            </p>
+        <p>5. These investments and their returns benefit from the benefits established in accordance with the collective Arab agreements related to investments to which all contracting parties are a party and ratified by them.  </p>
+      </div>
+      <div type="article" num="3" title="Nationalization and expropriation">
+        <p>Neither of the contracting parties may harm the investments belonging to the other party, and manage, continue, renew, sell or liquidate those investments through procedures that violate applicable laws and regulations, in accordance with the following:</p>
+        <p>1. It is not permissible, directly or indirectly, to nationalize, expropriate or freeze the investments of any of the contracting parties in the lands of the other contracting party or the investments of any of their natural or legal persons, and it is not permissible to subject these investments to procedures that have the same effects of nationalization, expropriation, limit or disposing of the ownership of investments and their investments, unless it is for a public benefit and for the public interest of this country in return for immediate compensation, on non-discriminatory grounds and in accordance with the applicable laws, and it is allowed to transfer in accordance with Article Five of this agreement.</p>
+        <p>2. Subject to the provisions of Article Six of this agreement, the investor shall have the right to object to any of these procedures, and he has the right, in this regard, to follow the various legal and space procedures in force in the host country.                  </p>
+        <p>3. Compensation is calculated on the basis of the fair market value of the investment, prior to the announcement of the expropriation decision directly or simply by informing about the expropriation of the public, and this value is determined in accordance with the common market value determination principles. In the event that the market value cannot be determined, the compensation value is determined according to fair principles taking into account invested capital, amortization of capital, goodwill and other similar matters.</p>
+      </div>
+      <div type="article" num="4" title="Compensation">
+        <p>Investors affiliated with either of the contracting parties whose investments cause losses in the other contracting party's lands, due to war, armed conflict, revolution, civil emergency or civil disobedience, shall be treated no less than that which the other contracting party gives to its citizens with regards to recovery their money or compensation for damages or other compensation, and they are also allowed to transfer it abroad in accordance with Article Five of this Agreement.</p>
+      </div>
+      <div type="article" num="5" title="Transfer of capital and returns">
+        <p>Each of the contracting parties allows the transfer of the transferred capital and its returns invested in assets in its territories abroad in the same currency in which it was originally received or in any freely transferable currency without delay according to the laws and regulations of investment in effect, including, for example:</p>
+        <p>1. The invested capital, including the returns reinvested for the purpose of development and expansion, and duly authorized by the competent authorities in the host country.             </p>
+        <p>2. Profits, dividends, shares, interest and other returns due on any investment made by an investor in the other contracting country in accordance with the investment laws in effect.             </p>
+        <p>3. Funds resulting from the total or partial liquidation of any investment made by investors from the other contracting country according to the principles specified in the investment promotion laws applicable in the two contracting countries.             </p>
+        <p> 4. Paying the loan installments and interest obtained from abroad by the host country to invest in foreign currencies for the purpose of financing or expanding investment.             </p>
+        <p>5. The compensation mentioned in Articles 3 and 4 of this agreement and the payments resulting from disputes related to the project.             </p>
+      </div>
+      <div type="article" num="6" title="Settlement of investment disputes between the investor and the host country">
+        <p>The disputes related to the various aspects of investments and activities in them and belonging to one of the contracting parties or their sponsors are settled through conciliation, arbitration or resorting to the Arab Investment Court, in accordance with the provisions of the sixth chapter of the Unified Agreement for the Investment of Arab Capitals in the Arab Countries and its annex approved by the Arab Economic and Social Council His decision No. 841 dated 10/9/1980. Adopted at its twenty-ninth session, held in Tunisia.</p>
+        <p>The investor has the right to resort to the local judiciary in the following cases:</p>
+        <p>1. Lack of agreement between the two parties to resort to conciliation.</p>
+        <p>2. The conciliator was unable to issue his report within the specified period.</p>
+        <p>3. The parties did not agree to accept the solutions proposed in the conciliator's report.</p>
+        <p>4. The parties did not agree to resort to arbitration.</p>
+        <p>5. The arbitral tribunal's decision was not issued for any reason.</p>
+      </div>
+      <div type="article" num="7" title="Settlement of disputes between the two contracting parties">
+        <p>1. Any dispute between the contracting parties regarding the interpretation of the texts of this agreement will be settled by consultation between representatives of the contracting parties, but if the dispute arises from the implementation of this agreement, it is possible.</p>
+        <p>2. If a friendly agreement was not reached between them within twelve months after the start of the dispute at the request of one of the two contracting parties, resort to a three-member arbitration panel.</p>
+        <p>3. Each contracting party must appoint one arbitrator and these two arbitrators must appoint a president of the arbitral tribunal who shall be a citizen of a third country.</p>
+        <p>4. If one of the contracting parties did not appoint his court and he did not consider the invitation of the other contracting party to make that appointment within two months, that arbitrator must be appointed upon the request of that contractor by the Secretary General of the League of Arab States.</p>
+        <p>5. If both arbitrators are unable to reach an agreement on choosing the president of the arbitral tribunal within two months after their appointment, that president must be appointed from a third country upon the request of either of the contracting parties by the Secretary-General of the League of Arab States.</p>
+        <p>Subject to other provisions agreed upon by the contracting parties, the arbitral tribunal decides its legal procedures.</p>
+        <p>6. Each contracting party shall bear the expenses of the arbitrator he appointed and the expenses of his representation in the arbitration sessions, and the two contracting parties shall jointly bear the expenses of the president of the arbitral tribunal and the remaining expenses equally.</p>
+        <p>The decisions of the evaluation committee shall be final and binding on each contracting party.</p>
+      </div>
+      <div type="article" num="8" title="Scope of application of the agreement">
+        <p>1. The provisions of this agreement shall apply to the investments and related activities belonging to the State of Bahrain or one of its nationals, and it is agreed in the Syrian Arab Republic to include it with one of the provisions of the applicable investment laws, especially Investment Law No. 10 of 1990 or Resolution No. 186 of 1985, after the entry into force of this agreement. </p>
+        <p>2. The provisions of this agreement shall also apply to the investments and related activities belonging to the Syrian Arab Republic or one of its nationals, which are implemented in the State of Bahrain in accordance with the provisions of the laws and regulations in effect.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>1. If the investment is duly licensed to an investor of one of the contracting parties insured against non-commercial risks under a system updated by law and with the approval of the other contracting party, then any solutions for the guarantor result from the terms of the guarantee agreement, it must be recognized by the other contracting party.        </p>
+        <p>2. The guarantor shall not be entitled to exercise any rights other than those for which the investor is entitled to exercise them.</p>
+        <p>3. That the dispute between a contracting party and such a guarantor is settled according to the provisions of Article  6 of this agreement.           </p>
+      </div>
+      <div type="article" num="10" title="Application of other rules and special obligations">
+        <p>Investments governed by this agreement may benefit from the best provisions and benefits stipulated in other agreements to which the two countries are a party, and of any of those stipulated in the domestic law in force in the host country.</p>
+      </div>
+      <div type="article" num="11" title="Joint committee">
+        <p>The joint committee stipulated in Article eleven of the provisions of the economic and commercial cooperation agreement concluded between the two countries in 1994 shall follow up the implementation of this agreement and address the difficulties that face its implementation, discuss the means that lead to encouraging investments, study the proposals referred to it by the concerned authorities in the two countries and play a conciliatory role for the differences related to investment activity and work to resolve it amicably.</p>
+      </div>
+      <div type="article" num="12" title="Entry into force">
+        <p>This agreement shall come into force 30 days after the date of the last notifications to complete the procedures for approval by the contracting parties.</p>
+      </div>
+      <div type="article" num="13" title="Duration and termination">
+        <p>This agreement is valid for a period of ten years, renewed automatically for a similar period unless one of the contracting parties notifies the other contracting party in writing of his desire to terminate it one year before the date of its expiry date, and the investments made before the date of its termination are subject to it for a period of ten years from the date of this termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>This agreement was drawn up in Manama on the 22nd of the month of Jumada Al-Akherah 1421 AH, corresponding to Wednesday 20 September of the year 2000 AD. in two original copies in Arabic, each with the same authenticity.</p>
+      <p>For the Government of the Syrian Arab Republic</p>
+      <p>Dr. Muhammad Al-Emadi</p>
+      <p>Minister of Economy and Foreign Trade</p>
+      <p>For the Government of the State of Bahrain</p>
+      <p>Abdullah Hassan Saif</p>
+      <p>Minister of Finance and National Economy</p>
+    </conclusion>
+  </main>
+</treaty>

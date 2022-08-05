@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>C&#xF4;te d'Ivoire - Ghana BIT (1997)</name>
+    <code>T1997-53</code>
+    <partyisocode n="0">CIV</partyisocode>
+    <partyisocode n="1">GHA</partyisocode>
+    <date_signed>1997-11-04</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>1059</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CIV,GHA}_1997-11-04.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2003-46">ECOWAS Energy Protocol</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2008-36">ECOWAS Supplementary Act on Investments (2008)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2003-46">ECOWAS Energy Protocol</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2008-36">ECOWAS Supplementary Act on Investments (2008)</relation>
+  </meta>
+  <main/>
+</treaty>

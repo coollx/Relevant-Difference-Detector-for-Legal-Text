@@ -1,0 +1,650 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Canada - Mali BIT (2014)</name>
+    <code>T2014-15</code>
+    <partyisocode n="0">CAN</partyisocode>
+    <partyisocode n="1">MLI</partyisocode>
+    <date_signed>2014-11-28</date_signed>
+    <date_into_force>2016-06-08</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>3540</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CAN,MLI}_2014-11-28.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement Between Canada and Mali for the Promotion and Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>Canada and Mali, hereinafter referred to as the "Parties",</p>
+      <p>Recognizing that the promotion and the protection of investments of investors of one Party in the territory of the other Party are conducive to the stimulation of mutually beneficial business activity, to the development of economic cooperation between them and to the promotion of sustainable development,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="section" num="A" title="Definitions">
+        <div type="article" num="1">
+          <p>Definitions</p>
+          <p>For the purpose of this Agreement:</p>
+          <p>" central government "means,for Canada, the federal government, and, for Mali, the government of the Republic of Mali.</p>
+          <p>" competition authority " means:</p>
+          <p>(a)  for Canada, the Commissioner of Competition or a successor to be notified to Mali by diplomatic note; and</p>
+          <p>(b)  for Mali, the National Director of Trade and Competition or a successor to be notified to Canada by diplomatic note;</p>
+          <p>" confidential information " means confidential business information or information that is privileged or otherwise protected from disclosure under the law of a Party;</p>
+          <p>" covered investment " means</p>
+          <p>An investment in the territory of a Party of an investor of the other Party that exists on the date of entry into force of this Agreement, as well as investments made or acquired after that date;</p>
+          <p>" disputing investor " means</p>
+          <p>An investor that makes a claim under Section C (Settlement of Disputes between an Investor and the Host Party);</p>
+          <p>" disputing party " means the disputing investor or the respondent Party;</p>
+          <p>" enterprise " means:</p>
+          <p>(i)  any entity constituted or organized under applicable law, whether or not for profit, whether privately-owned or</p>
+          <p>Governmentally-owned, including a corporation, trust, partnership, sole proprietorship, joint venture or other association; and</p>
+          <p>(ii)  a branch of any such entity;</p>
+          <p>" existing "means</p>
+          <p>In effect on the date of entry into force of this Agreement;</p>
+          <p>" financial institution " means</p>
+          <p>A financial intermediary or other enterprise that is authorized to do</p>
+          <p>Business and that is regulated or supervised as a financial institution</p>
+          <p>Under the law of the Party in whose territory it is located;</p>
+          <p>" financial service "means</p>
+          <p>A service of a financial nature, including insurance, and a service incidental or auxiliary to a service of a financial nature;</p>
+          <p>" ICSID " means</p>
+          <p>The International Centre for the Settlement of Investment Disputes established by the ICSID Convention;</p>
+          <p>" ICSID Convention " means</p>
+          <p>The Convention on the Settlement of Investment Disputes between States and Nationals of Other States, done at Washington on 18 March 1965;</p>
+          <p>" information protected under its competition law " means</p>
+          <p>(a)  for Canada, information within the scope of Section 29 of the Competition Act, R.S.</p>
+          <p>C.  1985, c.34, or any successor provision, and</p>
+          <p>(b)  for Mali, any provisions that are in force to the extent that it regulates any communication of information submitted to its competition authority, or obtained by it, to administer or to enforce its legislation on competition, or any successor provision;</p>
+          <p>" intellectual property rights " means copyright and related rights, trademark rights, rights in geographical indications, rights in industrial designs, patent rights, rights in layout designs of integrated circuits, rights in relation to protection of undisclosed information, and plant breeders' rights;</p>
+          <p>" investment " means:</p>
+          <p>(a)  an enterprise;</p>
+          <p>(b)  shares, stocks and other forms of equity participation in an enterprise;</p>
+          <p>(c)  bonds, debentures, and other debt instruments of an enterprise;</p>
+          <p>(d)  a loan to an enterprise;</p>
+          <p>(e)  notwithstanding subparagraphs (c) and (d) above, a loan to or debt security issued by a financial institution is an investment only where the loan or debt security is treated as regulatory</p>
+          <p>Capital by the Party in whose territory the financial institution is located;</p>
+          <p>(f)  an interest in an enterprise that entitles the owner to a share in income or profits of the enterprise;</p>
+          <p>(g)  an interest in an enterprise that entitles the owner to share in the assets of that enterprise on dissolution;</p>
+          <p>(h)  interests arising from the commitment of capital or other resources in the territory of a Party to economic activity in that territory, such as under:</p>
+          <p>O (i) contracts involving the presence of an investor's</p>
+          <p>Property in the territory of the Party, including turnkey or construction contracts, and concessions such as to search for and extract oil and other natural resources, or o (ii) contracts where remuneration depends substantially on the production, revenues or profits of an enterprise; o (i) intellectual property rights; and</p>
+          <p>(j)  any other tangible or intangible, moveable or immovable, property and related property rights acquired in the expectation of or used for the purpose of economic benefit or other business purpose;</p>
+          <p>But " investment " does not mean,</p>
+          <p>(k)  claims to money that arise solely from:</p>
+          <p>O (i) commercial contracts for the sale of goods or services by a national or enterprise in the territory of a Party to an enterprise in the territory of the other Party, or o (ii) the extension of credit in connection with a</p>
+          <p>Commercial transaction, such as trade financing, other than a loan covered by subparagraph (d); or</p>
+          <p>(l)  any other claims to money,</p>
+          <p>That do not involve the kinds of interests set out in subparagraphs (a) to (j);</p>
+          <p>" investment of an investor of a Party " means an investment owned or controlled directly or indirectly by an investor of that Party;</p>
+          <p>" investor of a Party " means</p>
+          <p>A Party, a national or an enterprise of a Party, that seeks to make, is making or has made an investment;</p>
+          <p>" measure " includes any law, regulation, procedure, requirement, or</p>
+          <p>Practice;</p>
+          <p>" national " means:</p>
+          <p>(a)  for Canada, a natural person who is a citizen or permanent resident of Canada;</p>
+          <p>(b)  for Mali, a natural person who is a citizen of Mali;</p>
+          <p>Except that:</p>
+          <p>(c)  a natural person who is a dual citizen of Canada and Mali shall be deemed to be exclusively a national of the Party of his or her dominant and effective nationality; and</p>
+          <p>(d)  a natural person who is a citizen of one Party and a permanent resident of the other Party shall be deemed to be exclusively a national of the Party of his or her citizenship;</p>
+          <p>" New York Convention " means</p>
+          <p>The United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards, done at New York on 10 June 1958;</p>
+          <p>" person "means</p>
+          <p>A natural person or an enterprise;</p>
+          <p>" respondent Party "means</p>
+          <p>A Party against which a claim is made under Section C (Settlement of Disputes between an Investor and the Host Party);</p>
+          <p>" sub-national government "means,</p>
+          <p>For Canada, provincial, territorial, or local governments;</p>
+          <p>" territory " means:</p>
+          <p>(a)  the land territory, internal waters and territorial sea, including the air space above these areas, of the Party;</p>
+          <p>(b)  the exclusive economic zone of the Party, as determined by its domestic law, consistent with Part V of theUnited</p>
+          <p>Nations Convention on the Law of the Sea, done at Montego Bay on 10 December 1982 (UNCLOS); and</p>
+          <p>(c)  the continental shelf of the Party, as determined by its domestic law, consistent with Part VI of UNCLOS;</p>
+          <p>" Tribunal " means</p>
+          <p>An arbitration tribunal established under Article 23 (Submission of a Claim to Arbitration) or Article 27 (Consolidation);</p>
+          <p>" TRIPS Agreement " means</p>
+          <p>The Agreement on Trade-Related Aspects of Intellectual Property Rights;</p>
+          <p>" UNCITRAL Arbitration Rules " means the arbitration rules of the United Nations Commission on International Trade Law, in their most recent form; and</p>
+          <p>" WTO Agreement " means</p>
+          <p>The Marrakesh Agreement Establishing the World Trade Organization, done at Marrakesh on 15 April 1994.</p>
+        </div>
+      </div>
+      <div type="section" num="B" title="Substantive obligations">
+        <div type="article" num="2" title="Scope">
+          <p>1.  This Agreement applies to measures adopted or maintained by a Party relating to:</p>
+          <p>(a)  investors of the other Party; and</p>
+          <p>(b)  covered investments.</p>
+          <p>2.  The obligations in Section B (Substantive Obligations) apply to any person of a Party when it exercises a regulatory, administrative, or other governmental authority delegated to it by that Party.</p>
+        </div>
+        <div type="article" num="3" title="Promotion of investment">
+          <p>Each Party shall encourage the creation of favourable conditions for investment in its territory by investors of the other Party. Each Party admits investments in conformity with its laws and regulations otherwise consistent with this Agreement.</p>
+        </div>
+        <div type="article" num="4" title="National treatment">
+          <p>1.  Each Party shall accord to investors of the other Party treatment no less favourable than that it accords, in like circumstances, to its own investors with respect to the establishment, acquisition, expansion, management, conduct, operation and sale or other disposition of investments in its territory.</p>
+          <p>2.  Each Party shall accord to covered investments treatment no less favourable than that it accords, in like circumstances, to investments of its own investors with respect to the establishment, acquisition, expansion, management, conduct, operation and sale or other disposition of investments in its territory.</p>
+          <p>3.  The treatment accorded by a Party under paragraphs 1 and 2 means, with respect to a sub-national government, treatment no less favourable than the treatment accorded, in like circumstances, by that sub-national government to investors, and to investments of investors, of the Party of which it forms a part.</p>
+        </div>
+        <div type="article" num="5" title="Most-favoured-nation treatment">
+          <p>1.  Each Party shall accord to investors of the other Party treatment no less favourable than that it accords, in like circumstances, to investors of a nonParty with respect to the establishment, acquisition, expansion, management, conduct, operation and sale or other disposition of investments in its territory.</p>
+          <p>2.  Each Party shall accord to covered investments treatment no less favourable than that it accords, in like circumstances, to investments of investors of a non-Party with respect to the establishment, acquisition, expansion, management, conduct, operation and sale or other disposition of investments in its territory.</p>
+          <p>3.  For greater certainty, the treatment accorded by a Party under this Article means, with respect to a sub-national government, treatment accorded, in like circumstances, by that sub-national government to investors, and to investments of investors, of a non-Party.</p>
+        </div>
+        <div type="article" num="6" title="Minimum standard of treatment">
+          <p>1.  Each Party shall accord to covered investments treatment in accordance with the customary international law minimum standard of treatment of aliens, including fair and equitable treatment and full protection and security.</p>
+          <p>2.  The concepts of "fair and equitable treatment" and "full protection and security" in paragraph 1 do not require treatment in addition to or beyond that which is required by the customary international law minimum standard of treatment of aliens.</p>
+          <p>3.  A breach of another provision of this Agreement, or of a separate international agreement, does not establish that there has been a breach of this Article.</p>
+        </div>
+        <div type="article" num="7" title="Compensation for losses">
+          <p>Notwithstanding Article 16(7) (Reservations and Exceptions), each Party shall accord to investors of the other Party, and to covered investments, non-discriminatory treatment with respect to measures it adopts or maintains relating to compensation for losses incurred by investments in its territory as a result of armed conflict, civil strife, or a natural disaster.</p>
+        </div>
+        <div type="article" num="8" title="Senior management, boards of directors and entry of personnel">
+          <p>1.  A Party may not require that an enterprise of that Party, that is a covered investment, appoint to senior management positions individuals of a particular nationality.</p>
+          <p>2.  A Party may require that a majority of the board of directors, or a committee thereof, of an enterprise of that Party that is a covered investment be of a particular nationality or resident in the territory of the Party, provided</p>
+          <p>That the requirement does not materially impair the ability of the investor to exercise control over its investment.</p>
+          <p>3.  Subject to its domestic law relating to the entry of aliens, each Party shall grant temporary entry to nationals employed by an investor of the other Party who seek to render managerial or executive services, or services that require specialized knowledge, to an investment of that investor in the territory of the Party.</p>
+        </div>
+        <div type="article" num="9" title="Performance requirements">
+          <p>1.  The Parties reaffirm their obligations under the WTO Agreement on Trade-Related Investment Measures, the provisions of which, as they may be amended from time to time, are incorporated into and are part of this Agreement.</p>
+          <p>2.  A Party may not impose or enforce any of the following requirements, or enforce any commitment or undertaking, in connection with the establishment, acquisition, expansion, management, conduct or operation of an investment of an investor of a Party or of a non-Party in its territory:</p>
+          <p>(a)  to export a given level or percentage of goods;</p>
+          <p>(b)  to achieve a given level or percentage of domestic content;</p>
+          <p>(c)  to transfer technology, a production process or other proprietary knowledge to a person in its territory except when the requirement is imposed or the commitment or undertaking is enforced by a court, administrative tribunal or competition authority to remedy an alleged violation of competition laws or to act in a manner consistent with other provisions of this Agreement; or</p>
+          <p>(d)  to supply exclusively from its territory a good that the investment produces or a service it provides to a specific regional market or to the world market.</p>
+          <p>3.  For greater certainty, paragraph 2 does not prevent a Party from conditioning the receipt or continued receipt of an advantage in connection with an investment in its territory, on compliance with a requirement set out in that paragraph.</p>
+          <p>4.  A measure that requires an investment to use a technology to meet generally applicable health, safety or environmental requirements sis not inconsistent with subparagraph 2(c).</p>
+        </div>
+        <div type="article" num="10" title="Expropriation">
+          <p>1.  A Party shall not nationalize or expropriate a covered investment either directly or indirectly through measures having an effect equivalent to</p>
+          <p>Nationalization or expropriation ("expropriation") except for a public purpose, in accordance with due process of law, in a non-discriminatory manner and on payment of prompt, adequate and effective compensation. For greater certainty, this paragraph is interpreted in accordance with Annex B.</p>
+          <p>10.</p>
+          <p>2.  This compensation referred to in paragraph 1 must be equivalent to the fair market value of the expropriated investment immediately before the expropriation took place ("date of expropriation"), and must not reflect a change in value occurring because the intended expropriation had become known earlier. Valuation criteria must include going concern value, asset value including declared tax value of tangible property, and other criteria, as appropriate, to determine fair market value.</p>
+          <p>3.  Compensation shall be paid without delay and shall be fully realizable and freely transferable. Compensation shall be payable in a freely convertible currency and shall include interest at a commercially reasonable rate for that currency from the date of expropriation until date of payment.</p>
+          <p>4.  The affected investor shall have a right, under the law of the expropriating Party, to a prompt review of its case and of the valuation of its investment by a judicial or other independent authority of that Party in accordance with the principles set out in this Article.</p>
+          <p>5.  This Article does not apply to the issuance of compulsory licenses granted in relation to intellectual property rights, or to the revocation, limitation, or creation of intellectual property rights, to the extent that the issuance, revocation, limitation, or creation is consistent with the WTO Agreement.</p>
+        </div>
+        <div type="article" num="11" title="Transfer">
+          <p>1.  Each Party shall permit all transfers relating to a covered investment to be made freely and without delay, into and out of its territory. Those transfers include:</p>
+          <p>(a)  contributions to capital;</p>
+          <p>(b)  profits, dividends, interest, capital gains, royalty payments, management fees, technical assistance and other fees, returns in kind and other amounts derived from the covered investment;</p>
+          <p>(c)  proceeds from the sale of all or any part of the covered investment or from the partial or complete liquidation of the covered investment;</p>
+          <p>(d)  payments made under a contract entered into by the investor, or the covered investment, including payments made pursuant to a loan agreement;</p>
+          <p>(e)  payments made pursuant to Articles 7 (Compensation for Losses) and 10 (Expropriation); and</p>
+          <p>(f)  payments arising under Section C (Settlement of Disputes between an Investor and the Host Party).</p>
+          <p>2.  Each Party shall permit transfers relating to a covered investment to be made in the convertible currency in which the capital was originally invested, or in any other convertible currency agreed to by the investor and the Party concerned. Unless otherwise agreed by the investor, transfers shall be made at the market rate of exchange in effect on the date of transfer.</p>
+          <p>3.  Notwithstanding paragraphs 1 and 2, a Party may prevent a transfer through the equitable, non-discriminatory, and good faith application of its domestic law relating to:</p>
+          <p>(a)  bankruptcy, insolvency, or the protection of the rights of creditors;</p>
+          <p>(b)  issuing, trading or dealing in securities;</p>
+          <p>(c)  criminal or penal offences;</p>
+          <p>(d)  reports of transfers of currency or other monetary instruments; or</p>
+          <p>(e)  enforcement of orders or judgements in judicial or similar proceedings.</p>
+          <p>4.  A Party may not require its investors to transfer, or penalize its investors for failing to transfer, the income, earnings, profits, or other amounts derived from, or attributable to, investments in the territory of the other Party.</p>
+          <p>5.  Paragraph 4 does not prevent a Party from imposing a measure through the equitable, non-discriminatory, and good faith application of its domestic law relating to the matters in subparagraphs 3(a) through 3(e).</p>
+          <p>6.  Notwithstanding paragraphs 1, 2 and 4, and without limiting the applicability of paragraph 5, a Party may prevent or restrict transfers by a financial institution to, or for the benefit of, an affiliate of or person related to that institution, through the equitable, non-discriminatory and good faith application of measures relating to maintenance of the safety, soundness, integrity or financial responsibility of financial institutions.</p>
+          <p>7.  Notwithstanding paragraph 1, a Party may restrict transfers of returns-in-kind in circumstances where it could otherwise restrict transfers under the WTO Agreement, and as set out in paragraph 3.</p>
+        </div>
+        <div type="article" num="12" title="Transparency">
+          <p>1.  Each Party shall ensure that its laws, regulations, procedures, and administrative rulings of general application respecting any matter covered by this Agreement are promptly published or otherwise made available in such a manner as to enable interested persons and the other Party to become acquainted with them.</p>
+          <p>2.  To the extent possible, each Party shall:</p>
+          <p>(a)  publish in advance any such measure that it proposes to adopt; and</p>
+          <p>(b)  provide interested persons and the other Party a reasonable opportunity to comment on that measure.</p>
+          <p>3.  Upon request by a Party, information is exchanged on any of the measures of the other Party that may have an impact on covered investments.</p>
+        </div>
+        <div type="article" num="13" title="Subrogation">
+          <p>1.  If a Party or any agency of a Party makes a payment to any of its investors under a guarantee or a contract of insurance it has entered into in respect of an investment, the other Party shall recognize the validity of the subrogation in favour of the Party or agency to any right or title held by the investor.</p>
+          <p>2.  A Party or any agency of a Party that is subrogated to the rights of an investor in accordance with paragraph 1 is entitled, in all circumstances, to the same rights as the investor in respect of the investment. Those rights may be exercised by the Party or any agency of the Party or by the investor if the Party or its agency authorizes it.</p>
+        </div>
+        <div type="article" num="14" title="Taxation measures">
+          <p>1.  Except as set out in this Article, the provisions of this Agreement do not apply to taxation measures.</p>
+          <p>2.  The provisions of this Agreement do not affect the rights and obligations of the Parties under a tax convention. In the event of an inconsistency between this Agreement and a tax convention, the tax convention applies to the extent of the inconsistency.</p>
+          <p>3.  The provisions of this Agreement do not require a Party to furnish or allow access to information that, if disclosed, would be contrary to the Party's law protecting information concerning the taxation affairs of a taxpayer.</p>
+          <p>4.  Subject to paragraph 2, the provisions of Articles 4 (National Treatment) and 5 (Most Favoured Nation Treatment) apply to all taxation measures, other than those that relate to income, capital gains, or the taxable capital of corporations. However, the provisions of these Articles do not apply to:</p>
+          <p>(a)  a non-conforming provision of any existing taxation measure;</p>
+          <p>(b)  the continuation or prompt renewal of a non-conforming provision of any existing taxation measure;</p>
+          <p>(c)  an amendment to a non-conforming provision of any existing taxation measure to the extent that the amendment does not decrease its conformity at the time of the amendment with those Articles; or</p>
+          <p>(d)  any new taxation measure that is aimed at ensuring the equitable and effective imposition or collection of taxes (including, for greater certainty, any measure that is taken by a Party to ensure compliance with the Party's taxation system or to prevent the avoidance or evasion of taxes)</p>
+          <p>And that does not arbitrarily discriminate between persons, goods or services of the Parties.</p>
+          <p>5.  If the conditions in paragraph 6 are met:</p>
+          <p>(a)  a claim by an investor that a taxation measure of a Party is in breach of an agreement between a central government authority of a Party and the investor concerning an investment is considered a claim for breach of this Agreement; and</p>
+          <p>(b)  the provisions of Article 10 (Expropriation) apply to taxation measures.</p>
+          <p>6.  An investor may not make a claim under paragraph 5 unless:</p>
+          <p>(a)  the investor provides a copy of the notice of claim to the taxation authorities of the Parties; and</p>
+          <p>(b)  six months after receiving notification of the claim by the investor, the taxation authorities of the Parties fail to reach a joint determination that, in the case of subparagraph 5(a), the measure does not contravene that agreement, or in the case of subparagraph 5(b), the measure in question is not an expropriation.</p>
+          <p>7.  If, in connection with a claim by an investor of a Party or a dispute between the Parties, an issue arises as to whether a measure of a Party is a taxation measure, a Party may refer the issue to the taxation authorities of the Parties. A decision of the taxation authorities shall bind any Tribunal formed pursuant to Section C (Settlement of Disputes between an Investor and the Host Party) or arbitral panel formed pursuant to Section D (State-to-State Dispute Settlement Procedures). A Tribunal or arbitral panel seized of a claim or a dispute in which the issue arises may not proceed until it receives the decision of the taxation authorities. If the taxation authorities have not decided the issue within six months of the referral, the Tribunal or arbitral panel shall decide the issue.</p>
+          <p>8.  Unless otherwise notified by a Party, the taxation authorities referred to in this Article are as follows:</p>
+          <p>(a)  for Canada, the Assistant Deputy Minister, Tax Policy, Department of Finance Canada;</p>
+          <p>(b)  for Mali, the Secretary General of the Ministry of Finance.</p>
+        </div>
+        <div type="article" num="15" title="Health, safety, environmental measures and corporate social responsibility">
+          <p>1.  The Parties recognize that it is inappropriate to encourage investment by relaxing domestic health, safety, or environmental measures. Accordingly, a</p>
+          <p>2.  If a Party considers that the other Party has offered such an encouragement, it may request consultations with the other Party and the Parties shall consult with a view to avoiding any such encouragement. During these consultations, the Parties undertake to make best efforts in good faith to resolve any dispute regarding the application of paragraph 1.</p>
+          <p>3.  Each Party should encourage enterprises operating within its territory or subject to its jurisdiction to incorporate internationally recognized standards of corporate social responsibility in their practices and internal policies, such as statements of principle that have been endorsed or are supported by the Parties. These principles address issues such as labour, the environment, human rights, community relations, and anti-corruption.</p>
+        </div>
+        <div type="article" num="16" title="Reservations and exceptions">
+          <p>1.  Articles 4 (National Treatment), 5 (Most-Favoured-Nation Treatment), 8 (Senior Management, Boards of Directors and Entry of Personnel) and 9 (Performance Requirements) do not apply to:</p>
+          <p>(a) O (i) any existing and non-conforming measure, maintained in the territory of a Party;</p>
+          <p>O (ii) any measure maintained or adopted after the date of entry into force of this Agreement that, at the time of sale or other disposition of a government's equity interests in, or the assets of, an existing State enterprise or an existing governmental entity:</p>
+          <p>-  Prohibits or imposes limitations on the ownership or control of equity interests or assets, or</p>
+          <p>-  Imposes nationality requirements relating to senior management or members of the board of directors;</p>
+          <p>(b)  the continuation or prompt renewal of any non-conforming measure referred to in subparagraph (a); or</p>
+          <p>(c)  an amendment to any non-conforming measure referred to in subparagraph (a) to the extent that the amendment does not decrease the conformity of the measure, as it existed immediately before the amendment, with Articles 4 (National Treatment), 5 (Most-FavouredNation Treatment), 8 (Senior Management, Boards of Directors and Entry of Personnel) and 9 (Performance Requirements).</p>
+          <p>2.  Each Party shall, to the extent possible, set out in its schedule to Annex I any existing non-conforming measures maintained by it at the national level.</p>
+          <p>This schedule is for information purposes and without prejudice to paragraph 1.</p>
+          <p>3.  Articles 4 (National Treatment), 5 (Most-Favoured-Nation Treatment), 8 (Senior Management, Board of Directors and Entry of Personnel) and 9 (Performance Requirements) do not apply to any measure that a Party adopts or maintains with respect to sectors, subsectors or activities, as set out in its schedule to Annex II.</p>
+          <p>4.  Article 5 (Most-Favoured-Nation Treatment) does not apply to treatment accorded by a Party under agreements as set out in Annex III.</p>
+          <p>5.  In respect of intellectual property rights, a Party may derogate from Articles 4 (National Treatment), 5 (Most-Favoured-Nation Treatment), and 9(2)(c) (Performance Requirements) in a manner that is consistent with:</p>
+          <p>(a)  the TRIPS Agreement;</p>
+          <p>(b)  an amendment to the TRIPS Agreement in force for both Parties; and</p>
+          <p>(c)  a waiver to the TRIPS Agreement granted pursuant to Article IX of the WTO Agreement.</p>
+          <p>6.  The provisions of Articles 4 (National Treatment), 5 (Most-Favoured-Nation Treatment) and 8 (Senior Management and Board of Directors) of this Agreement do not apply to procurement by a Party of a State enterprise.</p>
+          <p>7.  The provisions of Articles 4 (National Treatment), 5 (Most-Favoured-Nation Treatment) and 8 (Senior Management and Board of Directors) of this Agreement do not apply to a subsidy or grant provided by a Party or a State enterprise, including a government-supported loan, a guarantee or insurance.</p>
+          <p>8.  The provisions of Article 5 (Most-Favoured-Nation Treatment) of this Agreement do not apply to financial services.</p>
+        </div>
+        <div type="article" num="17" title="General exceptions">
+          <p>1.  Subject to the requirement that measures are not applied in a manner that would constitute arbitrary or unjustifiable discrimination between investments or between investors, or a disguised restriction on international trade or investment, this Agreement does not prevent a Party from adopting or enforcing measures necessary:</p>
+          <p>(a)  to protect human, animal, or plant life or health;</p>
+          <p>(b)  to ensure compliance with domestic law that are not inconsistent with the provisions of this Agreement; or</p>
+          <p>(c)  to conserve living or non-living exhaustible natural resources.</p>
+          <p>2.  The provisions of this Agreement do not prevent a Party from adopting or maintaining reasonable measures for prudential reasons, such as:</p>
+          <p>(a)  the protection of investors, depositors, financial market participants, policy-holders, policy-claimants, or persons to whom a fiduciary duty is owed by a financial institution;</p>
+          <p>(b)  the maintenance of the safety, soundness, integrity or financial responsibility of financial institutions; and</p>
+          <p>(c)  ensuring the integrity and stability of a Party's financial system.</p>
+          <p>3.  The provisions of this Agreement do not apply to non-discriminatory measures of general application taken by a public entity in pursuit of monetary and related credit or exchange rate policies. This paragraph does not affect a Party's obligations under Article 9 (Performance Requirements) or 11 (Transfers).</p>
+          <p>4.  The provisions of this Agreement do not:</p>
+          <p>(a)  require a Party to furnish or allow access to information if that Party determines that the disclosure of this information would becontrary to its essential security interests;</p>
+          <p>(b)  prevent a Party from taking any actions that it considers necessary to protect its essential security interests:</p>
+          <p>O (i) relating to the traffic in arms, ammunition and implements of war and to such traffic and transactions in other goods, materials, services and technology undertaken directly or indirectly for the purpose of supplying a military or other security establishment;</p>
+          <p>O (ii) taken in time of war or other emergency in international relations; or</p>
+          <p>O (iii) relating to the implementation of national policies or international agreements respecting the non-proliferation of nuclear weapons or other nuclear explosive devices; or</p>
+          <p>(c)  prevent a Party from taking measures to fulfill its obligations under the United Nations Charter to maintain international peace and security.</p>
+          <p>5.  The provisions of this Agreement do not require a Party to furnish or allow access to information that, if disclosed, would impede law enforcement or would be contrary to the Party's law protecting the deliberative and policymaking processes of the executive branch of government at the cabinet level, personal privacy or the confidentiality of the financial affairs and accounts of individual customers of financial institutions.</p>
+          <p>6.  In the course of a dispute settlement procedure under this Agreement:</p>
+          <p>(a)  a Party is not required to furnish or allow access to information protected under its competition law;</p>
+          <p>(b)  a competition authority of a Party is not required to furnish or allow access to information that is privileged or otherwise protected from disclosure.</p>
+          <p>7.  The provisions of this Agreement do not apply to investments in cultural industries. "Cultural industries" means</p>
+          <p>Persons engaged in any of the following activities:</p>
+          <p>(a)  the publication, distribution or sale of books, magazines, periodicals or newspapers in print or machine-readable form, but not including the sole activity of printing or typesetting any of the foregoing;</p>
+          <p>(b)  the production, distribution, sale or exhibition of film or video recordings;</p>
+          <p>(c)  the production, distribution, sale or exhibition of audio or video music recordings;</p>
+          <p>(d)  the publication, distribution, sale or exhibition of music in print or machine-readable form; or</p>
+          <p>(e)  radiocommunications in which the transmissions are intended for direct reception by the general public, and all radio, television, or cable broadcasting undertakings and all satellite programming and broadcast network services.</p>
+          <p>8.  Any measure adopted by a Party in conformity with a decision adopted, extended, or modified by the World Trade Organization pursuant to Article IX:3 and IX:4 of the WTO Agreement are deemed also to conform with this Agreement. An investor that intends to act pursuant to Section C (Settlement of Disputes between an Investor and the Host Party) of this Agreement cannot claim that the conforming measure breaches this Agreement.</p>
+        </div>
+        <div type="article" num="18" title="Denial of benefits">
+          <p>1.  A Party may deny the benefits of this Agreement to an investor of the other Party that is an enterprise of that Party and to investments of that investor if investors of a non-Party own or control the enterprise and the denying Party adopts or maintains measures with respect to the non-Party that prohibit transactions with the enterprise or that would be violated or circumvented if the benefits of this Agreement were accorded to the enterprises or to its investments.</p>
+          <p>2.  A Party may deny the benefits of this Agreement to an investor of the other Party that is an enterprise of that Party and to investments of that investors if investors of a non-Party or of the denying Party own or control the enterprise and the enterprise has no substantial business activities in the territory of the Party under whose law it is constituted or organized.</p>
+        </div>
+      </div>
+      <div type="section" num="C">
+        <p>"- Settlement of Disputes between an Investor and the Host Party</p>
+        <div type="article" num="19" title="Purpose">
+          <p>Without prejudice to the rights and obligations of the Parties under Section D (State-to-State Dispute Settlement Procedures), this Section establishes a mechanism for the settlement of investment disputes.</p>
+        </div>
+        <div type="article" num="20" title="Claim by an investor of a party on its own behalf or on behalf of an enterprise">
+          <p>1.  A disputing investor may submit to arbitration under this Section a claim that:</p>
+          <p>(a)  the respondent Party has breached an obligation under Section B (Substantive Obligations), other than an obligation under Article 8(3) (Senior Management, Boards of Directors and Entry of Personnel), 12 (Transparency), or 15 (Health, Safety, Environmental Measures and Corporate Social Responsibility); and</p>
+          <p>(b)  the disputing investor has incurred loss or damage by reason of, or arising out of, that breach.</p>
+          <p>2.  A disputing investor, on behalf of an enterprise of the respondent Party that is a juridical person that the disputing investor owns or controls directly or indirectly, may submit to arbitration under this Section a claim that:</p>
+          <p>(a)  the respondent Party has breached an obligation under Section B (Substantive Obligations), other than an obligation under Article 8 (3) (Senior Management, Boards of Directors and Entry of Personnel), 12 (Transparency), or 15 (Health, Safety, Environmental Measures, and Corporate Social Responsibility); and</p>
+          <p>(b)  the enterprise has incurred loss or damage by reason of, or arising out of, that breach.</p>
+        </div>
+        <div type="article" num="21" title="Conditions precedent to submission of a claim to arbitration">
+          <p>1.  The disputing parties shall hold consultations in an attempt to settle a claim amicably before a disputing investor may submit a claim to arbitration. Unless the disputing parties agree to otherwise in accordance with paragraph 2(c), consultations shall be held within 60 days of the submission of the notice of intent to submit a claim to arbitration. The place of consultation shall be the capital of the respondent Party, unless the disputing parties otherwise agree.</p>
+          <p>2.  A disputing investor may submit a claim to arbitration under Article 20 (Claims by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise) only if:</p>
+          <p>(a)  the disputing investor and, where a claim is made under Article 20(2) (Claims by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise), the enterprise consent to arbitration in accordance with the procedures set out in this Agreement;</p>
+          <p>(b)  at least six months have elapsed since the events giving rise to the claim;</p>
+          <p>(c)  the disputing investor has delivered to the respondent Party written notice of its intent to submit a claim to arbitration at least 90 days prior to submitting the claim, which notice shall specify:</p>
+          <p>O (i) the name and address of the disputing investor and, where a claim is made under Article 20(2) (Claims by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise), the name and address of the enterprise;</p>
+          <p>O (ii) the provisions of this Agreement alleged to have been breached and any other relevant provisions; o (iii) the legal and factual basis for the claim, including the measures at issue; and</p>
+          <p>O (iv) the relief sought and the approximate amount of damages claimed;</p>
+          <p>(d)  the disputing investor has delivered evidence establishing that it is an investor of the other Party with its notice of intent to submit a claim to arbitration under paragraph 2(c);</p>
+          <p>(e)  in the case of a claim submitted under Article 20(1) (Claims by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise):</p>
+          <p>O (i) not more than three years have elapsed from the date on which the disputing investor first acquired, or should have first acquired, knowledge of the alleged breach and knowledge that the disputing investor has incurred loss or damage; and o (ii) the disputing investor and, where the claim is for loss or damage to an interest in an enterprise of the other Party that is a juridical person that the disputing investor owns or controls directly or indirectly, the enterprise waive its right to initiate or continue before a court or any administrative tribunal or court of a Party, or other dispute settlement procedures, proceedings with respect to the measure of the respondent Party that is alleged to be a breach referred to in Article 20 (Claims by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise), except for a proceeding for injunctive, declaratory or other extraordinary relief, not involving the payment of damages, before an administrative tribunal or court of the respondent Party;</p>
+          <p>(f)  in the case of a claim submitted under Article 20(2) (Claims by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise):</p>
+          <p>O (i) not more than three years have elapsed from the date on which the enterprise first acquired, or should have first acquired, knowledge of the alleged breach and knowledge that the enterprise has incurred loss or damage; and o (ii) both the disputing investor and the enterprise waive their right to initiate or continue before an administrative tribunal or court of</p>
+          <p>A Party, or other dispute settlement procedures, proceedings with respect to the measure of the respondent Party that is alleged to be a breach referred to in Article 20 (Claims by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise), except for proceedings for injunctive, declaratory or other extraordinary relief, not involving the payment of damages, before an administrative tribunal or court of the respondent Party.</p>
+          <p>3.  A consent and waiver required under paragraph 2 is delivered to the respondent Party and is included in the submission of a claim to arbitration. A waiver from the enterprise under paragraph 2(e)(ii) or 2(f)(ii) is not required if a respondent Party has deprived the investor of control of an enterprise.</p>
+        </div>
+        <div type="article" num="22" title="Special rules regarding financial services">
+          <p>1.  With respect to:</p>
+          <p>a)  financial institutions of a Party; and</p>
+          <p>b)  investors of a Party, and investments of those investors, in financial institutions in the other Party's territory;</p>
+          <p>This Section applies only in respect of claims that the other Party has breached an obligation under Article 10 (Expropriation), 11 (Transfers) or 18 (Denial of Benefits).</p>
+          <p>2.  Where a disputing investor or respondent Party claims that a dispute involves measures adopted or maintained by a Party relating to financial institutions of the other Party or investors of the other Party and their investments in financial institutions in the respondent Party's territory, or where the respondent Party invokes Article 11(6) (Transfers), 17(2), or 17(3) (General Exceptions), the arbitrators, in addition to the criteria set out in Article 25(2) (Arbitrators), must have expertise or experience in financial services law or practice, which may include the regulation of financial institutions.</p>
+          <p>3.  Where a disputing investor submits a claim to arbitration under this Section, and the respondent Party invokes Article 11(6) (Transfers), 17(2), or 17(3) (General Exceptions), at the request of that Party, the Tribunal must request a report in writing from the Parties on the issue of whether and to what extent the invoked paragraphs are a valid defence to the claim of the disputing investor. The Tribunal may not proceed pending receipt of a report under this Article.</p>
+          <p>4.  If the Tribunal requests a report under paragraph 3, the Parties shall, under Section D (State-to-State Dispute Settlement Procedures), prepare a written report, either on the basis of agreement following consultations, or by means of an arbitral panel in accordance with Section D (State-to-State Dispute</p>
+          <p>Settlement Procedures). The report shall be transmitted to the Tribunal and be binding on it.</p>
+          <p>5.  The Tribunal may decide the matter where, within 70 days of the referral by the Tribunal, no request for the establishment of a panel pursuant to paragraph 4 has been made and no report has been received by the Tribunal.</p>
+        </div>
+        <div type="article" num="23" title="Submission of a claim to arbitration">
+          <p>1.  A disputing investor that meets the conditions precedent in Article 21 (Conditions Precedent to Submission of a Claim to Arbitration) may submit the claim to arbitration under:</p>
+          <p>(a)  the ICSID Convention, provided that both the respondent Party and the Party of the disputing investor are parties to the ICSID Convention;</p>
+          <p>(b)  the Additional Facility Rules of ICSID, provided that either the respondent Party or the Party of the disputing investor, but not both, is a party to the ICSID Convention; or</p>
+          <p>(c)  the UNCITRAL Arbitration Rules.</p>
+          <p>2.  The applicable arbitration rules govern the arbitration, except to the extent modified by this Section, and are supplemented by the rules adopted by the Parties.</p>
+          <p>3.  The Parties may adopt supplemental rules of procedure that complement the arbitration rules listed in paragraph 1 and these rules apply to the arbitration. The Parties shall promptly publish the supplemental rules of procedure that they adopt or otherwise make them available in a manner as to enable interested persons to become acquainted with them.</p>
+          <p>4.  A claim is submitted to arbitration under this Section when:</p>
+          <p>(a)  the request for arbitration under Article 36(1) of the ICSID Convention is received by the Secretary-General of ICSID;</p>
+          <p>(b)  the request for arbitration under Article 2 of Schedule C of the ICSID Additional Facility Rules is received by the Secretary-General of ICSID; or</p>
+          <p>(c)  the notice of arbitration given under the UNCITRAL Arbitration Rules is received by the respondent Party.</p>
+          <p>5.  The delivery of notice and other documents on a Party must be made to the following place:</p>
+          <p>-  For Canada, the Deputy Minister of Justice</p>
+          <p>-  For Mali, the General Director of the State Litigation</p>
+        </div>
+        <div type="article" num="24" title="Consent to arbitration">
+          <p>1.  Each Party consents to the submission of a claim to arbitration in accordance with the procedures set out in this Agreement. Failure to meet any of the conditions precedent listed in Article 21 (Conditions Precedent to Submission of a Claim to Arbitration) nullifies that consent.</p>
+          <p>2.  The consent given in paragraph 1 and the submission by a disputing investor of a claim to arbitration satisfies the following requirements:</p>
+          <p>(a)  Chapter II of the ICSID Convention (Jurisdiction of the Centre) and the Additional Facility Rules for written consent of the parties; and</p>
+          <p>(b)  Article II of the New York Convention for an agreement in writing.</p>
+        </div>
+        <div type="article" num="25" title="Arbitrators">
+          <p>1.  Except in respect of a Tribunal established under Article 27 (Consolidation), and unless the disputing parties agree otherwise, the Tribunal shall be composed of three arbitrators, one arbitrator will be appointed by each of the disputing parties and the third, who will be the presiding arbitrator, will be appointed by agreement of the disputing parties.</p>
+          <p>2.  Arbitrators shall have expertise or experience in public international law, international trade or international investment rules, or the resolution of disputes arising under international trade or international investment agreements. The arbitrators shall be independent of, and not be affiliated with or take instructions from, either Party or the disputing investor.</p>
+          <p>3.  If the disputing parties do not agree on the remuneration of the arbitrators before the Tribunal is constituted, the prevailing ICSID rate for arbitrators shall apply.</p>
+          <p>4.  If a Tribunal, other than a Tribunal established under Article 27 (Consolidation), has not been constituted within 90 days from the date that a claim is submitted to arbitration, a disputing party may ask the Secretary-General of ICSID to appoint the arbitrator or arbitrators not yet appointed. The Secretary-General of ICSID makes the appointment at the Secretary General's own discretion. The Secretary-General of ICSID may not appoint a national of a Party as presiding arbitrator.</p>
+        </div>
+        <div type="article" num="26">
+          <p>Agreement to Appointment of Arbitrators</p>
+          <p>For purposes of Article 39 of the ICSID Convention and Article 7 of Schedule C to the ICSID Additional Facility Rules, and without prejudice to an objection to an arbitrator based on a ground other than citizenship or permanent residence:</p>
+          <p>(a)  the respondent Party agrees to the appointment of each individual member of a Tribunal established under the ICSID Convention or the ICSID Additional Facility Rules;</p>
+          <p>(b)  a disputing investor referred to in Article 20(1) (Claim by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise) may submit a claim to arbitration, or continue a claim, under the ICSID Convention or the ICSID Additional Facility Rules, only if the disputing investor agrees in writing to the appointment of each member of the Tribunal; and</p>
+          <p>(c)  a disputing investor referred to in Article 20(2) (Claim by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise) may submit a claim to arbitration, or continue a claim, under the ICSID Convention or the ICSID Additional Facility Rules, only if the disputing investor and the enterprise agree in writing to the appointment of each member of the Tribunal.</p>
+        </div>
+        <div type="article" num="27" title="Consolidation">
+          <p>1.  A Tribunal established under this Article shall be established under the UNCITRAL Arbitration Rules and shall conduct its proceedings in accordance with those Rules, except as modified by this Section.</p>
+          <p>2.  If a Tribunal established under this Article is satisfied that claims submitted to arbitration under Article 23 (Submission of a Claim to Arbitration) have a question of law or fact in common, the Tribunal may, in the interest of fair and efficient resolution of the claims and after hearing the disputing parties, by order:</p>
+          <p>(a)  assume jurisdiction over, and hear and determine together, all or part of the claims; or</p>
+          <p>(b)  assume jurisdiction over, and hear and determine one or more of the claims, the determination of which it believes would assist in the resolution of the others.</p>
+          <p>3.  A disputing party that seeks an order under paragraph 2 shall request that the Secretary-General of ICSID establish a Tribunal and shall specify in the request:</p>
+          <p>(a)  the name of the respondent Party or disputing investors against which the order is sought;</p>
+          <p>(b)  the nature of the order sought; and</p>
+          <p>(c)  the grounds for the order sought.</p>
+          <p>4.  The disputing party shall deliver a copy of the request to the respondent Party or disputing investors against which the order is sought.</p>
+          <p>5.  Within 60 days of the receipt of the request, the Secretary-General of ICSID shall establish a Tribunal composed of three arbitrators. The Secretary-General</p>
+          <p>Of ICSID appoints one member who is a national of the respondent Party, one member who is a national of the Party of the disputing investors, and a presiding arbitrator who is not a national of a Party.</p>
+          <p>6.  If a Tribunal has been established under this Article, a disputing investor that has submitted a claim to arbitration under Article 23 (Submission of a Claim to Arbitration) and that has not been named in a request made under paragraph 3, may make a written request to the Tribunal that it be included in an order made under paragraph 2, and shall specify in the request:</p>
+          <p>(a)  the name and address of the disputing investor;</p>
+          <p>(b)  the nature of the order sought; and</p>
+          <p>(c)  the grounds for the order sought.</p>
+          <p>7.  A disputing investor referred to in paragraph 6 shall deliver a copy of its request to the disputing parties named in a request under paragraph 3.</p>
+          <p>8.  A Tribunal established under Article 23 (Submission of a Claim to Arbitration) does not have jurisdiction to decide a claim, or a part of a claim, over which a Tribunal established under this Article has assumed jurisdiction.</p>
+          <p>9.  On application of a disputing party, a Tribunal established under this Article, pending its decision under paragraph 2, may order that the proceedings of a Tribunal established under Article 23 (Submission of a Claim to Arbitration) be stayed unless the latter Tribunal has already adjourned its proceedings.</p>
+        </div>
+        <div type="article" num="28" title="Documents to, and participation of, the other party">
+          <p>1.  The respondent Party shall deliver to the other Party to this Agreement a copy of the notice of intent to submit a claim to arbitration and other documents within 30 days of the date that those documents have been delivered to the respondent Party. The other Party shall be entitled, at its cost, to receive from the respondent Party a copy of the evidence that has been tendered to the Tribunal, copies of all pleadings filed in the arbitration, and the written argument of the disputing parties. The Party receiving such information shall treat the information as if it were a respondent Party.</p>
+          <p>2.  The other Party to this Agreement has the right to attend hearings held under Section C (Settlement of Disputes Between an Investor and the Host Party) of this Agreement. Upon written notice to the disputing parties, the other Party may make submissions to a Tribunal on questions of interpretation of this Agreement.</p>
+        </div>
+        <div type="article" num="29" title="Place of arbitration">
+          <p>The disputing parties may agree on the place of arbitration under the arbitral rules applicable under Article 23(1) (Submission of a Claim to Arbitration) or Article 27(1) (Consolidation). If the disputing parties fail to agree, the Tribunal shall determine the place in accordance with the applicable arbitral rules, provided that the place shall be in the territory of a Party or of a third State that is a party to the New York Convention.</p>
+        </div>
+        <div type="article" num="30" title="Public access to hearings and documents">
+          <p>1.  Any Tribunal award under this Section shall be publicly available, subject to the redaction of confidential information. All other documents submitted to, or issued by, the Tribunal shall be publicly available unless the disputing parties otherwise decide, subject to the redaction of confidential information.</p>
+          <p>2.  Hearings held under this Section shall be open to the public. The Tribunal may hold portions of hearings in camera to the extent necessary to ensure the protection of confidential information, including business confidential information.</p>
+          <p>3.  A disputing party may disclose to other persons in connection with the arbitral proceedings such unredacted documents as it considers necessary for the preparation of its case, but it shall ensure that those persons protect the confidential information in those documents.</p>
+          <p>4.  The Parties may share with officials of their respective central and subnational governments all relevant unredacted documents in the course of dispute settlement under this Agreement, but they shall ensure that those persons protect any confidential information in those documents.</p>
+          <p>5.  If a Tribunal's order designates information as confidential and a Party's law on access to information requires public access to that information, the Party's law on access to information shall prevail. However, the Party should try to apply its law on access to information so as to protect information that the Tribunal's order has designated as confidential.</p>
+        </div>
+        <div type="article" num="31" title="Submissions by a non-disputing party">
+          <p>A Tribunal shall have the authority to consider and accept written submissions from a person or entity that is not a disputing party with a significant interest in the arbitration. The Tribunal shall ensure that a non-disputing party submission does not disrupt the proceedings and does not unduly burden or unfairly prejudice a disputing party.</p>
+        </div>
+        <div type="article" num="32" title="Governing law">
+          <p>1.  A Tribunal established under this Section shall decide the issues in dispute in accordance with this Agreement and applicable rules of international</p>
+          <p>Law. An interpretation by the Parties of a provision of this Agreement shall bind a Tribunal established under this Section, and any award under this Section shall be consistent that interpretation.</p>
+          <p>2.  On the request of a respondent Party that asserts as a defence that the measure alleged to be a breach is within the scope of a reservation or exception set out in Article 16(1) (Reservations and Exceptions), or Annex II or Annex III, the Tribunal shall request the interpretation of the Parties on the issue. Within 60 days of delivery of the request, the Parties shall submit in writing their interpretation to the Tribunal. The interpretation is binding on the Tribunal. If the Parties fail to submit their interpretation within 60 days, the Tribunal shall decide the issue.</p>
+        </div>
+        <div type="article" num="33" title="Expert reports">
+          <p>Without prejudice to the appointment of other kinds of experts where the appointment is authorized by the applicable arbitration rules, and unless the disputing parties disagree, a Tribunal may appoint experts to report to it in writing on any factual issue concerning environmental, health, safety or other scientific matters raised by a disputing party, subject to such terms and conditions as the disputing parties may decide.</p>
+        </div>
+        <div type="article" num="34" title="Interim measures of protection and final award">
+          <p>1.  A Tribunal may order an interim measure of protection to preserve the rights of a disputing party or to ensure that the Tribunal's jurisdiction is made fully effective, including an order to preserve evidence in the possession or control of a disputing party or to protect the Tribunal's jurisdiction. A Tribunal may not order attachment or enjoin the application of the measure alleged to constitute a breach referred to in Article 20 (Claim by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise). For purposes of this paragraph, an order includes a recommendation.</p>
+          <p>2.  Where a Tribunal makes a final award against the respondent Party, the Tribunal may award, separately or in combination, only:</p>
+          <p>(a)  monetary damages and any applicable interest; and</p>
+          <p>(b)  restitution of property, in which case the award shall provide that the respondent Party may pay monetary damages and any applicable interest in lieu of restitution.</p>
+          <p>The Tribunal may also award costs in accordance with the applicable arbitration rules.</p>
+          <p>3.  Subject to paragraph 2, where a claim is made under Article 20(2) (Claim by an Investor of a Party on Its Own Behalf or on Behalf of an Enterprise):</p>
+          <p>(a)  an award of monetary damages and any applicable interest shall provide that the sum be paid to the enterprise;</p>
+          <p>(b)  an award of restitution of property shall provide that restitution be made to the enterprise; and</p>
+          <p>(c)  the award shall provide that it is made without prejudice to a right that a person may have under applicable domestic law.</p>
+          <p>4.  A Tribunal may not order a respondent Party to pay punitive damages.</p>
+        </div>
+        <div type="article" num="35" title="Finality and enforcement of an award">
+          <p>1.  An award made by a Tribunal shall have no binding force except between the disputing parties and in respect of that particular case.</p>
+          <p>2.  Subject to paragraph 3 and the applicable review procedure for an interim award,the disputing parties must abide by and comply with an award without delay.</p>
+          <p>3.  A disputing party may not seek enforcement of a final award until:</p>
+          <p>(a)  in the case of a final award made under the ICSID Convention:</p>
+          <p>O (i) 120 days have elapsed from the date the award was rendered, provided that a disputing party has not requested the award be revised or annulled, or</p>
+          <p>O (ii) revision or annulment proceedings have been completed; and</p>
+          <p>(b)  in the case of a final award under the ICSID Additional Facility Rules or the UNCITRAL Arbitration Rules:</p>
+          <p>O (i) 90 days have elapsed from the date the award was rendered and no disputing party has commenced a proceeding to revise, set aside or annul the award, or</p>
+          <p>O (ii) a court has dismissed or allowed an application to revise, set aside, or annul the award and there is no further appeal.</p>
+          <p>4.  Each Party shall provide for the enforcement of an award in its territory.</p>
+          <p>5.  A claim that is submitted to arbitration under this Section shall be considered to arise out of a commercial relationship or transaction for purposes of Article I of the New York Convention.</p>
+        </div>
+        <div type="article" num="36" title="Receipts under insurance or guarantee contracts">
+          <p>In an arbitration under this Section, a respondent Party shall not assert as a defence, counterclaim, right of setoff, or otherwise that the disputing investor</p>
+          <p>Has received or will receive, under an insurance or guarantee contract, indemnification or other compensation for all or part of its alleged damages.</p>
+        </div>
+      </div>
+      <div type="section" num="D" title="State-to-state dispute settlement procedures">
+        <div type="article" num="37" title="Disputes between the parties">
+          <p>1.  A Party may request consultations on the interpretation or application of this Agreement. The other Party shall give sympathetic consideration to the request. Any dispute between the Parties concerning the interpretation or application of this Agreement shall, whenever possible, be settled amicably through consultations.</p>
+          <p>2.  If a dispute cannot be settled through consultations, it shall, at the request of a Party, be submitted to an arbitral panel for decision.</p>
+          <p>3.  An arbitral panel shall be constituted for each dispute. Within two months after receipt through diplomatic channels of the request for arbitration, each Party shall appoint one member to the arbitral panel. The two members shall then select a national of a third State who, upon approval by the two Parties, shall be appointed Chair of the arbitral panel. The Chair shall be appointed within two months from the date of appointment of the other two members of the arbitral panel.</p>
+          <p>4.  If within the periods specified in paragraph 3 the necessary appointments have not been made, a Party may invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of a Party or is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of a Party or is prevented from discharging the said function, the Member of the International Court of Justice next in seniority, who is not a national of either Party, shall be invited to make the necessary appointments.</p>
+          <p>5.  Arbitrators shall have expertise or experience in public international law, international trade or international investment rules, or the resolution of disputes arising under international trade or international investment agreements. They shall be independent of, and not be affiliated with or take instructions from, a Party.</p>
+          <p>6.  Where a Party determines that the dispute involves measures relating to financial institutions, or to investors or investments of such investors in financial institutions, or where the respondent Party invokes Article 11(6) (Transfers), 17(2), or 17(3) (General Exceptions), the arbitrators shall, in addition to the criteria set out in paragraph 5, have expertise or experience in financial services law or practice, which may include the regulation of financial institutions.</p>
+          <p>7.  The arbitral panel shall determine its own procedure. The arbitral panel shall reach its decision by a majority of votes. The decision is binding on both Parties. Unless otherwise agreed, the decision of the arbitral panel shall be rendered within six months of the appointment of the Chair pursuant to paragraph 3 or 4.</p>
+          <p>8.  Each Party shall bear the costs of its own member of the panel and of its representation in the arbitral proceedings. The costs related to the Chair and any remaining costs shall be borne equally by the Parties. The arbitral panel may, however, award that a higher proportion of costs be borne by one of the two Parties, and this award shall be binding on both Parties.</p>
+          <p>9.  Within 60 days of the decision of an arbitral panel, the Parties shall reach agreement on the manner in which to resolve their dispute. The agreement normally implements the decision of the arbitral panel. If the Parties fail to reach agreement, the Party bringing the dispute shall be entitled to compensation or to suspend benefits of equivalent value to those awarded by the panel.</p>
+        </div>
+      </div>
+      <div type="section" num="E" title="Final provisions">
+        <div type="article" num="38" title="Consultations and other actions">
+          <p>1.  A Party may request in writing consultation with the other Party regarding any actual or proposed measure or any other matter that it considers might affect the operation of this Agreement.</p>
+          <p>2.  The consultations under paragraph 1 may address, inter alia, matters relating to:</p>
+          <p>a)  the implementation of this Agreement; or</p>
+          <p>b)  the interpretation or application of this Agreement.</p>
+          <p>3.  Further to consultations under this Article, the Parties may take any action as they may agree, including making and adopting rules supplementing the applicable arbitral rules under Section C (Settlement of Disputes between an Investor and the Host Party) of this Agreement.</p>
+        </div>
+        <div type="article" num="39" title="Extent of obligations">
+          <p>The Parties shall ensure that all necessary measures are taken to give effect to the provisions of this Agreement, including their observance, except as otherwise provided in this Agreement, by sub-national governments.</p>
+        </div>
+        <div type="article" num="40" title="Exclusions">
+          <p>The dispute settlement provisions of Sections C (Settlement of Disputes between an Investor and the Host Party) and D (State-to-State Dispute Settlement Procedures) of this Agreement do not apply to the matters set out in Annex IV.</p>
+        </div>
+        <div type="article" num="41" title="Application and entry into force">
+          <p>1.  All Annexes are an integral part of this Agreement.</p>
+          <p>2.  Each Party shall notify the other in writing of the completion of the procedures required in its territory for the entry into force of this Agreement. This Agreement shall enter into force on the date of the later of these notifications.</p>
+          <p>3.  This Agreement shall remain in force unless a Party notifies the other Party in writing of its intention to terminate it. The termination of this Agreement will be effective one year after notice of termination has been received by the other Party. In respect of investments or commitments to invest made prior to the date when the termination of this Agreement becomes effective, Articles 1 to 40 inclusive, as well as paragraphs 1 and 2 of this Article, shall remain in force for a period of 15 years.</p>
+        </div>
+      </div>
+    </body>
+    <conclusion>
+      <p>In Witness Whereof the undersigned, duly authorized, have signed this Agreement.</p>
+      <p>Done in duplicate at..... on this..... day of 20 _, in the English and French</p>
+      <p>Languages, each version being equally authentic.</p>
+      <p>For Canada</p>
+      <p>For Mali</p>
+      <p>Annex B.10</p>
+      <p>Expropriation</p>
+      <p>The Parties confirm their shared understanding that:</p>
+      <p>a)  indirect expropriation results from a measure or series of measures of a Party that have an effect equivalent to direct expropriation without formal transfer of title or outright seizure;</p>
+      <p>b)  the determination of whether a measure or series of measures of a Party constitute an indirect expropriation requires a case-by-case, fact-based inquiry that considers, among other factors:</p>
+      <p>O i) the economic impact of the measure or series of measures, although the sole fact that a measure or series of measures of a Party has an adverse effect on the economic value of an investment does not establish that an indirect expropriation has occurred;</p>
+      <p>O ii) the extent to which the measure or series of measures interfere with distinct, reasonable investment-backed expectations; and o iii) the character of the measure or series of measures;</p>
+      <p>c)  except in rare circumstances, such as when a measure or series of measures are so severe in the light of their purpose that they cannot be reasonably viewed as having been adopted and applied in good faith, non-discriminatory measures of a Party that are designed and applied to protect legitimate public welfare objectives, such as health, safety and the environment, do not constitute indirect expropriation.</p>
+    </conclusion>
+    <attachments>
+      <p>Indicative Schedule of Canada</p>
+      <p>1.  Investment Canada Act, R.S.</p>
+      <p>C.  1985, c. 28 (1st Supp.)</p>
+      <p>Investment Canada Regulations, SOR/85-611</p>
+      <p>These measures set out the circumstances in which the acquisition of Canadian businesses by non-Canadians and the establishment of new businesses by non-Canadians may be subject to review. These measures are reserved from the obligations imposed by Articles 4 (National Treatment), 8 (Senior Management, Board of Directors and Entry of Personnel) and 9 (Performance Requirements).</p>
+      <p>2.  Canada Business Corporations Act, R.S.</p>
+      <p>C.  1985, c. C-44 Canada Business Corporations Regulations, SOR/2001-512 Canada Cooperatives Act, S.</p>
+      <p>C.  1998, c. 1</p>
+      <p>Canada Cooperatives Regulations,SOR/99-256</p>
+      <p>These measures provide that restrictions may be imposed on the shares of federally incorporated corporations and cooperatives to meet certain conditions relating to Canadian ownership or control. These measures are reserved from the obligations imposed by Article 4 (National Treatment).</p>
+      <p>3.  Canada Business Corporations Act, R.S.</p>
+      <p>C.  1985, c. C-44 Canada Business Corporations Regulations, SOR/2001-512 Canada Cooperatives Act, S.</p>
+      <p>C.  1998, c. 1</p>
+      <p>Canada Cooperatives Regulations, SOR/99-256</p>
+      <p>Special Acts of Parliament incorporating specific corporations</p>
+      <p>These measures contain provisions requiring that a certain percentage of the directors of federally incorporated corporations or cooperatives be resident Canadians. These measures are reserved from the obligations imposed by Article 8 (Senior Management, Boards of Directors and Entry of Personnel).</p>
+      <p>4.  Citizenship Act, R.S.</p>
+      <p>C.  1985, c. C-29</p>
+      <p>Foreign Ownership of Land Regulations, SOR/79-416</p>
+      <p>These measures deal with foreign ownership of land. They are reserved from the obligations imposed by Article 4 (National Treatment).</p>
+      <p>5.  Air Canada Public Participation Act, R.S.</p>
+      <p>C.  1985, c. 35 (4th Supp.) Canadian Arsenals Limited Divestiture Authorization Act, S.</p>
+      <p>C.  1986, c. 20 Eldorado Nuclear Limited Reorganization and Divestiture Act, S.</p>
+      <p>C. 1988, c. 41</p>
+      <p>Nordion and Theratronics Divestiture Authorization Act, S.</p>
+      <p>C.  1990, c. 4</p>
+      <p>These measures set out non-resident ownership restrictions with respect to the percentage of voting shares of certain companies. These measures are reserved from the obligations imposed by Article 4 (National Treatment).</p>
+      <p>6.  Customs Act, R.S.</p>
+      <p>C.  1985, c. 1 (2 nd Supp.)</p>
+      <p>Customs Brokers Licensing Regulations, SOR/86-1067</p>
+      <p>These measures set out residency requirements for customs brokers. These measures are reserved from the obligations imposed by Articles 4 (National Treatment) and 8 (Senior Management, Board of Directors and Entry of Personnel).</p>
+      <p>7.  Customs Act, R.S.</p>
+      <p>C.  1985, c. 1 (2 nd Supp.)</p>
+      <p>Duty Free Shop Regulations, SOR/86-1072</p>
+      <p>These measures set out residency and other requirements for duty free shop operations. These measures are reserved from the obligations imposed by Article 4 (National Treatment).</p>
+      <p>8.  Cultural Property Export and Import Act, R.S.</p>
+      <p>C.  1985, c. C-51</p>
+      <p>This measure sets out restrictions on foreign participation in the import or export of cultural property. This measure is reserved from the obligations imposed by Article 4 (National Treatment).</p>
+      <p>9.  Patent Act, R.S.</p>
+      <p>C.  1985, c. P-4 Patent Rules, SOR/96-423</p>
+      <p>These measures set out Canadian residency requirements for registered patent agents. These measures are reserved from the obligations imposed by Articles 4 (National Treatment) and 9 (Performance Requirements).</p>
+      <p>10.  Trade-marks Act, R.S.</p>
+      <p>C.  1985, c. T-13 Trade-marks Regulations, SOR/96-195</p>
+      <p>These measures set out Canadian residency requirements for registered trademark agents. These measures are reserved from the obligations imposed by Articles 4 (National Treatment) and 9 (Performance Requirements).</p>
+      <p>11.  Canada Petroleum Resources Act, R.S.</p>
+      <p>C.  1985, c. 36 (2 nd Supp.)</p>
+      <p>Territorial Lands Act, R.S.</p>
+      <p>C.  1985, c. T-7</p>
+      <p>Federal Real Property and Federal Immovables Act, S.</p>
+      <p>C.  1991, c. 50 Canada-Newfoundland Atlantic Accord Implementation Act, S.</p>
+      <p>C.  1987, c.</p>
+      <p>3</p>
+      <p>Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act, S.</p>
+      <p>C.  1988, c. 28</p>
+      <p>Canada Oil and Gas Land Regulations, C.R.</p>
+      <p>C.  1978, c. 1518</p>
+      <p>These measures set out Canadian ownership requirements for oil and gas production licenses. These measures are reserved from the obligations imposed by Article 4 (National Treatment).</p>
+      <p>12.  Canada Oil and Gas Production and Conservation Act, R.S.</p>
+      <p>C.  1985, c. O-7, as amended by the Canada Oil and Gas Operations Act, S.</p>
+      <p>C.  1992, c. 35 Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act, S.</p>
+      <p>C.  1988, c. 28</p>
+      <p>Canada-Newfoundland Atlantic Accord Implementation Act, S.</p>
+      <p>C.  1987, c.</p>
+      <p>3</p>
+      <p>Measures implementing the Canada-Yukon Oil and Gas Accord Measures implementing Northwest Territories Oil and Gas Accord</p>
+      <p>These measures deal with the benefits plans on which the authorisations in question are conditional. These measures are reserved from the obligations imposed by Article 9 (Performance Requirements).</p>
+      <p>13.  Canada Newfoundland Atlantic Accord Implementation Act, S.</p>
+      <p>C.  1987, c. 3 Hibernia Development Project Act, S.</p>
+      <p>C.  1990, c. 41</p>
+      <p>These measures deal with benefits plans and performance requirements.</p>
+      <p>These measures are reserved from the obligations imposed by Article 9 (Performance Requirements).</p>
+      <p>14.  Investment Canada Act, R.S.</p>
+      <p>C.  1985, c. 28 (1 st Supp.)</p>
+      <p>Investment Canada Regulations, SOR/85-611</p>
+      <p>Non-Resident Ownership Policy in the Uranium Mining Sector, 1987</p>
+      <p>These measures deal with non-resident ownership in the uranium mining sector. These measures are reserved from the obligations imposed by Articles 4 (National Treatment) and 5 (Most-Favoured-Nation Treatment).</p>
+      <p>15.  Canada Transportation Act, S.</p>
+      <p>C.  1996, c.10 Aeronautics Act, R.S.</p>
+      <p>C. , 1985, c. A-2 Canadian Aviation Regulations, SOR/96-433</p>
+      <div type="part" num="II">
+        <p>"Aircraft Identification and Registration and Operation of a Leased Aircraft by a Non-registered Owner</p>
+      </div>
+      <div type="part" num="VII" title="Commercial air services">
+        <p>These measures set out restrictions on non-Canadians wishing to register or operate Canadian aircraft or to provide air services in Canada. These measures are reserved from the obligations imposed by Article 4 (National Treatment).</p>
+        <p>16.  Canada Shipping Act, S.</p>
+        <p>C.  2001, c. 26</p>
+        <p>This measure sets out requirements to own a ship on the Canadian register. This measure is reserved from the obligations imposed by Article 4 (National Treatment).</p>
+        <p>17.  Canada Shipping Act, S.</p>
+        <p>C.  2001, c. 26 Marine Personnel Regulations,SOR/2007-115</p>
+        <p>These measures set out restrictions on the provision of services on Canadian ships by non-Canadians. These measures are reserved from the obligations imposed by Article 8 (Senior Management, Board of Directors and Entry of Personnel).</p>
+        <p>18.  Pilotage Act, R.S.</p>
+        <p>C. , 1985, c. P-14 General Pilotage Regulations, SOR/2000-132</p>
+        <p>Atlantic Pilotage Authority Regulations, C.R.</p>
+        <p>C.  1978, c. 1264 Laurentian Pilotage Authority Regulations, C.R.</p>
+        <p>C.  1978, c. 1268 Great Lakes Pilotage Regulations, C.R.</p>
+        <p>C.  1978, c. 1266 Pacific Pilotage Regulations, C.R.</p>
+        <p>C.  1978, c. 1270</p>
+        <p>These measures set out restrictions on non-Canadians in relation to pilotage. These measures are reserved from the obligations imposed by Article 8 (Senior Management, Board of Directors and Entry of Personnel).</p>
+        <p>Indicative Schedule of Mali</p>
+        <p>1.  Investments Code, Law No. 2012-016/ February 27, 2012, concerning the Investments Code (Code des Investissements du Mali, Loi n 2012-016/</p>
+        <p>27 fevrier 2012, portant code des investissements du Mali)</p>
+        <p>This document describes the investment incentives put in place by Mali to attract foreign and local investors, and defines the various investment regimes that give entitlement to exemptions under certain criteria, such as job creation, exploitation of local raw materials, locating in areas outside the capital, and so on.</p>
+        <p>2.  Customs Code (Code douanier)</p>
+        <p>These measures govern the rules and laws applicable to customs matters in force in Mali.</p>
+        <p>3.  Mining Code (Code minier)</p>
+        <p>These measures govern the activities of mining firms doing business in Mali, from exploration to exploitation.</p>
+        <p>4.  Tourism Law (Loi touristique)</p>
+        <p>These measures govern the activities of tourism firms in Mali.</p>
+        <p>5.  Real Estate Law (Loi pour la promotion immobiliere)</p>
+        <p>These measures govern the activities of real estate firms doing business in Mali. The restrictions mainly affect real estate agencies, which are required to deposit a guarantee with the State treasury.</p>
+        <p>6.  Land Ownership Code (Code domanial)</p>
+        <p>These measures govern public and private land ownership in Mali, applying to land owned by residents and expatriates.</p>
+        <p>7.  Labour Code (Code du travail)</p>
+        <p>These measures govern the rules of the labour market in Mali.</p>
+        <p>8.  Civil, commercial and social procedures Code (Code des procedures civiles, commerciales et sociales)</p>
+        <p>These measures govern the activities of firms doing business in all sectors of activity in Mali.</p>
+        <p>9.  OHADA</p>
+        <p>These measures govern commercial law in Mali, in conformity with the recommendations of regional institutions.</p>
+        <p>10.  Public Contracting Code (Code des marches publics)</p>
+        <p>These measures govern the rules and practices regarding the award of public contracts.</p>
+        <p>11.  Commercial Code (Code du commerce)</p>
+        <p>These measures govern the rules and practices in effect in the commercial sector in Mali.</p>
+        <p>12.  Private Section Orientation Law (Loi d'orientation du secteur prive)</p>
+        <p>These measures are aimed at promoting the private sector while contributing to improvement of the business environment in Mali. This law complies with the Loi d'orientation agricole (LOA) [Agricultural orientation law].</p>
+        <p>13.  Agricultural Orientation Law (Loi d'orientation agricole (LOA))</p>
+        <p>These measures are aimed at promoting the agricultural sector in Mali by setting rules for participation in this sector of activity.</p>
+        <p>14.  Petroleum Law (Loi petroliere)</p>
+        <p>These measures are aimed at regulating and promoting the petroleum sector in Mali by defining the rules governing this sector of activity.</p>
+        <p>Reservations for Future Measures Schedule of Canada</p>
+        <p>In accordance with Article 16(3) (Reservations and Exceptions) of this Agreement, Canada reserves the right to adopt or maintain any measure that does not conform to the obligations set out below with respect to the following sectors or matters:</p>
+        <p>Social services (i.</p>
+        <p>e.  public law enforcement; correctional services; income security or insurance; social security or insurance; social welfare; public education; public training; health and child care), where the measure does not conform with the obligations imposed by Article 4 (National Treatment) or Article 8 (Senior Management, Boards of Directors and Entry of Personnel) of this Agreement;</p>
+        <p>The rights or preferences provided to aboriginal peoples, where the measure does not conform with the obligations imposed by Article 4 (National Treatment), Article 5 (Most-Favoured-Nation Treatment), Article 8 (Senior Management, Boards of Directors and Entry of Personnel) or Article 9 (Performance Requirements) of this Agreement;</p>
+        <p>The rights or preferences provided to socially or economically disadvantaged minorities, where the measure does not conform with the obligations imposed by Article 4 (National Treatment), Article 8 (Senior Management, Boards of Directors and Entry of Personnel) or Article 9 (Performance Requirements) of this Agreement;</p>
+        <p>Residency requirements for ownership of oceanfront land, where the measure does not conform with the obligations imposed by Article 4 (National Treatment) of this Agreement;</p>
+        <p>Government securities (i.</p>
+        <p>e.  acquisition, sale or other disposition by nationals of the other Party of bonds, treasury bills or other kinds of debt</p>
+        <p>Securities issued by the Government of Canada, a province or local government), where the measure does not conform with the obligations imposed by Article 4 (National Treatment) of this Agreement;</p>
+        <p>Maritime cabotage, where the measure does not conform with the obligations imposed by Article 4 (National Treatment), Article 5 (MostFavoured-Nation Treatment), Article 8 (Senior Management, Boards of Directors and Entry of Personnel) or Article 9 (Performance Requirements) of this Agreement. Maritime cabotage means (a) the transportation of either goods or passengers by ship between points in the territory of Canada or above the continental shelf of Canada, either directly or by way of a place outside Canada; but with respect to waters above the continental shelf of Canada, the transportation of either goods or passengers only in relation to the exploration, exploitation or transportation of the mineral or non-living natural resources of the continental shelf of Canada; and (b) the engaging by ship in any other marine activity of a commercial nature in the territory of Canada and, with respect to waters above the continental shelf of Canada, in such other marine activities of a commercial nature that are in relation to the exploration, exploitation or transportation of the mineral or non-living natural resources of the continental shelf of Canada;</p>
+        <p>Licensing fishing or fishing-related activities, including entry of foreign fishing vessels to Canada's exclusive economic zone, territorial sea, internal waters or ports and use of any services therein, where the measure does not conform with the obligations imposed by Article 4 (National Treatment) or Article 5 (Most-Favoured-Nation Treatment) of this Agreement;</p>
+        <p>Telecommunications services, where the measure does not conform with the obligations imposed by Article 4 (National Treatment) or Article 8 (Senior Management, Boards of Directors and Entry of Personnel) of this Agreement, by limiting foreign investment in facilities-based telecommunications service suppliers, requiring that such service suppliers be controlled in fact by a Canadian, requiring that at least 80 percent of the members of the board of directors of such suppliers be Canadian, and imposing cumulative foreign investment level restrictions; and</p>
+        <p>The establishment or acquisition in Canada of an investment in the services sector, where the measure does not conform with the obligations imposed by Article 4 (National Treatment), Article 8 (Senior Management, Boards of Directors and Entry of Personnel) or Article 9 (Performance Requirements) of this Agreement, provided that the measure is consistent with Canada's obligations under Articles II, XVI, XVII and XVIII of the WTO General Agreement on Trade in Services.</p>
+        <p>Schedule of Mali</p>
+        <p>In accordance with Article 16(3) (Reservations and Exceptions) of this agreement, Mali reserves the right to adopt or maintain any measure that does not conform to the obligations set out below in respect to the following sectors or matters:</p>
+        <p>Investments regarding cultural assets and heritage, where the measure does not comply with the obligations imposed by Article 4 (National Treatment);</p>
+        <p>Government securities, namely, the acquisition, sale or other form of disposal by nationals of the other Party, of bonds, treasury bills or other debt instruments issued by the Government of Mali, where the measure does not comply with the obligations imposed by Article 4 (National Treatment) of this Agreement;</p>
+        <p>Telecommunications services, in connection with the enforcement of measures that Mali deems necessary in applying Article 17(4)(b), where the measure does not comply with the obligations imposed by Article 4 (National Treatment);</p>
+        <p>Establishment or acquisition in Mali of an investment in the services sector, where the measure does not comply with the obligations imposed by Article 4 (National Treatment), Article 8 (Senior Management, Boards of Directors and Entry of Personnel) or Article 9 (Performance requirements) of this Agreement, provided that the measure is consistent with Mali's obligations under Articles II, XVI, XVII and XVIII of the</p>
+        <p>WTO General Agreement on Trade in Services.</p>
+        <p>1.  Article 5 (Most-Favoured-Nation Treatment) does not apply to treatment accorded under bilateral or multilateral international agreements in force or signed prior to January 1, 1994.</p>
+        <p>2.  Article 5 (Most-Favoured-Nation Treatment) does not apply to treatment by a Party under an existing or future bilateral or multilateral agreement:</p>
+        <p>(a)  establishing, strengthening or expanding a free trade area or customs union; or</p>
+        <p>(b)  relating to:</p>
+        <p>O (i) aviation;</p>
+        <p>O (ii) fisheries; or</p>
+        <p>O (iii) maritime matters, including salvage.</p>
+        <p>3.  With respect to Mali, Article 5 (Most-Favoured-Nation Treatment) does not apply to treatment accorded by Mali under to an existing or future bilateral or multilateral agreement relating to road, rail and inland waterway transportation.</p>
+        <p>A decision by Canada following a review under the Investment Canada Act is not be subject to the dispute settlement provisions under Section C (Settlement of Disputes between an Investor and the Host Party) or Section D (State-to-State Dispute Settlement Procedures) of this Agreement.</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

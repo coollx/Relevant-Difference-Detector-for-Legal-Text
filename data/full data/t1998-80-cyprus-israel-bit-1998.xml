@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Cyprus - Israel BIT (1998)</name>
+    <code>T1998-80</code>
+    <partyisocode n="0">CYP</partyisocode>
+    <partyisocode n="1">ISR</partyisocode>
+    <date_signed>1998-10-13</date_signed>
+    <date_into_force>2003-06-17</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1164</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{CYP,ISR}_1998-10-13.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE STATE OF ISRAEL AND THE GOVERNMENT OF THE REPUBLIC OF CYPRUS FOR THE RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the State of Israel and the Government of the Republic of Cyprus, (hereinafter referred to as the "Contracting Parties");</p>
+      <p>DESIRING to intensify economic cooperation to the mutual benefit of both countries;</p>
+      <p>INTENDING to create favourable conditions for greater investments by investors of either Contracting Party in the territory of the other Contracting Party;</p>
+      <p>RECOGNIZING that the reciprocal promotion and protection of investments on the basis of the present Agreement will be conducive to the stimulation of individual business initiative and will increase prosperity in both States;</p>
+      <p>HAVE AGREED as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of the present Agreement:</p>
+        <p>1. The term "investments" shall comprise any kind of assets, implemented in accordance with the laws and regulations of the Contracting Party in whose territory the investment is made, including, but not limited to: (a) Movable and immovable property, as well as any other rights in rem, in respect of every kind of asset;</p>
+        <p>(b) Rights derived from shares, bonds and other kinds of interests in companies;</p>
+        <p>(c) Claims to money, goodwill and other assets and to any performance having an economic value;</p>
+        <p>(d) Rights in the field of intellectual property, technical processes and know-how;</p>
+        <p>(e) Business concessions conferred by law or under contract, including concessions to search for, cultivate, extract or exploit natural resources.</p>
+        <p>2. A change in the form in which assets are invested or reinvested, in accordance with the laws and regulations of the Contracting Party in whose territory the investment is made, does not affect their character as investments within the meaning of this Agreement.</p>
+        <p>3. The term "investor" shall comprise:</p>
+        <p>With respect to investments made in the State of Israel:</p>
+        <p>(a) Natural persons who are citizens of the Republic of Cyprus, who are not also citizens or permanent residents of the State of Israel; or</p>
+        <p>(b) Companies, including corporations, firms or associations incorporated or constituted in accordance with the law of the Republic of Cyprus, which have not been accorded a non-resident status and which are not directly or indirectly controlled by companies incorporated or constituted in accordance with the law of the State of Israel.</p>
+        <p>With respect to investments made in the Republic of Cyprus:</p>
+        <p>(a) Natural persons who are citizens of the State of Israel who are not also citizens of the Republic of Cyprus; or</p>
+        <p>(b) Companies including corporations, firms or associations incorporated or constituted in accordance with the law of the State of Israel whose centre of activity and management is in Israel and which are not directly or indirectly controlled by companies incorporated or constituted in accordance with the law of the Republic of Cyprus.</p>
+        <p>4. The term "returns" shall comprise the amount yielded by an investment including, but not lifted to dividends profits, sums received from the total or partial liquidation of an investment, interest, capital gains, royalties or fees.</p>
+        <p>5. The term "territory" shall mean with respect to each Contracting Party, the territory of that Contracting Party including the territorial sea, as well as the continental shelf and the exclusive economic zone, over which that Contracting Party exercises sovereign rights or jurisdiction, in conformity with international law.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>1. Each Contracting Party shall, in its territory, encourage and create favourable conditions for investments by investors of the other Contracting Party and, subject to its right to exercise the powers conferred by its laws, shall admit such investments.</p>
+        <p>2. Investments made by investors of each Contracting Party shall be accorded fair and equitable treatment and shall enjoy protection and security in the territory of the other Contracting Party. Neither Contracting Party shall in any way impair by unreasonable or discriminatory measures the management, maintenance, use, enjoyment or disposal of investments in its territory of investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="Most favored nation">
+        <p>1. Neither Contracting Party shall, in its territory, subject investments or returns of investors of the other Contracting Party to treatment less favourable than that which it accords to investments or returns of investors of any third State.</p>
+        <p>2. Neither Contracting Party shall, in its territory subject investors of the other Contracting Party, as regards their management, maintenance, use, enjoyment or disposal of their investments, to treatment less favourable than that which it accords to investors of any third State.</p>
+      </div>
+      <div type="article" num="4" title="Compensation for losses">
+        <p>1. Investors of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection, riot or other such similar activity in the territory of the latter Contracting Party shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, not less favourable than that which the latter Contracting Party accords to its own investors or to investors of any third State. Resulting payments shall be freely transferable.</p>
+        <p>2. Without prejudice to paragraph (1) of this Article, investors of one Contracting Party who, in any of the situations referred to in that paragraph, suffer losses in the territory of the other Contracting Party, resulting from:</p>
+        <p>(a) Requisitioning of their property by its forces or authorities, or</p>
+        <p>(b) Destruction of their property by its forces or authorities, which was not caused in combat action or was not required by the necessity of the situation,</p>
+        <p>Shall be accorded restitution or adequate compensation. Resulting payments shall be freely transferable.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>Investments of investors of either Contracting Party shall not be nationalized, expropriated or subjected to measures having effect equivalent to nationalization or expropriation, (hereinafter referred to as "expropriation"), in the territory of the other Contracting Party, except for a public purpose related to the internal needs of that Contracting Party, on a non-discriminatory basis, under due process of law, and against prompt, adequate and effective compensation. Such compensation shall amount to the market value of the investment expropriated immediately before the expropriation or before the impending expropriation became public knowledge whichever is the earlier, shall include interest at the applicable rate provided by law by that Contracting Party until the date of payment, shall be made without delay, be effectively realizable and be freely transferable provided that the investor has complied with all his fiscal obligations. The investors affected shall be accorded prompt review, by a judicial or other independent authority of that contracting Party, of his or its case and of the valuation of his or its investment, in accordance with the principles set out in this paragraph.</p>
+      </div>
+      <div type="article" num="6" title="Repatriation of investments and returns">
+        <p>1. Each Contracting Party shall, in respect of investments, guarantee to investors of the other Contracting Party the unrestricted transfer of their investments and returns, in accordance with the following principles:</p>
+        <p>(a) Transfers shall be effected without delay in the convertible currency in which the capital was originally invested or in any other convertible currency agreed by the investor and the Contracting Party concerned, provided that the investor has complied with all his fiscal obligations and that the repatriation is in accordance with the exchange regulations established by the Contracting Party in whose territory the investment was made.</p>
+        <p>(b) In the event the exchange regulations of one Contracting Party are modified, that Contracting Party guarantees that such modifications shall not adversely affect the rights to repatriate investments and returns, as were in force at the time the investment was made. However, if the said modifications grant investments and returns more favourable terms than were in force at the time the investment was made, the more favourable terms shall apply.</p>
+        <p>2. Unless otherwise agreed by the investor, transfers shall be made at the market rate of exchange applicable on the date of transfer.</p>
+      </div>
+      <div type="article" num="7" title="Exceptions">
+        <p>The provisions of this Agreement relative to the grant of treatment not less favourable than that accorded to the investors of any third State shall not be construed so as to oblige one Contracting Party to extend to the investors of the other the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>(a) Any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation;</p>
+        <p>(b) Any existing or future customs or economic union, common market, free trade area agreement or similar international agreement to which either Contracting Party is or may become a party;</p>
+        <p>(c) The definitions of "investment" (Article 1, paragraph 1) and "reinvestment" (Article 1, paragraph 2) and the provisions of Article 6 contained in Agreements entered into by the State of Israel prior to January 1, 1992 with Poland, Romania and Hungary.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of investment disputes between a contracting party and an investor">
+        <p>1. Any dispute which may arise between an investor of one Contracting Party and the other Contracting Party in connection with an investment made in the territory of the latter shall be subject to negotiations between the parties to the dispute.</p>
+        <p>If any dispute between an investor of one Contracting Party and the other Contracting Party cannot be thus settled within a period of six months, the investor shall be entitled to submit the dispute to any of the following bodies at the option of the investor concerned: (a) A court of competent jurisdiction of the Contracting Party in whose territory the investment was made; or</p>
+        <p>(b) The International Center for the Settlement of Investment Disputes (ICSID) having regard to the applicable provisions of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature at Washington D.C. on March 18, 1965; or</p>
+        <p>(c) The Arbitral Tribunal of the International Chamber of Commerce in Paris; or</p>
+        <p>(d) An arbitrator or international ad hoc arbitral tribunal as agreed by the parties to the dispute. The arbitral tribunal shall be established according to the principles contained in Article 9.</p>
+        <p>3. All arbitral awards shall be final and binding on the parties to the dispute.</p>
+        <p>4. All sums received or payable as a result of a settlement shall be freely transferable in a freely convertible currency.</p>
+      </div>
+      <div type="article" num="9" title="Disputes between the contracting parties">
+        <p>1. Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, if possible, be settled through the diplomatic channel, which may include, if both Contracting Parties so desire, referral to a Bilateral Commission composed of representatives of both Contracting Parties.</p>
+        <p>2. If a dispute between the Contracting Parties cannot thus be settled within six (6) months from notification of the dispute, it shall, upon the request of either Contracting Party, be submitted to an arbitral tribunal.</p>
+        <p>3. Such an arbitral tribunal shall be constituted for each individual case in the following way: Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third State, with which both countries maintain diplomatic relations, who, on approval by the two Contracting Parties, shall be appointed Chairman of the tribunal. The Chairman shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>4. If, within the periods specified in paragraph (3) of this Article, the necessary appointments have not been made either Contracting Party may, in the absence of any other agreement, invite the Chairman of the Court of Arbitration of the International Chamber of Commerce in Paris, to make the necessary appointments. If the Chairman is a national of either Contracting Party or is otherwise prevented from discharging the said function, then one of the Vice-Chairmen who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>5. The arbitral tribunal shall reach its decision by a majority of votes. Such decision shall be binding on both Contracting Parties. Each Contracting Party shall bear the cost of its own member of the tribunal and of its representation in the arbitral proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="10" title="Subrogation">
+        <p>1. If one Contracting Party or its designated Agency, (hereinafter referred to as the "First Contracting Party"), makes a payment under an indemnity given in respect of an investment in the territory of the other Contracting Party, (hereinafter referred to as the "Second Contracting Party"), the Second Contracting Party shall recognize:</p>
+        <p>(a) The assignment to the First Contracting Party by law or by legal transaction of all the rights and claims of the party indemnified; and</p>
+        <p>(b) That the First Contracting Party is entitled to exercise such rights and enforce such claims by virtue of subrogation, to the same extent as the party indemnified, and shall assume the obligations related to the investment.</p>
+        <p>2. The First Contracting Party shall be entitled in all circumstances to:</p>
+        <p>(a) The same treatment in respect of the rights, claims and obligations acquired by it, by virtue of the assignment; and</p>
+        <p>(b) Any payments received in pursuance of those rights and claims,</p>
+        <p>As the party indemnified was entitled to receive by virtue of this Agreement, in respect of the investment concerned and its related returns.</p>
+      </div>
+      <div type="article" num="11" title="Application of other rules">
+        <p>If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to the present Agreement contain rules, whether general or specific, entitling investments by investors of one contracting Party to a treatment more favourable than is provided for by the present Agreement, such rules shall, to the extent that they are more favourable, prevail over the present Agreement.</p>
+      </div>
+      <div type="article" num="12" title="Application of the agreement">
+        <p>The provisions of this Agreement shall apply to all investments whether existing or made after its entry into force provided that this Agreement shall apply only to matters affecting such investments after its entry into force.</p>
+      </div>
+      <div type="article" num="13" title="Entry into force">
+        <p>Each contracting Party shall notify the other contracting Party in writing through the diplomatic channels of the completion of its internal legal procedures required for bringing this Agreement into force. This Agreement shall enter into force on the date of the latter notification.</p>
+      </div>
+      <div type="article" num="14" title="Duration and termination">
+        <p>This Agreement shall remain in force for a period of ten (10) years. Thereafter it shall continue in force until the expiration of twelve (12) months from the date on which either Contracting Party shall have given written notice of termination to the other. In respect of investments made while this Agreement is in force, its provisions shall continue in effect with respect to such investments for a period of ten (10) years after the date of termination and without prejudice to the application thereafter of the rules of general international law.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the undersigned, duly authorized thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done at Jerusalem this 13 day of October 1998, which corresponds to the 23 day of Tishre, 5759, in duplicate in the Hebrew, Greek and English languages, all three (3) texts being equally authentic. In case of differences in interpretation the English text shall prevail.</p>
+      <p>FOR THE GOVERNMENT OF THE STATE OF ISRAEL</p>
+      <p>FOR THE GOVERNMENT OF THE REPUBLIC OF CYPRUS</p>
+    </conclusion>
+  </main>
+</treaty>

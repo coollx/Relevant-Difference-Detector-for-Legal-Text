@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Jordan - State of Palestine BIT (2012)</name>
+    <code>T2012-23</code>
+    <partyisocode n="0">JOR</partyisocode>
+    <partyisocode n="1">PSE</partyisocode>
+    <date_signed>2012-10-04</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ar</orig_language>
+    <translated>yes</translated>
+    <termination_type/>
+    <docreference>2174</docreference>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>ar</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{JOR,PSE}_2012-10-04.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TRANSLATED>yes</IT_TRANSLATED>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the Hashemite Kingdom of Jordan and the Government of the Palestinian National Authority to encourage and protect investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Palestinian National Authority and the Government of the Hashemite Kingdom of Jordan referred to hereinafter as the Contracting Parties;</p>
+      <p>Desiring to expand and deepen economic cooperation in the interest of the two countries, and in particular, creating favorable conditions for investments of investors from either party in the other's party territory.</p>
+      <p>Recognizing the need to protect the investments of the investors of both parties, and to stimulate the flow of investments and individual initiatives in business to the economic prosperity of both parties,</p>
+      <p>Have agreed as follows :</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement :</p>
+        <p>1. The term "investment ", means every kind of assets invested include in particular but not limited to :</p>
+        <p>(a) Movable and immovable property and other property rights, such as mortgages, liens and guarantees .</p>
+        <p>(b) Company shares, bonds, securities, and shares in companies' ownership .</p>
+        <p>(c) The right to a monetary amount or the right to any obligation to work of financial value .</p>
+        <p>(d) Intellectual property rights include copyrights, patents and trademarks, trade names, trade names, industrial designs, trade secrets and technical manufacturing processes, know-how, and goodwill.</p>
+        <p>(e) Business concessions granted by law or contract, and include concessions to search natural resources, their development, extraction or exploitation. </p>
+        <p>2. The term "returns " means amounts yielded from the investment and in particular but not exclusively,  includes profits, interest, rent, dividends, returns, and fees.</p>
+        <p>3. The term "investor" means:</p>
+        <p>A. Any natural person holding the nationality of a Contracting Party or permanent residence therein in accordance with its laws,</p>
+        <p>B. or any company with a legal personality, participation, or association of companies, organization, association or a project established or established in accordance with the laws in force with a Contracting Party.</p>
+        <p>4. The word " territory " means:</p>
+        <p>The lands of either party, including the economic zone in which either party has a sovereign on it, including the sea-bed and subsurface, where that Contracting Party exercise sovereign rights under international law and/or international agreements.</p>
+        <p>5. The term " free usable currency " means :</p>
+        <p>Any currency designated by the International Monetary Fund from time to time as a currency freely used in accordance with the provisions of the  International Monetary Agreement and any amendments thereof.</p>
+        <p>6. The terms " investments " referred to in paragraph ( 1 ) means exclusively investments made in accordance with the laws, regulations and national policies of the two parties .</p>
+        <p>Any change in the form of the invested funds that it does not affect its classification as investments provided that such change does not contravene the approval granted ( if any ) on the funds originally invested.</p>
+      </div>
+      <div type="article" num="2" title="Promotion of investments">
+        <p>1. Both parties shall encourage and create favorable conditions for investors from the other side to invest capital in its territory and accept such investments in accordance with their national laws, regulations, and policies.</p>
+        <p>2. Investments from both parties shall be treated at all times with fair and equitable treatment, with full and sufficient protection and security in the territory of the other party.</p>
+      </div>
+      <div type="article" num="3" title="Most-favoured-nation treatment">
+        <p>1. Investments of investors from either party in the other party's territory shall receive fair and equitable treatment that is no less favorable than that granted to investments by investors from any third country.</p>
+        <p>2. Investors from any party whose investments in the territory of the other party are affected by losses resulting from war or any other armed conflict, revolution, state of emergency at the national level, rebellion, insurrection, strikes, or other similar events in the territory of the other party, such party must grant them treatment With regard to restoring conditions to what they were, or restoring losses, compensation or any other settlement that is no less favorable than the treatment granted by that party to its investors or to the investors of any third country, whichever is more favorable and the resulting payments are freely transferrable, and this does not include damages resulting from the actions of a third country.</p>
+        <p>3. The most favored nation treatment should not be construed so as to oblige one party to grant the investors and investments of the other party privileges resulting from any existing customs or economic union or its future establishment, or from a free trade zone or regional economic institution that is, or either party may become a member of it, and that treatment should not relate to any advantage given by either party to investors from a third country under an agreement on double taxation or other agreements on a mutual basis on tax matters.</p>
+      </div>
+      <div type="article" num="4" title="Expropriation">
+        <p>Neither party may take measures to expropriate or nationalize against the investments of any other investor, except under the following circumstances:</p>
+        <p>1. That these measures be taken for a legitimate purpose and in accordance with the correct application of the law.</p>
+        <p>2. That these measures are impartial.</p>
+        <p>3. That these procedures be accompanied by allocations for the payment of prompt and effective compensation, provided that the value of compensation is equal to the value of the investments prevailing in the market at the time of the announcement of the expropriation decision, and that compensation must be freely transferable and in a freely usable currency with both parties, and any delay in the payment of compensation is calculated a suitable interest at a commercially reasonable rate or in accordance with an agreement between the two parties or in accordance with the provisions of the law.</p>
+      </div>
+      <div type="article" num="5" title="Free transfer">
+        <p>1. Each party, in accordance with the laws, regulations, and national policies in force with it, shall allow, without undue delay, the transfer of the following in any freely usable currency:</p>
+        <p>A. Net profits and dividends, returns, technical assistance, technical fees, interest and other current income resulting from the investments of the other party's investors.</p>
+        <p>B. The returns from the sale or partial or total liquidation of any investment of the other party's investors.</p>
+        <p>C. Funds designated for the repayment of debts and loans provided by investors from any party to investors from the other party provided that the two parties considered it an investment.</p>
+        <p>D. Income and earnings of citizens of any of the two parties who are employed and allowed to work in connection with an investment in the territory of the other party.</p>
+        <p>2. The exchange rates of the currency applied to the transfers mentioned in paragraph (1) of this article shall be the same as the exchange rates prevailing at the time of the conversion and according to the exchange rates determined by the International Monetary Fund in the case of multiple exchange rates in the host country.</p>
+        <p>3. The party to whom investments were invested in its territories undertakes to treat the transfers referred to in paragraph (1) of this article in a similar treatment in preference to the treatment granted to transfers resulting from the investments of investors from any third country.</p>
+      </div>
+      <div type="article" num="6" title="Settlement of disputes">
+        <p>1. In the event of any dispute arising from the interpretation or application of this agreement and at the request of the investor, the two countries will settle the dispute through negotiations and in the event that this is not possible, each of the two countries accepts to present this dispute to the Arab Investment Court for settlement through conciliation or arbitration.</p>
+        <p>2. Nationals of one of the two countries can submit any dispute that has a legal formula arising between them and the other country regarding the investment established in the territory of this country to the local judicial authorities of the host country for investment, or according to the mechanism stipulated in the agreement to settle investment disputes between countries hosting Arab investments and citizens of other Arab countries.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>If one of the parties paid an amount to any of its investors under a guarantee granted to him in the matter of an investment, the other party, without prejudice to the rights of the first party under Article (6), must recognize the transfer of any right or ownership of the investor and the investing company to the first party and by the first party replaced the citizen or company in the right or ownership.</p>
+      </div>
+      <div type="article" num="8" title="Scope of application">
+        <p>This Agreement applies to the existing investments that are invested or made by any of the parties in the territory of the other Contracting Party in accordance with its legislation, laws, and regulations before the entry into force of this Agreement.</p>
+        <p>However, this Agreement does not apply to disputes that may have arisen before it entered into force.</p>
+      </div>
+      <div type="article" num="9" title="Entry into force and duration">
+        <p>1. This Agreement shall enter into force thirty days after the date of the last notice indicating that both parties meet the constitutional requirements necessary for the enforcement of this agreement.</p>
+        <p>2. This Agreement shall remain in effect for a period of ten years and automatically renewed for other similar periods unless it is terminated in accordance with paragraph (3) of this article.</p>
+        <p>3. Either party has the right to terminate this Agreement at the end of its term or at any time after the end of the first ten years period by a written notice that it provides to the other party one year before the intended termination date.</p>
+        <p>4. Concerning the investments that were preceded in their establishment or in obtaining them, the date of termination of this agreement, all provisions of other Articles of this Agreement shall remain in effect for a period of ten years from the date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>This agreement was signed in the city of Ramallah on Thursday, on the 18th of Dhul Qi'dah 1,433 AH, corresponding to 4/10/2012 AD, in two originals in Arabic, having the same legal value. Each party keeps a copy.</p>
+      <p>For the Palestinian side</p>
+      <p>Dr. Jawad Naji</p>
+      <p>The Minister of National Economy</p>
+      <p>Chairman of the Board of Directors of the Investment Promotion Authority</p>
+      <p>For the Jordanian side</p>
+      <p>Dr. Shabib Ammari</p>
+      <p>Minister of Industry and Trade</p>
+      <p>Chairman of the Board of Directors of the Investment Promotion Corporation</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Bolivia, Plurinational State of - Spain BIT (1990)</name>
+    <code>T1990-11</code>
+    <partyisocode n="0">BOL</partyisocode>
+    <partyisocode n="1">ESP</partyisocode>
+    <date_signed>1990-04-24</date_signed>
+    <date_into_force>1992-05-12</date_into_force>
+    <date_terminated>2002-07-09</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>591</docreference>
+    <comments/>
+    <source>UN Treaty Collection</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BOL,ESP}_1990-04-24.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T2001-62">Bolivia, Plurinational State of - Spain BIT (2001)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE KINGDOM OF SPAIN AND THE REPUBLIC OF BOLIVIA ON RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Kingdom of Spain and the Republic of Bolivia,</p>
+      <p>Desiring to strengthen economic cooperation between the two States,</p>
+      <p>Recognizing the important role played by private foreign capital investments in the economic development process, and the right of each Contracting Party to determine that role and to define the conditions under which foreign investments may participate in the process,</p>
+      <p>Recognizing that the only way to establish and maintain a sufficient international flow of capital is to sustain a mutually satisfactory investment climate and, with regard to foreign investment, to respect the sovereignty and laws of the host country having jurisdiction thereover, to act in a manner compatible with the policies and priorities adopted by the host country and to endeavour to contribute to its development,</p>
+      <p>Desiring to establish favourable conditions for capital investments in the two States and to intensify cooperation between investors from the two States, especially in the fields of technology, industrialization and productivity,</p>
+      <p>Recognizing the need to protect the investments of investors of both States and to stimulate the flow of capital with a view to promoting the economic prosperity of both States,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For purposes of this Agreement, investors are:</p>
+        <p>(a)  In respect of the Kingdom of Spain, individuals residing in Spain and artificial persons whose registered offices are in Spain and constituted in conformity with Spanish laws;</p>
+        <p>(b)  In respect of the Republic of Bolivia, any individual of Bolivian nationality by virtue of legislation in force in the Republic of Bolivia and any artificial person, partnership or other association or entity whose statutes derive from that legislation.</p>
+        <p>The term investments shall apply to the acquisition of any category of property and assets, and particularly but not exclusively, to:</p>
+        <p>(a)  Movable and immovable property and all other real rights such as mortgages, sureties, beneficial interests and similar rights;</p>
+        <p>(b)  Shares and other forms of participation in companies;</p>
+        <p>(c)  Monetary assets and rights to any benefit having an economic value, especially fixed-income securities, both public and private, and all categories of commercial and financial loans whether capitalized or not;</p>
+        <p>(d)  Copyrights, industrial property rights (such as patents, trade marks or trade names);</p>
+        <p>(e)  Concessions or other rights granted by the authorities of the Contracting Parties, including concessions for prospecting, mining or developing natural resources.</p>
+        <p>The term income shall mean the net profits or interests deriving from an investment during a given period.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and permission">
+        <p>Each Contracting Party shall promote, as far as possible, investments made in its territory by investors of the other Contracting Party and shall permit those investments, in accordance with its laws, provisions and regulations.</p>
+        <p>This Agreement shall apply also to capital investments made before its entry into force by nationals or companies of one Contracting Party in accordance with the legal provisions of the other Contracting Party in the latters territory.</p>
+      </div>
+      <div type="article" num="3" title="Protection">
+        <p>Each Contracting Party shall protect within its territory investments made in accordance with its legislation by investors of the other Contracting Party and shall not impair, by unjustified or discriminatory measures, the management, maintenance, use, enjoyment, extension, sale and, should it so happen, liquidation of such investments.</p>
+        <p>Each Contracting Party shall endeavour to grant the necessary permits in connection with such investments and shall allow, within the framework of its legislation the execution of licensing contracts and of technical, commercial or administrative assistance.</p>
+        <p>Each Contracting Party shall endeavour also, whenever necessary, to grant the permits required for the activities of consultants or experts engaged by investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="4" title="Treatment">
+        <p>1.  Each Contracting Party shall ensure fair and equitable treatment within its territory for the investments of investors of the other Contracting Party.</p>
+        <p>2.  This treatment shall be no less favourable than that granted by each Contracting Party in respect of the investments made within its territory by its own investors or than that granted by each Contracting Party in respect of investments made within its territory by investors of the most-favoured nation, if the latter treatment is more favourable.</p>
+        <p>3.  Nevertheless, this treatment shall not apply to privileges which either Contracting Party accords to investors of a third State by virtue of its membership in or association with a customs union, common market or free-trade area.</p>
+        <p>4.  The investors of one Contracting Party may not avail themselves of the treatment provided for in paragraph 2 of this article in order to benefit from incentive measures (credit facilities, donations, equipment subsidies, guarantees or insurance) accorded by the Government of the other Party to its own nationals as part of its national development policy.</p>
+      </div>
+      <div type="article" num="5" title="Transfers">
+        <p>Each of the Contracting Parties within whose territory investors of the other Contracting Party have made investments shall permit those investors to transfer, without undue delay, in convertible currency, payments from their investments, in particular:</p>
+        <p>(a)  Interest, dividends, profits and other current income;</p>
+        <p>(b)  Royalties and other payments deriving from licensing rights and from commercial, administrative or technical assistance;</p>
+        <p>(c)  Payments deriving from other contracts, including payments for amortization or repayment of financial or commercial loans;</p>
+        <p>(d)  Proceeds from the sale or partial or total liquidation of an investment, including capital appreciation, if any;</p>
+        <p>(e)  Compensation for expropriation, nationalization or measures having the same effect or character.</p>
+        <p>The aforementioned transfers shall be understood to be tax-exempt and shall be made in convertible currency. The administrative authorizations necessary for the transfer shall be granted within three months from the date of the submission in good and due form of the transfer request.</p>
+      </div>
+      <div type="article" num="6" title="Nationalization / expropriation">
+        <p>Any measure of nationalization, expropriation or any other measure of the same nature taken by the authorities of one of the Contracting Parties against investments belonging to investors of the other Contracting Party must be in accordance with the law and must not be discriminatory or prompted by any consideration other than public use. The Contracting Party having taken such measures shall pay, without undue delay, adequate and effective compensation to the person entitled thereto.</p>
+      </div>
+      <div type="article" num="7" title="More favourable conditions">
+        <p>Where one of the Contracting Parties has agreed with investors of the other Contracting Party to conditions more favourable than those of this Agreement, those conditions shall not be affected by this Agreement.</p>
+      </div>
+      <div type="article" num="8" title="Principle of subrogation">
+        <p>Where one Contracting Party makes a payment to an investor by virtue of a guarantee issued against non-commercial risks in respect of an investment in the territory of the other Contracting Party, the latter shall recognize the subrogation of the first Contracting Party in respect of the economic rights of the investor who has been compensated.</p>
+        <p>With regard to the real rights related to the investment (right of ownership, use, beneficial interest) subrogation may occur only with the prior authorization of the competent authorities, in accordance with the laws and regulations of the Contracting Party where the investment was made.</p>
+      </div>
+      <div type="article" num="9" title="Arbitration">
+        <p>1.  Disputes concerning the interpretation or application of the provisions of this Agreement shall be settled through the diplomatic channel.</p>
+        <p>2.  If the two Contracting Parties cannot reach an agreement within nine months, the dispute shall, upon the request of either Contracting Party, be submitted to an arbitral tribunal consisting of three members. Each Contracting Party shall appoint an arbitrator, and these two arbitrators shall nominate a Chairman who shall be a national of a third State.</p>
+        <p>3.  If either Contracting Party has not appointed its arbitrator, and if, after being invited by the other Party to do so, it has not made the appointment within two months, the arbitrator shall be appointed upon the request of that Contracting Party by the President of the International Court of Justice at The Hague.</p>
+        <p>4.  If the two arbitrators cannot agree as to the choice of Chairman within two months of their appointment, the latter shall be appointed at the request of either Contracting Party by the President of the International Court of Justice at The Hague.</p>
+        <p>5.  If, in the cases referred to in paragraphs 3 and 4 of this article, the President of the International Court of Justice at The Hague does not carry out his function or if he is a national of either Contracting Party, the appointments shall be made by the Vice-President and, if the latter does not carry out his function or if he is a national of either Contracting Party, they shall be made by the next senior Judge of the Court who is not a national of either Contracting Party.</p>
+        <p>6.  Unless the Contracting Parties decide otherwise, the tribunal shall determine its own procedure.</p>
+        <p>7.  The decisions of the tribunal shall be final and binding on each Contracting Party.</p>
+      </div>
+      <div type="article" num="10" title="Entry into force, renewal and termination">
+        <p>1.  This Agreement shall enter into force on the day on which both Governments have notified each other that the respective constitutional requirements for the entry into force of international agreements have been completed. It shall remain valid for an initial period of 10 years and shall be automatically renewed for consecutive two-year periods.</p>
+        <p>Either Contracting Party may terminate this Agreement by notifying [the other], in writing, six months before the date of expiration.</p>
+        <p>2.  In case of termination, the provisions of articles 1 to 2 above shall continue to apply for a period of 10 years to investments made before termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in Madrid, on 24 April 1990, in two originals in Spanish, both texts being equally authentic.</p>
+      <p>For the Kingdom of Spain:</p>
+      <p>[Signed]</p>
+      <p>Luis Y&#xE1;&#xF1;ez-Barnuevo</p>
+      <p>Secretary of State for International Cooperation and Ibero-America</p>
+      <p>For the Republic of Bolivia:</p>
+      <p>[Signed]</p>
+      <p>Carlos Iturralde</p>
+      <p>Minister for Foreign Affairs and Worship</p>
+    </conclusion>
+  </main>
+</treaty>

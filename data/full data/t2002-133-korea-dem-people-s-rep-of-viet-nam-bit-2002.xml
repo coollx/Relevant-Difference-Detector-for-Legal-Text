@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Korea, Dem. People's Rep. of - Viet Nam BIT (2002)</name>
+    <code>T2002-133</code>
+    <partyisocode n="0">PRK</partyisocode>
+    <partyisocode n="1">VNM</partyisocode>
+    <date_signed>2002-05-02</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>2238</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{PRK,VNM}_2002-05-02.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main/>
+</treaty>

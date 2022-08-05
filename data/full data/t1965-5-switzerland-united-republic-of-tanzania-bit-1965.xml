@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Switzerland - United Republic of Tanzania BIT (1965)</name>
+    <code>T1965-5</code>
+    <partyisocode n="0">CHE</partyisocode>
+    <partyisocode n="1">TZA</partyisocode>
+    <date_signed>1965-05-03</date_signed>
+    <date_into_force>1965-09-16</date_into_force>
+    <date_terminated>2006-04-06</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>2992</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{CHE,TZA}_1965-05-03.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T2004-37">Switzerland - United Republic of Tanzania BIT (2004)</relation>
+    <relation type="IT_REPLACING" document-code="T2004-37">Switzerland - United Republic of Tanzania BIT (2004)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Convention between the Government of the Swiss Confederation and the Government of the United Republic of Tanzania on the reciprocal encouragement and protection of investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Swiss Confederation</p>
+      <p>And</p>
+      <p>The Government of the United Republic of Tanzania,</p>
+      <p>Desiring to enhance economic cooperation between the two States,</p>
+      <p>In order to create favourable conditions for investment capital in both States and intensify cooperation between private enterprises of the two countries in the fields of science and technology and productivity and recognizing the need to protect investments of nationals and companies of the two States,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>1. Investments of companies or nationals of either Contracting Party in the territory of the other Contracting Party shall enjoy fair and equitable treatment in accordance with international law.</p>
+        <p>2. Investments of companies or nationals of either Contracting Party in the territory of the other Contracting Party by that Party will be accorded treatment no less favourable than that which it accords to investments in its territory or similar as provided in any specific commitment that would be applicable in the circumstances.</p>
+        <p>3. Neither Contracting Party shall submit the activities of nationals or companies of the other contracting party relating to their investments under conditions no less favourable than that it imposes on activities relating to any other similar investment in its territory.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting Party shall guarantee to nationals or companies of the other contracting party as regards their investments the transfer of capital and the product and, in the event of liquidation, to the proceeds from the liquidation.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1. Investments of companies or nationals of either Contracting Party shall enjoy in the territory of the other contracting party of a full protection and security.</p>
+        <p>2. Investments of companies or nationals of either Contracting Party shall not be expropriated or nationalized in the territory of the other contracting party except for public purpose; such expropriation and compensation against nationalisation or must not be contrary to any specific commitment.</p>
+        <p>3. In cases where a Contracting Party shall expropriate or nationaliserait investments of nationals or companies of the other contracting party or to take such nationals or companies of any other direct or indirect measures of dispossession, it shall ensure the payment of adequate and effective compensation in accordance with international law.</p>
+        <p>4. Such compensation shall be equivalent to the expropriated investment; it shall immediately be transferable and realisable and shall be paid without delay. the necessary shall be made at the time of expropriation or nationalization or prior to the Commission, with a view to the establishment and the payment of compensation.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1. The term "investment" means every kind of asset and particularly but not limited to:</p>
+        <p>a. The movable and immovable property as well as any other rights in rem such as mortgages, pledge, security interests, and similar usufruct rights;</p>
+        <p>b. Shares and other forms of equity participation;</p>
+        <p>c. Monetary claims and rights to any performance having an economic value;</p>
+        <p>d. Copyrights, trademarks, patents, technical processes, trade names, trademarks and goodwill;</p>
+        <p>e. The concessions under public law, including concessions to search for and extract exploit natural resources.</p>
+        <p>2. The term "product" means the amounts reported by an investment for a period specified in the form of income or interests.</p>
+        <p>3. The term "nationals" means</p>
+        <p>a. As regards the Swiss Confederation:</p>
+        <p>The persons who, under Swiss law are considered citizens;</p>
+        <p>b. In respect of the United Republic of Tanzania: persons whose the minister responsible for matters of nationality certify the quality of nationals.</p>
+        <p>4. The term "companies" means</p>
+        <p>a. As regards the Swiss Confederation:</p>
+        <p>The community foundations or institutions having legal personality or limited as well as partnerships and other communities of persons without legal personality in which nationals of Switzerland, directly or indirectly, a preponderant interest;</p>
+        <p>b. In respect of the United Republic of Tanzania:</p>
+        <p>A corporation incorporated and registered in accordance with its legislation on societies.</p>
+      </div>
+      <div type="article" num="5">
+        <p>1. If any dispute should arise between the contracting parties concerning the interpretation or implementation of this Convention and the dispute cannot be satisfactorily settled through diplomatic channels within six months, it shall be submitted, at the request of either contracting party to an arbitral tribunal composed of three members.</p>
+        <p>2. Each Contracting Party shall appoint an arbitrator. the two arbitrators so nominated shall appoint a chairman who shall be a national of a third State.</p>
+        <p>3. If one of the Contracting Parties has not appointed its arbitrator and has not followed the invitation of the other contracting party to make such appointment within two months of the arbitrator shall be appointed, upon request by the latter Contracting Party by the President of the International Court of Justice.</p>
+        <p>4. If the two arbitrators cannot reach an agreement about the choice of the Chairman within two months after their appointment the latter shall be appointed upon the request of either Contracting Party by the President of the International Court of Justice.</p>
+        <p>5. If in the cases specified in paragraphs 3 and 4 the President of the International Court of Justice is prevented from exercising his mandate or if he is a national of either Contracting Party, the appointment shall be made by the Vice-President and if the latter is prevented or a national of either Contracting Party, the appointment shall be made by the most senior member of the Court who is not a national of either of the Contracting Parties.</p>
+        <p>6. Unless the Contracting Parties decide otherwise, the tribunal shall determine its own procedure.</p>
+        <p>7. The decisions of the Tribunal shall be binding on the contracting parties.</p>
+      </div>
+      <div type="article" num="6">
+        <p>1. This Convention is subject to ratification. it shall enter into force on the date on which the exchange of instruments of ratification and shall remain in force for a period of ten years. has to be denounced at least six months before its expiry, this Convention shall be considered as renewed for a period of two years.</p>
+        <p>2. In the event of termination, the provisions of articles 1 to 5 above will continue to apply for a period of ten years for investments made prior to the termination of the Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in duplicate at Berne on 3 March 1965, in the English and German languages, both texts being equally authentic.</p>
+    </conclusion>
+  </main>
+</treaty>

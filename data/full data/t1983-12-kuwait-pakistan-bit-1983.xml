@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Kuwait - Pakistan BIT (1983)</name>
+    <code>T1983-12</code>
+    <partyisocode n="0">KWT</partyisocode>
+    <partyisocode n="1">PAK</partyisocode>
+    <date_signed>1983-03-17</date_signed>
+    <date_into_force/>
+    <date_terminated>2013-11-07</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>2303</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{KWT,PAK}_1983-03-17.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_REPLACED_BY" document-code="T2011-41">Kuwait - Pakistan BIT (2011)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT ON THE PROMOTION AND SAFEGUARDING OF CAPITAL MOVEMENT AND INVESTMENT BETWEEN THE GOVERNMENT OF THE STATE OF KUWAIT AND THE GOVERNMENT OF THE ISLAMIC REPUBLIC OF PAKISTAN</p>
+    </title>
+    <preamble>
+      <p>Whereas the Government of the State of Kuwait and the Government of the Islamic Republic of Pakistan desire to strengthen the brotherly relations prevailing between them and to expand the economic and technical co-operation and safeguard the investment of capital between the two countries for their mutual benefit, they have agreed to the following:-</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purpose of this Agreement the following terms shall have the meaning defined hereunder:</p>
+        <p>1. Investments</p>
+        <p>The term investment shall comprise the Funds invested by the Government or natural and/or juridical persons of one Contracting State in the territories of the other Contracting State with the approved and in accordance with the Laws of that State. It shall include any kind of assed connected with this investment and more particularly, thought not exclusively:</p>
+        <p>a) Moveable and immovable property,</p>
+        <p>b) Shares and loan bonds issued by private and public companies, establishments and organizations,</p>
+        <p>c) The rights to literary, scientific, industrial, artistic property and technical know-how.</p>
+        <p>2. RETURNS</p>
+        <p>The amounts yielded by an investment which in particular, though not exclusively, include profit, Interest, capital gains, share dividends, royalties and fees, net of taxes in accordance with the Laws of the Contracting State in the territories of which the investment has been made and subject to tax agreements between the two Contracting States.</p>
+        <p>3. INVESTOR</p>
+        <p>The Government of any of the Contracting States and/or the natural and juridical persons defined hereunder</p>
+        <p>a) Natural Persons</p>
+        <p>In respect of the any person holding the Kuwait Nationality, in accordance with the provisions of the Pakistani Nationality Law.</p>
+        <p>In respect of the Islamic Republic of Pakistan: Any person holding the Pakistani nationality, in accordance with the provisions of the Pakistani Nationality Law.</p>
+        <p>b) Juridical Persons</p>
+        <p>Any entity set up in accordance with the laws in force in either of the two Contracting States whose juridical personality is recognized by the laws of the State where the entity was established, such as, public and private companies, establishments and organizations, irrespective of whether their liabilities are limited or otherwise.</p>
+      </div>
+      <div type="article" num="2">
+        <p>1. Each of the Contracting States shall encourage the investments by the investors of the other Contracting State in its territories</p>
+        <p>2. Each Contracting State shall at all times ensure fair and equitable treatment to the investments made in that Contracting State by the investors of the other Contracting State.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1. A separate tax exemption agreement shall be concluded by the two Contracting States.</p>
+        <p>2. The two Contracting States may agree to provide additional tax concessions, facilities and guarantees to investments by the investors of one Contracting State in the territories of the other.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Neither Contracting State may take measures of nationalization, expropriation or confiscation against the approved investments in its territories owned by investors of the other State, except for reasons of public interest and against a just and prompt compensation, the amount of which shall be equal to the value of the investments at the time of such action.</p>
+        <p>Evaluation of such investments shall be done within a period of 12 months from the date of nationalization, expropriation or confiscation. Remittance of the amount of compensation shall be made in the same currency or currencies brought in for purpose of approved investment within 6 months.</p>
+      </div>
+      <div type="article" num="5">
+        <p>The investors of one Contracting State having investments in the territory of the other Contracting State shall be entitled to remit all annual returns in time and to re-remit the capital and the amounts arising from liquidation upon completion of the liquidation process pursuant to the provisions of the present Agreement. Such remittance of capital, liquidation amounts and all returns shall be made without delay in the same currency in which the investment was initially brought in.</p>
+      </div>
+      <div type="article" num="6">
+        <p>For the purpose of the present Agreement the exchange rates shall be determined in accordance with the official rates agreed to with the International Monetary Fund. If such rate does not exist the official exchange rate for the Special Drawing Rights or the U.S. Dollars or any other convertible currency the Contracting States agree upon shall be used.</p>
+      </div>
+      <div type="article" num="7">
+        <p>To ensure the proper implementation of this Agreement, a Joint Committee shall be formed consisting of representatives of the two Contracting States holding meetings alternatively in Kuwait and Islamabad, to study the aspects of cooperation between the two States and suggest new fields of cooperation and to examine the various schemes that will strengthen the cooperation and eliminate the difficulties that hinder the implementation of this Agreement or the agreements that shall be concluded on its basis.</p>
+        <p>The Joint Committee shall also try to resolve the differences that may arise from the application or the interpretation of these agreements. The Committee in this regard can submit its recommendations to the Governments of the two States and form other specialized committees when need arises.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1. Should a dispute arise between the nationals of a Contracting State and the other Contracting State, and in case the parties to the dispute do not agree to settle the dispute through another mode of settlement, the dispute will be submitted to the Center for the Settlement of Investments Disputes between States and Nationals of other States and will be settled according to the procedures of the Convention of the Settlement of Investments Dispute.Convention of the Settlement of Investments Dispute.</p>
+        <p>2. Should a dispute arise concerning the application or interpretation of the provisions of the present Agreement or the agreements concluded in accordance with it and if the Joint Committee fails to settle the dispute within a period of six months, any of the parties to the dispute, unless otherwise agreed, shall refer it to a three member special Arbitration Commission; each party to the dispute chooses one and the two members choose a third member who will be a national of a third State. The third arbitrator shall have no pecuniary interest in the subject matter of the dispute and shall not be a national of a state with which either Contracting State does not maintain diplomatic relations. The third arbitrator shall be the Chairman of the Arbitration Commission.</p>
+        <p>3. Should the other party to the dispute fail to appoint its member on the Arbitration Commission within a period of two months from the date of its being asked to do so by the other party, the first party may ask the Secretary-General of the Organization of the Islamic Conference to appoint a second member.</p>
+        <p>4. Should the two arbitrators fail to appoint the third arbitrator within a period of two months from the date of their appointment, the appointment will be made on the request of either party to the dispute by the Secretary General of the Organization of the Islamic Conference.</p>
+        <p>5. Should it not be possible for the Secretary General of the Organization of the Islamic Conference to perform the task entrusted to him in accordance with paragraphs (3) and (4) of this Article or if he is a national of one of the two Contracting Sates, his Deputy will be requested to appoint the third arbitrator.paragraphs (3) and (4) of this Article or if he is a national of one of the two Contracting Sates, his Deputy will be requested to appoint the third arbitrator.</p>
+        <p>6. Unless it is otherwise agreed upon by the two parties to the dispute, the Arbitration Commission shall apply the procedures determined by it.</p>
+        <p>7. The decision of the Arbitration Commission will be issued by majority vote, will be binding on both parties to the dispute and shall be final.</p>
+      </div>
+      <div type="article" num="9">
+        <p>The present Agreement shall remain in force for 15 years from the date of its coming into force and shall be automatically renewable for one or more equal periods unless either of the Contracting State notifies the other Contracting State in writing, 12 months before the expiry of the term of the Agreement or any subsequent period of its intention not to renew it. However, its provisions shall remain applicable to the movement of the investments and returns established while the Agreement was in force until the rights related to it have been liquidated; provided that this period shall not exceed 25 years from the date of the termination of the present Agreement.</p>
+      </div>
+      <div type="article" num="10">
+        <p>This Agreement shall supersede the Economic Cooperation Agreement concluded on 26 November, 1972 between the State of Kuwait and the Islamic Republic of Pakistan should there be any contradiction between the provisions of the two Agreements.</p>
+      </div>
+      <div type="article" num="11">
+        <p>This Agreement shall be subject to ratification by each of the two Contracting States, in accordance with their respective constitutional processes and shall be implemented as of the date of exchange of the diplomatic memoranda to that effect.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Signed at KUWAIT on this SEVENTEENTH day of March 1983 corresponding to 2nd JAMADI AL-AKHPA, and drawn up in duplicate, original Arabic and English versions, both texts being equally authoritative.</p>
+      <p>FOR GOVERNMENT OF THE ISLAMIC REPUBLIC OF PAKISTAN</p>
+      <p>MAHDI MASUD</p>
+      <p>AMBASSADOR</p>
+      <p>FOR GOVERNMENT OF THE STATE OF KUWAIT</p>
+      <p>ABDULMOHSIN Y. AL-HUNAIF</p>
+      <p>UNDERSECRETARY</p>
+      <p>MINISTRY OF FINANCE</p>
+    </conclusion>
+  </main>
+</treaty>

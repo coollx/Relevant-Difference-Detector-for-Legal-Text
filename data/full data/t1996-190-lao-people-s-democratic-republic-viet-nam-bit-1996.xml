@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Lao People's Democratic Republic - Viet Nam BIT (1996)</name>
+    <code>T1996-190</code>
+    <partyisocode n="0">LAO</partyisocode>
+    <partyisocode n="1">VNM</partyisocode>
+    <date_signed>1996-01-14</date_signed>
+    <date_into_force>1996-06-22</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2354</docreference>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{LAO,VNM}_1996-01-14.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1987">ASEAN Investment Agreement (1987)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2009-8">ASEAN Comprehensive Investment Agreement (2009)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the Lao People's Democratic Republic and the Government of the Socialist Republic of Vietnam for the promotion and protection of investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Lao People's Democratic Republic and the Government of the Socialist Republic of Vietnam hereinafter referred to as "Contracting Parties "</p>
+      <p>Desiring to expand and deepen economic and industrial cooperation on a long term basis, and in particular, to create favourable conditions for investments by investors of one Contracting Party in the territory of the other Contracting Party;</p>
+      <p>Recognising the need to protect investment by investors of both Contracting Parties and to stimulate the flow of investments and individual business initiative with a view to the economic prosperity of both Contracting Parties;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>(1) For the purposes of this Agreement:</p>
+        <p>(a) "investment" means every kind of asset and in particular, though not exclusively, includes:</p>
+        <p>(i) Movable and immovable property and any other property rights such as mortgages, liens and pledges;</p>
+        <p>(ii) Shares, stocks and debentures of companies or interests in the property of such companies;</p>
+        <p>(iii) A claim to money or a claim to any performance having financial value;</p>
+        <p>(iv) Intellectual and industrial property rights, including rights with respect to copyrights, patents, trademarks, trade names, industrial designs, trade secrets, technical processes and know-how and goodwill;</p>
+        <p>(v) Business concessions conferred by law or under contract, including concessions to search for, cultivate, extract, or exploit natural resources;</p>
+        <p>The said term "investment" shall refer:</p>
+        <p>(a) With respect of investments in the territory of the Socialist Republic of Vietnam, all the investment projects which are approved by the Government of the Socialist Republic of Vietnam on the basis of the current legislation; and</p>
+        <p>(b) With respect to investment in the territory of the Lao People's Democratic Republic, all investment projects licensed by the Government of the Lao People's Democratic Republic on the basis of the Lao laws and regulations.</p>
+        <p>Any alteration of the form in which assets are invested shall not affect their classification as investments, provided that such alteration is not contrary to the approval, if any, granted in respect of the assets originally invested.</p>
+        <p>(b) "returns" mean the amount yielded by an investment and in particular, though not exclusively, includes profit, interest, capital gains, dividends, royalties or fees.</p>
+        <p>(c) The term "investor" means:</p>
+        <p>(i) Any natural person possessing the citizenship of or permanently residing in the territory of a Contracting Party in accordance with its laws; or</p>
+        <p>(ii) Any corporation, partnership, trust, joint-venture, organisation, association or enterprise incorporated or duly constituted in accordance with applicable laws of that Contracting Party;</p>
+        <p>Who makes the investment;</p>
+        <p>(d) "territory" means:</p>
+        <p>(i) With respect to the Socialist Republic of Vietnam all land territory (including islands), territorial sea and airspace above, over which the Socialist Republic of Vietnam has sovereignty, the right of sovereignty and jurisdiction in accordance with the national and international laws.</p>
+        <p>(ii)  with respect to the Lao People's Democratic Republic the territory over which the Lao PDR has sovereignty and/or jurisdiction in accordance with international law,</p>
+        <p>(e) "freely usable currency" means the United States Dollar, Pound Sterling, Deutschemark, French Franc, Japanese Yen or any other currency that is widely used to make payments for international transactions and widely traded in the international principal exchange markets.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>(1)  Each Contracting Party shall encourage and create favourable conditions for investors of the other Contracting Party to invest in its territory and subject to its rights to exercise powers conferred by its laws, regulations and administrative practices, shall admit such investment.</p>
+        <p>(2) Investments of investors of either Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="Most-favoured-nation provisions">
+        <p>(1) Investments made by investors of either Contracting Party in the territory of the other Contracting Party shall receive treatment which is fair and equitable, and not less favourable than that accorded to investments made by investors of any third Country.</p>
+        <p>(2)  Investors of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection or riot in the territory of the latter Contracting Party shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which the latter Contracting Party accords to investors of any third Country.</p>
+      </div>
+      <div type="article" num="4" title="Exceptions">
+        <p>The provisions of this Agreement relative to the granting of treatment not less favourable than that accorded to the investors of any third Country shall not be construed so as to oblige one Contracting Party to extend to the investors of the other the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>(a) Any existing or future customs union or free trade area or a common external tariff area or a monetary union or similar international agreement or other forms of regional cooperation to which either of the Contracting Parties is or may become a party; or</p>
+        <p>(b)  the adoption of an agreement designed to lead to the formation or extension of such a union or area within a reasonable length of time; or</p>
+        <p>(c)  any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>Neither Contracting Party shall take any measures of expropriation, nationalisation or any dispossession, having effect equivalent to nationalisation or expropriation against the investment of investors of the other Contracting Party except under the following conditions:</p>
+        <p>(a) The measures are taken for a public purpose and under due process of law;</p>
+        <p>(b) The measures are non-discriminatory;</p>
+        <p>(c)  the measures are accompanied by provisions for the payment of prompt, adequate and effective compensation. Such compensation shall amount to the market value of the investments affected immediately before the measure of dispossession became public knowledge and it shall be freely transferable in freely usable currencies from the Contracting Party. Any unreasonable delay in payment of compensation shall carry an appropriate interest at commercially reasonable rate as agreed upon by both parties or at such rate as prescribed by law.</p>
+      </div>
+      <div type="article" num="6" title="Repatriation of investment">
+        <p>(1)  Each Contracting Party shall, subject to its laws, regulations and administrative practices allow without unreasonable delay the transfer in any freely usable currency:</p>
+        <p>(a) The net profits, dividends, technical assistance and technical fees, interest and other current income, accruing from any investment of the investors of the other Contracting Party;</p>
+        <p>(b)  the proceeds from the total or partial liquidation of any investment made by investors of the other Contracting Party;</p>
+        <p>(c)  funds in repayment of loans related to an investment, and</p>
+        <p>(d)  the earnings of citizens and permanent residents of the other Contracting Party who are employed and allowed to work in connection with an investment in its territory.</p>
+        <p>(2)  The exchange rates applicable to such transfer in paragraph (1) of this Article shall be the rate of exchange prevailing at the time of remittance.</p>
+        <p>(3)  The Contracting Parties undertake to accord to the transfers referred to in paragraph (1) of this Article a treatment as favourable as that accorded to transfer originating from investments made by investors of any third Country.</p>
+      </div>
+      <div type="article" num="7" title="Settlement of investment disputes between a contracting party and an investor of the other contracting party">
+        <p>(1) If any dispute arising between a Contracting Party and an investor of the other Contracting Party which involves:</p>
+        <p>(i)  an obligation entered into by that Contracting Party with the investor of the other Contracting Party regarding an investment by such investor; or</p>
+        <p>(ii)  an alleged breach of any right conferred or created by this Agreement with respect to an investment by such investor;</p>
+        <p>The Contracting Party and the investor concerned shall seek to resolve the dispute through consultation and negotiation. The party intending to resolve such dispute through consultation and negotiation shall give notice to the other of its intention.</p>
+        <p>(2)  IIf the dispute cannot be thus resolved as provided in paragraph (1) of this Article within 6 months from the date of the notice given thereunder, then the Contracting Party and the investor concerned shall refer the dispute to either conciliation in accordance with the United Nations Commission on International Trade Law Rules of Conciliation 1980 or to arbitration in accordance with the United Nations Commission on International Trade Law Rules on Arbitration 1976, subject to the following provisions:</p>
+        <p>(a) In respect of conciliation proceedings, there shall be two conciliators, one each appointed by the respective parties; and</p>
+        <p>(b)  in respect of arbitration proceedings, the following shall apply:</p>
+        <p>(i) The Arbitral Tribunal shall consist of three arbitrators. Each party shall select an arbitrator. These two arbitrators shall appoint by mutual agreement the third arbitrator as a Chairman who shall be a national of a third Country which has diplomatic relations with the Governments of the parties to the dispute. The arbitrators shall be appointed within two months from the date when one of the parties to the dispute inform the other of its intention to submit the dispute to arbitration after the lapse of the six months mentioned in paragraph (2) of this Article.</p>
+        <p>(ii)  The Arbitral Award shall be made in accordance with the provisions of this Agreement, the relevant domestic laws including the rules on the conflict of laws of the territory of the Contracting Party in which the investment dispute arises as well as the generally recognised principles of international law.</p>
+        <p>(iii) Each party to the dispute shall bear the cost of its own arbitrator and of its counsel in the arbitration proceedings. The cost of the Chairman and the remaining costs of the Arbitral Tribunal shall be borne in equal parts by both parties to the dispute</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes between the contracting parties">
+        <p>(1)  Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, if possible be settled through diplomatic channels.</p>
+        <p>(2) If a dispute between the Contracting Parties cannot thus be settled, it shall, upon the request of either Contracting Party, be submitted to an arbitral tribunal.</p>
+        <p>(3)  Such an arbitral tribunal shall be constituted for each individual case in the following way. Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third Country who on approval by the two Contracting Parties shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>(4)  If within the periods specified in paragraph (3) of this Article the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he too, is prevented from discharging the said function the members of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>(5)  The Arbitral tribunal shall reach its decisions by a majority of votes. Such decision shall be binding on both Contracting Parties. Each Contracting Party shall bear the cost of its own member of the tribunal and of its representation in the Arbitral proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="9" title="Subrogation">
+        <p>If a Contracting Party or its designated agency makes a payment to any of its investors under a guarantee it has granted in respect to an investment, the other Contracting Party shall, without prejudice to the rights of the former Contracting Party or its designated agency under Article 7, in its capacity as a subrogated party, recognise the transfer of any right of title of such investor to the former Contracting Party or its designated agency and the subrogation of the former Contracting Party or its designated agency to any right or title.</p>
+      </div>
+      <div type="article" num="10" title="Application to investment">
+        <p>This Agreement shall apply to investments made with effect from January 1st 1988 in the territory of either Contracting Party in accordance with its legislation, rules or regulations on investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, duration and termination">
+        <p>(1)  This Agreement shall enter into force thirty (30) days after the date on which the Governments of the Contracting Parties have notified each other that their constitutional requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>(2)  This Agreement shall remain in force for a period often (10) years, and shall continue in force each time for a period equal to the initial duration of this agreement, unless terminated in accordance with paragraph (3) of this Article.</p>
+        <p>(3)  Either Contracting Party may by giving one (1) year's written notice to the other Contracting Party terminate this Agreement at the end of the initial ten (10) years period or any time thereafter.</p>
+        <p>(4)  With respect to investments made or acquired prior to the date of termination of this Agreement, the provisions of all of the other Articles of this Agreement shall continue to be effective for a period often (10) years from such date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof, the undersigned, duly authorised thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done in duplicate at Vientiane on the 14th January, 1996 in the Lao, Vietnamese and English languages all texts being equally authentic. In the case of divergence between the languages of this Agreement the English text shall prevail.</p>
+      <p>For the Government of Lao People's Democratic Republic:</p>
+      <p>[ILLEGIBLE]</p>
+      <p>For the Government of the Socialist Republic of Vietnam:</p>
+      <p>[ILLEGIBLE]</p>
+    </conclusion>
+  </main>
+</treaty>

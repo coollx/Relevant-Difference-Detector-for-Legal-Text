@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Belarus - Finland BIT (1992)</name>
+    <code>T1992-18</code>
+    <partyisocode n="0">BLR</partyisocode>
+    <partyisocode n="1">FIN</partyisocode>
+    <date_signed>1992-10-28</date_signed>
+    <date_into_force>1994-12-11</date_into_force>
+    <date_terminated>2008-04-10</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>415</docreference>
+    <comments>https://treaties.un.org/doc/Publication/UNTS/Volume%201856/v1856.pdf</comments>
+    <source>UNTC</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BLR,FIN}_1992-10-28.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T2006-22">Belarus - Finland BIT (2006)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF FINLAND AND THE GOVERNMENT OF THE REPUBLIC OF BELARUS FOR THE PROMOTION AND RECIPROCAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Finland and the Government of the Republic of Belarus, hereinafter referred to as "the Contracting Parties",</p>
+      <p>Seeking to promote and broaden economic relations between the two States on the basis of equality and mutual advantage,</p>
+      <p>Recognizing the need to protect investments made by investors of one State in the territory of the other State,</p>
+      <p>Desiring to create favourable conditions for investment by investors of one State in the territory of the other State,</p>
+      <p>Convinced that the promotion and reciprocal protection of investments will be conducive to capital movement and business activity and will contribute to the economic prosperity of the two States,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement:</p>
+        <p>1.  The term "investment" means every kind of asset connected with economic activity including, in particular but not exclusively:</p>
+        <p>(a)  Movable and immovable property and any other property rights, including various forms of security;</p>
+        <p>(b) Stock in or any other form of participation in an enterprise or shares in the property of such enterprises;</p>
+        <p>(c)  Claims to money or any obligations having a financial value;</p>
+        <p>(d)  Industrial, commercial or intellectual property rights, including copyrights, patents, trade marks, business names, industrial designs, business secrets, technical processes, know-how and other similar rights;</p>
+        <p>(e)  Rights to commercial activity and concessions, including rights in respect of the exploration, processing, extraction or exploitation of natural resources and rights to the sale, transport and distribution of goods;</p>
+        <p>(f)  Leased property associated with investments covered by this Agreement.</p>
+        <p>2.  The term "investor" means:</p>
+        <p>(a)  Any physical person who is a national of the Republic of Finland or the Republic of Belarus in accordance with the law in force in those countries, or a juridical person established in the Republic of Finland or the Republic of Belarus in accordance with the law in force in those countries and which are competent to make investments in the territory of the other Contracting Party in accordance with the laws of their own country;</p>
+        <p>(b)  Any juridical person situated in the territory of one Contracting Party, or of a third State, and in which an investor of the State of one Contracting Party has a predominant interest;</p>
+        <p>(c)  Any juridical person not covered by the provisions of subparagraph (a) or (b) but in respect of which one of the Contracting Parties has a vested interest in its capacity as an investor, provided that the Contracting Parties in each specific case mutually recognize the said juridical person to be an investor, as well as each separate investment planned by that juridical person.</p>
+        <p>3.  The term "returns" means the monetary amounts or other assets yielded or which should be yielded by an investment, including, in particular but not exclusively, profits, interest, dividends, royalties or other forms of payment in cash or in kind.</p>
+        <p>4.  The term "territory" means, in respect of the Republic of Finland, the territory of the Republic of Finland and any area adjacent to its territorial waters over which, under the laws of Finland and in accordance with international law, Finland exercises its sovereign rights and jurisdiction, and, in respect of the Republic of Belarus, the territory which constitutes the State territory of the Republic of Belarus.</p>
+      </div>
+      <div type="article" num="2" title="Applicability of the agreement">
+        <p>1.  This Agreement shall apply to investments made in accordance with the laws of the State in whose territory the investments are made.</p>
+        <p>2.  Subject to the provisions of paragraph 1 of this article, this Agreement shall apply to all investments made by investors of one Contracting Party in the territory of the other Contracting Party before or after the entry into force of this Agreement.</p>
+      </div>
+      <div type="article" num="3" title="Protection of investments">
+        <p>Each Contracting Party shall, subject to the laws of its State and in conformity with international law, at all times accord fair and equitable treatment to the investments of investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="4" title="Treatment of investments">
+        <p>1.  Each Contracting Party shall accord in its territory, with respect to investments made in accordance with the provisions of this Agreement by investors of the other Contracting Party, and to their returns, treatment no less favourable than that which it accords in similar circumstances to investments or returns of investors of third States.</p>
+        <p>2.  The treatment referred to in paragraph 1 of this article shall not apply to advantages, privileges or grounds for compensation which one Contracting Party accords to investors, investments or returns of third States on the basis of:</p>
+        <p>&#x2014;  Any agreement concluded, or which may be concluded, concerning economic areas, economic or customs unions or free-trade areas;</p>
+        <p>&#x2014;  Any agreement on the avoidance of double taxation or any other international agreement relating in full or in part to taxation.</p>
+        <p>3.  If the law in force in either Contracting Party or obligations under intergovernmental agreements require that more favourable treatment be accorded to investments of investors of the States of the Contracting Parties than is provided for under this Agreement, that requirement shall to the extent that is more favourable prevail over this Agreement.</p>
+      </div>
+      <div type="article" num="5" title="Compensation for losses">
+        <p>If investments of investors of one Contracting Party suffer losses owing to war or any other armed conflict, a state of emergency or civil unrest, the other Contracting Party shall provide compensation for losses which is no less favourable than that which the latter Contracting Party accords to investors of any third country with respect to indemnification for or restitution of property, compensation or any other form of settlement involving material property. Compensation shall be made in a freely convertible currency and shall be freely transferable from one country to the other.</p>
+      </div>
+      <div type="article" num="6" title="Compensation in connection with coercive measures">
+        <p>1.  Neither Contracting Party shall take in its territory, with respect to investments made in said territory by an investor of the other Contracting Party, coercive measures, such as nationalization, expropriation or measures having similar effects, unless such measures are taken in the public interest. In such case, the procedure established by the law in force in the territory in question shall apply, and appropriate compensation shall be paid.</p>
+        <p>2.  Such measures shall not be discriminatory.</p>
+        <p>3.  Compensation shall be calculated on the basis of the real value of the investments on the day immediately preceding the adoption or publication of a decision on the implementation of the measures referred to in paragraph 1 of this article, and it shall be determined in accordance with the principles of objective valuation as accepted in international practice. Compensation shall be paid in freely convertible currency at the official rate of exchange applicable on the day on which the valuation was made. The amount of compensation shall be transferred without undue delay within such period as normally required for the completion of transfer formalities, but not later than three months from the date on which the measures referred to in Paragraph 1 of this article are taken. Compensation shall include interest calculated from the date on which the real value of the investments is determined until the date of payment, at a commercial rate to be determined by the central bank of the Contracting Party.</p>
+        <p>4.  An investor affected by coercive measures shall have the right to prompt an objective valuation of his expropriated investments by a competent authority of the Contracting Party making the expropriation, in accordance with the provisions of paragraph 3 of this article.</p>
+        <p>5.  The provisions of this Article shall also apply to returns from investments to the same extent as to payments due to an investor in connection with the sale or partial or total liquidation of his investments.</p>
+      </div>
+      <div type="article" num="7" title="Repatriation of payments and returns and transfer of movable property in connection with investments">
+        <p>Each Contracting Party shall guarantee to investors of the other Contracting Party, without undue delay and within not more than three months, the unimpeded transfer, in freely convertible currency, of payments and returns received in such currency in connection with investments, in particular:</p>
+        <p>(a)  Profits, dividends, interest, royalties, fees, licence payments, commission and other returns and payments accruing from investments;</p>
+        <p>(b)  Loans or funds for covering other relevant obligations;</p>
+        <p>(c)  Amounts due to an investor as a result of the sale or partial or total liquidation of investments;</p>
+        <p>(d)  Salary and other income of nationals of an investor's country for work performed in the territory of the host country in connection with investments;</p>
+        <p>(e)  Transfer of movable property in connection with investments.</p>
+      </div>
+      <div type="article" num="8" title="Promotion of investments">
+        <p>The Contracting Parties shall encourage, in accordance with their laws, the creation of favourable conditions for the activity of businesses which have been established, or will be established, on the basis of the investments covered by this Agreement and investment projects carried out on the basis of the rights to commercial activity and concessions covered in article 1, paragraph 1, (e), and also for their operation.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of disputes between a contracting party and an investor">
+        <p>1.  Legal disputes in relation to investments between a Contracting Party and an investor of the other Contracting Party shall be settled, as far as possible, through mutual consultations and negotiations.</p>
+        <p>2.  If mutual agreement is not reached within three months from the date of written notification of a claim by the parties to the dispute, the dispute may, at the request of either party, be submitted for settlement either to:</p>
+        <p>(a)  The International Center for Settlement of Investment Disputes (hereinafter referred to as "the Center"), having regard to the applicable provisions of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, concluded at Washington on 18 March 1965 1, provided that the two Parties are parties to the said Convention; or</p>
+        <p>(b)  An international ad hoc arbitral tribunal established under the Arbitration Rules of the United Nations Commission on International Trade Law as then in force.</p>
+        <p>3.  Notwithstanding the provisions of paragraph 2 of this article relating to the submission of a dispute to arbitration, the investor shall have the right to choose the conciliation procedure.</p>
+      </div>
+      <div type="article" num="10" title="Settlement of disputes between contracting parties">
+        <p>1.  Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, if possible, be settled through the diplomatic channel.</p>
+        <p>2.  If a dispute between the Contracting Parties cannot thus be settled within six months, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>3.  Such an arbitral tribunal shall be constituted for each individual case in the following way. Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third State who on approval by the two Contracting Parties shall be appointed chairman of the tribunal. The chairman shall be appointed within two months from the date of the appointment of the other two members.</p>
+        <p>4.  If within the periods specified in paragraph 3 of this article the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he too is otherwise prevented from discharging the said function, the Vice-President of the International Court of Justice shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party, or if he is prevented from discharging the said function, the member of the International Court of Justice next in seniority who is not a national of either Contracting Party and who is not prevented from discharging the said function shall be invited to make the necessary appointments.</p>
+        <p>5.  The arbitral tribunal shall establish its own rules of procedure and shall reach its decision by a majority of votes. Such decision shall be binding on the two Contracting Parties. The cost of the chairman and the members of the tribunal shall be borne in equal parts by the Contracting Parties. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the Contracting Parties, and this award shall be binding on the two Contracting Parties.</p>
+        <p>If one Contracting Party or its competent authority makes a payment of compensation to an investor under an indemnity given in respect of investments of any investor of the other Contracting Party, the former Contracting Party or its competent authority shall acquire by virtue of subrogation the rights available to the previous investor under this Agreement.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, duration and termination of the agreement">
+        <p>1.  This Agreement shall enter into force 30 days after the date on which the Contracting Parties notify each other through the diplomatic channel of the completion of the relevant formalities required for the entry into force of this Agreement.</p>
+        <p>2.  This Agreement is concluded for a period of 15 years and shall remain in force until the expiry of the said period unless it is terminated in accordance with paragraph 3 of this article.</p>
+        <p>3.  Either Contracting Party may terminate this Agreement by giving the other Contracting Party written notice thereof through the diplomatic channel at least one year prior to the expiry of the initial period of 15 years or at any time thereafter.</p>
+        <p>4.  With regard to investments made before the termination of this Agreement, the provisions of articles 1 to 11 shall remain in force for a period of 15 years from the date of termination of this Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Helsinki on 28 October 1992 in duplicate in the Finnish and Belarusian languages, both texts being equally authentic.</p>
+      <p>For the Government of the Republic of Finland:</p>
+      <p>Pekka Tuomisto</p>
+      <p>For the Government of the Republic of Belarus:</p>
+      <p>V. V. Redkevich</p>
+    </conclusion>
+  </main>
+</treaty>

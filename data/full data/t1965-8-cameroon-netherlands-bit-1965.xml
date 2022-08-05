@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Cameroon - Netherlands BIT (1965)</name>
+    <code>T1965-8</code>
+    <partyisocode n="0">CMR</partyisocode>
+    <partyisocode n="1">NLD</partyisocode>
+    <date_signed>1965-07-06</date_signed>
+    <date_into_force>1966-05-07</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr,nl</orig_language>
+    <termination_type/>
+    <docreference>772</docreference>
+    <comments>Amended by exchange of letters in 1971</comments>
+    <source>https://wetten.overheid.nl/BWBV0004121/1973-06-23</source>
+    <rev_date_into_force>23-06-1973</rev_date_into_force>
+    <rev_date_signed>12-03-1971</rev_date_signed>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CMR,NLD}_1965-07-06.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>fr,nl</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_OVERLAP" document-code="T2009-36">EU - Cameroon EPA</relation>
+    <relation type="IT_OVERLAP" document-code="T2000">Cotonou Agreement (2000)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on economic and technical cooperation between the government of the Kingdom of the Netherlands and the government of the Federal Republic of Cameroon</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of the Netherlands and the Government of the Federal Republic of Cameroon, desiring to strengthen their traditional ties of friendship and to develop and intensify their economic relations on the basis of equality and mutual benefit, have agreed upon the following provisions:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>1. The Contracting Parties undertake to cooperate and to grant each other, in accordance with their legislation and insofar as they are able, mutual assistance for the development of their countries, particularly in the economic and technical fields.</p>
+        <p>2. On the basis of and within the framework of the present agreement, special agreements shall be concluded in the field of technical, economic and financial cooperation.</p>
+      </div>
+      <div type="article" num="2">
+        <p>1. In order to achieve the objectives of this agreement, the Government of the Kingdom of the Netherlands is prepared to grant to Dutch enterprises, upon request, authorizations for the supply of capital goods to state and private enterprises of the Federal Republic of Cameroon on an installment basis.</p>
+        <p>2. For its part, the Government of the Federal Republic of Cameroon shall provide the necessary guarantees for the transfer, at each due date, of the sums due to the Dutch creditors, in accordance with the legislation in force in the Federal Republic of Cameroon.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Each Contracting Party undertakes to encourage and facilitate in its territory and within the limits imposed by its legislation, the organization of economic and commercial exhibitions and events by the other Contracting Party.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Investments, as well as property, rights and interests belonging to natural and legal persons who are nationals of one of the Contracting Parties in the territory of the other, shall enjoy fair and non-discriminatory treatment similar to that accorded by each party to its nationals.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party undertakes to authorize, in accordance with its legislation, or any other more favorable legislation which may be adopted</p>
+        <p>- the transfer of the real net profit, interest, dividends and royalties accruing to natural or juridical persons who are nationals of the other Party</p>
+        <p>- the transfer of the proceeds from the total or partial liquidation of investments approved by the country in which they are made</p>
+        <p>- the transfer of an adequate part of the proceeds of the work of nationals of the other party authorized to carry on their activity in its territory.</p>
+      </div>
+      <div type="article" num="6">
+        <p>In the event of a party expropriating or nationalizing property, rights or interests belonging to natural or juridical persons who are nationals of the other party, or taking a measure of dispossession against them, it shall provide for the payment of effective and adequate compensation in accordance with international law.</p>
+        <p>The amount of such compensation, which shall be fixed at the time of the expropriation, nationalization or dispossession, shall be paid without undue delay to the rightful owner. The amount of such compensation shall be transferred without undue delay. However, the measures of expropriation, nationalization or dispossession shall not be discriminatory or contrary to any specific undertaking.</p>
+      </div>
+      <div type="article" num="6bis">
+        <p>The Contracting Party in whose territory an investment approved by it has been made, for which a financial guarantee against non-commercial risks has been granted by a national of the other Contracting Party, recognizes the subrogation of the guarantor in the rights of the investor as regards damages, if a payment has been made under the said guarantee.</p>
+      </div>
+      <div type="article" num="6ter">
+        <p>The Contracting Party in whose territory a national of the other Contracting Party makes or intends to make an investment shall consent to any request by such national to submit for arbitration or conciliation any dispute which may arise in connection with such investment to the Center established under the Washington Convention of March 18, 1965, for the settlement of investment disputes between States and nationals of other States.</p>
+      </div>
+      <div type="article" num="7">
+        <p>1. Each of the Contracting Parties shall refrain from taking discriminatory measures which might prejudice the maritime navigation of the other Contracting Party and adversely affect the choice of flag, contrary to the principles of free competition.</p>
+        <p>Exceptions to this rule are:</p>
+        <p>a) Fishing and coastal navigation in those parts of the Kingdom of the Netherlands which are outside Europe and whose own laws alone shall be applicable in this matter.</p>
+        <p>b) Fishing and coastal navigation in the Federal Republic of Cameroon, for which the laws of that country alone shall apply.</p>
+        <p>2. Each contracting party shall ensure in its ports to vessels flying the flag of the other contracting party the treatment of the most favored nation.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1. In deciding upon applications for licenses for the establishment of civil scheduled air services, the Governments of the Contracting Parties will take into consideration the interest in the greatest possible freedom of air traffic.</p>
+        <p>2. The Contracting Parties undertake to settle as soon as possible and in full the air relations between the two countries in a special agreement.</p>
+      </div>
+      <div type="article" num="9">
+        <p>1. The nationals and industrial and commercial enterprises of one of the Contracting Parties shall not be subjected in the territory of the other Contracting Party to taxes, duties and charges other or higher than those imposed on the nationals and industrial and commercial enterprises of the latter Party.</p>
+        <p>2. Nationals and industrial and commercial enterprises of one of the Contracting Parties who are subject to taxation in the territory of the other Contracting Party shall be entitled under the same conditions as nationals and industrial and commercial enterprises of the latter Party to exemptions, deductions and reductions of any taxes, duties or charges whatsoever, in accordance with the laws in force.</p>
+        <p>3. Each Contracting Party reserves the right to grant tax advantages on the basis of agreements concerning the abolition of double taxation.</p>
+      </div>
+      <div type="article" num="10">
+        <p>The granting and maintenance of rights to patents, trademarks, trade names, commercial labels and any form of industrial property whatsoever shall be the subject of a special agreement.</p>
+      </div>
+      <div type="article" num="11">
+        <p>A Joint Commission composed of representatives of the two Governments shall meet at the request of either of the Contracting Parties to examine any difficulties which may arise in the application of this Agreement. It shall be empowered to submit to the Contracting Parties any proposal likely to promote the application of this Agreement.</p>
+      </div>
+      <div type="article" num="12">
+        <p>1. If a dispute should arise between the Contracting Parties concerning the interpretation or implementation of the provisions of this Agreement and if this dispute cannot be settled satisfactorily within six months by the Joint Committee provided for in Article 11 of this Agreement, it shall be submitted at the request of either Party to an arbitration tribunal of three members. Each Party shall appoint one arbitrator. The two arbitrators appointed shall appoint a third arbitrator who shall be a national of a third State.</p>
+        <p>2. If one of the parties has not appointed its arbitrator and has not complied with the invitation of the other party to make such appointment within two months, the arbitrator shall be appointed, at the request of that party, by the President of the International Court of Justice.</p>
+        <p>3. If the two arbitrators cannot agree within two months after their appointment on the choice of the third arbitrator, the latter shall be appointed by the President of the International Court of Justice at the request of one of the parties.</p>
+        <p>4. If, in the cases provided for in paragraphs 2 and 3 of this article, the President of the International Court of Justice is prevented from acting or if he is a national of one of the parties, the appointments shall be made by the Vice-President.</p>
+        <p>If the latter is unable to act, or if he is a national of one of the parties, the appointments shall be made by the oldest member of the Court who is not a national of either party.</p>
+        <p>5. The court shall decide on the basis of respect for the law. Before rendering its award, it may, in any state of the dispute, propose to the parties for their approval an amicable settlement of the dispute.</p>
+        <p>6. If the parties agree, the tribunal shall decide ex aequo et bono.</p>
+        <p>7. Unless the parties agree otherwise, the Tribunal shall determine its own procedure.</p>
+        <p>8. The decisions of the tribunal, taken by a majority of the arbitrators, are binding on the parties.</p>
+      </div>
+      <div type="article" num="13">
+        <p>As far as the Kingdom of the Netherlands is concerned, this agreement shall apply to the Kingdom in Europe, Surinam and the Netherlands Antilles, unless the instrument of ratification of the Kingdom of the Netherlands provides otherwise.</p>
+      </div>
+      <div type="article" num="14">
+        <p>1. This Agreement shall enter into force on the day of the exchange of the instruments of ratification.</p>
+        <p>2. It shall be valid for a period of one year from the date of its entry into force and shall be considered renewed from year to year by tacit agreement, if neither of the Contracting Parties denounces it in writing not later than three months before the expiration of the period of validity.</p>
+        <p>3. The termination of this Agreement shall not affect the validity of contracts already entered into and guarantees already provided under this Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF the undersigned, duly authorized to that effect, have signed this Agreement.</p>
+      <p>DONE at Yaound&#xE9;, this 6th day of July 1965 in two originals, in the French language.</p>
+      <p>For the Government of the Kingdom of the Netherlands,</p>
+      <p>(s.) W. G. ZEYLSTRA</p>
+      <p>For the Government of the Federal Republic of Cameroon,</p>
+      <p>(s.) D. MASUKE</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Libya - Malta BIT (2003)</name>
+    <code>T2003-90</code>
+    <partyisocode n="0">LBY</partyisocode>
+    <partyisocode n="1">MLT</partyisocode>
+    <date_signed>2003-10-24</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>2399</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{LBY,MLT}_2003-10-24.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_UNKOWN" document-code="T1973-9">Libya - Malta BIT (1973)</relation>
+  </meta>
+  <main/>
+</treaty>

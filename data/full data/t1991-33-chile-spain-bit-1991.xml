@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Chile - Spain BIT (1991)</name>
+    <code>T1991-33</code>
+    <partyisocode n="0">CHL</partyisocode>
+    <partyisocode n="1">ESP</partyisocode>
+    <date_signed>1991-10-02</date_signed>
+    <date_into_force>1994-03-28</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">es</orig_language>
+    <termination_type/>
+    <docreference>869</docreference>
+    <comments/>
+    <source>http://www.comercio.es/acuerdos</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>es</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{CHL,ESP}_1991-10-02.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2002-44">Chile - EC Association Agreement</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Kingdom of Spain and the Republic of Chile on the reciprocal promotion and protection of investments and others Protocols</p>
+    </title>
+    <preamble/>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. "Investors or investors" means:</p>
+        <p>Individuals or natural persons, according to the law of the corresponding Party and legal persons, including companies, associations of companies, mercantile companies and other organizations that are incorporated or, in any case, duly organized according to the law of that Party and have their headquarters in the territory of the same, however they belong to foreign natural or legal persons.</p>
+        <p>2. "Investment" shall mean assets of every kind, such as property and rights of any kind, acquired in accordance with the laws of the host country to investment and in particular, though not exclusively, the following:</p>
+        <p>- Actions and other forms of participation in companies.</p>
+        <p>- Claims, values and rights derived from any contributions with the aim of creating economic value; explicitly included all those loans for this purpose, whether or not capitalized.</p>
+        <p>- Movable and immovable property as well as any rights related thereto.</p>
+        <p>- Any rights in the field of intellectual property, including express patents and trademarks, trade and licensing of manufacture and know-how".</p>
+        <p>- Rights to undertake economic and commercial activities conferred by law or under contract, in particular those relating to prospecting, cultivate, extract or exploit natural resources.</p>
+        <p>3. The term "income" or profits of investment refers to the returns derived from an investment in accordance with the definition contained in the preceding paragraph, and includes, expressly benefits, dividends and interest.</p>
+        <p>4. The term "territory" means the land territory and territorial sea of each party as well as the exclusive economic zone and the continental shelf extends beyond the limits of the territorial waters of each of the Parties on which they are or may be in accordance with international law, sovereign rights and jurisdiction for the purpose of exploration and exploitation and preservation of natural resources.</p>
+      </div>
+      <div type="article" num="2" title="Promotion, admission">
+        <p>1. Each Party shall promote as far as possible investments made in its territory by investors of the other Contracting Party and shall admit such investments in accordance with its laws.</p>
+        <p>2. This treaty shall apply to investments made after its Entry into Force by investors of one Contracting Party in the territory of the other. However, also benefit to investments made prior to its entry into force and that according to the legislation of the respective Contracting Party, have the quality of foreign investment.</p>
+        <p>3. It will not apply, however, to disputes or claims arising or resolved prior to its entry into force.</p>
+      </div>
+      <div type="article" num="3" title="Protection">
+        <p>1. Each Contracting Party shall protect in its territory the investments made, in accordance with its legislation, by investors of the other Party and shall not hinder, through unjustified or discriminatory measures, the management, maintenance, use, enjoyment, extension, sale or, where appropriate, the liquidation of such investments.</p>
+        <p>2. Each Party shall grant the necessary permits in connection with such investments and shall, within the framework of its laws, the execution of licensing contracts of manufacture, technical assistance, commercial, financial and administrative.</p>
+        <p>3. Each Party shall grant, in accordance with its laws, whenever necessary, the necessary authorizations concerning the activities of consultants and experts appointed by investors of the other party.</p>
+      </div>
+      <div type="article" num="4" title="Treatment">
+        <p>1. Each Party shall ensure in its territory in accordance with its national legislation, a fair and equitable treatment to investments by investors of the other party under conditions no less favourable than for their national investors.</p>
+        <p>2. This treatment shall not be less favourable than that granted by each Party to investments made in its territory by investors of any third country.</p>
+        <p>3. This treatment shall not extend to the privileges which one party accords to investors of a third State by virtue of its participation in:</p>
+        <p>- A free trade area;</p>
+        <p>- A customs union;</p>
+        <p>- A common market, or</p>
+        <p>- An organization of Mutual Economic Assistance or by virtue of an agreement signed prior to the date of signature of this Agreement which envisages provisions similar to those that are granted by that Party to participants.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation and nationalization">
+        <p>The expropriation or nationalization or any other measures having similar effects that may be taken by a party against investments of investors of the other party in its territory, it shall be solely by reason of utilided Public or national interest, in accordance with the constitutional and legal provisions and in no case shall be discriminatory. The party that adopts these measures shall pay the investor, without undue delay, adequate compensation, in a freely convertible currency. the legality of the measure tantamount to expropriation or nationalization, and the amount of compensation shall be subject to review by ordinary judicial procedure.</p>
+      </div>
+      <div type="article" num="6" title="Transfers">
+        <p>Each Party shall accord to investors of the other party with regard to investments in its territory, the possibility to freely transfer income from such investments and other payments relating to the same, and in particular, though not exclusively, the following:</p>
+        <p>- The investment income as defined in article 1;</p>
+        <p>- The compensation provided for in article 5.</p>
+        <p>- The repayment of loans;</p>
+        <p>- The proceeds of the sale or total or partial liquidation of an investment;</p>
+        <p>Transfers will be made in freely convertible currencies.</p>
+        <p>The Party receiving the investment shall provide the investor of the other Party or the company in which the access to the official currency market participates in a non-discriminatory manner.</p>
+        <p>The transfers will be made net of taxes, once the investor has complied with the fiscal obligations established by the legislation in force in the Party receiving the investment.</p>
+        <p>The Parties undertake to facilitate the necessary procedures to effect such transfers without undue delay or restrictions. In particular, no more than three months must elapse from the date on which the investor has duly submitted the necessary applications to effect the transfer until such time as the transfer is actually made.</p>
+        <p>Likewise, each Party shall grant the possibility of freely transferring the salaries, wages and other remuneration received by the nationals of a Party, who have obtained the corresponding authorizations and work permits in relation to an investment in the other Party.</p>
+      </div>
+      <div type="article" num="7" title="More favourable conditions">
+        <p>More favourable conditions to those of this Agreement which have been agreed to by one of the Parties with investors of the other party shall not be affected by this Agreement.</p>
+        <p>If the provisions of law of either Contracting Party or obligations under international law than this treaty, current or future between the contracting parties result in a general or special rules under which must be accorded to investments of investors of the other contracting party to a more favourable treatment than that provided for by the present Agreement, such rules shall prevail over the present Treaty, as is more favourable.</p>
+      </div>
+      <div type="article" num="8" title="Principle of subrogation">
+        <p>Where a Party has provided any financial guarantee on non-commercial risks in connection with an investment made by an investor of that Party in the territory of the other contracting party, the latter shall accept an application of the principle of subrogation of the first party in the economic rights of the investor and not in the real rights, from the time at which it has made a payment under the guarantee granted.</p>
+        <p>The subrogation will make it possible to the first party is direct beneficiaries of all payments of compensation to the investor might be initial creditor. in no case may occur subrogation in property rights, use, enjoyment or any other right derived from the ownership of investment without prior authorizations relevant under the Law on Foreign Investment in force in the Party where the investment was made.</p>
+        <p>The investor shall be entitled to sue or take part in actions already taken in order to protect the remaining duties which may claim and that have not been level. this was claimed, shall apply the procedure laid down in article 10.</p>
+      </div>
+      <div type="article" num="9" title="Conflicts of interpretation of the agreement between the parties">
+        <p>1. Any dispute between the parties concerning the interpretation or application of this Agreement shall be settled as far as possible, by the Governments of the two parties.</p>
+        <p>2. If the dispute cannot be settled in this way within six months from the beginning of negotiations, it may be submitted at the request of either party to an arbitral tribunal.</p>
+        <p>3. The arbitration tribunal shall be constituted as follows: each party shall appoint one arbitrator and these two arbitrators shall elect a national of a third State as Chairman. The arbitrators shall be appointed within three months and the Chairman within five months from the date on which either party has informed the other party of its intention to submit the dispute to an arbitration tribunal.</p>
+        <p>4. If a Party has not appointed its arbitrator within the deadline, the other party may request the President of the International Court of Justice to make the appointment. If the two arbitrators cannot reach an agreement on the appointment of the third arbitrator within the prescribed period, either party may refer to the President of the International Court of Justice to make the appointment. If the President is a national of either Contracting Party or is otherwise prevented at vice, shall make appointments. If the Vice-President is also a national of either Contracting Party or if he is also prevented, the member of the Court next in seniority and is not a national of one of the Contracting Parties to make the appointments.</p>
+        <p>5. The arbitral tribunal shall deliver its opinion on the basis of respect for the Law, the rules contained in this Agreement or in other agreements in force between the parties; and on the universally recognized principles of International Law.</p>
+        <p>6. Unless the Parties decide otherwise, the tribunal shall determine its own procedure.</p>
+        <p>7. The tribunal shall reach its decision by a majority of votes and it shall be final and binding on both parties.</p>
+        <p>8. Each Party shall bear the costs of the arbitrator appointed by it and its representation in the arbitral proceedings. The other expenses, including the President, shall be borne equally by the parties.</p>
+      </div>
+      <div type="article" num="10" title="Disputes between a party and investors of the other party">
+        <p>1. Any dispute concerning investments within the meaning of this Treaty, between a Contracting Party and an investor of the other Contracting Party shall as far as possible, be settled by amicable consultations between the two parties to the dispute.</p>
+        <p>2. If the dispute cannot be settled within six months from the date on which it was raised by one or other party, shall be submitted at the choice of the investor:</p>
+        <p>- Or to national jurisdiction of the Contracting Party involved in the dispute;</p>
+        <p>- Or international arbitration under the conditions described in paragraph 3.</p>
+        <p>Once the investor has submitted the dispute to the courts of the Contracting Party concerned or to international arbitration, the choice of one of these procedures is final.</p>
+        <p>3. In the event of recourse to international arbitration the dispute may be brought before one of the following bodies designated arbitration at the choice of the investor:</p>
+        <p>- The International Centre International Centre for Settlement of Investment Disputes (ICSID) established by the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature at Washington on 18 March 1965, when each State Party to this treaty acceded to it. As long as this requirement is not fulfilled, each Contracting Party consents that the dispute be submitted to arbitration under the ICSID Additional Facility Rules.</p>
+        <p>- A tribunal established ad hoc arbitration under the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).</p>
+        <p>4. The arbitral tribunal shall decide on the basis of the provisions of this Treaty, the Law of the Contracting Party which is a party to the dispute - including the rules relating to conflicts of law - and the terms of any specific agreement concluded in relation to the investment as well as the principles of international law.</p>
+        <p>5. The arbitral awards shall be final and binding on the parties to the dispute.</p>
+        <p>6. The Contracting Parties shall seek, through diplomatic channels, arguments relating to arbitration or judicial proceedings already in place until the relevant procedures have been completed, unless the parties to the dispute have not complied with the award of the arbitral tribunal or the judgment of the Court, according to the terms set out in compliance with the award or judgment.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, extension and termination">
+        <p>1. This Treaty shall enter into force one month after the date on which the instruments of ratification were exchanged. Its validity shall be ten years and shall be extended for an indefinite period, unless it is denounced in writing by one of the Contracting Parties twelve months before its expiration. After ten years, the Treaty may be denounced at any time, with twelve months' notice.</p>
+        <p>2. This Agreement shall apply irrespective of the existence of diplomatic or consular relations between the contracting parties.</p>
+        <p>3. For investments made before the expiry of this Treaty, its provisions shall continue to apply for a period of twenty years after the date of expiry.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Santiago, in two authentic originals in Spanish, on the second day of October in the year nineteen hundred and ninety-one.</p>
+      <p>For the Kingdom of Spain</p>
+      <p>Claudio Aranzadi,</p>
+      <p>Ministry of Industry, Trade and Tourism</p>
+      <p>For the Republic of Chile</p>
+      <p>Carlos Pascual Ominami,</p>
+      <p>Minister for Economic Development and Reconstruction</p>
+    </conclusion>
+    <attachments>
+      <p>Protocol</p>
+      <p>In the act of signing the Treaty between the Republic of Chile and the Kingdom of Spain, on the promotion and reciprocal protection of investments, the undersigned plenipotentiaries have further adopted the following provisions, which shall be considered an integral part of the Treaty;</p>
+      <div type="article" num="1" title="Ad article 6">
+        <p>Notwithstanding the provisions of article 6, the Republic of Chile shall guarantee the right of repatriation of the capital invested by investors of the other contracting party, after the period of three years, since its placement under its laws. Any modification of this period will be the same as regards paragraph of this Protocol.</p>
+        <p>The Parties recognize that article 6 of this Agreement shall not apply to investments made through debt-conversion Chilean.</p>
+        <p>Done at Santiago, in two authentic originals in Spanish, on the second day of October in the year nineteen hundred and ninety-one.</p>
+        <p>For the Kingdom of Spain</p>
+        <p>Claudio Aranzadi,</p>
+        <p>Ministry of Industry, Trade and Tourism</p>
+        <p>For the Republic of Chile</p>
+        <p>Carlos Pascual Ominami,</p>
+        <p>Minister for Economic Development and Reconstruction</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

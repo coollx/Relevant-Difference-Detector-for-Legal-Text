@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>France - Yugoslavia BIT (1974)</name>
+    <code>T1974-8</code>
+    <partyisocode n="0">FRA</partyisocode>
+    <partyisocode n="1">SCG</partyisocode>
+    <partyisocode n="2">SRB</partyisocode>
+    <partyisocode n="3">MNE</partyisocode>
+    <partyisocode n="4">RKS</partyisocode>
+    <partyisocode n="5">YUG</partyisocode>
+    <date_signed>1974-03-28</date_signed>
+    <date_into_force>1975-03-03</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>1607</docreference>
+    <comments>Treaty is in force for Serbia, Montenegro and Kosovo as successors of the Federal Republic of Yugoslavia</comments>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{FRA,SCG,SRB,MNE,RKS}_1974-03-28.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2008-42">EC - Serbia Association Agreement</relation>
+  </meta>
+  <main>
+    <title>
+      <p>CONVENTION BETWEEN THE GOVERNMENT OF THE FRENCH REPUBLIC AND THE GOVERNMENT OF THE FEDERAL SOCIALIST REPUBLIC OF YUGOSLAVIA ON THE PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the French Republic and the Government of the Socialist Federal Republic of Yugoslavia desiring to promote investment in Yugoslavia French contributing to the development of economic resources and productive capacity of Yugoslavia, have agreed on the following provisions concerning the protection of investments against non-commercial risks:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>The Government of France may, after examination on a case-by-case basis and within the framework of its laws relating to the coverage of non-commercial risks given the guarantee given by the French State to investments in the territory of the Socialist Federal Republic of Yugoslavia by the French nationals, whether natural or legal persons, under the conditions laid down in article 2 below.</p>
+      </div>
+      <div type="article" num="2">
+        <p>The investments that have obtained within the framework of the Yugoslav regulations, the approval of the competent federal government authorities and agreed upon by the parties, with regard to the said French nationals of a particular undertaking which includes the use of the International Centre for Settlement of Investment Disputes if, in the event of a dispute, a mutual agreement has not been able to be completed within a period of three months.</p>
+      </div>
+      <div type="article" num="3">
+        <p>The Government of the Federal Republic of Yugoslavia shall accord to investments treatment which is fair and equitable and non-discriminatory manner.</p>
+      </div>
+      <div type="article" num="4">
+        <p>French nationals, whether natural or legal persons will be entitled to investments as referred to in article 1 of this Convention as well as on the Exercise of the business and economic activities associated with such investments, the most favourable treatment accorded to nationals of any other third country by the Yugoslav legislation. in the event that it would be amended in a less favourable, such investments will be governed by the provisions in force on the date when they have been approved.</p>
+      </div>
+      <div type="article" num="5">
+        <p>French nationals, natural or legal persons having a direct or indirect involvement in such investments in Yugoslavia cannot be deprived of all or part of their rights as for public purposes only in cases and in accordance with the procedures laid down in the laws of Yugoslavia and subject to the payment of just compensation, fixed at the latest by the time of dispossession.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The Government of the Federal Republic of Yugoslavia shall guarantee the free transfer without delay of the compensation referred to in paragraph 5 above.</p>
+        <p>The Government acknowledges the Yugoslav regulatory authorizing the free transfer of proceeds from foreign investment.</p>
+        <p>The security referred to in paragraph 1 above shall be subject to the availability of the investor s a bank guarantee the free transfer without delay the proceeds of liquidation of the investment.</p>
+      </div>
+      <div type="article" num="7">
+        <p>If the French State by virtue of a guarantee given in respect of an investment made in the territory of the Socialist Federal Republic of Yugoslavia, makes payment to its own nationals, whether natural or legal persons, it is subrogated ex officio with respect to the Government of the Federal Republic of Yugoslavia in the rights of such nationals.</p>
+        <p>Such payments shall not affect the rights of the holder of the security to use the I.C.S.I.D. or to continue its actions brought before the Tribunal until the end of the procedure.</p>
+      </div>
+      <div type="article" num="8">
+        <p>All disputes concerning the interpretation of this Convention which have not been settled within a period of six months from the diplomatic therein may be submitted at the request of either of the Parties, to an arbitral tribunal, which shall be constituted in the following manner:</p>
+        <p>Each Party shall appoint an arbitrator within one month from the date of receipt of the request for arbitration. the two arbitrators thus appointed shall select within a period of two months after notification to the party that its arbitrator the latter, a third arbitrator who is a national of a third State.</p>
+        <p>Where a Party has not appointed an arbitrator within the time limit, the other party may request the President of the International Court of Justice to designate. same II shall, at the request of either party, in the absence of agreement on the choice of the third arbitrator by the two arbitrators.</p>
+        <p>The decision of the arbitral tribunal shall be final and binding. the arbitral tribunal shall determine its own rules of procedure.</p>
+      </div>
+      <div type="article" num="9">
+        <p>This agreement is concluded for an initial period of ten years. It shall remain in force after the term unless one of the two Governments have denounced notice in writing with one year.</p>
+        <p>In the event of termination, the present Agreement shall continue to apply to investments covered by its provisions and carried out during the period of its validity.</p>
+      </div>
+      <div type="article" num="10">
+        <p>This Agreement shall enter into force as soon as it has been signed and approved in accordance with the procedures laid down in the rules of each of the two countries.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>For the Government of the French Republic:</p>
+      <p>Val&#xE9;ry Giscard d'Estaing</p>
+      <p>For the Government of the Socialist Federal Republic of Yugoslavia:</p>
+      <p>Janko Smole.</p>
+    </conclusion>
+  </main>
+</treaty>

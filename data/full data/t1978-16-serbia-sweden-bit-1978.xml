@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Serbia - Sweden BIT (1978)</name>
+    <code>T1978-16</code>
+    <partyisocode n="0">SRB</partyisocode>
+    <partyisocode n="1">SWE</partyisocode>
+    <date_signed>1978-11-10</date_signed>
+    <date_into_force>1979-11-21</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2894</docreference>
+    <comments>Name on treaty Yugoslavia - Sweden</comments>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{SRB,SWE}_1978-11-10.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2008-42">EC - Serbia Association Agreement</relation>
+  </meta>
+  <main>
+    <title/>
+    <preamble>
+      <p>The Government of Sweden and the Government of the Socalist Federal Republic of Yugoslavia,</p>
+      <p>Taking into account the Agreement on Economic, Industrial and Technical Cooperation concluded between them on June 9, 1970,</p>
+      <p>Desiring to protect investments of nationals and companies of one Contracting State on the territory of the other Contracting State against non-commercial risks,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of the present Agreement:</p>
+        <p>1) The term investment shall comprise all assets invested in accordance with the laws and regulations of each Contracting State, irrespective of whether the investments were made before or after the entry into force of this Agreement.</p>
+        <p>2) The term "national" shall mean:</p>
+        <p>(a) In respect of Sweden, an individual who is a citizen of Sweden according to Swedish law.</p>
+        <p>(b) In respect of Yugoslavia, an individual who is a citizen of Yugoslavia according to Yugoslav law.</p>
+        <p>3) The term "company" shall mean:</p>
+        <p>(a) In respect of Sweden, any legal person with its seat in Sweden or any legal person with a predominating Swedish interest, located in another country.</p>
+        <p>(b) In respect of Yugoslavia, any basic organizations of associated labour, work organizations or complex organizations of associated labour with their seat in Yugoslavia or any legal person with a predominating Yugoslav interest, located in another country.</p>
+      </div>
+      <div type="article" num="2">
+        <p>1) Each Contracting State shall at all times ensure fair and equitable treatment to the investments of nationals and companies of the other Contracting State.</p>
+        <p>2) Investments by nationals or companies of either Contracting State on the territory of the other Contracting State shall not be subjected to a treatment less favourable than that accorded to investments by nationals or companies of third States.</p>
+        <p>3) Notwithstanding the provisions of paragraph 2 of this Article a Contracting State, which has concluded with one or more other States an agreement regarding the formation of a customs union or a free-trade area, shall be free to grant a more favourable treatment to investments by nationals and companies of the State or States, which are also parties to the said agreement, or by nationals and companies of some of these States. A Contracting State shall also be free to grant a more favourable treatment to investments by nationals and companies of other States, if this is stipulated under bilateral agreements concluded with such States before the date of the signature of this Agreement.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Neither Contracting State shall take any measures depriving, directly or indirectly, nationals or companies of the other Contracting State of an investment unless the following conditions are complied with:</p>
+        <p>(a) The measures are taken in the public interest and under due process of law;</p>
+        <p>(b) The measures are not discriminatory; and</p>
+        <p>(c) The measures are accompanied by provisions for the payment of prompt, adequate and effective compensation, which shall be freely transferable between the territories of the Contracting States.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1) The Contracting States shall, subject to their laws and regulations, allow without undue delay the transfer in any convertible currency of:</p>
+        <p>(a) The current income from any investment made by nationals or companies of the other Contracting State;</p>
+        <p>(b) The proceeds of the total or partial liquidation of any investment made by nationals or companies of the other Contracting State.</p>
+        <p>2) The Contracting States undertake to accord to transfers referred to in paragraph 1 of this Article a treatment as favourable as that accorded to transfers originating from investments made by nationals or companies of any third State.</p>
+      </div>
+      <div type="article" num="5">
+        <p>If a national or a company of one Contracting State has transferred any rights and securities to that State or to another national or company of that State because of the obligation of that State or the latter national or company, under a legal system of guaranteeing against non-commercial risks, to reimburse the former national or company as to damage in respect of an investment made by that national or company in the territory of the other Contracting State and if that transfer is approved by that State, the latter Contracting State recognizes the subrogation of the grantor of such guarantee into the said rights and securities of the investor.</p>
+      </div>
+      <div type="article" num="6">
+        <p>In the event of a dispute arising between a national or a company of one Contracting State and the other Contracting State in connection with an investment on the territory of that other Contracting State, it shall upon the agreement by both parties to the dispute be submitted for arbitration to the International Centre for Settlement of Investment Disputes established under the Washington Convention on the Settlement of Investment Disputes between States and Nationals of other States, dated March 18, 1965.</p>
+      </div>
+      <div type="article" num="7">
+        <p>1) If a dispute concerning the interpretation or application of this Agreement is not settled in accordance with the procedure stipulated in Article 6, it shall, if possible, be settled by the Governments of the two Contracting States.</p>
+        <p>2) If the dispute cannot thus be settled it shall, upon the request of either Contracting State, be submitted to an arbitral tribunal.</p>
+        <p>3) Such arbitral tribunal shall be established in each individual case, each Contracting State appointing one member, and those two members shall then agree upon a national of a third State as their Chairman to be appointed by the Governments of the two Contracting States. Such members shall be appointed within two months, and such Chairman within three months, after either Contracting State has made known to the other Contracting State that it wishes the dispute to be submitted to an arbitral tribunal.</p>
+        <p>4) If the periods specified in paragraph 3 have not been observed, either Contracting State may, in the absence of any other relevant arrangement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting State or if he is otherwise incapacitated from discharging his funtion, the Vice-President should be invited to make the necessary appointments. If the Vice-President is a national of either Contracting State or if he too is incapacitated from discharging his function, the Member of the International Court of Justice next in seniority who is not a national of either Contracting State and is not incapacitated should be invited to make the necessary appointments.</p>
+        <p>5) The arbitral tribunal shall reach its decision by a majority of votes. Such decisions shall be binding. Each Contracting State shall bear the cost of its own member and of its counsel in the arbitral proceeding; the cost of the Chairman and the remaining costs shall be borne in equal parts by both Contracting States. The arbitral tribunal may make a different regulation concerning costs. In all other respects, the arbitral tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="8">
+        <p>Nothing in this Agreement shall prejudice any rights or benefits to which a national or a company of one Contracting State is entitled on any other legal ground in respect of the interests of such national or company on the territory of the other Contracting State.</p>
+      </div>
+      <div type="article" num="9">
+        <p>1) This Agreement shall enter into force on the day the Governments of the two Contracting States notify each other that their constitutional requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>2) This Agreement shall remain in force for a period of fifteen years and shall continue in force thereafter unless, after the expiry of the initial period of fourteen years, either Contracting State notifies in writing the other Contracting State of its intention to terminate this Agreement. The notice of termination shall become effective one year after it has been received by the other Contracting State.</p>
+        <p>3) In respect of investments made prior to the date when the notice of termination of this Agreement becomes effective, the provisions of Articles 1 to 8 shall remain in force for a further period of fifteen years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof, the undersigned, duly authorized thereto, have signed this Agreement.</p>
+      <p>Done in Belgrade on November 10, 1978, in two originals in the English language.</p>
+    </conclusion>
+  </main>
+</treaty>

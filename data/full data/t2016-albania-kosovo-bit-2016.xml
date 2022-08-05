@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Albania - Kosovo BIT (2016)</name>
+    <code>T2016</code>
+    <partyisocode n="0">ALB</partyisocode>
+    <partyisocode n="1">RKS</partyisocode>
+    <date_signed>2016-05-03</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>20162</docreference>
+    <comments>text listed but text not available</comments>
+    <source>https://invest-in-albania.org/</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ALB,RKS}_2016-05-03.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_UNKOWN" document-code="T2004-2">Albania - Kosovo BIT (2004)</relation>
+  </meta>
+  <main/>
+</treaty>

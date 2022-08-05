@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Chad - Italy BIT (1969)</name>
+    <code>T1969-6</code>
+    <partyisocode n="0">ITA</partyisocode>
+    <partyisocode n="1">TCD</partyisocode>
+    <date_signed>1969-06-11</date_signed>
+    <date_into_force>1969-06-11</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>826</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{ITA,TCD}_1969-06-11.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Republic of Chad and the Republic of Italy to protect and promote investment capital</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Chad and</p>
+      <p>The Government of the Republic of Italy</p>
+      <p>Desiring to enhance economic cooperation between the two countries;</p>
+      <p>For the purpose of promoting investment flows between the two contracting States and ensure that these investments treatment and protection as appropriate.</p>
+      <p>Recognizing that an agreement between the two countries eat suscetible to create favourable conditions for investments by companies and nationals of each of the two States in the territory of the other;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each of the two Contracting States undertakes to facilitate, in accordance with its legal regulatory capital investments in the territory of the other Contracting State for the purpose of promoting economic expansion of its nationals and its companies, even in the form of supplies of goods, capital goods, services and infrastructure, concessions of property rights, patents and licences and the provision of technical assistance.</p>
+        <p>There shall be permitted in paticulier legal persons having their headquarters in the territory of one of the two Contracting States agree to freely partecipations in companies headquartered in the territory of the other State.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting State undertakes to facilitate, in accordance with its own legal regulatory capital investments in its territory, for the purpose of promoting economic growth by nationals and companies of the other Contracting State, even in the form of supplies of goods, capital goods, services and infrastructure, concessions of property rights, patents and licences and provision of technical assistance.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Nationals and companies of each of the two Contracting States that have made investments in convertible currencies, intended for the creation and expansion of the undertakings aimed at the production of goods or services in the territory of the other Contracting Party may also transfer in convertible currency, without any restriction or delay, dividends and profits arising from capital lawfully acquired, and what possible of the revenue due to payments or benefits in favour of nationals of each of the two contracting States, professional and business activities associated with investments made in the territory of the other Contracting State.</p>
+        <p>For investments to be carried out through transfers of equipment used in the undertakings referred to in the preceding paragraph, the transfer of payments d&#xE9;coulantes divestment possible may be carried out in convertible currencies, after a period of two years from the date of the investment referred.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Investments of nationals and companies of each of the two Contracting States performed in the territory of the other Contracting State, as well as the profits thereto, shall not be expropriated or subjected to any other restriction that in the case of a clear public interest and demonstrated and against compensation equal to the value of the assets expropriated. The compensation shall be paid without delay and shall be immediately and transf&#xE8;r&#xE9;e freely convertible foreign exchange operations. the term "expropriation" also includes any act or any measures having an effect equivalent to expropriation or nationalisation. compensation shall be payable in case of similar demmages &#xE9;nv&#xE9;nements arising out of war.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Investments made by companies and nationals of each of the two Contracting States will be provided for in any case no less favourable conditions than those which may be accorded to nationals or companies of third countries with the exception of investment conditions for nationals of the countries with which exist customs unions, economic or monetary and against the double taxation agreements.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Both Contracting States undertake to avoid double taxation and for this purpose, they stipuleront special agreements.</p>
+      </div>
+      <div type="article" num="7">
+        <p>Any investment dispute subject to this Agreement, which would be between a Contracting State (or any institution or organization dependent or controlled by the same State) and physical or juridical person having the nationality of another State, shall be subject to the jurisdiction of the International Center for the Settlement of Investment Disputes, Washington under the Convention of 18 March 1965. Any dispute or any dispute between the two States concerning the interpretation or application of the present Agreement, shall be settled through diplomatic channels.</p>
+      </div>
+      <div type="article" num="8">
+        <p>This Agreement shall also apply in respect of investments in productive enterprises referred to in article 3, done at the time of its entry into force.</p>
+      </div>
+      <div type="article" num="9">
+        <p>This Agreement shall remain in force for a period of ten years and shall be considered unless it is automatically extended indefinitely denounced in writing, one year in relation to notice the maturity date. within ten years after this Agreement may be denounced has no import when by each of the two contracting States, one year on's notice.</p>
+        <p>The provisions of this Agreement shall remain in force for a period of five years from the date of termination of the validity of the Agreement itself, in respect of investments made prior to the termination.</p>
+      </div>
+      <div type="article" num="10">
+        <p>This Agreement shall enter into force on the date of the exchange of instruments of ratification. However its provisions shall apply from the date of signature.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Rome on 11 June 1969, French and Italian both texts being equally authentic.</p>
+      <p>For the Government of the Italian Republic</p>
+      <p>For the Government of Tchad</p>
+    </conclusion>
+  </main>
+</treaty>

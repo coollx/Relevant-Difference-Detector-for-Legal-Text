@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Hungary - Morocco BIT (1991)</name>
+    <code>T1991-60</code>
+    <partyisocode n="0">HUN</partyisocode>
+    <partyisocode n="1">MAR</partyisocode>
+    <date_signed>1991-12-12</date_signed>
+    <date_into_force>2000-02-03</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>1888</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{HUN,MAR}_1991-12-12.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF HUNGARY AND THE GOVERNMENT OF THE KINGDOM OF MOROCCO ON THE RECIPROCAL ENCOURAGEMENT AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Hungary and the Government of the Kingdom of Morocco, hereinafter referred to as the "Contracting Parties",</p>
+      <p>- Desiring to intensify economic cooperation through the creation of favourable conditions for investment by investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>- recognizing the positive impact that may exercise such an agreement with a view to improving the business contacts and to enhance confidence in the field of investment,</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>1. The term "investment" means every asset and any direct or indirect in all companies or firms in any sector of the economy, including but not limited to:</p>
+        <p>a) Movable and immovable property as well as any other rights in rem;</p>
+        <p>b) Shares and other forms of participation in companies;</p>
+        <p>c) Claims and rights to any performance having an economic value;</p>
+        <p>d) Copyrights, trademarks, patents, technical processes, trade names and other industrial property rights and goodwill;</p>
+        <p>e) Concessions under public law.</p>
+        <p>Any alteration of the form in which assets and capital invested or reinvested shall not affect their character as investment within the meaning of this Agreement.</p>
+        <p>Such investments shall be carried out in accordance with the laws and regulations in force in the host country.</p>
+        <p>2. The term "investors" means:</p>
+        <p>a) Any natural person having the nationality of the Republic of Hungary Moroccan or under the laws of the Republic of Hungary or of the Kingdom of Morocco respectively and making an investment in the territory of the other Contracting Party;</p>
+        <p>b) Any legal person constituted in accordance with the Hungarian or Moroccan law and having its registered office in the territory of the Republic of Hungary or of the Kingdom of Morocco respectively and making an investment in the territory of the other Contracting Party.</p>
+        <p>3. The term "returns" means the amounts reported by an investment and in particular, though not exclusively profits, dividends, interests, directors licence fees which have been approved by the competent authorities of the host country to the extent required by its laws.</p>
+      </div>
+      <div type="article" num="2">
+        <p>1. Each Contracting Party shall encourage the investments of investors of the other Contracting Party in its territory and admit such investments in accordance with its legislation.</p>
+        <p>2. This Agreement shall apply to investments related to an economic activity and carried out within the territory of each of the Contracting Parties with investors of the other Contracting Party as from the entry into force of this Agreement.</p>
+        <p>3. This Agreement does not extend to the privileges granted by either contracting party to third country under an agreement for the avoidance of double taxation or any other arrangement relating to taxation.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1. Each Contracting Party undertakes to provide in its territory for investments by investors of the other Contracting Party fair and equitable treatment excluding any unjustified or discriminatory measure which could adversely affect their management, maintenance, use, enjoyment or disposal.</p>
+        <p>2. Subject to the measures necessary for the maintenance of public order, investments shall enjoy such a constant protection and security, which shall be at least equal to those enjoyed by investors of the most favoured nation.</p>
+        <p>3. However, the treatment and protection referred to in paragraphs 1 and 2 does not extend to the privileges which either Contracting Party may grant exclusively to its own investors within the framework of its national development plans and privileges that it shall accord to the investors of a third State by virtue of its participation in an economic union or association, a customs union, a common market or a free trade area or regional economic organization.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1. Investments made by investors of one Contracting Party in the territory of the other Contracting Party shall not be expropriated or subjected to any other measures of direct or indirect dispossession having a similar effect unless the following conditions are met:</p>
+        <p>a) The measures are taken in the public interest and under due process;</p>
+        <p>b) They are neither discriminatory nor contrary to a specific engagement as referred to in article 7 (2);</p>
+        <p>c) They are accompanied by provisions for the payment of compensation in the amount shall correspond to the real value of the affected investments immediately before the date when the measures taken or are publicly available. The compensation shall be paid to investors and transferred in convertible currency without undue delay and in any case within a period of time normally required to perform administrative formalities.</p>
+        <p>2. Investors of either Contracting Party whose investments suffer losses in the course of a war or other armed conflict, a state of emergency, national or riot occurring in the territory of the other Contracting Party, shall be accorded by the latter a non-discriminatory treatment and at least equal to that accorded to investors of the most favoured nation treatment, as regards compensation, restitution, compensation or other remedies.</p>
+        <p>Compensation payable pursuant to this paragraph shall be paid in accordance with the provisions of paragraph 1/c.</p>
+        <p>3. This treatment shall apply to investors, holders of either Contracting Party of any form of participation in an enterprise in the territory of the other Contracting Party.</p>
+        <p>4. In any case, each Contracting Party shall accord to investors in its territory of the other contracting party treatment not less than that accorded to the investors of the most favoured nation.</p>
+      </div>
+      <div type="article" num="5">
+        <p>1. Each Contracting Party shall guarantee investors of the other Contracting Party, without undue delay, and in any event within a period normally necessary for the completion of administrative formalities, the transfer in convertible currency of their liquid assets relating to an investment, in particular but not exclusively:</p>
+        <p>a) Capital and additional amounts to maintain or increase the investment;</p>
+        <p>b) Interests, profits, dividends, royalties and other current income;</p>
+        <p>c) The amounts required for the repayment of loans initially in convertible currencies;</p>
+        <p>d) Products of a total or partial liquidation of the investment;</p>
+        <p>e) The compensation pursuant to article 4.</p>
+        <p>2. Transfers referred to in paragraphs 1 and 2 shall be made at the rate of exchange applicable on the date of transfer pursuant to the exchange regulations in force.</p>
+        <p>3. The guarantees provided for in paragraphs 1 and 2 shall be at least equal to those accorded to investors of the most favoured nation in similar situations.</p>
+      </div>
+      <div type="article" num="6">
+        <p>1. If under a legal or contractual guarantee covering non-commercial investment risks, indemnities are paid to an investor of either Contracting Party, the other Contracting Party shall recognize the subrogation into the insurer on the rights of the indemnified investor.</p>
+        <p>2. In accordance with the guarantee given to the Investment, the insurer concerned shall be entitled to claim all the rights that the investor might exercise if the insurer had not been subrogated.</p>
+        <p>3. Any dispute between a Contracting Party and an insurer to an investor of the other Contracting Party shall be settled in accordance with the provisions of article 9 of this Agreement.</p>
+      </div>
+      <div type="article" num="7">
+        <p>1. Where a matter relating to investment is governed by this Agreement and simultaneously by the national laws and regulations of either Contracting Party or existing international obligations or undertaken by the parties in the future, investors of the other Contracting Party may avail itself of the provisions that are most favourable except for the exceptions stipulated by paragraph 3 of Article 3.</p>
+        <p>2. Investors of one Contracting Party may conclude with the other Contracting Party of the specific commitments whose disposition cannot be contrary to this Agreement. investments made under such specific commitments are, moreover, governed by this Agreement.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1. Disputes concerning the interpretation or application of this Agreement shall be settled as far as possible between the Parties through diplomatic channels.</p>
+        <p>2. Alternatively, the dispute is submitted to a joint commission composed of representatives of the Parties; it shall meet without delay and at the request of either party.</p>
+        <p>3. If the Joint Commission cannot settle the dispute within six months after the beginning of negotiations, it shall be submitted to an arbitral tribunal, at the request of one of the Contracting Parties.</p>
+        <p>4. The Tribunal shall be constituted as follows: each Contracting Party shall appoint one arbitrator and the two arbitrators shall appoint a third arbitrator who is a national of a third State as Chairman of the Tribunal. the arbitrators shall be appointed within five months from the date on which either Contracting Party has informed the other contracting party of its intention to submit the dispute to an arbitration tribunal.</p>
+        <p>5. If the periods set out in paragraph 4 have not been observed, the Secretary General of the United Nations shall be invited to make the necessary appointments.</p>
+        <p>6. The arbitral tribunal shall decide on the basis of the provisions of this Agreement and the generally recognized rules and principles of international law.</p>
+        <p>7. The Tribunal shall determine its own rules of procedure.</p>
+        <p>8. The Tribunal shall take its decisions by a majority of votes they shall be final and binding on the contracting parties.</p>
+        <p>9. Each Contracting Party shall bear the costs of its own arbitrator and its representation in the arbitration proceedings. the cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="9">
+        <p>1. Any dispute between one Contracting Party and an investor of the other Contracting Party in respect of expropriation, nationalization or any other similar measures affecting investment is subject to a written notification accompanied by a detailed memorandum addressed by an investor of one of the Contracting Parties to the other Contracting Party to the extent possible, the dispute shall be settled amicably between the parties.</p>
+        <p>2. If the dispute cannot be settled within six months from the date of the written notification mentioned in paragraph 1, it shall be submitted to arbitration by the International Centre for Settlement of Investment Disputes (ICSID) established by the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, opened for signature at Washington, on 18 March 1965.</p>
+        <p>3. Any Contracting Party, Party to the dispute, cannot raise as objection, at any stage of the arbitration proceedings or enforcement of an arbitration award, on account of the fact that the investor, opposing party in the dispute has received an indemnity covering the whole or part of its losses by virtue of an insurance policy or to the guarantee provided for in article 6.</p>
+        <p>4. The arbitral tribunal shall decide on the basis of:</p>
+        <p>- The provisions of this Agreement;</p>
+        <p>- The generally recognized rules and principles of international law.</p>
+      </div>
+      <div type="article" num="10">
+        <p>1. This Agreement shall enter into force one month after the date on which the Contracting Parties have notified each other that the constitutional procedures required in their respective countries have been complied with. it shall remain in force for a period of ten years, unless one of the Contracting Parties denounces it at least six months before the expiration of the period of validity, whenever it shall be automatically renewed for a further period of ten years, each Contracting Party reserving the right to terminate the agreement by a notification made at least twelve months before the date of expiry of the current period of validity.</p>
+        <p>2. In the event of termination, investments within the framework of this Agreement and before its expiration shall continue to apply for a period of ten years from the date of its termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Rabat on 12 December 1991.</p>
+      <p>In two originals in the Arabic, Hungarian languages, in the English and French languages, all texts being equally authentic. in case of divergence of interpretation, the English text shall prevail.</p>
+      <p>For the Government of the Republic of Hungary</p>
+      <p>For the Government of the Kingdom of Morocco</p>
+    </conclusion>
+  </main>
+</treaty>

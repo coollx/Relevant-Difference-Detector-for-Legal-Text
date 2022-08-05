@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Cambodia - Lao People's Democratic Republic BIT (2008)</name>
+    <code>T2008-65</code>
+    <partyisocode n="0">KHM</partyisocode>
+    <partyisocode n="1">LAO</partyisocode>
+    <date_signed>2008-11-24</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>754</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{KHM,LAO}_2008-11-24.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1987">ASEAN Investment Agreement (1987)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2009-8">ASEAN Comprehensive Investment Agreement (2009)</relation>
+  </meta>
+  <main/>
+</treaty>

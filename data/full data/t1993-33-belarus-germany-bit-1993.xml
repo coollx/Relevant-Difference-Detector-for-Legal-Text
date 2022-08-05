@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Belarus - Germany BIT (1993)</name>
+    <code>T1993-33</code>
+    <partyisocode n="0">BLR</partyisocode>
+    <partyisocode n="1">DEU</partyisocode>
+    <date_signed>1993-04-02</date_signed>
+    <date_into_force>1996-09-23</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">de</orig_language>
+    <termination_type/>
+    <docreference>418</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>de</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BLR,DEU}_1993-04-02.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Treaty between the Federal Republic of Germany and the Republic of Belarus on the promotion and mutual protection of investments</p>
+    </title>
+    <preamble>
+      <p>The Federal Republic of Germany and the Republic of Belarus, </p>
+      <p>Desiring to deepen economic cooperation between the two countries, on the basis of equality and mutual benefit, in the endeavor to create favorable conditions for investments by investors of one State in the territory of the other State, </p>
+      <p>Recognizing that the promotion and the contractual protection of these investments are appropriate to strengthen all forms of economic initiative, particularly in the field of private entrepreneurship, and to increase the prosperity of both peoples:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Treaty</p>
+        <p>(1) The term "investments" includes assets of any kind, in particular but not exclusively</p>
+        <p>a) Ownership of movable and immovable property as well as other rights in rem such as mortgages and liens;</p>
+        <p>b) Shares in companies and other types of participations in companies;</p>
+        <p>c) Claims on money used to create an economic value or claims on an economic value;</p>
+        <p>d) Intellectual property rights, in particular copyrights, patents, utility models, industrial designs, trademarks, trade names, business and commercial secrets, technical procedures, know-how and goodwill;</p>
+        <p>e) Concessions, including concession and concession concessions;</p>
+        <p>A change in the form in which assets are invested does not affect their property as an investment;</p>
+        <p>(2) The term "income" means the amounts accruing to an investment for a certain period, such as profit shares, dividends, interest, royalties or other charges;</p>
+        <p>(3) The term "investor"</p>
+        <p>a) With regard to the Federal Republic of Germany:</p>
+        <p>- natural persons who are Germans within the meaning of the Basic Law for the Federal Republic of Germany,</p>
+        <p>- companies, that is to say any legal person, any trading company or other company or association, with or without legal personality, having its seat in the territory of the Federal Republic of Germany, whether its activity is directed at profit or not,</p>
+        <p>b) With regard to the Republic of Belarus:</p>
+        <p>- natural persons who are nationals of the Republic of Belarus under the Law of the Republic of Belarus and who are entitled to make investments,</p>
+        <p>- legal persons whose registered office is in the territory of the Republic of Belarus, are registered there and are entitled to invest;</p>
+        <p>(4) The term "free transfer"</p>
+        <p>a) Exchange of the amounts arising in the national currency of the Contracting Party into convertible currency and the subsequent export of such amounts in freely convertible currency;</p>
+        <p>b) Export of monetary amounts arising as a result of an economic activity in freely convertible currency.</p>
+      </div>
+      <div type="article" num="2">
+        <p>(1) Each Contracting Party shall, as far as possible, promote the investments of investors of the other Contracting Parties in its territory and leave these investments in accordance with its laws. In any case, it will treat capital investments fairly and cheaply.</p>
+        <p>(2) A Contracting Party shall in no way interfere with the administration, use, use or use of the investments of investors of the other Contracting Parties in its territory by means of arbitrary or discriminatory measures.</p>
+        <p>(3) Investments made by investors of the one Contracting Party which are carried out in their territory in accordance with the laws of the other Contracting Parties shall enjoy full protection of the contract.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Each Contracting Party shall treat investments of investors of the other Contracting Parties or investments in which investors of the other Contracting Parties are involved in their territory no less favorable than the investments of their own investors or investments by investors of third States.</p>
+        <p>(2) Each Contracting Party shall treat investors of the other Contracting Parties no less favorably than their own investors or investors of third States with regard to their activities in connection with investments in their territory.</p>
+        <p>(3) This treatment does not refer to the privileges granted by a Contracting Party to investors of third</p>
+        <p>In a customs or economic union, a common market or a free-trade area or because of their association with it.</p>
+        <p>(4) The treatment provided for in this article does not apply to any benefits granted by a Contracting Party to investors of third countries under a double taxation agreement or other agreements on tax questions.</p>
+      </div>
+      <div type="article" num="4">
+        <p>(1) Investments by investors of a Contracting Party shall enjoy full protection and full security in the territory of the other Contracting Parties.</p>
+        <p>(2) Investments by investors of a Contracting Party may be expropriated, nationalized or subject to other measures which are equivalent to expropriation or nationalization in the territory of the other Contracting Parties only for the general good and for compensation. The compensation must correspond to the value of the expropriated investment immediately before the date on which the actual or imminent expropriation, nationalization or comparable measure became publicly known. The compensation must be paid without delay and is payable at the usual bank rate until the time of payment; It must in fact be usable and freely transferable. At the latest at the time of expropriation, nationalization or comparable measure, it must be appropriate for the fixing and performance of the compensation provision. At the request of the investor, the legality of the expropriation, nationalization or comparable measure and the amount of the compensation shall be verified by ordinary proceedings.</p>
+        <p>(3) Investors in a Contracting Party who suffer losses from investments in the territory of the other Contracting Party through war or other armed conflicts shall be treated no less favorably by the Contracting Party with regard to reimbursements, severance payments, compensation or other consideration than their own investors Investors of third countries. Such payments must be freely transferable.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party guarantees to the investors of the other Contracting Parties the free transfer of payments in connection with an investment, in particular</p>
+        <p>a) Of the capital and additional amounts for the maintenance or expansion of the investment;</p>
+        <p>b) Of income;</p>
+        <p>c) To repay loans;</p>
+        <p>d) Of the proceeds in the event of complete or partial liquidation or disposal of the investment;</p>
+        <p>e) Of the compensation provided for in Article 4.</p>
+      </div>
+      <div type="article" num="6">
+        <p>If a Contracting Party makes payments to its investors on the basis of a guarantee for an investment in the territory of the other Contracting Party, this other Contracting Party shall, without prejudice to the rights of the former Contracting Party pursuant to Article 10, recognize the transfer of all rights or claims of such investors by law or by law</p>
+        <p>To the former Contracting Parties. Furthermore, the other Contracting Party shall recognize the entry of the former Contracting Party into all such rights or claims (transferred claims) which the former Contracting Party is entitled to exercise to the same extent as its predecessor. This includes the investor's rights under this Agreement.</p>
+      </div>
+      <div type="article" num="7">
+        <p>(1) Transfers pursuant to Article 4 (2) or 3 or Article 5 shall be effected without undue delay at the applicable rate.</p>
+        <p>(2) The exchange of the national currency of the Contracting Party into freely convertible currency shall be effected on the foreign exchange market of the Contracting Party at the market rate applicable at that time.</p>
+        <p>(3) This rate may not differ materially from the cross-rate resulting from the conversion rates which the International Monetary Fund would use as the basis for the conversion of the currencies concerned into special drawing rights on the date referred to in paragraph 2.</p>
+      </div>
+      <div type="article" num="8">
+        <p>(1) If the legislation of a Contracting Party or obligations under international law which exist between the Contracting Parties or which are established in the future are governed by a general or special regulation which grants the investors of the other Contracting Parties more favorable treatment than under this Treaty , This provision shall be governed by this Treaty in so far as it is more favorable.</p>
+        <p>(2) Each Contracting Party shall comply with every other obligation which it has assumed in respect of investments in its territory by investors of the other Contracting Parties.</p>
+      </div>
+      <div type="article" num="9">
+        <p>This Agreement shall also apply to investments made by investors of one Contracting Party in accordance with the laws of the other Contracting Parties in their territory before the entry into force of this Treaty.</p>
+      </div>
+      <div type="article" num="10">
+        <p>(1) Disputes between the Contracting Parties concerning the interpretation or application of this Treaty shall, as far as possible, be settled by the Governments of the two Contracting Parties.</p>
+        <p>(2) If a disagreement can not be settled in this way, it shall be submitted to an arbitration court at the request of one of the two contracting parties.</p>
+        <p>(3) The arbitral tribunal shall be constituted on a case-by-case basis by appointing a member to each of the Contracting Parties, and both members as members of a third State as chairman to be appointed by the Governments of the two Contracting Parties. The members shall be appointed within two months to appoint the chairman within three months after the one party to the agreement has notified the other that it wishes to submit the dispute to an arbitration tribunal.</p>
+        <p>(4) If the deadlines set out in paragraph 3 are not met, in the absence of any other agreement, each Contracting Party may notify the President of the International Court of Justice</p>
+        <p>The necessary appointments. If the President has the nationality of either Contracting Party or if he is prevented from doing so for another reason, the Vice-President shall make the appointments. If the vice-president also has the nationality of one of the two contracting parties or if he is also prevented from doing so, the next member of the Court who is not a national of one of the two contracting parties shall make the appointments.</p>
+        <p>(5) The arbitral tribunal shall decide by a majority of votes. Its decisions are final and binding. Each Contracting Party shall bear the costs of its member and its representation in the proceedings before the arbitral tribunal; The costs of the chairman and the other costs are borne equally by the two contracting parties. The arbitral tribunal may adopt a different cost regime. Moreover, the arbitration itself regulates its own procedure. In view of the provisions of Article 27 (1) of the Convention of 18 March 1965 on the resolution of disputes between States and nationals of other States, the arbitral tribunal provided for above can not be appealed to in this respect A Contracting Party and the other Contracting Party, an agreement has been concluded in accordance with Article 25 of the Convention. The possibility of applying the above-mentioned arbitration in the event of failure to comply with a decision of the arbitral tribunal of the said Convention (Article 27) or, in the case of the transfer  by law or by virtue of legal transaction pursuant to Article 6 of this Treaty shall remain unaffected. Disputes concerning investments between one of the Contracting Parties and an investor of the other Contracting Parties shall, as far as possible, be settled amicably between the parties concerned. At the request of the investor, they may be submitted to the competent court of the Contracting Party on whose territory the investment is situated.</p>
+        <p>(6) If the disagreement can not be settled within a period of six months from the date of their assertion by one of the two parties, it shall be submitted to arbitration at the request of the investor of the other Contracting Parties. Unless the parties to the dispute reach a dissenting agreement, the dispute shall be subject to arbitration under the Convention of 18 March 1965 on the resolution of disputes between States and nationals of other States.</p>
+      </div>
+      <div type="article" num="11">
+        <p>(1) The arbitration award shall be binding and shall not be subject to any means of redress or other remedies other than those provided for in the said Convention. It is enforced under national law.</p>
+        <p>(2) The Contracting Party participating in the dispute shall not assert an objection during an arbitration proceedings or the execution of an arbitration award that the investor of the other Contracting Party has received compensation for part of the damage or the total damage resulting from an insurance.</p>
+        <p>(3) This Agreement shall apply irrespective of whether diplomatic or consular relations exist between the two Contracting Parties.</p>
+        <p>(4) This Treaty shall be subject to ratification; The instruments of ratification shall be exchanged as soon as possible in Minsk.</p>
+      </div>
+      <div type="article" num="12">
+        <p>This Treaty shall enter into force one month after the exchange of the instruments of ratification. It remains in force for ten years; After the expiry of which period, the period of validity shall be extended indefinitely, unless one of the two Contracting Parties terminates the contract in writing with a notice period of twelve months before expiry. After ten years, the contract may be terminated at any time by a period of twelve months.</p>
+      </div>
+      <div type="article" num="13">
+        <p>(1) This Treaty shall be subject to ratification; the instruments of ratification shall be exchanged in Minsk as soon as possible.  </p>
+        <p>(2) This Treaty shall enter into force one month after the exchange of instruments of ratification. It shall remain in force for ten years, at the end of which it shall be extended indefinitely unless either Party terminates it in writing twelve months before the expiry date. After ten years, the Treaty may be terminated at any time upon twelve months' notice.</p>
+        <p>(3) For capital investments made up to the date of expiry of this Treaty, Articles 1 to 12 shall continue to apply for a further twenty years from the date of expiry of this Treaty.  </p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Bonn on 2 April 1993 in two originals, each in the German and Belarusian languages, both texts being equally authentic.  </p>
+      <p>For the Federal Republic of Germany</p>
+      <p>Kastrup </p>
+      <p>Rexrodt </p>
+      <p>For the Republic of Belarus</p>
+      <p>Mjaznikovich</p>
+      <p/>
+    </conclusion>
+  </main>
+</treaty>

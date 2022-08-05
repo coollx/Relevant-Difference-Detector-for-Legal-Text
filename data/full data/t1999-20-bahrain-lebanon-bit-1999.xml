@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Bahrain - Lebanon BIT (1999)</name>
+    <code>T1999-20</code>
+    <partyisocode n="0">BHR</partyisocode>
+    <partyisocode n="1">LBN</partyisocode>
+    <date_signed>1999-08-26</date_signed>
+    <date_into_force>2005-05-12</date_into_force>
+    <date_terminated>2005-09-13</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>348</docreference>
+    <comments>Text not available</comments>
+    <source>www.finance.gov.lb</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{BHR,LBN}_1999-08-26.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T2003-17">Bahrain - Lebanon BIT (2003)</relation>
+  </meta>
+  <main/>
+</treaty>

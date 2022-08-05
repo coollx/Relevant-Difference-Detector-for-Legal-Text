@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>France - Malta BIT (1976)</name>
+    <code>T1976-8</code>
+    <partyisocode n="0">FRA</partyisocode>
+    <partyisocode n="1">MLT</partyisocode>
+    <date_signed>1976-08-11</date_signed>
+    <date_into_force>1978-01-01</date_into_force>
+    <date_terminated>2021-08-28</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Terminated by consent</termination_type>
+    <docreference>1582</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{FRA,MLT}_1976-08-11.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Terminated by consent</IT_TERMINATION_TYPE>
+    <relation type="IT_OVERLAP" document-code="T2020-2">Agreement for the Termination of Bilateral Investment Treaties Between the Member States of the European Union (2020)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="TERMINATED_BY_THIRD_TREATY" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF MALTA AND THE GOVERNMENT OF THE REPUBLIC OF FRANCE CONCERNING THE RECIPROCAL ENCOURAGEMENT AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Malta and the Government of the Republic of France,</p>
+      <p>DESIRING to strengthen economic co-operation between both States,</p>
+      <p>INTENDING to create favourable conditions for investments by nationals and companies of either State in the territory of the other State, and</p>
+      <p>RECOGNISING that encouragement and contractual protection of such investments are apt to stimulate the transfer of capital and technology between both nations in the interest of their economic development,</p>
+      <p>HAVE AGREED AS FOLLOWS:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Agreement:</p>
+        <p>(1) The term "investment" means property of every kind and more particularly but not exclusively:</p>
+        <p>(a) Movable and immovable property as well as all other real rights such as hypothecs, privileges, usufructs, sureties and similar rights;</p>
+        <p>(b) Shares and other forms of participation, including minority or indirect holdings, in companies set up in the territory of either Contracting Party;</p>
+        <p>(c) Title to money or to any performance having an economic value;</p>
+        <p>(d) Copyrights, industrial property rights, technical processes, trademarks and goodwill;</p>
+        <p>(e) Industrial concessions granted by law or by contract, especially concessions relating to prospecting, cultivation, extraction or exploitation of natural resources including those situated in maritime areas falling under the jurisdiction of either Party;</p>
+        <p>Provided that such property must be invested in accordance with the law of the Contracting Party in whose territory the investment has been made, before or after the entry into force of this Agreement.</p>
+        <p>Any alteration of the form in which assets are invested shall not affect their classification as an investment, provided such alteration is not contrary either to the law of the State in whose territory the investment is made, or to the approval accorded to the initial investment.</p>
+        <p>(2) The term "national" means a physical person having the nationality of either Contracting Party.</p>
+        <p>(3) The term "company" means any body corporate set up in the territory of either Contracting Party in accordance with the latter's law and having its registered office there.</p>
+        <p>(4) The term "income" means the amounts accruing from an investment during a given period, such as profits, dividends or interest.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Either Contracting Party shall admit and encourage on its territory within the framework of its legislation the investments made by nationals and companies of the other Party.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Either Contracting Party binds itself to ensure on its territory a fair and equitable treatment to the investments of the nationals and companies of the other Party and to undertake not to impair the exercise of this right either by way of statute or de facto. This treatment shall not be less favourable than that which is accorded by each Contracting Party to the nationals and companies of the most favoured nation.</p>
+        <p>(2) Either Contracting Party guarantees on its territory to the nationals and companies of the other Party in so far as concerns their activities connected with the investments, treatment as favourable as that enjoyed by its own nationals or companies or the nationals and companies of any third State.</p>
+        <p>(3) The nationals of either Contracting Party remain subject on the territory of the other Party to the legislation and to the agreements in force in so far as concerns entry and sojourn.</p>
+      </div>
+      <div type="article" num="4">
+        <p>The investments made by nationals or companies of either Contracting Party in the territory of the other Party shall not be subjected to any expropriation or nationalisation measures or any other measures of dispossession, direct or indirect, except in the public interest, non- discriminatory and against actual payment of adequate compensation. Such compensation shall represent the real value of the property concerned on the day of expropriation, nationalisation or dispossession and shall be paid without delay and be freely transferable.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Either Contracting Party may accord, within the context of its legislation and after examining each particular case, its guarantee to investments made by its nationals or companies in the territory of the other Party and previously approved by that other Party.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Without prejudice to the provisions of this Agreement, the document confirming the other Party's approval, referred to in Article 5, shall specify the terms and conditions that will regulate each investment by the nationals or companies of either Contracting Party in the territory of the other Party.</p>
+      </div>
+      <div type="article" num="7">
+        <p>(1) Either Contracting Party, in whose territory investments have been made by nationals or companies of the other Party, shall allow to these nationals or companies the free transfer of:</p>
+        <p>(a) Income from such investments;</p>
+        <p>(b) Fees derived from the intangible rights referred to at subparagraphs (d) and (e) of paragraph (1) of Article 1;</p>
+        <p>(c) Payments made in settlement of loans lawfully contracted;</p>
+        <p>(d) Proceeds from transfer or realisation, whether total or partial, or liquidation of such investments, including the appreciation or increase in capital invested, or in the case of dispossession, the compensation provided for in Article 4.</p>
+        <p>(2) The nationals of either Contracting Party who have been authorised to work in the territory of the other Contracting Party as a result of an approved investment shall also be authorised to transfer to their country of origin a reasonable proportion of their earnings.</p>
+        <p>(3) The transfers referred to in the preceding paragraphs shall be effected without delay and at the official rate of exchange ruling on the date of transfer.</p>
+      </div>
+      <div type="article" num="8">
+        <p>If either Contracting Party effects payment to its nationals or companies in virtue of a guarantee given under Article 5 of this Agreement in respect of an investment made in the territory of the other Party, the first mentioned Party shall have full rights of subrogation with regard to the rights and actions of the said nationals or companies. The subrogation of rights shall also apply to the rights of transfer referred to in Article 7 of this Agreement.</p>
+      </div>
+      <div type="article" num="9">
+        <p>(1) Any disagreement relating to the interpretation or application of this Agreement shall be settled through diplomatic channels. If agreement is not reached within a period of six months the dispute may be submitted, at the request of either Contracting Party, to an arbitration tribunal which shall be composed as set out below.</p>
+        <p>(2) The Contracting Parties shall each nominate an arbitrator within a period of two months from the date of receipt of the request for arbitration. The two arbitrators so appointed shall, within a period of two months from the date on which the Party which appoints its arbitrator last, gives notification of such appointment, select a third arbitrator who shall be a national of a third State.</p>
+        <p>(3) If either of the Contracting Parties will not have nominated an arbitrator within the stipulated period, the other Party may request the secretary-general of the United Nations to nominate one. If the secretary-general is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Under Secretary next in seniority to the Secretary- General, who is not a national of either Contracting Party should make the necessary appointment. The same course shall be open to either Party in the event that the two arbitrators do not agree on the choice of a third arbitrator.</p>
+        <p>(4) The Contracting Parties may agree in advance to appoint, for a period of five years which shall be renewable a person to serve in the capacity of third arbitrator in case of disagreement.</p>
+        <p>(5) Each Contracting Party shall bear the cost of its own arbitrator and of its counsel in the arbitration proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by both Contracting Parties. The Court of Arbitration may make a different regulation concerning costs.</p>
+        <p>(6) The decision of the arbitration tribunal shall be final and legally binding. The arbitration tribunal shall establish its own rules of procedure.</p>
+      </div>
+      <div type="article" num="10">
+        <p>(1) This Agreement shall enter into force on the first day of the second month following the date of the exchange of notifications between the Contracting Parties certifying that the constitutional requirements of each Party concerning the implementation of this Agreement have been complied with. This exchange of notifications shall take place at Paris as soon as possible.</p>
+        <p>(2) The Agreement shall remain in force for an initial period of ten years and shall continue in force thereafter unless one year's notice of termination is given by either Party through diplomatic channels.</p>
+        <p>(3) If the Agreement is terminated it shall remain applicable to investments made while it was in force, for a period of twenty years from the date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE at Valletta this 11th day of August 1976 in duplicate in the English and French languages, each text being equally authentic.</p>
+      <p>For the Government of the Republic of Malta</p>
+      <p>Joseph Abela</p>
+      <p>Minister of Finance Customs and Ports</p>
+      <p>For the Government of the Republic of France</p>
+      <p>Bernard Destremau</p>
+      <p>Secretary of State for Foreign Affairs</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Philippines - Saudi Arabia BIT (1994)</name>
+    <code>T1994-181</code>
+    <partyisocode n="0">PHL</partyisocode>
+    <partyisocode n="1">SAU</partyisocode>
+    <date_signed>1994-10-17</date_signed>
+    <date_into_force>1996-11-11</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>2763</docreference>
+    <comments>http://61.28.185.135/treaty/scanneddocs/219.pdf</comments>
+    <source>Philippines Department of foreign affairs</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{PHL,SAU}_1994-10-17.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement on Economic, Trade, Investment, and Technical Cooperation between the Government of the Republic of the Philippines and the Government of the Kingdom of Saudi Arabia</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of the Philippines and the Government of the Kingdom of Saudi Arabia (hereinafter referred to as the contracting parties), desiring to enhance the friendly relations between their two countries and recognizing the mutual benefits of expanding their cooperation, have agreed in accordance with the regulations and laws prevailing in their respective countries to the following:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>The contracting parties shall endeavor to enhance cooperation between their two countries in the spirit of mutual understanding.</p>
+      </div>
+      <div type="article" num="2">
+        <p>The contracting parties shall encourage economic, trade, investment and technical cooperation between their two countries and their citizens, both legal and natural entities. The areas of cooperation shall include, but not limited to, the following:</p>
+        <p>1.  Cooperation in the economic fields including industrial, petroleum, mineral, petrochemical, agricultural, livestock and health projects;</p>
+        <p>2.  Exchange of information, scientific research, technology; and</p>
+        <p>3.  Exchange of experts and training of personnel for specific cooperation programs.</p>
+      </div>
+      <div type="article" num="3">
+        <p>1,  The contracting parties shall promote the expansion and diversification of their trade relations. To this end, and within the confines of the international trading system, the contracting parties shall mutually extend MFN (most favored nation) treatment.</p>
+        <p>2.  The MFN treatment shall not include privileges extended by the contracting parties to citizens or corporations of a third country as a result of a free trade zone, custom union, common market or any kind of regional economic cooperation system.</p>
+      </div>
+      <div type="article" num="4">
+        <p>1.  The contracting parties shall promote investments by their citizens in all fields, except in areas prohibited by law of the host country or those exclusively limited to their nationals.</p>
+        <p>2.  The contracting parties shall protect the capital and investments of their respective countries and nationals, including the liberty to repatriate their capital and profits. The contracting parties shall guarantee a fair and urgent compensation in case of injury.</p>
+        <p>3.  The contracting parties shall encourage the establishment of joint ventures in accordance with investment regulations and laws prevailing in their respective countries.</p>
+      </div>
+      <div type="article" num="5">
+        <p>The contracting parties shall encourage the exchange of visits between their representatives, economic, trade and technical delegations including the exchange of visits and delegations from the private sectors, and shall encourage participation in exhibitions and will provide the necessary facilities to enhance cooperation between their respective countries.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The contracting parties shall encourage cooperation in the fields of science, culture, sports and youth, which shall include, but not limited to, the following areas:</p>
+        <p>1.  Cooperation in the fields of science and technology through the exchange of information related to mutual interests; exchange of visits by officials, researchers, experts and technicians; training of researchers and technical assistants; participating in scientific forums and conferences; and establishing research centers and laboratories.</p>
+        <p>2.  Cooperation in the cultural field through the exchange of programs between cultural institutions, government and private associations; the participation in cultural conferences and fairs held in their respective countries; and the exchange of exhibitions of documents, films and information. The contracting parties shall also encourage cooperation between universities and other educational institutions through exchange of visits by experts.</p>
+        <p>3.  Cooperation in the fields of youth and sports through the coordination of positions in international conferences; exchange programs between youth and sports institutions, associations and exchange of audio-visuals and other documents, exchanges of expertise in sport and visits between officials of youth and sports insitutions.</p>
+      </div>
+      <div type="article" num="7">
+        <p>The contracting parties shall form a joint commission to meet alternately in each country when there is a need for consultation as to the measures and means to be adopted for the consolidation and promotion of cooperation in all fields of this agreement.</p>
+      </div>
+      <div type="article" num="8">
+        <p>1.  This agreement shall enter into force as of the date of the exchange of ratification documents according to regulations prevailing in their respective countries.</p>
+        <p>2.  The duration of this agreement is five years commencing on the date it enters into force and shall be automatically renewed for a consecutive periods of one year unless either of the contracting parties gives six months notice before the expiration of the agreement, of its intention not to renew.</p>
+        <p>3.  hi case this agreement is terminated, its provisions shall continue to be in force for programs, projects or agreements concluded thereunder contracts and liabilities which have not been completed before the expiry of this agreement, or for the covenants which are not yet executed after the termination of this agreement. The same applies to the settlement of financial dues before this agreements expiration, whether it is by government or by legal and natural entities.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Signed in Jeddah on 17 October 1994 A.D.</p>
+      <p>Corresponding to___ 1415 A.H., in original English and Arabic languages, both texts being equally authentic.</p>
+      <p>For the Government of the Republic of the Philippines</p>
+      <p>H.E. Roberto R. Romulo</p>
+      <p>Secretary of Foreign Affairs</p>
+      <p>For the Government of the Kingdom of Saudi Arabia</p>
+      <p>H.R.H. Prince Saud Al-Faisal</p>
+      <p>Minister of Foreign Affairs</p>
+    </conclusion>
+  </main>
+</treaty>

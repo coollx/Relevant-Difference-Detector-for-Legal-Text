@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Kyrgyzstan - Tajikistan BIT (2000)</name>
+    <code>T2000-112</code>
+    <partyisocode n="0">KGZ</partyisocode>
+    <partyisocode n="1">TJK</partyisocode>
+    <date_signed>2000-01-19</date_signed>
+    <date_into_force>2001-12-07</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ru</orig_language>
+    <termination_type/>
+    <docreference>2336</docreference>
+    <comments>http://cbd.minjust.gov.kg/act/view/ru-ru/17059?ckwds=%25d0%25b8%25d0%25bd%25d0%25b2%25d0%25b5%25d1%2581%25d1%2582%25d0%25b8%25d1%2586%25d0%25b8%25d0%25b8</comments>
+    <source>http://cbd.minjust.gov.kg/</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>ru</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{KGZ,TJK}_2000-01-19.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1997-10">Commonwealth of Independent States (CIS) Investor Rights Convention (1997)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2005-45">ECO Investment Agreement</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2008-12">Eurasian Investment Agreement (2008)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT between the Government of the Kyrgyz Republic and the Government of the Republic of Tajikistan on the promotion and Reciprocal Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kyrgyz Republic and the GovernmentThe Republic of Tajikistan, hereinafter referred to as "the Parties",</p>
+      <p>Conscious that the promotion and reciprocal protection of investments will contribute to the development of mutually beneficial trade-economic and scientific and technical cooperation between the two Parties, as well as multiply the welfare of both countries,</p>
+      <p>Desiring to create favorable conditions for investments of investors of one Party in the territory of the other Party, based on the principles of equality, mutual respect, sovereignty, and mutual benefit;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement the following terms mean:</p>
+        <p>1. "Investor" - means, in respect of each of the Parties:</p>
+        <p>a) A natural person who is a citizen of any of the Parties and invests in the territory of another Party in accordance with its legislation;</p>
+        <p>b) Legal entity, other organizations with or without the right of a legal entity, registered in accordance with the legislation of any of the Parties, having their location in its territory and making investments in the territory of the other Party&#x200B;.</p>
+        <p>2. "Investment" - means every kind of asset and rights to them, including intellectual property rights, invested to produce income to investors of one Party in the territory of the other Party, in particular, include:</p>
+        <p>a) Stocks, funds and other securities or forms og participation in companies;</p>
+        <p>b) Movable and immovable property (buildings, structures, equipment and other tangible assets) and related property rights, including the right to bail;</p>
+        <p>c) Monetary claims and rights to any requirement activities having an economic value;</p>
+        <p>d) Copyrights, intellectual property rights (such as invention patents, industrial designs and patterns, trademarks, trade names, signs of origin, technology "know-how" and others);</p>
+        <p>e) The right to economic activity, including the right to concession, which is expressed in the exploration, development, production or exploitation of natural resources and other objects of exploitation, obtained by law or contract.</p>
+        <p>3. "Proceeds" - means the amount resulting from investment profit, including in the form of income from production and trade activities, including profit technical assistance and maintenance and other types of activities, dividends, interest payments, royalties, license and commissions.</p>
+        <p>4. "Territory" - means the territory of each State Parties, as defined by the legislation of the Parties and in accordance with the international law.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>1. Each Party shall encourage investors of the other Party to make investments in its territory and shall admit such investments in accordance with its legislation.</p>
+        <p>2. Investments, as defined in accordance with paragraph 2 of Article 1, and related income will be fully protected in accordance with this Agreement. The same applies without prejudice to the provisions of paragraph 1 of this article and to all income derived from the reinvestment of such income. The expansion, change or transformation of investments made under the law will be considered as new investments.</p>
+      </div>
+      <div type="article" num="3" title="National investment regime">
+        <p>1. Each of the Parties undertakes to ensure, on its territory, a fair and equal treatment with respect to investments of investors of the other Party and activities in connection with investments that excludes the use of discriminatory measures that could impede the management and disposal of investors.</p>
+        <p>2. The regime referred to in paragraph 1 of this article will be no less favorable than the regime that is granted in respect of investments of own investors or investors of any other state and activities related to such investments.</p>
+        <p>3. The provisions of this article do not apply to the benefits and advantages that each Party provides or will provide in the future to investors of any other third state or their investments based on:</p>
+        <p>a) Its participation in a free trade zone, customs or economic union, organization of mutual economic assistance or in international an agreement providing for privileges and advantages similar to those provided by the Party to the participants of these organizations;</p>
+        <p>b) An international agreement to avoid tax taxation or other arrangement on tax issues;</p>
+        <p>c) Arrangements on cross-border trade;</p>
+        <p>d) A separate decision of the Parties</p>
+      </div>
+      <div type="article" num="4" title="Compensation for losses">
+        <p>1. Investors of one Party whose investments are damaged in the territory of the other Party due to any unforeseen force majeure circumstances in the territory of the last Party will be provided with a regime no less favorable with respect to compensation for losses than that which it provides to its own investors or investors any third states.</p>
+        <p>2. Without prejudice to paragraph 1 of this article, investors of one Party who, due to any unforeseen force majeure circumstances, suffered damage on the territory of the other Party as a result of:</p>
+        <p>a) Requisition of their property by its forces or authorities;</p>
+        <p>b) Destruction of their property by its forces or authorities, which occurred not in the course of hostilities and was not caused by the need in that situation, on the other hand, losses will be compensated or adequate compensation will be provided.</p>
+      </div>
+      <div type="article" num="5" title="Guarantees against expropriation">
+        <p>1. Investments of investors of one of the Parties, carried out in the territory of the other Party, cannot be nationalized, expropriated or subjected to other equivalent measures, except when such measures are taken in the public interest, subject to the procedure established by law, on a non-discriminatory basis and accompanied by adequate compensation.</p>
+        <p>2. The specified compensation is equal to the market value of the expropriated investment directly on the date of the decision on expropriation and should be paid without undue delay and include the generally accepted bank percentage of the country calculated for the period between the date of expropriation and the date of payment of compensation in the territory of the Party where the investment was made. Compensation, including interest, must be convertible and freely transferable.</p>
+        <p>3. Investors affected by nationalization will be eligible, in accordance with the legislation of the Party conducting the expropriation, to a quick examination of their cases by a judicial or other independent body of that Party and for determining the value of its investments in accordance with the principles set forth in this article.</p>
+        <p>4. If one of the Parties nationalizes investor investments registered by applicable law on any part of its territory where investors of the other Party hold shares or other property rights, then the provisions of paragraph 1 of this article will be guaranteed to the extent necessary to ensure adequate and effective compensation in respect of investments of investors of the other Party holding such shares or other property rights.</p>
+      </div>
+      <div type="article" num="6" title="Free transfer of payments">
+        <p>Each Party will guarantee to investors of the other Party all rights to the unhindered transfer of profits from investment activities minus costs, taxes and other types of obligatory payments, in accordance with the legislation of the Parties&#x200B;.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>1. In the event that one Party or authorized institutions has submitted any financial guarantees against non-commercial risks in respect of investments of its investors made in the territory of the state of the other Party and made payment under this guarantee, the other Party shall, on the basis of the principle of subrogation, recognize the transfer of rights , including the rights of claim, of these investors in full to the first Party or its authorized institutions, with reservations regarding the obligations of these investors related to the insured investment.</p>
+        <p>2. A party that is a party to a dispute with an investor of the state of the other Party during the entire process of its resolution or implementation of a decision on it should refer to existing legislation and this Agreement.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of disputes">
+        <p>1. In order to resolve disputes related to investments between one Party and the investor of the other Party, including on issues of the size, conditions or procedure for compensation, consultations shall be held.</p>
+        <p>2. If such consultations do not lead to a result within six months from the date on which the request for consultations was made, the investor may file a dispute with the national jurisdiction of the Party in whose territory the investment was made or with international arbitration. In the latter case, the investor will have a choice between the following:</p>
+        <p>a) The International Center for the Settlement of Investment Disputes for settlement through conciliation or arbitration in accordance with the Convention on the Settlement of Investment Disputes between States and Citizens of Other States, open for signature in Washington March 18, 1965;</p>
+        <p>b) The ad hoc arbitral tribunal in accordance with the arbitration rules of the United Nations Commission on International Trade Law (UNCITRAL), as amended until the last The amendment approved by both Parties at the time of the request for the implementation of the arbitration procedure.</p>
+        <p>3. During the arbitral proceedings or the execution of the decision of the arbitral tribunal, the party to the dispute will not put forward as an argument that the investor of the other Party has received partial or full compensation for the damage suffered on the basis of insurance.</p>
+      </div>
+      <div type="article" num="9" title="Disputes between the parties">
+        <p>1. The parties shall seek in good faith and in the spirit of cooperation, to achieve an early and fair solution to any issue relating to mutual investment.</p>
+        <p>2. Disputes between the Parties regarding the interpretation or application of the provisions of this Agreement will, as far as possible, be settled through diplomatic channels.</p>
+        <p>3. If the dispute cannot be resolved in this way within six months from the date of notification of the dispute, it will be referred to an arbitral tribunal (or courts performing its functions) at the request of either Party.</p>
+        <p>4. The arbitral tribunal consists of three arbitrators and is created separately for each specific case as follows: within two months from the receipt of one of the Parties a written notification of the other Party about the transfer of the dispute to the arbitral tribunal, each of the Parties shall appoint one arbitrator. These two arbitrators will elect a third arbitrator, a citizen of a third state having diplomatic relations with both Parties, who, with the consent of the Parties, shall be appointed by the President of the arbitral tribunal.</p>
+        <p>5. If the arbitral tribunal is not created within four months from the receipt of a written notice of the transfer of the dispute to the arbitral tribunal, any of the Parties may, in the absence of agreement, invite the President of the International Court of Justice to make the necessary appointments. If the Chairperson is a citizen of one of the Parties or for another reason cannot perform the specified function, then his deputy will be offered to make the necessary appointments. If the Deputy President of the International Court of Justice is a citizen of one of the Parties or, for another reason, cannot fulfill the specified function, then the subsequent seniority may be proposed to a member of the International Court of Justice who is not a citizen of any of the Parties.</p>
+        <p>6. The arbitral tribunal shall establish the rules of procedure. The tribunal shall decide in accordance with the provisions of this Agreement and the generally recognized principles of international law.</p>
+        <p>7. The arbitral tribunal takes decisions by a majority vote, these decisions are final and binding on both Parties. At the request of either Party, the arbitral tribunal shall explain the reasons for its decision. Each of the Parties will bear the costs associated with the activities of the arbitrator appointed by her and her representation in the arbitration court. The costs associated with the activities of the Chairperson and other expenses of the Parties will be borne in equal shares, unless otherwise provided by the arbitral tribunal.</p>
+      </div>
+      <div type="article" num="10" title="Applicability of other regulations">
+        <p>If the provisions of the law of any of the Parties or obligations in accordance with international law, existing at present or established in the future between the Parties in addition to this Agreement, contain rules, both general and specific, giving the right to investment of investors of the other Party to a more favorable regime than provided for by this Agreement, such rules will prevail over this Agreement to the extent that they are more favorable.</p>
+      </div>
+      <div type="article" num="11" title="Consultations">
+        <p>1. Representatives of both Parties will meet as necessary to:</p>
+        <p>a) Study the application of this Agreement;</p>
+        <p>b) Exchange information on legal issues of investments and the possibility of their implementation;</p>
+        <p>c) Study other issues related to investments;</p>
+        <p>d) Consider proposals on making possible changes and additions to this Agreement.</p>
+        <p>2. If either Party offers to consult on any of the issues provided for in paragraph 1 of this article, the other Party will immediately respond. Consultations at the expert level will be held alternately in tBishkek and Dushanbe</p>
+      </div>
+      <div type="article" num="12" title="Application of the agreement">
+        <p>This Agreement will apply to all investments without exception made in the territory of one Party in accordance with its laws and investment rules of the other Party both before and after the entry into force of this Agreement.</p>
+        <p>This Agreement shall not apply to matters related to taxation.</p>
+      </div>
+      <div type="article" num="13" title="Entry into force">
+        <p>Each Party will notify the other Party in writing through diplomatic channels of the implementation of the relevant domestic procedures to ensure the entry into force of this Agreement. The Agreement shall enter into force on the date of the last notification.</p>
+      </div>
+      <div type="article" num="14" title="Duration and termination">
+        <p>1. This Agreement is concluded for a period of 10 years. If, twelve months before the expiration of this period, none of the Parties notifies the other Party in writing of its intention to terminate this Agreement, it will automatically be extended for the next five-year periods.</p>
+        <p>2. With respect to investments made prior to the date of termination of this Agreement, the provisions of Articles 1-10 shall remain in force for a further five years, calculated from the date of termination of this Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in Bishkek, January 19, 2000, in duplicate, in Kyrgyz, Tajik and Russian languages. In case of differences in the interpretation of the Kyrgyz and Tajik texts, preference is given to the text in Russian.</p>
+      <p>For the Government of the Kyrgyz Republic</p>
+      <p>For the Government of the Republic of Tajikistan</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Congo, Democratic Republic of the - France BIT (1972)</name>
+    <code>T1972-2</code>
+    <partyisocode n="0">COD</partyisocode>
+    <partyisocode n="1">FRA</partyisocode>
+    <date_signed>1972-10-05</date_signed>
+    <date_into_force>1975-03-01</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type/>
+    <docreference>1029</docreference>
+    <comments/>
+    <source>http://www.droit-afrique.com/upload/doc/rdc/RDC-Convention-investissement-France.pdf</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{COD,FRA}_1972-10-05.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_OVERLAP" document-code="T2000">Cotonou Agreement (2000)</relation>
+    <relation type="IT_OVERLAP" document-code="T2009-54">EU - SADC Interim Agreement (2009)</relation>
+    <relation type="IT_OVERLAP" document-code="T2016-17">EU - SADC Economic Partnership Agreement (2016)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE FRENCH REPUBLIC AND THE GOVERNMENT OF THE REPUBLIC OF ZAIRE ON INVESTMENT PROTECTION</p>
+    </title>
+    <preamble>
+      <p>The Government of the French Republic, on the one hand, and the Government of the Republic of Zaire, of the other part,</p>
+      <p>Striving to intensify economic cooperation between the two countries;</p>
+      <p>In order for the purpose of protecting and promoting investments;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Convention, the term "investment" includes all categories of goods including but not limited to:</p>
+        <p>- movable and immovable property as well as any other rights in rem such as mortgages, liens, etc., acquired or constituted in accordance with the legislation of the country in which the investment;</p>
+        <p>- The rights of participation in companies and other kinds of participation;</p>
+        <p>- industrial property rights, patents, trademarks, as well as goodwill intangibles;</p>
+        <p>- business concessions granted by a public authority, including concessions to search and exploitation of minerals;</p>
+        <p>- all claims relating to goods and rights and benefits mentioned above relating thereto.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Investments belonging to nationals and companies or other legal persons of one of the Contracting States and located in the territory of the other State shall be accorded by the latter State, fair and equitable treatment, both as regards the exercise of professional and economic activities associated with such investments by the administration, enjoyment and the use of such investments.</p>
+        <p>Each Contracting State shall in any event such investments to the same security and protection as it accords to its own nationals.</p>
+        <p>Trade and economic activities referred to in paragraph 1 above shall be exercised in conformity with the laws of the host country.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Investments made in the territory of one of the Contracting States by nationals, companies or other legal persons of the other State may not be the object of expropriation except in the public interest.</p>
+        <p>On the other hand, any measures of expropriation, nationalization or direct or indirect dispossession which may be taken in respect of such investments shall be neither discriminatory nor contrary to any specific undertaking. They shall give rise to the payment of fair compensation, the amount of which shall correspond to the value of the assets expropriated, nationalized or otherwise disposed of on the date of expropriation, nationalization or disposal.</p>
+        <p>The compensation shall be determined by agreement in its Rules and Regulation of amount prior to the date of transfer of ownership.</p>
+      </div>
+      <div type="article" num="4">
+        <p>Each Contracting State shall guarantee to nationals and companies or other legal persons of the other Contracting State, the free transfer of:</p>
+        <p>- of the capital invested, provided that the investment has been made in accordance with the applicable local regulations at the time of the creation of the investment;</p>
+        <p>- interests, dividends, royalties and other revenues derived from the investment;</p>
+        <p>- Compensation of expropriation, nationalization or dispossession other provided for in article 3 above.</p>
+      </div>
+      <div type="article" num="5">
+        <p>If one of the Contracting States by virtue of a guarantee given in respect of an investment made in the territory of the other Contracting State makes payment, to its own nationals or companies or other legal persons, it is subrogated into the rights and claims of the said nationals, companies or other legal persons. the rights of subrogation shall also apply to the transfer of rights referred to in article 4 above.</p>
+      </div>
+      <div type="article" num="6">
+        <p>In the absence of commitments entered into by interested parties with the approval of the competent authorities of the Contracting State in whose territory the investment transfers referred to in Articles 4 and 5 above shall be effected without undue delay, at the official rate of exchange or, where appropriate, financial, from the day of the transfer, in accordance with the procedure in force in the territory of the Contracting State, and in accordance with the rules and practices authorized exchange rate by the International Monetary Fund.</p>
+      </div>
+      <div type="article" num="7">
+        <p>The legal and natural persons who are nationals of either party shall not be subjected in the territory of the other party to the rights, taxes and contributions of any description, other or higher than those imposed on natural and legal persons who are nationals of that Party in the same circumstances. This provision does not obstruct the granting by each Government to its own nationals to specific advantages preferential investment, in so far as these are not liable to distort the market conditions.</p>
+      </div>
+      <div type="article" num="8">
+        <p>For the matters covered by this Convention, investments of nationals and companies or other legal persons of one of the Contracting States shall enjoy all the provisions that are more favourable than those of this agreement which may arise as a result of an existing or future legislation of the other Contracting State.</p>
+        <p>For the matters covered by this Agreement other than those referred to in Article 7, investments of nationals and companies or other legal persons of one of the Contracting States equally benefit of all provisions more favourable than those of this agreement which may arise from international obligations already undertaken or which may be undertaken by that other State with the first contracting State or with third States.</p>
+      </div>
+      <div type="article" num="9">
+        <p>The agreements relating to investment to be made in the territory of one of the Contracting States by nationals, companies or other legal persons of the other Contracting State, must include a clause providing for disputes relating to these investments should be submitted, where a mutual agreement should take place as soon as possible, the International Centre for Settlement of Investment Disputes (ICSID) for settlement by arbitration under the Convention on the Settlement of Investment Disputes between States and Nationals of Other States.</p>
+      </div>
+      <div type="article" num="10">
+        <p>Any dispute concerning the interpretation or application of the present Agreement, which cannot be settled within a period of six months by negotiation between the Contracting States shall be submitted, at the request of either State, to an arbitral tribunal of three members. Each State shall appoint an arbitrator. The two arbitrators appointed shall appoint the Umpire who shall be a national of a third State.</p>
+        <p>If a State which has not appointed its arbitrator and has not followed the invitation of the other State, within two months of such appointment, the arbitrator shall be appointed upon the request of that State, by the President of the International Court of Justice.</p>
+        <p>If the two arbitrators cannot reach an agreement within two months after their appointment, at the choice of an umpire, the latter shall be appointed at the request of one of the States, by the President of the International Court of Justice.</p>
+        <p>If in the cases provided for in the second and third paragraphs of this article, the President of the International Court of Justice is prevented or if he is a national of one of the two States, the appointments shall be made by the Vice-President. if the latter is prevented or if he is a national of one of the two States, the appointment shall be made by the most senior member of the Court who is not a national of either of the two States.</p>
+        <p>Unless the Contracting States agree otherwise, the tribunal shall determine its own procedure.</p>
+        <p>The decisions of the Tribunal shall be binding on the Contracting States.</p>
+      </div>
+      <div type="article" num="11">
+        <p>This agreement is concluded for a period of ten years and may be reappointed for the same period, unless terminated in writing by one of the two Parties one year before the expiry of each period.</p>
+        <p>The provisions of this Agreement shall continue to apply for a period of ten years from the date of its termination in respect of investments made prior to that date.</p>
+      </div>
+      <div type="article" num="12">
+        <p>This Agreement shall be approved in accordance with the constitutional procedures applicable for each of the two States.</p>
+        <p>It shall enter into force on the first day of the month following the exchange of notifications recognizing that both parties, have complied with those provisions.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>For the Government of the French Republic. </p>
+      <p>Val&#xE9;ry Giscard d'Estaing. </p>
+      <p>For the Government of the Republic of Zaire. </p>
+      <p>Baruti Na Ndwale.</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Malaysia - Papua New Guinea BIT (1992)</name>
+    <code>T1992-108</code>
+    <partyisocode n="0">MYS</partyisocode>
+    <partyisocode n="1">PNG</partyisocode>
+    <date_signed>1992-10-27</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>2473</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{MYS,PNG}_1992-10-27.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main/>
+</treaty>

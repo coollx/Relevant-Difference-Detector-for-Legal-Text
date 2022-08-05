@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Kenya - Singapore BIT (2018)</name>
+    <code>T2018-45</code>
+    <partyisocode n="0">KEN</partyisocode>
+    <partyisocode n="1">SGP</partyisocode>
+    <date_signed>2018-06-12</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <comments/>
+    <source>https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2018/06/Singapore-and-Kenya-sign-bilateral-investment-treaty-and-agreement-for-avoidance-of-double-taxation-/press-release-on-signing-of-kenya-singapore-bit-and-dta-v6.pdf</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+  </meta>
+  <main/>
+</treaty>

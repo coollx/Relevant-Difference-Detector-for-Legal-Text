@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Jordan - Switzerland BIT (1976)</name>
+    <code>T1976-2</code>
+    <partyisocode n="0">CHE</partyisocode>
+    <partyisocode n="1">JOR</partyisocode>
+    <date_signed>1976-11-11</date_signed>
+    <date_into_force>1977-03-02</date_into_force>
+    <date_terminated>2001-12-11</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>2184</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{CHE,JOR}_1976-11-11.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_REPLACED_BY" document-code="T2001-67">Jordan - Switzerland BIT (2001)</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-110">EFTA - Jordan FTA (2001)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Convention between the Swiss Confederation and the Hashemite Kingdom of Jordan on the Encouragement and Mutual Protection of Investments.</p>
+    </title>
+    <preamble>
+      <p>The Government of the Hashemite Kingdom of Jordan and the Swiss Federal Council,</p>
+      <p>Desirous to strengthening the economic co-operation between both States,</p>
+      <p>Intending to create favourable conditions for capital investments in both States and to intensify the co-operation between the private and public companies of both States in the Field of technical science and of productivity,</p>
+      <p>Recognizing the need to protect investments by nationals and companies of both States and to stimulates the flow of capital with a view to the economic prosperity of both States.</p>
+      <p>Have agreed as follows:-</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Promotion, Admission">
+        <p>Each Contracting Party shall in its territory promote as far as possible investments by nationals or companies of the other Contracting Party and admit such investments in convertible foreign currency and in accordance with its legislation and rules and regulation framed thereunder. However, either Contracting Party may refuse entry or employment permits for security reasons.</p>
+      </div>
+      <div type="article" num="2" title="Protection, Treatment, Customs Union">
+        <p>(1) Each Contracting Party shall protect within its territory investments made in accordance with its legislation by nationals or companies of the other Contracting Party and shall not impair by unreasonable or discriminatory measures the management, maintenance, use. Enjoyment, extension, selling and, should it so happen, liquidation of such investments, In particular, each Contracting Party shall endeavour to grant the necessary permits in connection with such investments and with the carrying out of contracts of license and technical, commercial or administrative assistance as well as with the activities of consultants and other qualified persons of foreign nationality.</p>
+        <p>(2) Each Contracting Party shall in particular ensure fair and equitable within its territory to the investments of the nationals or companies of the other Contracting Party. This treatment shall be at least equal to that granted by each Contracting Party to investments made within its territory by its own nationals or companies or nationals or companies of the most favoured nation, if the latter is more favourable</p>
+        <p>(3) The most-favoured-nation treatment shall not apply to privileges and immunities which either Contracting Party accords to nationals or companies of a Third State because of its membership in, or association with, a customs union, a common market, a free trade area or other forms of economic unities.</p>
+      </div>
+      <div type="article" num="3" title="Free Transfer">
+        <p>Each Contracting Party in the territory of which investments have been made by nationals or companies of the other Contracting Party shall grant those nationals or companies the free transfer:</p>
+        <p>(a) Of interests, dividends, benefits and other current returns:</p>
+        <p>(b) Of amortisation and contractual repayments;</p>
+        <p>(c) Of amounts assigned to cover expenses relating to the management of the investment;</p>
+        <p>(d) Of royalties and other payments deriving from rights of license and commercial, administrative or technical assistance;</p>
+        <p>(e) Of additional contributions of capital necessary for the maintenance or development of the investment;</p>
+        <p>(f) Of the proceeds or selling and of partial or total liquidation of capital, including possible increment values.</p>
+      </div>
+      <div type="article" num="4" title="Dispossession, Compensation">
+        <p>Neither of the Contracting Parties shall take measures of expropriation, nationalization or dispossession, either direct or indirect, against investments belonging to nationals or companies of the other Contracting Party, unless the measures are taken in the public interest and under due process of law and provided that provisions be made for effective and adequate compensation according to international law. The amount of compensation, which shall have been fixed at the time of expropriation, nationalization or dispossession, shall be settled in convertible foreign currency and paid without undue delay to the person entitled thereto, whichever shall be its place of domicile or residence,</p>
+      </div>
+      <div type="article" num="5" title="Pre-agreement Investments">
+        <p>The present Agreement shall also apply to investments in the territory of a Contracting Party made in accordance with its legislation prior to the entry into force of this Agreement by nationals or companies of the other Contracting Party, provided that such investments were made in convertible foreign currency and, with respect to Jordan, through its Central Bank.</p>
+      </div>
+      <div type="article" num="6" title="More Favourable Provisions">
+        <p>Provisions more favourable than those of this Agreement which have been agreed upon by either of the Contracting Parties with nationals or companies of the other Contracting Party are reserved.</p>
+      </div>
+      <div type="article" num="7" title="Principle of Subrogation">
+        <p>Where one Contracting Party has granted any financial security against non-commercial risks in respect of an investment by a national or company in the territory of the other Contracting Party and payment has been made by the first Contracting Party to its own national or company, the other contracting party shall recognize the rights of the first Contracting Party by virtue of the principle of subrogation to the rights of the investor.</p>
+      </div>
+      <div type="article" num="8" title="Definitions">
+        <p>For the purpose of this Agreement:</p>
+        <p>(a) "Nationals" are physical persons who, according to the law of each Contracting Party, are considered as citizens of that State.</p>
+        <p>(b) "Companies" are: with respect to the Swiss Confederation, Companies, institutions or foundations with legal personality incorporated under Swiss law, as well as partnership firms or limited partnerships and other associations without legal personality recognized under Swiss law or in Swiss nationals have directly or indirectly a substantial interests; with respect to the Hashemite Kingdom of Jordan, companies, institutions or foundations with legal personality, as well as partnership firms or limited partnership and other associations without legal personality recognized under Jordanian law or in which Jordanian nationals have directly or indirectly a substantial interest.aa) With respect to the Swiss Confederation, Companies, institutions or foundations with legal personality incorporated under Swiss law, as well as partnership firms or limited partnerships and other associations without legal personality recognized under Swiss law or in Swiss nationals have directly or indirectly a substantial interests;</p>
+        <p>bb) With respect to the Hashemite Kingdom of Jordan, companies, institutions or foundations with legal personality, as well as partnership firms or limited partnership and other associations without legal personality recognized under Jordanian law or in which Jordanian nationals have directly or indirectly a substantial interest.</p>
+        <p>c) The term "investment" shall comprise every kind of asset and more particularly, though not exclusively: Movable and immovable property as well as any other rights in rem, such as mortgages, lines, pledges, usufructs, and similar rights; shares or other kinds of interest in companies; titles to money or to any performance having an economic value; copyrights, industrial property rights (so as patents for inventions, trademarks, industrial designs), Know-how, trade-names and goodwill;aa) Movable and immovable property as well as any other rights in rem, such as mortgages, lines, pledges, usufructs, and similar rights;</p>
+        <p>bb) Shares or other kinds of interest in companies;</p>
+        <p>cc) Titles to money or to any performance having an economic value;</p>
+        <p>dd) Copyrights, industrial property rights (so as patents for inventions, trademarks, industrial designs),</p>
+        <p>Know-how, trade-names and goodwill;</p>
+        <p>ee) Business concessions under public law, including concessions to search for, extract or exploit natural resources.</p>
+        <p>(d) The term "returns" shall mean the amount yielded by an investment as net profit or interest for a specified period.</p>
+      </div>
+      <div type="article" num="9" title="Arbitration">
+        <p>(1) Disputes as to interpretation or application of the provisions of this Agreement shall be settled by means of diplomatic negotiations.</p>
+        <p>(2) If both Contracting Parties cannot reach an agreement within six months, the dispute shall, upon the request of either Contracting Party, be submitted to an arbitral tribunal of three members. Each Contracting Party shall appoint one arbitrator and these two arbitrators shall nominate a chairman who shall be a national of a third state.</p>
+        <p>(3) If either Contracting Party has not appointed its arbitrator and has not followed the invitation of the other Contracting Party to make that appointment within two months, the arbitrator shall be appointed upon the request of that Contracting Party by the president of the International Court of Justice.</p>
+        <p>(4) If both arbitratocannot come to an agreement about the choice of the chairman within two months after their appointment, the latter shall be appointed upon the request of either Contracting Party by the President of the International Court of Justice.</p>
+        <p>(5) If, in the cases specified under paragraphs and 4 of this article, the President of the International Court of Justice is prevented from carrying out the said function or if he is a national of either contracting party, the appointment shall be made by the Vice-President, and if the latter is prevented or if he is a national or either Contracting Party, the appointment shall be made by the next senior Judge of the Court who is not national of either Contracting Party.</p>
+        <p>(6) Subject to other provisions made by the Contracting Parties, the tribunal shall determine its procedure.</p>
+        <p>(7) The decision of the tribunal are binding for each contracting party.</p>
+      </div>
+      <div type="article" num="10" title="Entering Into Force, Renewal, Termination">
+        <p>(1) This Agreement shall come into force on the day when both Governments will have notified each other that they have complied with the constitutional requirements for the conclusion and entry into force of international agreements and shall remain binding for a period of five years. Unless written notice of termination six months before the expiration of this period is given, it shall be considered as renewed for a period of two years and so forth.</p>
+        <p>(2) In case of official notice as to termination of the present Agreement, the provisions of articles 1 to 9 shall continue to be effective for a further period of ten years for investments made before official notice was given.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Berne, on November 11-1976, in two originals, in English and two originals in French. However, for legal purposes the English version of the Agreement will constitute the final reference.</p>
+    </conclusion>
+  </main>
+</treaty>

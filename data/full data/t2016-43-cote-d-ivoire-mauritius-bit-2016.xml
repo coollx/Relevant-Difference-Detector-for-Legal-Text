@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>C&#xF4;te d&#x2019;Ivoire - Mauritius BIT (2016)</name>
+    <code>T2016-43</code>
+    <partyisocode n="0">CIV</partyisocode>
+    <partyisocode n="1">MUS</partyisocode>
+    <date_signed>2016-04-20</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+  </meta>
+  <main/>
+</treaty>

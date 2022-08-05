@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Australia - Indonesia BIT (1992)</name>
+    <code>T1992-12</code>
+    <partyisocode n="0">AUS</partyisocode>
+    <partyisocode n="1">IDN</partyisocode>
+    <date_signed>1992-11-17</date_signed>
+    <date_into_force>1993-07-29</date_into_force>
+    <date_terminated>2020-08-06</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Terminated by consent</termination_type>
+    <docreference>210</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{AUS,IDN}_1992-11-17.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Terminated by consent</IT_TERMINATION_TYPE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_OVERLAP" document-code="T2020-4">Regional Comprehensive Economic Partnership Agreement - RCEP (2020)</relation>
+    <relation type="IT_OVERLAP" document-code="T2009-5">ASEAN - Australia - New Zealand Free Trade Agreement (2009)</relation>
+    <relation type="IT_OVERLAP" document-code="T2019-4">Australia - Indonesia Comprehensive Economic Partnership Agreement (2019)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of Australia and the Government of the Republic of Indonesia concerning the Promotion and Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF INDONESIA (hereinafter referred to as the "Parties");</p>
+      <p>BEARING IN MIND the friendly and cooperative relations existing between the two countries and their peoples;</p>
+      <p>RECOGNISING that promoting the flow of capital for economic activity and development is important for the expansion of their economic relations and cooperation, the stimulation of their investors' business initiative and the fostering of prosperity in both countries;</p>
+      <p>INTENDING to create favourable conditions for investments by investors of one Party in the territory of the other Party on the basis of sovereign equality, non-discrimination and mutual benefit;</p>
+      <p>ACKNOWLEDGING that investments of investors of one Party in the territory of the other Party would be made within the framework of laws of the latter Party; and</p>
+      <p>RECOGNISING that pursuit of these objectives would be facilitated by a clear statement of principles and measures relating to the promotion and protection of investments;</p>
+      <p>HAVE AGREED AS FOLLOWS:</p>
+    </preamble>
+    <body>
+      <div type="article" num="I" title="Definitions">
+        <p>1. For the purposes of this Agreement:</p>
+        <p>(a) "investment" means every kind of asset owned or controlled and invested by investors of one Party and admitted by the other Party in its territory in conformity with the laws, regulations and investment policies of the latter applicable from time to time including, but not exclusively:</p>
+        <p>(i) Movable and immovable property including rights such as mortgages, liens and pledges;</p>
+        <p>(ii) Shares, stocks, bonds and debentures and any other form of participation in a company;</p>
+        <p>(iii) A loan or other claim to money or a claim to performance related to investment having economic value;</p>
+        <p>(iv) Intellectual and industrial property rights including rights with respect to copyright, patents, trade marks, trade names, industrial designs, trade secrets, know-how and goodwill;</p>
+        <p>(v) Business concessions and any other rights required to conduct economic activity and having economic value conferred by law or under a contract, including rights to engage in agriculture, forestry, fisheries and animal husbandry, to search for, extract or exploit natural resources and to manufacture, use and sell products; and</p>
+        <p>(vi) Activities associated with investments, such as the organisation and operation of business facilities, the acquisition, exercise and disposition of property rights including intellectual property rights, and the raising of funds including purchase and sale of foreign exchange;</p>
+        <p>(b) "investor" means:</p>
+        <p>(i) In respect of the Republic of Indonesia:</p>
+        <p>(A) A natural person who according to the laws of the Republic of Indonesia is an Indonesian national; and</p>
+        <p>(B) Any company with a limited liability incorporated in the territory of the Republic of Indonesia or any juridical person constituted in accordance with its laws; and</p>
+        <p>(ii) In respect of Australia:</p>
+        <p>(A) A natural person who is a citizen or permanent resident of Australia; and</p>
+        <p>(B) Any corporation, association, partnership, trust or other legally recognised entity that is duly incorporated, constituted, set up or otherwise duly organised:</p>
+        <p>i Under the law of Australia, or</p>
+        <p>ii Under the law of a third country and owned or controlled by a natural person described in paragraph (ii)(A) or by an entity described in paragraph (ii)(B)i regardless of whether or not the entity is organised for pecuniary gain, privately or otherwise owned, or organised with limited or unlimited liability;paragraph (ii)(A) or by an entity described in paragraph (ii)(B)i regardless of whether or not the entity is organised for pecuniary gain, privately or otherwise owned, or organised with limited or unlimited liability;</p>
+        <p>(c) "returns" means amounts yielded by or derived from an investment, including profits, dividends, interest, capital gains, royalty payments, fees, payments in connection with intellectual property rights, and all other lawful income;</p>
+        <p>(d) "territory":</p>
+        <p>(i) In respect of the Republic of Indonesia means the territory under the sovereignty of the Republic of Indonesia and such parts of the continental shelf and the adjacent seas over which the Republic of Indonesia has sovereignty, sovereign rights as well as other rights in accordance with the 1982 United Nations Convention on the Law of the Sea;1982 United Nations Convention on the Law of the Sea;</p>
+        <p>(ii) In respect of Australia means the territory under the sovereignty of Australia and the adjacent seas over which Australia exercises its sovereignty consistent with the 1982 United Nations Convention on the Law of the Sea, and other adjacent seas and the continental shelf over which Australia exercises sovereign rights or other rights in accordance with that Convention;</p>
+        <p>(e) "freely convertible currency" means a convertible currency as classified by the International Monetary Fund or any currency that is widely traded in international foreign exchange markets.</p>
+        <p>2. An investor shall be regarded as controlling an entity as described in paragraph 1(b)(ii)(B)ii or an investment if the investor has a substantial interest in such entity or investment. Any question arising out of this Agreement concerning the control of such an entity or investment shall be resolved to the satisfaction of the Parties.paragraph 1(b)(ii)(B)ii or an investment if the investor has a substantial interest in such entity or investment. Any question arising out of this Agreement concerning the control of such an entity or investment shall be resolved to the satisfaction of the Parties.</p>
+      </div>
+      <div type="article" num="II" title="Promotion and Protection of Investment">
+        <p>1. Each Party shall encourage and promote investments in its territory by investors of the other Party and shall, in accordance with its laws, regulations and investment policies applicable from time to time, admit investments.</p>
+        <p>2. A Party shall ensure fair and equitable treatment in its own territory to investments.</p>
+        <p>3. A Party shall, subject to its laws, accord within its territory protection and security to investments and shall not impair the management, maintenance, use, enjoyment or disposal of investments.</p>
+        <p>4. This Agreement shall not prevent an investor of one Party from taking advantage of the provisions of any applicable law, regulation or policy of the other Party which are more favourable than the provisions of this Agreement.</p>
+      </div>
+      <div type="article" num="III" title="Scope of Agreement">
+        <p>1. This Agreement shall apply to:</p>
+        <p>(a) Investments by investors of Australia in the territory of the Republic of Indonesia which have been granted admission in accordance with the Law No. 1 of 1967 concerning Foreign Investment or with any law amending or replacing it; andLaw No. 1 of 1967 concerning Foreign Investment or with any law amending or replacing it; and</p>
+        <p>(b) Investments by investors of the Republic of Indonesia in the territory of Australia whenever made.</p>
+        <p>2. Notwithstanding the provisions of paragraph 1, if a Party shall accord to a legally admitted investment of an investor of a third country any treatment, benefit or protection of a kind provided for in this Agreement, then the scope of this Agreement shall extend to investments of investors of the other Party similarly admitted.paragraph 1, if a Party shall accord to a legally admitted investment of an investor of a third country any treatment, benefit or protection of a kind provided for in this Agreement, then the scope of this Agreement shall extend to investments of investors of the other Party similarly admitted.</p>
+        <p>3. Where an investor of a Party is owned or controlled by a citizen or a company of any third country, the Parties may consult with a view to deciding not to extend the rights and benefits of this Agreement to such investor.</p>
+        <p>4. An investor duly organised under the law of a Party shall not be treated as an investor of the other Party, but any investments in that first investor by investors of that other Party shall be protected by this Agreement.</p>
+        <p>5. This Agreement shall not apply to an investor organised under the law of a third country within the meaning of paragraph 1(b)(ii)(B)ii of Article I where the provisions of an investment protection agreement with that country have already been invoked in respect of the same matter.paragraph 1(b)(ii)(B)ii of Article I where the provisions of an investment protection agreement with that country have already been invoked in respect of the same matter.</p>
+        <p>6. This Agreement shall not apply to a natural person who is an investor of a Party where:</p>
+        <p>(a) The provisions of an investment protection agreement between the other Party and a third country of which that person is a citizen have already been invoked in respect of the same matter; or</p>
+        <p>(b) The person is a citizen or national of the other Party according to its laws.</p>
+      </div>
+      <div type="article" num="IV" title="Most Favoured Nation Provisions">
+        <p>1. Each Party shall at all times treat investments or returns in its territory on a basis no less favourable than that accorded to investments or returns of investors of any third country, provided that a Party shall not be obliged to extend to investments or returns any treatment, preference or privilege resulting from:</p>
+        <p>(a) Any customs union, economic union, free trade area, regional economic integration agreement, or cross-border trade arrangement or similar economic agreement to which the Party belongs; or</p>
+        <p>(b) A double taxation agreement or arrangement with a third country.</p>
+        <p>2. Neither Party shall in its territory subject investors of the other Party, as regards their management, use, enjoyment or disposal of investments or returns, or any other activities associated with investments, to treatment less favourable than that which it accords to investors of any third country.</p>
+      </div>
+      <div type="article" num="V" title="Compensation for Losses">
+        <p>When a Party, in respect of investments in its territory, adopts any measures relating to losses owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection, riot or other similar event in its territory, it shall accord to investors of the other Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which it accords to investors of any third country.</p>
+      </div>
+      <div type="article" num="VI" title="Expropriation">
+        <p>1. A Party shall not nationalise, expropriate or subject to measures having effect equivalent to nationalisation or expropriation (hereinafter referred to as "expropriation") the investments of investors of the other Party unless the following conditions are complied with:</p>
+        <p>(a) The expropriation is for a public purpose related to the internal needs of the Party and under due process of law;</p>
+        <p>(b) The expropriation is non-discriminatory; and</p>
+        <p>(c) The expropriation is accompanied by the payment of prompt, adequate and effective compensation.</p>
+        <p>2. The compensation referred to in paragraph 1 shall be computed on the basis of the market value of the investment immediately before the expropriation or impending expropriation became public knowledge. Where that value cannot be readily ascertained, the compensation shall be determined in accordance with generally recognised principles of valuation and equitable principles taking into account the capital invested, depreciation, capital already repatriated, replacement value, currency exchange rate movements and other relevant factors.paragraph 1 shall be computed on the basis of the market value of the investment immediately before the expropriation or impending expropriation became public knowledge. Where that value cannot be readily ascertained, the compensation shall be determined in accordance with generally recognised principles of valuation and equitable principles taking into account the capital invested, depreciation, capital already repatriated, replacement value, currency exchange rate movements and other relevant factors.</p>
+        <p>3. The compensation shall be paid without undue delay, shall include interest at an agreed commercially reasonable rate calculated from the date the measures were taken to the date of payment and shall be freely transferable between the territories of the Parties. The compensation shall be payable either in the currency in which the investment was originally made or, if requested by the investor, in any other freely convertible currency.</p>
+      </div>
+      <div type="article" num="VII" title="Transfer of Investments and Returns">
+        <p>1. Each Party, in respect of funds related to investments in its territory of investors of the other Party, and subject to its right in exceptional balance of payments difficulties to exercise equitably and in good faith powers conferred by its laws and regulations, shall permit the transfer freely and without unreasonable delay of such funds including:</p>
+        <p>(a) Capital and additional capital amounts used to establish, maintain or expand investments;</p>
+        <p>(b) Returns;</p>
+        <p>(c) Repayments on any loan and interest thereon;</p>
+        <p>(d) Proceeds from sales of shares of investors;</p>
+        <p>(e) Compensation for losses referred to in Article V;Article V;</p>
+        <p>(f) Proceeds received by an investor in case of sale of an asset or liquidation; and</p>
+        <p>(g) The earnings and other remuneration of personnel engaged from abroad who are allowed to work in connection with investment in the territory of the other Party.</p>
+        <p>2. To the extent that an investor of a Party has not made another arrangement with the appropriate authorities of the other Party in whose territory the investment is situated, currency transfers made pursuant to paragraph 1 shall be permitted in the currency of the original investment or any other freely convertible currency. Such transfers shall be made at the prevailing rate of exchange on the date of transfer with respect to current transactions in the currency to be transferred.paragraph 1 shall be permitted in the currency of the original investment or any other freely convertible currency. Such transfers shall be made at the prevailing rate of exchange on the date of transfer with respect to current transactions in the currency to be transferred.</p>
+        <p>3. Consistently with the preceding paragraphs, each Party may maintain laws and regulations requiring reports of currency transfers.</p>
+        <p>4. A Party may protect the rights of creditors, or ensure the satisfaction of judgments in adjudicatory proceedings, through the equitable, non-discriminatory and good faith application of its law.</p>
+        <p>5. Returns that are not transferred but are invested or reinvested in accordance with the laws and regulations and investment policies of the Parties shall be treated as investments and any alteration of the form in which assets are invested or reinvested shall not affect their character as investments.</p>
+      </div>
+      <div type="article" num="VIII" title="Subrogation">
+        <p>1. If a Party or an agency of a Party makes a payment to an investor of that Party under a guarantee, a contract of insurance or other form of indemnity it has granted in respect of an investment, the other Party shall recognise the transfer of any right or title in respect of such investment. The subrogated right or claim shall not be greater than the original right or claim of the investor.</p>
+        <p>2. Where a Party has made a payment to its investor and has taken over rights and claims of the investor, that investor shall not, unless authorised to act on behalf of the Party making the payment, pursue those rights and claims against the other Party.</p>
+      </div>
+      <div type="article" num="IX" title="Entry and Sojourn of Personnel">
+        <p>1. Each Party shall, subject to its laws and regulations relating to the entry and sojourn of non-citizens, permit natural persons who are investors of the other Party and personnel employed by investors of that other Party to enter and remain in its territory for the purpose of engaging in activities connected with investments.</p>
+        <p>2. Each Party shall, subject to its laws and regulations, permit investors of the other Party who have made investments in the territory of the first Party to employ within its territory key technical and managerial personnel of their choice.</p>
+      </div>
+      <div type="article" num="X" title="Transparency of Laws">
+        <p>Each Party shall, with a view to promoting the understanding of its laws that pertain to or affect investments in its territory by investors of the other Party, make such laws public and readily accessible.</p>
+      </div>
+      <div type="article" num="XI" title="Settlement of Disputes between a Party and an Investor of the other Party">
+        <p>1. In the event of a dispute between a Party and an investor of the other Party relating to an investment, the parties to the dispute shall initially seek to resolve the dispute by consultations and negotiations.</p>
+        <p>2. In the event that such a dispute cannot be settled through consultations and negotiations, the investor in question may submit the dispute, for settlement:</p>
+        <p>(a) In accordance with the laws and regulations of the Party which has admitted the investment to the competent judicial or administrative bodies of that Party; or</p>
+        <p>(b) To the International Centre for the Settlement of Investment Disputes ("the Centre") for the application of the conciliation or arbitration procedures provided by the 1965 Convention on the Settlement of Investment Disputes between States and Nationals of Other States ("the Convention").1965 Convention on the Settlement of Investment Disputes between States and Nationals of Other States ("the Convention").</p>
+        <p>3. If both Parties are not at the time the dispute arises party to the Convention, the dispute may be submitted to such procedures for settlement as may be agreed between the parties to the dispute. If no such procedures have been agreed within a three month period from written notification of the claim, the parties to the dispute shall be bound to submit it to arbitration under the Arbitration Rules of the United Nations Commission on International Trade Law as then in force. The arbitral tribunal shall have the power to award interest. The parties to the dispute may agree in writing to modify those Rules.Arbitration Rules of the United Nations Commission on International Trade Law as then in force. The arbitral tribunal shall have the power to award interest. The parties to the dispute may agree in writing to modify those Rules.</p>
+        <p>4. Where a dispute is referred to the Centre pursuant to sub-paragraph 2(b):sub-paragraph 2(b):</p>
+        <p>(a) Where that action is taken by an investor of one Party, the other Party shall consent in writing to the submission of the dispute to the Centre within forty-five days of receiving such a request from the investor; or</p>
+        <p>(b) If the parties to the dispute cannot agree whether conciliation or arbitration is the more appropriate procedure, the investor affected shall have the right to choose.</p>
+        <p>5. Once an action referred to in paragraph 2 has been taken, neither Party shall pursue the dispute through diplomatic channels unless:paragraph 2 has been taken, neither Party shall pursue the dispute through diplomatic channels unless:</p>
+        <p>(a) The relevant judicial or administrative body, the arbitral authority or other body, as the case may be, has decided that it has no jurisdiction in relation to the dispute in question; or</p>
+        <p>(b) The other Party has failed to abide by or comply with any judgment, award, order or other determination made by the body in question.</p>
+        <p>6. In any proceeding involving a dispute relating to an investment, a Party shall not assert, as a defence, counter-claim, right of set-off or otherwise, that the investor concerned has received or will receive, pursuant to an insurance or guarantee contract, indemnification or other compensation for all or part of any alleged loss.</p>
+      </div>
+      <div type="article" num="XII" title="Settlement of Disputes between the Parties Concerning the Interpretation and Application of the Agreement">
+        <p>1. Disputes between the Parties concerning the interpretation or application of this Agreement should, if possible, be settled through diplomatic channels.</p>
+        <p>2. If a dispute between the Parties cannot thus be settled within six months, it shall upon the written request of either Party be submitted to an arbitral tribunal.</p>
+        <p>3. Such an arbitral tribunal shall be constituted for each individual case in the following way:</p>
+        <p>(a) Within two months of the receipt of the request for arbitration, each Party shall appoint one member of the tribunal. Those two members shall then select a national of a third country who on approval by the two Parties shall be appointed Chairman of the tribunal. The Chairman shall be appointed within two months from the date of appointment of the other two members;</p>
+        <p>(b) In case any arbitrator appointed as provided for in this Article shall resign or become unable to act, a successor arbitrator shall be appointed in the same manner as prescribed for the appointment of the original arbitrator and the successor shall have all the powers and duties of the original arbitrator.</p>
+        <p>4. If within the period specified in paragraph 3 the necessary appointments have not been made, either Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Party or is unable to discharge the said function, the Vice-President or the next most senior Member who is not disqualified on such a ground shall make the necessary appointments.paragraph 3 the necessary appointments have not been made, either Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Party or is unable to discharge the said function, the Vice-President or the next most senior Member who is not disqualified on such a ground shall make the necessary appointments.</p>
+        <p>5. The arbitral tribunal shall decide all questions relating to its competence and shall, subject to any agreement between the Parties, determine its own procedure. It shall reach its award by majority vote taking into account the provisions of this Agreement, the international agreements both Parties have concluded and the generally recognised principles of international law. The arbitral tribunal shall afford to the Parties a fair hearing. It may render an award on the default of a Party. Any award shall be rendered in writing and shall state its legal basis. An award shall be final and binding on the Parties.</p>
+        <p>6. Each Party shall bear the costs of its appointed arbitrator. The cost of the Chairman of the tribunal and other expenses associated with the conduct of the arbitration shall be borne in equal parts by both Parties. The arbitral tribunal may decide, however, that a higher proportion of costs shall be borne by one of the Parties.</p>
+      </div>
+      <div type="article" num="XIII" title="Settlement of Disputes between Investors of the Parties">
+        <p>1. In the event that a dispute arises between investors of the Parties, the dispute shall, if possible, be resolved through consultations and negotiations.</p>
+        <p>2. A Party shall in accordance with its law:</p>
+        <p>(a) Provide investors of the other Party who have made investments within its territory and personnel employed by them for activities associated with investments full access to its competent judicial or administrative bodies in order to afford means of asserting claims and enforcing rights in respect of disputes with its own investors;</p>
+        <p>(b) Permit its investors to select means of their choice to settle disputes relating to investments with the investors of the other Party, including arbitration conducted in a third country; and</p>
+        <p>(c) Provide for the recognition and enforcement of any resulting judgments or awards.</p>
+      </div>
+      <div type="article" num="XIV" title="Consultation and Amendment">
+        <p>1. The Parties shall consult at the request of either of them on matters concerning the interpretation or application of this Agreement.</p>
+        <p>2. This Agreement may be amended at any time by agreement of the Parties.</p>
+      </div>
+      <div type="article" num="XV" title="Entry Into Force, Duration and Termination">
+        <p>1. This Agreement shall enter into force thirty days after the date of the later notification by either Party of the fulfilment of its constitutional requirements for coming into force of the Agreement. It shall remain in force for a period of fifteen years and shall continue in force thereafter for a further period of fifteen years and so forth unless terminated by notice in writing by either Party one year before its expiration.</p>
+        <p>2. In respect of investments made prior to the date of termination of this Agreement, the provisions of the Agreement shall continue to be effective for a further period of fifteen years from the date of termination of the Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>DONE in duplicate at Jakarta this 17th day of November, 1992, in the English language.</p>
+      <p>FOR THE GOVERNMENT OF FOR THE GOVERNMENT OF AUSTRALIA:</p>
+      <p>GARETH EVANS</p>
+      <p>[Signed:]</p>
+      <p>THE REPUBLIC OF INDONESIA:</p>
+      <p>ALI ALATAS</p>
+      <p>[Signed:]</p>
+      <p>Minister for Foreign Affairs Minister for Foreign Affairs and Trade</p>
+    </conclusion>
+  </main>
+</treaty>

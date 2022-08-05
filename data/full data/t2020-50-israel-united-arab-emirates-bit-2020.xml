@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Israel - United Arab Emirates BIT (2020)</name>
+    <code>T2020-50</code>
+    <partyisocode n="0">ARE</partyisocode>
+    <partyisocode n="1">ISR</partyisocode>
+    <date_signed>2020-10-20</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <comments/>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between The Government of the State of Israel and The Government of the United Arab Emirates on Promotion and Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the State of Israel and The Government of The United Arab Emirates (hereinafter, "the Parties") </p>
+      <p>Further to the Treaty of Peace, Diplomatic Relations and Full Normalization between the United Arab Emirates and the State of Israel, signed in Washington, DC on 15 September 2020 (hereinafter, "the Peace Treaty"), and in particular Article 5 thereof and further to the Agreed Protocol signed between the Parties on 1 September 2020, in Abu Dhabi; </p>
+      <p>Recalling the agreed principles for cooperation in the sphere of finance and investment, which were annexed to the Peace Treaty, and desiring to cooperate to expeditiously deepen and broaden bilateral investment relations, recognizing the key role of concluding agreements in the sphere of finance and investment in the economic development of the Parties and the Middle East as a whole; </p>
+      <p>Determined to ensure lasting peace, stability, security and prosperity for both their States and to develop and enhance their dynamic and innovative economies; </p>
+      <p>Reaffirming their shared belief that the establishment of peace and full normalization between them can help transform the Middle East by spurring economic growth, enhancing technological innovation and forging closer people-to-people relations; </p>
+      <p>Recognizing the growing importance of foreign investments in creating, maintaining and enhancing sustainable economic growth and prosperity for both Parties; </p>
+      <p>Reaffirming their commitment to protecting investors, consumers, market integrity and financial stability, as well as maintaining all applicable regulatory standards; Confirming that any kind of investment should be made in good faith; </p>
+      <p>Acknowledging each Party's right to protect its security, safety, environment and public interests within its territory; </p>
+      <p>Recognizing that this Agreement shall not apply to the pre-establishment phase of the investment; and </p>
+      <p>Recognizing that these objectives can be achieved without relaxing health, safety and environmental measures of general application; </p>
+      <p>Have agreed as follows: </p>
+    </preamble>
+    <body>
+      <div type="section" num="A" title="Definitions">
+        <p>For the purposes of this Agreement: </p>
+        <p><b>claimant</b> means an investor of a Party that is a party to an investment dispute with the other Party; </p>
+        <p><b>covered investment </b>means, with respect to a Party, an investment: </p>
+        <p>(a) in its territory; </p>
+        <p>(b) directly or indirectly owned or controlled by an investor of the other Party; and </p>
+        <p>(c) existing on the date of entry into force of this Agreement, or made or acquired thereafter; </p>
+        <p><b>Customs Union </b>means any territory with respect to which separate tariffs or other regulations of commerce are maintained for a substantial part of the trade of such territory with other territories in accordance with the WTO Agreement. </p>
+        <p><b>disputing parties</b> means both the claimant and the respondent; </p>
+        <p><b>enterprise</b> means any legal person or any other entity duly constituted or organized under the applicable legislation, whether or not for profit, and whether private or government owned or controlled, including any corporation, trust, partnership, sole proprietorship, joint venture, association, organization or company; </p>
+        <p><b>enterprise of a Party</b> means an enterprise that is constituted or organized under the legislation of a Party and has substantial business activities in the territory of that Party; </p>
+        <p><b>existing measures </b>means measures that are in effect on the date of the entry into force of this Agreement; </p>
+        <p><b>Free Trade Agreement</b> means an agreement that has been accepted under Article XXVI or is being applied under Article XXXII or pursuant to the Protocol of Provisional Application in accordance with the WTO Agreement. </p>
+        <p><b>freely usable currency</b> means "freely usable currency" as defined under the Articles of Agreement of the International Monetary Fund; ICSID means the International Centre for Settlement of Investment Disputes; </p>
+        <p><b>ICSID Additional Facility Rules</b> means the Rules Governing the Additional Facility for the Administration of Proceedings by the Secretariat of the International Centre for Settlement of Investment Disputes; </p>
+        <p><b>ICSID Convention</b> means the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, done at Washington, March 18, 1965; </p>
+        <p><b>investment</b> means every kind of asset, made in accordance with the legislation of the Party in whose territory the investment is made, that an investor owns or controls, directly or indirectly, that has the characteristics of an investment, such as the commitment of capital or other resources, the expectation of gain or profit, and the assumption of risk. Forms that an investment may take include (1): </p>
+        <p>(a) an enterprise; </p>
+        <p>(b) shares, stock and other forms of equity participation in an enterprise; </p>
+        <p>(c) bonds, debentures and other forms of debt of an enterprise; </p>
+        <p>(d) a loan to an enterprise; </p>
+        <p>(e) futures, options and other derivatives; </p>
+        <p>(f) rights under contract, including turnkey, construction, management, production, or revenue-sharing contracts; </p>
+        <p>(g) claims to money and to any performance under contract having a financial value; </p>
+        <p>(h) intellectual property rights and goodwill; </p>
+        <p>(i) concessions, licenses, authorizations, permits and similar rights conferred by legislation or under contracts, excluding those for the exploration and exploitation of natural resources (2); and </p>
+        <p>(j) any other movable and immovable property, and any related property rights, such as leases, mortgages, liens and pledges; </p>
+        <p>For greater certainty, investment shall not include: </p>
+        <p>(a) public debt; </p>
+        <p>(b) claims to money that arise solely from commercial contracts for the sale of goods or services by a natural person or enterprise in the territory of a Party to a natural person or enterprise in the territory of the other Party; </p>
+        <p>(c) the extension of credit, including bank loans, in connection with a commercial transaction, such as trade financing; and </p>
+        <p>(d) an order or judgment entered in a judicial or administrative action;</p>
+        <p><b> investor of a Party </b>means: </p>
+        <p>a. with respect to The United Arab Emirates: </p>
+        <p>i. an enterprise of The United Arab Emirates; or </p>
+        <p>ii. a natural person who is a national of The United Arab Emirates and who is not also a national or a permanent resident of the State of Israel; </p>
+        <p>b. with respect to the State of Israel: </p>
+        <p>i. an enterprise of the State of Israel; or </p>
+        <p>ii. a natural person who is a national or permanent resident of the State of Israel and who is not also a national of The United Arab Emirates; that has made investments in the Territory of the other Party; </p>
+        <p><b>legislation</b> with respect to a Party means the laws, regulations and administrative orders of that Party; </p>
+        <p><b>measures</b> includes laws, regulations, rules, procedures, decisions, administrative actions or practices; </p>
+        <p><b>New York Convention </b>means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, done at New York, June 10, 1958; </p>
+        <p><b>respondent</b> means the Party that is a party to an investment dispute; </p>
+        <p><b>Secretary-General</b> means the Secretary-General of ICSID; </p>
+        <p><b>Territory</b> means: </p>
+        <p>(a) with respect to the State of Israel: the territory of the State of Israel including the territorial sea as well as the continental shelf and the exclusive economic zone, over which the State of Israel exercises sovereignty, sovereign rights or jurisdiction in accordance with international law and the laws of the State of Israel; </p>
+        <p>(b) With respect to The United Arab Emirates, the term "United Arab Emirates" when used in a geographical sense, means the territory of the United Arab Emirates which is under its sovereignty as well as the area outside the territorial water, airspace and submarine areas over which the United Arab Emirates exercises, in accordance of its international law and the law of United Arab Emirates sovereign and jurisdictional rights including the Exclusive Economic Zone and the mainland under its jurisdiction in respect of any activity carried on in its water, sea bed, subsoil, in connection with the exploration for or the exploitation of natural resources by virtue of its law and international law. </p>
+        <p><b>TRIPS Agreement </b>means the Agreement on Trade-Related Aspects of Intellectual Property Rights in Annex 1C to the WTO Agreement; </p>
+        <p><b>UNCITRAL Arbitration Rules</b> means the arbitration rules of the United Nations Commission on International Trade Law, as revised in 2010 or as subsequently agreed between the Parties; </p>
+        <p><b>WTO Agreement </b>means the Marrakesh Agreement establishing the World Trade Organization done on April 15, 1994.</p>
+        <div type="foot_note">(1) An investment includes the amounts yielded by an investment, in particular, profit, interest, capital gains, dividends, royalties and fees. A change in the form in which assets are invested does not affect their character as an investment, provided that the change is effected in accordance with the applicable legislation of the Party in whose territory the investment is made.</div>
+        <div type="foot_note">(2) For greater certainty, the Parties confirm their understanding that the term natural resources does not telate to renewable energy.</div>
+      </div>
+      <div type="section" num="B" title="Investment Promotion and Protection">
+        <div type="article" num="1" title="Scope and Coverage">
+          <p>1. This Agreement shall apply to measures adopted or maintained by a Party relating to:</p>
+          <p>(a) investors of the other Party; and </p>
+          <p>(b) covered investments. </p>
+          <p>2. For greater certainty, this Agreement shall not apply to claims arising out of events which occurred prior to the entry into force of this Agreement. </p>
+        </div>
+        <div type="article" num="2" title="Treatment of Investors and Investments">
+          <p>1.&nbsp;Subject to its legislation, each Party shall, in its territory, encourage and endeavor to create favorable conditions for investments by investors of the other Party and shall admit such investments. </p>
+          <p>2. Each Party shall accord in its territory to covered investments of the other Party and to investors with respect to their covered investments, fair and equitable treatment and full protection and security in accordance with paragraphs 3 through 7. </p>
+          <p>3. A Party breaches the obligation of fair and equitable treatment referenced in paragraph 2 if a measure or series of measures constitutes: </p>
+          <p>(a) denial of justice in criminal, civil or administrative proceedings; </p>
+          <p>(b) fundamental breach of due process, in judicial and administrative proceedings; </p>
+          <p>(c) manifest arbitrariness; </p>
+          <p>(d) targeted discrimination on manifestly wrongful grounds, such as gender, race or religious belief. </p>
+          <p>4. For greater certainty, "Full protection and security" refers to the Party's obligations relating to physical security of investors and covered investments. </p>
+          <p>5. For greater certainty, the "Full protection and security" standard does not imply, in any case, a better police protection than that accorded to nationals of the Party where the investment has been made. </p>
+          <p>6. For greater certainty, "Full protection and security", should not require in any case the treatment in addition to or beyond that which is required by applicable customary international law regarding treatment of aliens. </p>
+          <p>7. For greater certainty, a breach of another provision of this Agreement, or of any other international agreement, does not constitute a breach of this Article. </p>
+        </div>
+        <div type="article" num="3" title="National Treatment">
+          <p>1. Each Party shall accord to investors of the other Party treatment no less favourable than that it accords, in like circumstances, to its own investors with respect to the management, maintenance, use, enjoyment or disposal of investments in its territory. </p>
+          <p>2. Each Party shall accord to covered investments treatment no less favourable than that it accords, in like circumstances, to investments in its territory of its own investors with respect to the management, maintenance, use, enjoyment or disposal of investments. </p>
+        </div>
+        <div type="article" num="4" title="Most-Favoured-Nation Treatment">
+          <p>1. Each Party shall accord to investors of the other Party treatment no less favourable than that it accords, in like circumstances, to investors of any non-Party with respect to the management, maintenance, use, enjoyment or disposal of investments in its territory. </p>
+          <p>2. Each Party shall accord to covered investments treatment no less favourable than that it accords, in like circumstances, to investments in its territory of investors of any non-Party with respect to the management, maintenance, use, enjoyment or disposal of investments. </p>
+          <p>3. For greater certainty, the treatment referred to in this Article (MFN) does not encompass definitions provided for in other international treaties or any investor-state dispute settlement procedures or mechanisms, including those set out in Section C&nbsp;(Investor-State Dispute Settlement).</p>
+          <p>4. For greater certainty, substantive obligations in other international investment treaties and other trade agreements do not in themselves constitute "treatment", and thus cannot give rise to a breach of this Article, absent measures adopted or maintained by a Party pursuant to those obligations. </p>
+          <div type="foot_note">(3) For greater certainty, a determination of whether an investment or an investor is in like circumstances for the purposes of paragraphs 1 and 2 shall be made based on an assessment of all relevant circumstances related to the investor or the investment, including the business sector in which the investor operates, character of the measure, its nature, purpose, duration and rationale</div>
+        </div>
+        <div type="article" num="5" title="Losses and Compensation">
+          <p>1. Notwithstanding Article 13.2(b) (Non-Conforming Measures), each Party shall accord to investors of the other Party that have suffered loss or damage relating to their investments in the territory of the former Party due to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection, riot or other such similar activity in the territory of that former Party, treatment, as regards restitution, indemnification, compensation or any other settlement, that is no less favourable than that which it accords to its own investors or investors of a non- Party. </p>
+          <p>2. Without prejudice to paragraph 1, if an investor, suffers a loss in the territory of the other Party resulting from: </p>
+          <p>(a) requisitioning of its property by the Party's forces or authorities; or </p>
+          <p>(b) destruction of its property by the Party's forces or authorities, which was not caused in combat action or was not required by the necessity of the situation, the other Party shall provide the investor with restitution or adequate compensation for such loss. </p>
+          <p>3. Any payment under this Article shall be effectively realizable, freely transferable and freely convertible at the market exchange rate into freely usable currencies. </p>
+        </div>
+        <div type="article" num="6" title="Expropriation and Compensation">
+          <p>1. A Party shall not expropriate or nationalize a covered investment, either directly or indirectly through measures having an effect equivalent to expropriation or&nbsp;nationalization (&#x201C;expropriation&#x201D;), except: </p>
+          <p>(a) for a public purpose; </p>
+          <p>(b) when made in accordance with the legislation of the Party; </p>
+          <p>(c) in a non-discriminatory manner; and </p>
+          <p>(d) when accompanied by compensation, in accordance with paragraph 2. </p>
+          <p>2. The compensation shall: </p>
+          <p>(a) be paid without delay and in a freely usable currency; </p>
+          <p>(b) be equivalent to the fair market value of the expropriated investment immediately before the expropriation took place; </p>
+          <p>(c) not reflect any change in value occurring because the intended expropriation had become known earlier; </p>
+          <p>(d) be fully realizable and freely transferable; and </p>
+          <p>(e) include interest, at a commercially reasonable rate for that currency, accrued from the date of expropriation until the date of payment. </p>
+          <p>3. Without prejudice to Section C (Investor-State Dispute Settlement), the investors affected shall have a right, under the legislation of the Party making the expropriation, to prompt review, by a judicial or other independent authority of that </p>
+          <p>4. This Article does not apply to the issuance of compulsory licenses granted in relation to intellectual property rights in accordance with the TRIPS Agreement, or to the revocation, limitation, or creation of intellectual property rights, to the extent that such issuance, revocation, limitation, or creation is consistent with the TRIPS Agreement.</p>
+          <div type="foot_note">(4) This Article shall be interpreted in accordance with Annex A (Expropriation). 10 Party, of the legality of the expropriation and of the valuation of their investment, in accordance with the principles set out in this Article.</div>
+        </div>
+        <div type="article" num="7" title="Transfers">
+          <p>1.&nbsp;Each Party shall permit all transfers relating to a covered investment to be made freely and without delay into and out of its territory. Such transfers include:</p>
+          <p>(a) contributions to capital, including the initial contribution and additional amounts to maintain or increase the investment; </p>
+          <p>(b) profits, dividends, interest, capital gains, royalties, management fees, technical assistance fees and other fees, or other current incomes accruing from covered investments; </p>
+          <p>(c) proceeds from the sale or liquidation of all or any part of the investment; </p>
+          <p>(d) payments made under a contract entered into by the investor or the covered investment, including payments made pursuant to a loan agreement; </p>
+          <p>(e) payments made in accordance with Articles 5 (Losses and Compensation) and 6 (Expropriation and Compensation); and </p>
+          <p>(f) payments arising out of a dispute. </p>
+          <p>2. Each Party shall permit transfers relating to a covered investment to be made in a freely usable currency at the market rate of exchange prevailing at the time of transfer. </p>
+          <p>3. Notwithstanding paragraphs 1 and 2, a Party may prevent or delay a transfer through the equitable, non-discriminatory and good faith application of its legislation relating to:</p>
+          <p> (a) the payment of taxes and dues; </p>
+          <p>(b) bankruptcy, insolvency or the protection of the rights of a creditor; </p>
+          <p>(c) issuing, trading or dealing in securities, futures, options or derivatives; </p>
+          <p>(d) criminal or penal offences; </p>
+          <p>(e) financial reporting or record keeping of transfers when necessary to assist law enforcement or financial regulatory authorities; </p>
+          <p>(f) ensuring compliance with an order or judgment in judicial or administrative proceedings; or </p>
+          <p>(g) social security, public retirement, or compulsory savings schemes.</p>
+          <div type="foot_note">(5) For greater certainty, Annex B (Temporary Safeguard Measures) shall apply to Article 7 (Transfers) 11</div>
+        </div>
+        <div type="article" num="8" title="Subrogation">
+          <p>1. If a Party or its designated agency makes a payment to one of its investors under a guarantee, a contract of insurance or other form of indemnity against non-commercial risks it has entered into in respect of an investment in the Territory of the other Party, the other Party shall recognize: </p>
+          <p>(a) the assignment, to the former Party or its designated agency, of any right or claim of the investor in respect of such investment, that formed the basis of such payment; and </p>
+          <p>(b) the right of the former Party or its designated agency to exercise by virtue of subrogation such right or claim to the same extent as the original right or claim of the investor. </p>
+          <p>2. For greater certainty, the Party or its designated agency shall be entitled in all circumstances to: </p>
+          <p>(a) the same treatment in respect of the rights and claims acquired by it by virtue of the assignment referred to in paragraph 1; and </p>
+          <p>(b) the same payments due pursuant to those rights and claims, as the investor referred to in paragraph 1 was entitled to receive by virtue of this Agreement in respect of the investment. </p>
+          <p>3. If a Party or a designated agency has made a payment to its investor and has taken over rights and claims of the investor under paragraph 1, that investor shall not, unless authorized in writing by the Party or its designated agency to act on behalf of the Party or its designated agency making the payment, pursue those rights and claims against the other Party. </p>
+        </div>
+        <div type="article" num="9" title="Performance Requirements">
+          <p>1. Within the context of its national economic policy and goals each Party shall endeavour to avoid imposing on the investments of nationals or companies of the other Party conditions which require the export of goods produced or the purchase of goods and services locally or the transfer of technology, a production process or other proprietary knowledge to a natural person or an enterprise in the territory of either Party. </p>
+          <p>2. The provisions of paragraph 1 shall not preclude the rights of either Party to impose restriction on importation of goods or services into their respective territories. </p>
+        </div>
+        <div type="article" num="10" title="Taxation Measures">
+          <p>1. Nothing in this Section shall impose obligations with respect to taxation measures except as expressly provided in paragraph 3.</p>
+          <p>2. Nothing in this Agreement shall affect the rights and obligations of either Party under any tax convention. In the event of any inconsistency between this Agreement&nbsp;and any such convention, that convention shall prevail to the extent of the inconsistency.</p>
+          <p>3. Articles 2 (Treatment of Investments) and 6 (Expropriation and Compensation), shall apply to taxation measures.</p>
+          <div type="foot_note">(6) This Article shall be interpreted in accordance with Annex C (Taxation And Expropriation)</div>
+        </div>
+        <div type="article" num="11" title="Denial of Benefits">
+          <p>1. A Party may deny the benefits of this Agreement to an investor of the other Party that is an enterprise of the other Party and to its covered investments if persons of a non- Party own or control the enterprise and the denying Party (7): </p>
+          <p>(a) does not maintain diplomatic relations with the non- Party; or </p>
+          <p>(b) adopts or maintains measures with respect to the non- Party or a person of the non- Party that prohibit transactions with the enterprise or that would be violated or circumvented if the benefits of this Agreement were accorded to the enterprise or to its investments. </p>
+          <p>2. For the purpose of this Article, an enterprise is: </p>
+          <p>(a) "owned" by an investor if more than 50 percent of the equity interest in it is beneficially owned by the investor; and </p>
+          <p>(b) "controlled" by an investor if the investor has the power to name a majority of its directors or otherwise to legally direct its actions.</p>
+          <div type="foot_note">(7) For greater certainty, the benefits of this Agreement may be denied by a Party, in accordance with this article, at any time.</div>
+        </div>
+        <div type="article" num="12" title="Special Formalities and Information Requirements">
+          <p>1. Nothing in Article 3 (National Treatment) shall be construed to prevent a Party from adopting or maintaining a measure that prescribes special formalities in connection with covered investments, such as a requirement that covered investments be legally constituted or registered under the requirements of its legislation, provided that such formalities do not materially impair the protections afforded by the Party to investors of the other Party and to covered investments pursuant to this Agreement and are not used as means of avoiding the Party's commitments or obligations under this Agreement. </p>
+          <p>2. Notwithstanding Article 3 (National Treatment) and Article 4 (Most- Favoured-Nation Treatment), a Party may require an investor of the other Party or its covered investment to provide information concerning that investment solely for informational or statistical purposes. The Party shall protect such information that is confidential from any disclosure that would prejudice the competitive position of the investor or its covered investment. </p>
+        </div>
+        <div type="article" num="13" title="Non-Conforming Measures">
+          <p>1. Article 3 (National Treatment) and Article 4 (Most-Favoured-Nation Treatment) shall not apply to any measure covered by the exceptions to, or derogations from, obligations under the TRIPS Agreement.</p>
+          <p>2. Article 3 (National Treatment) and Article 4 (Most-Favoured-Nation Treatment) shall not apply to: </p>
+          <p>(a) any measure that a Party adopts or maintains with respect to government procurement; </p>
+          <p>(b) subsidies or grants provided by a Party, including government-supported loans, guarantees, and insurance; </p>
+          <p>(c) Any measure related to acquisition of rights to land and real estate. </p>
+          <p>3. For greater certainty, the Parties confirm their understanding that any requirement for nationality or residency of senior management or board of directors shall not be regarded inconsistent with Article 3 (National Treatment) and Article 4 (Most-Favoured-Nation Treatment). </p>
+          <p>4. Notwithstanding paragraphs 2 and 3, any existing measures, shall not, by themselves give rise to a breach of Article 3 (National Treatment) and Article 4 (Most-Favoured-Nation Treatment). </p>
+        </div>
+        <div type="article" num="14" title="General Exceptions">
+          <p>1. Notwithstanding Article 4 (Most-Favoured-Nation Treatment), nothing in this Agreement shall be construed so as to oblige a Party to extend to the investors of the other Party and to their covered investments the benefits of any treatment resulting from: </p>
+          <p>(a) any bilateral or multilateral international agreement for the promotion and protection of investments which was signed prior to the date of entry into force of this Agreement; </p>
+          <p>(b) any existing or future customs union, free trade area agreement, common market, economic union or similar international agreement, to which either Party is a party or may become a party; or </p>
+          <p>(c) any existing or future bilateral or multilateral agreement concerning intellectual property. </p>
+          <p>2. Subject to the requirement that such measures are not applied in an arbitrary or unjustifiable manner, and do not constitute a disguised restriction on international trade or investment, nothing in this Agreement shall be construed to prevent a Party from adopting, maintaining or enforcing measures, including environmental measures, that are necessary to: </p>
+          <p>(a) protect human, animal or plant life or health; </p>
+          <p>(b) protect public morals or to maintain public order, provided that the public order exception may only be invoked where a genuine and sufficiently serious threat is posed to one of the fundamental interests of society in accordance with Article XIV of the GATS; </p>
+          <p>(c) the protection of national treasures of artistic, historic or archaeological value; </p>
+          <p>(d) the conservation of living or non-living exhaustible natural resources, provided that such measures are made effective in conjunction with restrictions on domestic production or consumption; or </p>
+          <p>(e) secure compliance with the legislation which are not inconsistent with the provisions of this Agreement including those relating to: </p>
+          <p>i. the prevention of deceptive and fraudulent practices or to deal with the effects of a default on contract (8); </p>
+          <p>ii. the protection of the privacy of the individual in relation to the processing and dissemination of personal data and the protection of confidentiality of personal records and accounts; and </p>
+          <p>iii. safety. </p>
+          <p>3. Nothing in this Agreement shall prevent the Parties from adopting or maintaining measures for prudential reasons, including: </p>
+          <p>(a) the protection of investors, depositors, policy holders, policy claimants, as well as financial market participants, or persons to whom a fiduciary duty is owed by a financial institution; </p>
+          <p>(b) the maintenance of the safety, soundness, integrity or financial responsibility of financial institutions; and </p>
+          <p>(c) ensuring the integrity and stability of the Party's financial system. </p>
+          <p>Such measures shall be taken in good faith and shall not be used as means of avoiding a Party's commitments or obligations under this Agreement. </p>
+          <p>4. Nothing in this Agreement shall be construed: </p>
+          <p>(a) to require a Party to furnish or allow access to any information the disclosure of which it determines to be contrary to its essential security interests; or </p>
+          <p>(b) to preclude a Party from applying measures that it considers necessary for the fulfilment of its obligations under the United Nations Charter with respect to the maintenance or restoration of international peace or security, or for the protection of its own essential security interests, or in order to carry out obligations it has accepted for the purposes of maintaining international security.</p>
+          <div type="foot_note">(8) for greater certainty, this paragraph shall not preclude the contracting state to investigate in such matters.</div>
+        </div>
+        <div type="article" num="15" title="Senior Management and Board of Directors">
+          <p>1. Neither Party may require that an enterprise of that Party that is an investment of an investor of the other Party appoint to senior management positions, or as senior executives, a natural person of any particular nationality. </p>
+          <p>2. Without prejudice to paragraph 1, a Party may require that a majority or less of the board of directors, or any committee thereof, of an enterprise of that Party that is an investment of an investor of the other Party be of a particular nationality, or a resident in the Territory of the former Party, provided that: </p>
+          <p>(a) the requirement does not materially impair the ability of the investor to exercise control over its investment; and </p>
+          <p>(b) the nationality of members of the board or committee required thereunder is not of any non- Party which does not maintain diplomatic relations with the latter Party. </p>
+          <p>3. The provision of this Article shall be subject to the legislation of the Parties at the time of the entry into force of this Agreement. </p>
+        </div>
+      </div>
+      <div type="section" num="C" title="Investor-State Dispute Settlement">
+        <div type="article" num="16" title="Consultation and Negotiation">
+          <p>1. In the event of an investment dispute, the claimant and the respondent should initially seek to resolve the dispute through consultation and negotiation, which may include the use of non-binding, third-party procedures. </p>
+          <p>2. The claimant shall deliver to the contact point of the respondent a written request for consultations and negotiations regarding an investment dispute setting out a brief description of facts regarding the measure or measures at issue. </p>
+          <p>3. For the purposes of this Article the Parties agree to establish Contact Points as follows: </p>
+          <p>(a) for Israel: the Ministry of Finance, Chief Economist Department, or its successor. </p>
+          <p>(b) for The United Arab Emirates: Ministry of Finance, International Organizations and Financial Relations Department. </p>
+          <p>4. For greater certainty, the initiation of consultations and negotiations shall not be construed as recognition of the jurisdiction of a tribunal. </p>
+        </div>
+        <div type="article" num="17" title="Submission of Claim to Arbitration">
+          <p>1. In the event that an investment dispute cannot be settled by consultation and negotiation according to Article 16 (Consultation and Negotiation) within six months from the date on which the claimant requested in writing the respondent for consultation and negotiation regarding an investment dispute, the claimant may submit the dispute to arbitration under this Article, claiming that: </p>
+          <p>(a) The respondent has breached an obligation under Section B (Investment Promotion and Protection); and </p>
+          <p>(b) The claimant has incurred loss or damage by reason of, or arising out of, that breach. </p>
+          <p>2. At least ninety days before submitting any claim to arbitration under this Section, a claimant shall deliver to the respondent a written notice of its intention to submit the claim to arbitration (notice of intent). The notice shall specify: </p>
+          <p>(a) the name and address of the claimant; </p>
+          <p>(b) for each claim, the provision of Section B (Investment Promotion and Protection) alleged to have been breached and any other relevant provisions; </p>
+          <p>(c) the legal and factual basis for each claim; and </p>
+          <p>(d) the relief sought and the approximate amount of damages claimed. </p>
+          <p>3. Provided that six months have elapsed since the claimant requested in writing the respondent for consultation and negotiation, the claimant may submit the dispute referred to in paragraph 2 to arbitration: </p>
+          <p>(a) under the ICSID Convention, provided that both Parties are parties to the ICSID Convention; or </p>
+          <p>(b) under the ICSID Additional Facility Rules, provided that either Party, but not both, is a party to the ICSID Convention; or </p>
+          <p>(c) under the UNCITRAL Arbitration Rules; or </p>
+          <p>(d) if the disputing parties agree, under any other arbitration institution or arbitration rules. </p>
+          <p>4. The claimant shall provide with the notice of arbitration: </p>
+          <p>(a) the name of the arbitrator that the claimant appoints; or </p>
+          <p>(b) the claimant's written consent for the Secretary-General to appoint that arbitrator. </p>
+          <p>5. A claim shall be deemed submitted to arbitration under this Article when the claimant's notice of or request for arbitration: </p>
+          <p>(a) referred to in paragraph 1 of Article 36 of the ICSID Convention is received by the Secretary-General of ICSID; </p>
+          <p>(b) referred to in Article 2 of Schedule C of the ICSID Additional Facility Rules is received by the Secretary-General of ICSID; </p>
+          <p>(c) referred to Article 3 of the UNCITRAL Arbitration Rules, together with the statement of claim referred to in Article 20 of the UNCITRAL Arbitration Rules, is received by the respondent; or </p>
+          <p>(d) under any other arbitration institution or arbitration rules selected under paragraph 3(d) is received by the respondent, unless otherwise specified by such institution or in such rules. </p>
+          <p>A claim asserted by the claimant for the first time after such notice of arbitration is submitted shall be deemed submitted to arbitration under this Section on the date of its receipt under the applicable arbitral rules.</p>
+          <div type="foot_note">(9) For greater certainty it is understood that a breach of a contract is not necessarily considered a breach of a provision of this Agreement and the contract shall be governed by its terms and conditions.</div>
+        </div>
+        <div type="article" num="18" title="Consent of Each Party to Arbitration">
+          <p>1.&nbsp;Each Party hereby consents to the submission of a claim to arbitration under this Article in accordance with this Agreement.</p>
+          <p>The consent under paragraph 1 and the submission of a claim to arbitration under this Article shall be deemed to satisfy the requirements of: </p>
+          <p>(a) Agreement II of the ICSID Convention or the ICSID Additional Facility Rules for written consent of the parties; and </p>
+          <p>(b) Article II of the New York Convention for an agreement in writing. </p>
+        </div>
+        <div type="article" num="19" title="Conditions and Limitations on Consent of Each Party">
+          <p>1. No claim may be submitted to arbitration under this Article if more than three years have elapsed from the date on which the claimant first acquired, or should have first acquired, knowledge of the breach alleged under Article 17(1) (Submission of Claim to Arbitration) and knowledge that the claimant has incurred loss or damage. </p>
+          <p>2. No claim may be submitted to arbitration under this Section unless: </p>
+          <p>(a) the claimant consents in writing to arbitration in accordance with the procedures set out in this Article; </p>
+          <p>(b) the notice of arbitration is accompanied, for claims submitted to arbitration under Article 17 (Submission of Claim to Arbitration), by the claimant's written waiver of any right to initiate or continue, before any administrative tribunal or court under the law of either Party, or other dispute settlement procedures, including those in other bilateral or multilateral agreements which both Parties are parties to, any proceeding with respect to the subject matter of its claim or to any measure alleged to constitute a breach referred to in Article 17 (Submission of Claim to Arbitration); and </p>
+          <p>(c) no judgment or award has been delivered on the subject matter of the dispute with regard to any measure alleged to constitute a breach referred to in Article 17 (Submission of Claim to Arbitration) before any administrative tribunal or court under the law of either Party (10), other dispute settlement procedures or under the mechanisms mentioned in subparagraph (b). For greater certainty, if a local court has delivered a judgment on the subject matter of the dispute with regard to any measure alleged to constitute a breach referred to in Article 17(2) (Submission of Claim to Arbitration), an investor may not submit a claim to arbitration under the mechanisms mentioned in subparagraph (b). </p>
+          <p>3. Notwithstanding subparagraphs 2(b) and 2(c), the claimant may initiate or continue an action that seeks interim injunctive relief that does not involve the payment of monetary damages before an administrative tribunal or court of justice under the law of the respondent, provided that the action is brought for the sole purpose of preserving the claimant's rights and interests during the pendency of the arbitration.</p>
+          <div type="foot_note">(10) For greater certainty and for the purposes of this Section, the Parties confirm their understanding that the Investor has the right, in accordance with the Law of the Party where the investment is made, to settle a dispute by a competent court of that Party.</div>
+        </div>
+        <div type="article" num="20" title="Selection of Arbitrators">
+          <p>1. Unless the disputing parties otherwise agree, the tribunal shall comprise three arbitrators, one arbitrator appointed by each of the disputing parties and the third, who shall be the presiding arbitrator, appointed by agreement of the disputing parties. The arbitrators appointed by each party may be nationals of the Parties or of countries with which both Parties maintain diplomatic relations. </p>
+          <p>2. The Secretary-General shall serve as appointing authority for an arbitration under this Section, in accordance with paragraph 3. If the Secretary-General is a national of either Party or a national of a non-Party that does not maintain diplomatic relations with either Party or otherwise prevented from discharging the said function, the Deputy Secretary-General shall be invited to make the appointment. </p>
+          <p>3. Ifa tribunal has not been constituted under the periods specified in the rules of arbitration provided in Article 17(3)(a)-(d) (Submission of Claim to Arbitration) or within ninety days of the date a claim is submitted to arbitration under this Section, the Secretary-General, on the request of a disputing party, shall appoint, in his or her discretion, the arbitrator or arbitrators not yet appointed. The Secretary-General shall not appoint a national of either Party as the presiding arbitrator unless the disputing parties otherwise agree. </p>
+          <p>4. For purposes of Article 39 of the ICSID Convention and Article 7 of Schedule C to the ICSID Additional Facility Rules, and without prejudice to an objection to an arbitrator on a ground other than nationality: </p>
+          <p>(a) the respondent agrees to the appointment of a national of the other Party to a tribunal established under the ICSID Convention or the ICSID Additional Facility Rules; and </p>
+          <p>(b) a claimant referred to in Article 17(1) (Submission of Claim to Arbitration) may submit a claim to arbitration under this Section, or continue a claim, under the ICSID Convention or the ICSID Additional Facility Rules, only on condition that the claimant agrees in writing to the appointment of a national of the other disputing party as a member of the tribunal. </p>
+          <p>5. Subject to the rights of the parties to the dispute provided for in this section to choose a national of each Party as an arbitrator, all arbitrators referred to under this section may not be nationals of states not having diplomatic relations with both Parties. </p>
+        </div>
+        <div type="article" num="21" title="Conduct of Arbitrators">
+          <p>The arbitrators shall: </p>
+          <p>(a) have experience or expertise in public international law, international investment rules, or in dispute settlement derived from international investment agreements; </p>
+          <p>(b) be independent from the Parties and the claimant, and not be affiliated with or receive instructions from any of them; </p>
+          <p>(c) not take instructions from any organisation or government with regard to matters before the tribunal for which they are appointed; </p>
+          <p>(d) avoid creating an appearance of bias and not be influenced by self-interest, outside pressure, political considerations, public clamour, loyalty to a Party, disputing party or any other person involved or participating in the proceeding, fear of criticism or financial, business, professional, family or social relationships or responsibilities; </p>
+          <p>(e) not, directly or indirectly, incur any obligation, or accept any benefit, enter into any relationship, or acquire any financial interest that would in any way interfere, or appear to interfere, with the proper performance of their duties, or that is likely to affect their impartiality; </p>
+          <p>(f) not use their position as a member to advance any personal or private interests and avoid actions that may create the impression that others are in a special position to influence them; </p>
+          <p>(g) perform their duties thoroughly and expeditiously throughout the course of the proceeding, and with fairness and diligence; </p>
+          <p>(h) avoid engaging in ex parte contacts concerning the proceeding; and </p>
+          <p>(i) consider only those issues raised in the proceeding and which are necessary for a decision or award and not delegate this duty to any other person. </p>
+        </div>
+        <div type="article" num="22" title="Place of Arbitration">
+          <p>1. The claimant and the respondent may agree on the Place of Arbitration. </p>
+          <p>2. If the claimant and the respondent fail to reach an agreement regarding the Place of Arbitration, the tribunal shall, in consultation with the disputing parties, determine the Place of Arbitration provided: </p>
+          <p>(a) that the place shall be in the territory of a Party or in the area of a non-Party that is a party to the New York Convention; </p>
+          <p>(b) that the determined Place of Arbitration is in accordance with the applicable arbitrational rules; </p>
+          <p>(c) that the tribunal has taken the disputing parties' views and interests into consideration, including with regard to the financial burden of the arbitration procedure; and </p>
+          <p>(d) that if determined location is in the territory of a non-Party it shall be a non- Party with which both Parties have diplomatic relations. </p>
+        </div>
+        <div type="article" num="23" title="Conduct of the Arbitration">
+          <p>1. In an arbitration procedure under this Section, the respondent shall not assert, as a defense, counterclaim, right of setoff or otherwise, that the claimant has received or will receive indemnification or other compensation for all or part of the alleged damages pursuant to an insurance or guarantee contract. </p>
+          <p>2. Unless the disputing parties have agreed to another expedited procedure for making preliminary objections, the Party which is the party to a dispute may, no later than 60 days after the constitution of the tribunal, and in any event before the first session of the tribunal, file an objection that a claim is manifestly without legal merit. The Party which is the party to the dispute shall specify as precisely as possible the basis for the objection. The tribunal, after giving the disputing parties the opportunity to present their observations on the objection, shall, at its first session or promptly thereafter, notify the disputing parties of its decision on the objection. The decision of the tribunal shall be without prejudice to the right of the Party which is the party to the dispute to file an objection to the jurisdiction of the tribunal or to object, in the course of the proceedings, that a claim lacks legal merit. </p>
+          <p>3. The tribunal may order security for costs upon request of the respondent. The tribunal shall especially consider ordering security for costs when there is a reason to believe: </p>
+          <p>(a) that the claimant will be unable or unwilling to pay, if ordered to do so, a reasonable part of attorney fees and other costs to the Party which is the party to the dispute; or </p>
+          <p>(b) that the claimant has divested assets to avoid the consequences of the arbitral proceedings. </p>
+          <p>Should the claimant fail to pay the security for costs ordered by the tribunal within the time period set by the tribunal, the tribunal may order the suspension or termination of the arbitral proceedings. </p>
+        </div>
+        <div type="article" num="24" title="Governing Law">
+          <p>1. Subject to paragraph 3 of this Article, when a claim is submitted under this Section, the tribunal shall decide the issues in dispute in accordance with this Agreement and applicable rules of international law. </p>
+          <p>2. For greater certainty, the tribunal shall be bound by the interpretation given to the domestic law by the courts or authorities which are competent to interpret the relevant domestic law, and any meaning given to the relevant domestic law made by the tribunal shall not be binding upon the courts and the authorities of either Party. The tribunal does not have jurisdiction to determine the legality of a measure, alleged to constitute a breach of this Agreement, under the domestic laws and regulations of the disputing Party. </p>
+          <p>3. In cases where reference to the WTO Agreement is made in an arbitration procedure under this Section, the tribunal shall consider relevant interpretation in reports of panels and the WTO Appellate Body adopted by the WTO Dispute Settlement Body regarding substantially equivalent rights or obligations of the Parties under the WTO Agreement, or any other multilateral treaty that deals with the same subject matter. </p>
+        </div>
+        <div type="article" num="25" title="Awards">
+          <p>1. Where a tribunal makes a final award against a respondent, the tribunal may award: </p>
+          <p>(a) monetary damages and applicable interest; </p>
+          <p>(b) restitution of property, in which case the award shall provide that the respondent may pay monetary damages and any applicable interest, in lieu of restitution; or </p>
+          <p>(c) both. </p>
+          <p>2. A tribunal may at its own discretion also award costs and attorney's fees in accordance with this Section and the applicable arbitration rules. </p>
+          <p>3. Without Prejudice to paragraph 2, the monetary value of the award made under paragraph 1 shall not exceed monetary value of the loss or damage caused to the investor as a result of the breach determined by the tribunal. </p>
+          <p>4. A tribunal may not award punitive damages. </p>
+          <p>5. An award made by a tribunal shall have no binding force except between the disputing parties and in respect of the particular case. </p>
+          <p>6. Subject to the applicable arbitration rules and any applicable review procedure for an award available under these rules, the award shall be final and binding. A disputing party shall abide by and comply with an award without delay. </p>
+          <p>7. Each Party shall provide for the enforcement of an award in its territory. </p>
+          <p>8. A disputing party may seek enforcement of an arbitration award under the ICSID Convention if the award was given pursuant to the submission of the investment dispute to arbitration in accordance with Articles 17(3)(a) or 3(b) (Submission of Claim to Arbitration) or the New York Convention if the award was given pursuant to the submission of the investment dispute to arbitration in accordance with Articles 17(3)(c) or (d) (Submission of Claim to Arbitration). </p>
+        </div>
+      </div>
+      <div type="section" num="D" title="Settlement of Dispute between the Parties">
+        <div type="article" num="26">
+          <p>1. Each Party shall afford adequate opportunity for consultation, through diplomatic channels, regarding any dispute with the other Party concerning the interpretation or application of this Agreement. </p>
+          <p>2. Any dispute between the Parties as to the interpretation and application of this Agreement, not satisfactorily adjusted by diplomacy in accordance with paragraph 1 within a period of six months from notification of the dispute, shall upon request by either Party be referred for decision to an arbitration board. </p>
+          <p>3. Unless otherwise provided for in this Article, or in the absence of an agreement between the Parties to the contrary, the UNCITRAL Arbitration Rules shall apply to the proceedings of the arbitration board. However, these rules may be modified by the Parties or modified by the arbitrators appointed pursuant to paragraph 4, provided that both Parties agree to the modification. The arbitration board may, for its part, determine its own rules and procedures. </p>
+          <p>4. Within sixty days from the date of receipt by either Party from the other Party of a note requesting arbitration of the dispute, each disputing party shall appoint an arbitrator. The two arbitrators shall select a third arbitrator who, upon approval by both Parties, shall be appointed as the Chairperson, provided that the third arbitrator shall not be a national of either Party. The Chairperson shall be appointed within sixty days from the date of appointment of the other two arbitrators. All arbitrators may not be nationals of states not having diplomatic relations with both Parties. The UNCITRAL Arbitration Rules applicable to appointing members of three-member panels shall apply mutatis mutandis to other matters relating to the appointment of the arbitrators of the arbitration board provided that the appointing authority referenced in those rules shall be the Secretary-General of the Permanent Court of Arbitration at The Hague. If the Secretary-General of the Permanent Court of Arbitration at The Hague is a national of either Party, a national of a state not having diplomatic relations with both Parties, or otherwise prevented from discharging the said function, the Deputy Secretary-General of the Permanent Court of Arbitration at The Hague shall be invited to make the appointment. </p>
+          <p>5. Unless otherwise agreed by the Parties, all submissions of documents shall be made and all hearings shall be completed within a period of one hundred and eighty days from the date of selection of the third arbitrator. The arbitration board shall decide the dispute by a majority of votes in accordance with this Agreement and the rules of international law applicable to the subject matter, within sixty days from the date of the final submissions of documents or the date of the closing of the hearings, whichever is the later. Such decision shall be final and binding. </p>
+          <p>6. Each Party shall bear the cost of the arbitrator of its choice and its representation in the arbitral proceedings. The cost of the Chairperson of the arbitration board in discharging his or her duties and the remaining costs of the arbitration board shall be borne equally by the Parties. </p>
+          <p>7. Subject to the rights of the Parties provided for in this section to choose a national as an arbitrator, all arbitrators referred to under this section may not be nationals of states not having diplomatic relations with both Parties. </p>
+        </div>
+      </div>
+      <div type="section" num="E" title="General Provisions">
+        <div type="article" num="27" title="Joint Committee on Investment">
+          <p>1. The Parties hereby establish a Joint Committee on Investments (hereinafter: "the Committee"), composed of representatives of each Party and headed by senior officials of each Party. </p>
+          <p>2. Unless otherwise agreed by the Parties the committee shall meet on the request of either Party at any time as requested. </p>
+          <p>3. The functions of the Committee shall include: </p>
+          <p>(a) a general review of this Agreement with a view to furthering its objectives; </p>
+          <p>(b) to discuss and review the implementation and operation of this Agreement; </p>
+          <p>(c) to review the non-conforming measures maintained, amended or modified for the purpose of contributing to the reduction or elimination of such non-conforming measures; </p>
+          <p>(d) to exchange information on and to discuss investment-related matters within the scope of this Agreement which relate to improvement of investment environment; </p>
+          <p>(e) to consider any issues raised by either Party concerning investment agreements; </p>
+          <p>(f) review the possibility of further facilitation of investment between the Parties; </p>
+          <p>(g) evaluation of the results obtained from the application of this Agreement and consideration of any other issues or matters related to the implementation of this Agreement including solving problems, obstacles and dispute resolution before its submission to arbitration; and </p>
+          <p>(h) To exchange information on both Parties' legislation as well as internal regulations and procedures, regarding the possibility of obtaining entry visas to their respective countries for investors and discussion of any issues which may arise related to such. </p>
+          <p>4. The Committee may, as necessary, make appropriate recommendations by consensus to the Parties for the more effective functioning or the attainment of the objectives of this Agreement. </p>
+          <p>5. The Committee may, upon mutual consent of the Parties, invite representatives of relevant entities other than the Governments of the Parties with the necessary expertise relevant to the issues to be discussed, and hold joint meetings with the private sectors. </p>
+          <p>6. The Committee may establish sub-committees and delegate specific tasks to such sub-committees. </p>
+          <p>7. The Committee shall discuss any issues regarding the implementation and interpretation of this Agreement. </p>
+        </div>
+        <div type="article" num="28" title="Amendement">
+          <p>Subject to Article 27 (Joint Committee on investment) upon the request of either Party, the Parties shall discuss and consult in good faith, and may agree upon any amendments to this Agreement in writing. Any such amendments shall enter into force in accordance with the procedure necessary for the entry into force of this Agreement and shall constitute an integral part of this Agreement. </p>
+        </div>
+        <div type="article" num="29" title="Final Provisions">
+          <p>1. The Parties shall notify each other, in writing through diplomatic channels, of the completion of their respective internal procedures necessary for the entry into force of this Agreement. This Agreement shall enter into force on the date of the latter notification. This Agreement shall remain in force for a period of ten years after its entry into force and shall continue to be in force unless terminated as provided for in paragraph 2. </p>
+          <p>2. A Party may terminate this Agreement at the end of the initial ten year period, or at any time thereafter by giving a one year's advance written notice of termination to the other Party, through diplomatic channels. Such termination shall become effective twelve months after the date of receipt of such notice of termination by the other Party. </p>
+          <p>3. In respect of investments made prior to the date of termination of this Agreement, the provisions of this Agreement shall continue to be effective for a period of ten years from the date of termination of this Agreement. </p>
+          <p>4. The Annexes and Footnotes to this Agreement shall constitute an integral part of this Agreement.</p>
+        </div>
+      </div>
+    </body>
+    <conclusion>
+      <p>Signed at Tel Aviv, this day 2 Heshvan, 5781, 3 Rabi Al-Awwal, 1442, which corresponds to 20 October 2020, in the Arabic, Hebrew and English languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail. </p>
+      <p>For the Government of the&nbsp;United Arab Emirates:</p>
+      <p>For the Government of the State of Israel:&nbsp;</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" title="Annexes"/>
+      <div type="annex" num="Annex A" title="Expropriation">
+        <p>&nbsp;The Parties confirm their shared understanding that: </p>
+        <p>1. An action or a series of actions by a Party cannot constitute an expropriation unless it interferes with a tangible or intangible property right or property interest in an investment. </p>
+        <p>2. Expropriation may be direct or indirect: </p>
+        <p>(a) direct expropriation occurs when an investment is nationalized or otherwise directly expropriated through formal transfer of title or outright seizure; and </p>
+        <p>(b) indirect expropriation occurs if a measure or series of measures of a Party has an effect equivalent to direct expropriation, in that it substantially deprives the investor of the fundamental attributes of property in its investment, including the right to use, enjoy and dispose of its investment, without formal transfer of title or outright seizure. </p>
+        <p>3. The determination of whether a measure or series of measures of a Party, in a specific fact situation, constitutes an indirect expropriation requires a case-by-case, fact-based inquiry that takes into consideration, among other factors: </p>
+        <p>(a) the economic impact of the measure or series of measures, although the sole fact that a measure or series of measures of a Party has an adverse effect on the economic value of an investment does not establish that an indirect expropriation has occurred; </p>
+        <p>(b) the duration of the measure or series of measures of a Party; </p>
+        <p>(c) the extent to which the measure or series of measures interferes with distinct, reasonable investment-backed expectations; and </p>
+        <p>(d) the character of the measure or series of measures, notably their object, context and intent. </p>
+        <p>4. For greater certainty, except in the rare circumstance when the impact of a measure or series of measures is so severe in light of its purpose that it appears manifestly excessive, non-discriminatory measures of a Party that are designed and applied to protect legitimate public welfare objectives, such as health, safety and the environment, do not constitute indirect expropriations. </p>
+      </div>
+      <div type="annex" num="Annex B" title="Temporary Safeguard Measures">
+        <p>1. A Party may adopt or maintain restrictive measures with regard to cross-border capital transactions as well as payments or transfers for transactions related to investments: </p>
+        <p>(a) in the event of serious balance-of-payments and the external financial difficulties or threat thereof; or </p>
+        <p>(b) in exceptional cases where movements of capital cause or threaten to cause serious difficulties for macroeconomic management, in particular monetary and exchange rate policies. </p>
+        <p>2. Restrictive measures referred to in paragraph 1 shall: </p>
+        <p>(a) be applied in such a manner that the other Party is treated no less favourably than any non-Party; </p>
+        <p>(b) not exceed those necessary to deal with the circumstances set out in paragraph 1; </p>
+        <p>(c) be temporary and be phased out progressively as the situation specified in paragraph 1 improves; </p>
+        <p>(d) avoid unnecessary damages to the commercial, economic and financial interests of the other Party; and </p>
+        <p>(e) not be confiscatory. </p>
+        <p>3. The Party which has adopted any measure under paragraph 1 shall notify the other Party, as soon as possible, as to the measures taken, and the expected timetable for their removal. </p>
+        <p>4. The measures under paragraphs 1, 2 and 3 should be consistent with the Articles of Agreement of the International Monetary Fund. </p>
+      </div>
+      <div type="annex" num="Annex C" title="Taxation and Expropriation">
+        <p>The determination of whether a taxation measure, in a specific fact situation, constitutes an expropriation requires a case-by-case, fact-based inquiry that considers all relevant factors relating to the investment, including the factors listed in Annex A and the following considerations: </p>
+        <p>1. The imposition of taxes does not generally constitute an expropriation. The mere introduction of a new taxation measure or the imposition of a taxation measure in more than one jurisdiction in respect of an investment generally does not in and of itself constitute an expropriation; </p>
+        <p>2. A taxation measure that is consistent with internationally recognized tax policies, principles, and practices should not constitute an expropriation. In particular, a taxation measure aimed at preventing the avoidance or evasion of taxation measures generally does not constitute an expropriation; </p>
+        <p>3. A taxation measure that is applied on a non-discriminatory basis, as opposed to a taxation measure that is targeted at investors of a particular nationality or at specific taxpayers irrespective of their nationalities, is less likely to constitute an expropriation; and </p>
+        <p>4. A taxation measure generally does not constitute an expropriation if it was already in force when the investment was made and information about the measure was publicly available. </p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Finland - Moldova, Republic of BIT (1995)</name>
+    <code>T1995-118</code>
+    <partyisocode n="0">FIN</partyisocode>
+    <partyisocode n="1">MDA</partyisocode>
+    <date_signed>1995-08-25</date_signed>
+    <date_into_force>1997-06-21</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1518</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{FIN,MDA}_1995-08-25.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2014-27">EU - Moldova Association Agreement (2014)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-102">EC - Moldova PCA</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF FINLAND AND THE GOVERNMENT OF THE REPUBLIC OF MOLDOVA FOR THE PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Finland and the Government of the Republic of Moldova, hereinafter the "Contracting Parties";</p>
+      <p>Desiring to create favourable conditions for increased investment by investors of one Contracting Party in the territory of the other Contracting Party;</p>
+      <p>Recognizing that the encouragement and reciprocal protection of such investments on the basis of an Agreement will be conducive to the stimulation of business initiatives and increasing economic prosperity of both Contracting Parties;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement</p>
+        <p>(1) The term "Investment" means every kind of asset, established or acquired by an investor of one Contracting Party in the territory of the other Contracting Party (host Party) in accordance with the laws and regulations of the latter Contracting Party, and in particular, though not exclusively, includes:</p>
+        <p>(a) Movable and immovable property as well as reinvested returns, and property rights such as mortgages, liens, pledges or leases;</p>
+        <p>(b) Shares and debentures of a company and any other form of participation in a company;</p>
+        <p>(c) Claims to money, or to any performance having economic value;</p>
+        <p>(d) Intellectual property rights, such as patents, copyrights, industrial designs, technical processes, know-how and goodwill;</p>
+        <p>(e) Rights or permits conferred by law or under contract, including concessions to search for, cultivate, extract or exploit natural resources.</p>
+        <p>(2) The term "Returns" means the amounts yielded by an investment and in particular, though not exclusively, includes profit, interest, capital gains, dividends, royalties and fees.</p>
+        <p>(3) The term "Investor" means</p>
+        <p>(a) Any physical person deriving its status as a national of the Contracting Party from the laws of that Contracting Party, or</p>
+        <p>(b) Any legal person, corporation, firm or association incorporated or constituted under the laws of that Contracting Party.</p>
+        <p>(4) The term "Territory" means all the land and sea area including the maritime zones over which the Contracting Party exercises, in accordance with international law, sovereign rights or jurisdiction.</p>
+        <p>(5) Any alteration of the form in which assets are invested or reinvested does not affect their character as an investment.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>(1) Each Contracting Party shall in its territory encourage investments by investors of the other Contracting Party and create favourable conditions for such investments.</p>
+        <p>(2) Investments by investors of one Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the host Party. The host Party shall in no way in its territory by unreasonable or discriminatory measures impair the management, maintenance, use, enjoyment or disposal of the investments by investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="Treatment of investments">
+        <p>(1) The host Party shall in its territory subject investments by investors of the other Contracting Party to treatment no less favourable than that which it accords to investments of its own nationals or to investments of any third state.</p>
+        <p>(2) The host Party shall in its territory subject investors of the other Contracting Party, as regards their management, use, enjoyment or disposal of their investments, to treatment no less favourable than that which it accords to its own investors or to investors of any third state.</p>
+      </div>
+      <div type="article" num="4" title="Compensation for losses">
+        <p>(1) An investor of one Contracting Party whose investments suffer losses owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection or riot in the territory of the host Party, shall be accorded by the host Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which the host Party accords to its own investors or to investors of any third state.</p>
+        <p>(2) Without prejudice to paragraph (1) of this Article, an investor of one Contracting Party whose investments in any of the situations referred to in that paragraph, suffer losses in the territory of the host Party resulting from requisitioning or destruction by the forces or authorities of the host Party, and the loss was not caused in combat action, shall be accorded by the host Party prompt, adequate and effective restitution or compensation.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>(1) Investments by investors of one Contracting Party in the territory of the host Party shall not be expropriated or nationalized either directly or indirectly through measures tantamount to expropriation or nationalization ("expropriation") except: for a public interest; in a non-discriminatory manner; upon payment of prompt, adequate and effective compensation; and in accordance with due process of law.</p>
+        <p>(2) Compensation shall be equivalent to the fair market value of the expropriated investment immediately before the expropriatory action was taken or became known, whichever is earlier; be calculated and transferred in a freely convertible currency on the basis of the prevailing market rate of exchange at that time; include interest at London Interbank Offered Rate (Libor) from the date of expropriation.</p>
+      </div>
+      <div type="article" num="6" title="Free transfer">
+        <p>(1) The host Party shall allow investors of the other Contracting Party the free transfer into and out of its territory relating to an investment. The free transfer shall, inter alia, include initial capital or the proceeds from the liquidation of an investment, returns, payments under contract, payment or repayment of loans, royalties, licences, concessions as well as net earnings of expatriate personnel, payments arising out of the settlement of disputes, and compensation paid pursuant to Articles 4 and 5.</p>
+        <p>(2) Transfers under this Article shall be effected without delay and in a convertible currency. Transfers shall be made at the spot market rate of exchange applicable on the date of transfer.</p>
+      </div>
+      <div type="article" num="7" title="Exceptions">
+        <p>(1) The provisions of this Agreement, relative to the granting of treatment no less favourable than that accorded to investors of either Contracting Party or of any third state, shall not be construed so as to oblige the host Party to extend to investors of the other Contracting Party the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>(a) Any regional economic organisation or customs union of which the host Party is or may become a party,</p>
+        <p>(b) Any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation.</p>
+        <p>(2) The provisions of this Agreement shall not affect the rights and obligations of a Contracting Party resulting from a multilateral convention or treaty related to investments of which the host Party is or may become a party.</p>
+      </div>
+      <div type="article" num="8" title="Disputes between an investor and the host party">
+        <p>(1) Disputes between an investor of one Contracting Party and the host Party relating to an investment by an investor of the Contracting Party in the territory of the host Party should be settled amicably.</p>
+        <p>(2) If such a dispute cannot thus be settled within a period of six months from the date at which either party to the dispute requested amicable settlement, the investor may submit the case to an ad hoc arbitration tribunal, which unless otherwise agreed upon by the parties to the dispute, is to be established under the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).</p>
+        <p>(3) In the event both Contracting Parties are parties to the Convention on the Settlement of Investment Disputes between States and Nationals of other States, opened for signature at Washington on 18 March 1965, the investor may submit the case for settlement by conciliation or arbitration to the International Centre for Settlement of Investment Disputes (ICSID).</p>
+        <p>(4) The award shall be final and binding for the parties to the dispute and shall be executed according to national law.</p>
+      </div>
+      <div type="article" num="9" title="Disputes between the contracting parties">
+        <p>(1) Disputes between the Contracting Parties concerning the application or interpretation of this Agreement shall, if possible, be settled through negotiations.</p>
+        <p>(2) If such a dispute cannot thus be settled within six months from the date at which either Contracting Party requested negotiations, either Contracting Party may by written notice to the other Contracting Party submit the matter to international arbitration according to general principles of international law. Such arbitral award shall be final and binding upon the Contracting Parties.</p>
+      </div>
+      <div type="article" num="10" title="Subrogation">
+        <p>If a Contracting Party or its designated agency makes a payment to its own investor under a guarantee against non-commercial risks it has accorded in respect of an investment in the territory of the other Contracting Party, the host Party shall recognize the assignment, whether under the law or pursuant to a legal transaction, to the former Contracting Party, of all the rights and claims resulting from such an investment, and shall recognize that the former Contracting Party or its designated agency is entitled to exercise such rights and enforce such claims by virtue of subrogation, to the same extent as the original investor.</p>
+      </div>
+      <div type="article" num="11" title="Application of the agreement">
+        <p>This Agreement shall apply to all investments, whether made before or after its entry into force, but shall not apply to any dispute concerning an investment which arose, or any such claim which was settled before its entry into force.</p>
+      </div>
+      <div type="article" num="12" title="Final clauses">
+        <p>(1) This Agreement shall enter into force on the thirtieth day after the day on which the Contracting Parties have notified each other that their constitutional requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>(2) This Agreement shall remain in force for a period of fifteen years. Thereafter it shall remain in force for twelve months from the date on which either Contracting Party has in writing notified the other Contracting Party of its decision to terminate this Agreement.</p>
+        <p>(3) In respect to investments made prior to the date when the notice of termination of this Agreement becomes effective, the provisions of Articles 1 to 11 remain in force for a further period of fifteen years from the date of notification referred to in paragraph (2) of this Article.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Helsinki on 25 August 1995 in two originals in the English language.</p>
+      <p>For the Government of the Republic of Finland Ole Norrback</p>
+      <p>For the Government of the Republic of Moldova Mihai Popov</p>
+    </conclusion>
+  </main>
+</treaty>

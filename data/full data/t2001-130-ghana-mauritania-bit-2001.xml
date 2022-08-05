@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Ghana - Mauritania BIT (2001)</name>
+    <code>T2001-130</code>
+    <partyisocode n="0">GHA</partyisocode>
+    <partyisocode n="1">MRT</partyisocode>
+    <date_signed>2001-05-18</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>1788</docreference>
+    <comments>text is not available</comments>
+    <source>UNCTAD</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{GHA,MRT}_2001-05-18.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main/>
+</treaty>

@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>BLEU - Morocco BIT (1965)</name>
+    <code>T1965</code>
+    <partyisocode n="0">BLEU</partyisocode>
+    <partyisocode n="1">MAR</partyisocode>
+    <date_signed>1965-04-28</date_signed>
+    <date_into_force>1967-10-18</date_into_force>
+    <date_terminated>2002-05-29</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>515</docreference>
+    <comments/>
+    <source>UNTC</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{BLEU,MAR}_1965-04-28.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_OVERLAP" document-code="T1989-43">Fourth Lom&#xE9; Convention (1989)</relation>
+    <relation type="IT_OVERLAP" document-code="T1975-11">First Lome&#x301; Convention (1975)</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-107">EC - Jordan Association Agreement (1997)</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-111">EC - Yemen Cooperation Agreement (1997)</relation>
+    <relation type="IT_OVERLAP" document-code="T2021">China - EU Comprehensive Agreement on Investment (2021)</relation>
+    <relation type="IT_OVERLAP" document-code="T1993-87">EC - India Cooperation Agreement (1993)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-129">EC - Georgia Cooperation Agreement (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T1985-29">EEC - Central America Cooperation Agreement (1985)</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-119">EC - Pakistan Cooperation Agreement (2001)</relation>
+    <relation type="IT_OVERLAP" document-code="T2021-123">European Union - Organisation of African, Caribbean and Pacific States Partnership Agreement (2021)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-132">EC - Uzbekistan Cooperation Agreement (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T1991-52">EC - Uruguay Cooperation Agreement (1991)</relation>
+    <relation type="IT_OVERLAP" document-code="T2000-14">Bangladesh - European Communities Cooperation Agreement (2000)</relation>
+    <relation type="IT_OVERLAP" document-code="T1979-14">Second Lom&#xE9; Convention (1979)</relation>
+    <relation type="IT_OVERLAP" document-code="T1992-58">Agreement Establishing the European Economic Area (EEA) (1992)</relation>
+    <relation type="IT_OVERLAP" document-code="T2016-17">EU - SADC Economic Partnership Agreement (2016)</relation>
+    <relation type="IT_OVERLAP" document-code="T1994-103">EC - Russia PCA (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-130">EC - Korea, Republic of Cooperation Agreement (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T1994-102">EC - Moldova Partnership and Cooperation Agreement (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T2006-1">Albania - EC Association Agreement (2006)</relation>
+    <relation type="IT_OVERLAP" document-code="T2007-47">EU - Montenegro Stabilisation and Association Agreement (2007)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-117">EC - Viet Nam Cooperation Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T2009-36">EU - Cameroon EPA (2009)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-113">EC - Kyrgyzstan Cooperation Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-116">EC - Tunisia Association Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T2016-10">Canada - EU CETA (2016)</relation>
+    <relation type="IT_OVERLAP" document-code="T2014-28">EU - Ukraine Association Agreement (2014)</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-118">European Community - Overseas Countries and Territories Association (2001)</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-112">EC - Egypt Association Agreement (2001)</relation>
+    <relation type="IT_OVERLAP" document-code="T1980-20">EEC - Yugoslavia Cooperation Agreement (1980)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-32">Belarus - European Communities Cooperation Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T1988-19">European Economic Community - Gulf Cooperation Council (GCC) Cooperation Agreement (1998)</relation>
+    <relation type="IT_OVERLAP" document-code="T2003-4">Andean Community - EC Political Dialogue and Co-operation Agreement (2003)</relation>
+    <relation type="IT_OVERLAP" document-code="T2008-9">Bosnia - EC Stabilization Agreement (2008)</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-109">EC - Lao Cooperation Agreement (1997)</relation>
+    <relation type="IT_OVERLAP" document-code="T2002-44">Chile - EC Association Agreement (2002)</relation>
+    <relation type="IT_OVERLAP" document-code="T2002-71">EC - Lebanon Association Agreement (2002)</relation>
+    <relation type="IT_OVERLAP" document-code="T2009-54">EU - SADC Interim Agreement (2009)</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-110">EC - State of Palestine Association Agreement (1997)</relation>
+    <relation type="IT_OVERLAP" document-code="T2008-27">C&#xF4;te d'Ivoire - EC EPA (2008)</relation>
+    <relation type="IT_OVERLAP" document-code="T2018-16">EU - Japan Economic Partnership (2018)</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-108">Cambodia - EC Cooperation Agreement (1997)</relation>
+    <relation type="IT_OVERLAP" document-code="T2004-58">EC - Tajikistan Partnership Agreement (2004)</relation>
+    <relation type="IT_OVERLAP" document-code="T1985-6">China - EC Trade and Cooperation Agreement (1985)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-115">EC - Nepal Cooperation Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T1957">Consolidated version of the Treaty on the Functioning of the European Union (TFEU) (1957)</relation>
+    <relation type="IT_OVERLAP" document-code="T2002-60">Algeria - EC Association Agreement (2002)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-114">EC - Mercosur Cooperation Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-22">Azerbaijan - European Communities Partnership and Cooperation Agreement (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-112">EC - Kazakhstan Cooperation Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T2012-8">Central America - EU Association Agreement (2012)</relation>
+    <relation type="IT_OVERLAP" document-code="T1992-71">EEC - Mongolia Trade Cooperation Agreement (1992)</relation>
+    <relation type="IT_OVERLAP" document-code="T2019-8">EU - Vietnam Investment Protection Agreement (2019)</relation>
+    <relation type="IT_OVERLAP" document-code="T1985-30">EEC - Pakistan Commercial, Economic and Development Cooperation Agreement (1985)</relation>
+    <relation type="IT_OVERLAP" document-code="T2018-17">EU - Singapore Investment Protection Agreement (2018)</relation>
+    <relation type="IT_OVERLAP" document-code="T2009-55">Eastern and Southern Africa States (ESA) - European Union EPA (2009)</relation>
+    <relation type="IT_OVERLAP" document-code="T1992-70">EC - Macao Trade Agreement (1992)</relation>
+    <relation type="IT_OVERLAP" document-code="T1963-12">First Yaounde&#x301; Convention (1963)</relation>
+    <relation type="IT_OVERLAP" document-code="T1999-84">EC - South Africa Cooperation Agreement (1999)</relation>
+    <relation type="IT_OVERLAP" document-code="T1994-104">EC - Ukraine Partnership and Cooperation Agreement (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T1980-21">EEC - ASEAN Contries Cooperation Agreement (1980)</relation>
+    <relation type="IT_OVERLAP" document-code="T2008-19">CARIFORUM - EC EPA (2008)</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-117">EC - North Macedonia Association Agreement (2001)</relation>
+    <relation type="IT_OVERLAP" document-code="T1961-15">OECD Code of Liberalisation of Capital Movements (1961)</relation>
+    <relation type="IT_OVERLAP" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T2014-27">EU - Moldova Association Agreement (2014)</relation>
+    <relation type="IT_OVERLAP" document-code="T2017-8">Armenia - EU Comprehensive and Enhanced Partnership Agreement (2017)</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-116">Mexico - EC Cooperation Agreement (2001)</relation>
+    <relation type="IT_OVERLAP" document-code="T2008-42">EC - Serbia Association Agreement (2008)</relation>
+    <relation type="IT_OVERLAP" document-code="T1969-12">Second Yaound&#xE9; Convention (1969)</relation>
+    <relation type="IT_OVERLAP" document-code="T1994-101">EC - Sri Lanka Cooperation Agreement (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T2012-16">Colombia - Ecuador - EU - Peru FTA (2012)</relation>
+    <relation type="IT_OVERLAP" document-code="T2018-38">EU - Singapore FTA (2018)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-111">EC - Israel Association Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T2019-20">EU - Vietnam FTA (2019)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-131">EC - Morocco Association Agreement (1996)</relation>
+    <relation type="IT_REPLACED_BY" document-code="T1999-27">BLEU - Morocco BIT (1999)</relation>
+    <relation type="IT_OVERLAP" document-code="T2020-48">EU - United Kingdom Trade and Cooperation Agreement (2020)</relation>
+    <relation type="IT_OVERLAP" document-code="T2000">Cotonou Agreement (2000)</relation>
+    <relation type="IT_OVERLAP" document-code="T1992-23">Brazil - EC Cooperation Agreement (1992)</relation>
+    <relation type="IT_OVERLAP" document-code="T1992-72">EC - Paraguay Cooperation Agreement (1992)</relation>
+    <relation type="IT_OVERLAP" document-code="T2014-26">EU - Georgia Association Agreement (2014)</relation>
+    <relation type="IT_OVERLAP" document-code="T2015-22">EU - Kazakhstan EPCA (2015)</relation>
+    <relation type="IT_OVERLAP" document-code="T2012-19">EU - Iraq Cooperation Agreement (2012)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-12">Armenia - EC Cooperation Agreement (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T1984-23">Third Lom&#xE9; Convention (1984)</relation>
+    <relation type="IT_OVERLAP" document-code="T2015-23">EU - Kosovo Stabilisation and Association Agreement (2015)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>CONVENTION BETWEEN THE BELGO-LUXEMBOURG ECONOMIC UNION AND THE KINGDOM OF MOROCCO CONCERNING THE ENCOURAGEMENT OF CAPITAL INVESTMENT AND THE PROTECTION OF PROPERTY</p>
+    </title>
+    <preamble>
+      <p>The Government of the Kingdom of Belgium, acting by virtue of the Convention for the Establishment of the Belgo-Luxembourg Economic Union both on its own behalf and on behalf of the Grand Duchy of Luxembourg and the Government of the Kingdom of Morocco,</p>
+      <p>Desiring to create favourable conditions for capital investment by nationals or corporations of either Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognizing that the contractual protection of investments is likely to stimulate private economic initiative and increase prosperity,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>Each Contracting Party undertakes to ensure in its territory just and equitable treatment for the investments, property, rights and interests belonging to nationals and corporations of the other Contracting Party and to prevent unjustified or discriminatory measures from interfering with the excercise of the right thus recognized.</p>
+        <p>To that end, each Contracting Party shall accord such investments, property, rights or interests the same security and protection as it accords those of its own nationals or investments of nationals and corporations of third States.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting Party undertakes to authorize, in conformity with the regulations promulgated in pursuance of the legislation in force in its territory at the time each investment is made or of any more favourable legislation that may be enacted, in the future or of rules agreed upon between the two Parties, the transfer:</p>
+        <p>&#x2014; Of net profits, interests, dividends and royalties due to nationals or corporations of the other Party;</p>
+        <p>&#x2014; Of the proceeds of the complete or partial liquidation of investments and reinvestments approved by the country in which they are made.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Each Contracting Party undertakes to authorize, in conformity with the regulations promulgated in pursuance of its legislation, the transfer of an adequate part of the earned income of nationals authorized to work in the territory of either Contracting Party.</p>
+      </div>
+      <div type="article" num="4">
+        <p>When one Party expropriates or nationalizes investments, property, rights or interests belonging to nationals or corporations of the other Contracting Party, it shall make provision, in accordance with international law, for the payment of effective and adequate compensation. The amount of such compensation, which shall be fixed at the time of the expropriation or nationalization, shall be paid to the due recipient without delay and transferred as soon as the due recipient has proved his residence abroad. Measures of expropriation or nationalization shall be neither discriminatory nor inconsistent with a specific undertaking.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Where a dispute arises between the Contracting Parties as to the interpretation or application of the provisions of articles 1 to 4 above and where such a dispute cannot be settled satisfactorily through the diplomatic channel within a period of six months, it shall be submitted, at the request of either Party, to an arbitral tribunal consisting of three members. Each Party shall appoint one arbitrator. The two arbitrators so appointed shall select a referee who shall not be a national of either Party.</p>
+        <p>If either Party fails to appoint its arbitrator and fails to comply with the other Party's request to make such an appointment within two months, the arbitrator shall be appointed, at the request of the latter Party, by the President of the International Court of Justice. If the two arbitrators cannot agree within a period of two months following their appointment on the choice of a referee, the latter shall be appointed at the request of either Party by the President of the International Court of Justice. If, in the cases provided for in paragraphs 2 and 3 of this article, the President of the International Court of Justice is unable to act, or if he is a national of either Party, the Vice-President shall make the appointment. If the Vice-President is unable to act, or if he is a national of either Party, the appointment shall be made by the senior member of the Court who is not a national of either Party. The tribunal shall base its decision on respect for the law. Before giving its decision, it may at any stage of the proceedings propose to the Parties an amicable settlement of the dispute. If the Parties agree, the tribunal shall settle the case . Unless the Parties otherwise decide, the tribunal shall determine its own rules of procedure.</p>
+      </div>
+      <div type="article" num="6">
+        <p>Where a matter is governed both by this Convention and by another international agreement binding either Party, nothing in this Convention shall prevent a national of one Party who owns property in the territory of the other Party from taking advantage of whichever regulations are the more favourable to his case.</p>
+      </div>
+      <div type="article" num="7">
+        <p>The provisions of this Convention shall apply only to investments made and to property, rights and interests acquired after the date of the entry into force of this Convention.</p>
+        <p>This Convention is concluded for a period of ten years and is renewable for the same length of time, unless notice of termination is given in writing by either Contracting Party one year before the expiry of each period. In respect of investments made and of property, rights and interests acquired before its date of expiry, this Convention shall continue to be applicable for ten years after its date of expiry.</p>
+      </div>
+      <div type="article" num="8">
+        <p>From the date of signature of this Convention the two Contracting Parties shall apply provisionally, pending the entry into force of the Convention, the provisions of articles 2 and 3.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>This Convention shall be ratified and the instruments of ratification shall be exchanged at Rabat.</p>
+      <p>It shall enter into force fifteen days after the date of the exchange of the instruments of ratification.</p>
+      <p>In witness whereof the undersigned representatives, duly authorized by their respective Governments, have signed this Convention.</p>
+      <p>Done at Rabat on 28 April 1965, in two originals in the French language, both texts being equally authentic.</p>
+      <p>For the Belgo-Luxembourg Economic Union: Jean de BASSOMPIERE</p>
+      <p>For the Government of the Kingdom of Morocco: Bensalem GUESSOUS</p>
+    </conclusion>
+    <attachments>
+      <div type="annex" title="Exchange of Letters">
+        <p>I.</p>
+        <p>CHAIRMAN OF THE MOROCCAN DELEGATION</p>
+        <p>Rabat, 28 April 1965</p>
+        <p>During the negotiations which took place between our two delegations on the occasion of the signing of the Convention Concerning the Encouragement of Capital Investment and the Protection of Property, it was agreed that the provisions of the Convention will not be applicable to the more favourable treatment granted by one of the Contracting Parties to nationals or corporations of a third States by virtue of an international agreement in the framework of an economic union in respect of customs, taxes and other duties.</p>
+        <p>I should be grateful if you would confirm that your Government agrees to the above.</p>
+        <p>Accept. Sir, etc.,</p>
+        <p>Bensalem GUESSOUS</p>
+        <p>Chairman of the Delegation of the Belgo-Luxembourg Economic Union</p>
+        <p>II.</p>
+        <p>CHAIRMAN OF THE DELEGATION OF THE BELGO-LUXEMBOURG ECONOMIC UNION</p>
+        <p>Sir,</p>
+        <p>Rabat, 28 April 1965</p>
+        <p>Yon were good enough to send me a letter which reads as folllows:</p>
+        <p>[See Letter I]</p>
+        <p>I have the honour  to confirm  to  you my  Government's agreement to the above. </p>
+        <p>Accept, Sir,  the assurances or my    highest consideration</p>
+        <p>Jean de BASSOMPIERE</p>
+        <p>Chairman  of  the  Moroccan  Delegation</p>
+        <p>III.</p>
+        <p>CHAIRMAN OF THE DELEGATION OF THE BELGO-LUXEMBOURG ECONOMIC UNION</p>
+        <p>Rabat, 28 April 1965</p>
+        <p>Sir,</p>
+        <p>During  the  negotiation which took place between our two delegations on the occasion of the  signing of  the  Convention  conferring  the  Encouragement of Capital Investment and the Protection of Property, it was agreed that as regards the application of the provisions of article 3 of the said Convention, the Government of the Kingdom of Morocco will guarantee to Belgium and Luxembourg nationals and corporations engaged in their activities in Morocco treatment no less favourable than that granted to nationals and corporations of any other country under laws and regulations in force and conventions existing between such countries and the Kingdom of Morocco.&nbsp;</p>
+        <p>l should be grateful  if  you  would  confirm  that your  Governemnt agree to the above;</p>
+        <p>Accept, Sir, etc.</p>
+        <p>Jean de BASSOMPIERE</p>
+        <p>Chairman  of  the  Moroccan Delegation</p>
+        <p>IV.</p>
+        <p>CHAlRMAN  OF  THE  MOROCCAN DELEGATION</p>
+        <p>Rabat, 28 April 1965</p>
+        <p>Yon were good enough to send me a letter which reads as folllows:</p>
+        <p>[See Letter III]</p>
+        <p>I have the honour to confirm to you my Government's agreement to the above.</p>
+        <p>Accept, Sir, the assurances or my highest consideration</p>
+        <p>Bensalem GUESSOUS</p>
+        <p>Chairman of the Delegation of the Belgo-Luxembourg Economic Union</p>
+      </div>
+    </attachments>
+  </main>
+</treaty>

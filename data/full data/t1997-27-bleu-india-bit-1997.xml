@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>BLEU - India BIT (1997)</name>
+    <code>T1997-27</code>
+    <partyisocode n="0">BLEU</partyisocode>
+    <partyisocode n="1">IND</partyisocode>
+    <date_signed>1997-10-31</date_signed>
+    <date_into_force>2001-01-08</date_into_force>
+    <date_terminated>2017-03-22</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Unilaterally denounced</termination_type>
+    <docreference>494</docreference>
+    <comments/>
+    <source>https://dea.gov.in/bipa</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{BLEU,IND}_1997-10-31.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Unilaterally denounced</IT_TERMINATION_TYPE>
+    <relation type="IT_OVERLAP" document-code="T1985-29">EEC - Central America Cooperation Agreement (1985)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-111">EC - Israel Association Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T2000">Cotonou Agreement (2000)</relation>
+    <relation type="IT_OVERLAP" document-code="T2008-42">EC - Serbia Association Agreement (2008)</relation>
+    <relation type="IT_OVERLAP" document-code="T1991-52">EC - Uruguay Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T2018-38">EU - Singapore FTA (2018)</relation>
+    <relation type="IT_OVERLAP" document-code="T2008-19">CARIFORUM - EC EPA (2008)</relation>
+    <relation type="IT_OVERLAP" document-code="T2018-17">EU - Singapore Investment Protection Agreement (2018)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-117">EC - Viet Nam Cooperation Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T2014-28">EU - Ukraine Association Agreement (2014)</relation>
+    <relation type="IT_OVERLAP" document-code="T1985-30">EEC - Pakistan Commercial, Economic and Development Cooperation Agreement (1985)</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-117">EC - North Macedonia Association Agreement (2001)</relation>
+    <relation type="IT_OVERLAP" document-code="T1992-72">EC - Paraguay Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T1984-23">Third Lom&#xE9; Convention (1984)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-12">Armenia - EC Cooperation Agreement (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T2018-16">EU - Japan Economic Partnership (2018)</relation>
+    <relation type="IT_OVERLAP" document-code="T2019-20">EU - Vietnam FTA (2019)</relation>
+    <relation type="IT_OVERLAP" document-code="T2012-16">Colombia - Ecuador - EU - Peru FTA (2012)</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-107">EC - Jordan Association Agreement (1997)</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-111">EC - Yemen Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-110">EC - State of Palestine Association Agreement (1997)</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-112">EC - Egypt Association Agreement (2001)</relation>
+    <relation type="IT_OVERLAP" document-code="T2020-48">EU - United Kingdom Trade and Cooperation Agreement (2020)</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-109">EC - Lao Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T2002-44">Chile - EC Association Agreement (2002)</relation>
+    <relation type="IT_OVERLAP" document-code="T1993-87">EC - India Cooperation Agreement (1993)</relation>
+    <relation type="IT_OVERLAP" document-code="T2015-22">EU - Kazakhstan EPCA (2015)</relation>
+    <relation type="IT_OVERLAP" document-code="T2016-17">EU - SADC Economic Partnership Agreement (2016)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-130">EC - Korea, Republic of Cooperation Agreement (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-116">Mexico - EC Cooperation Agreement (2001)</relation>
+    <relation type="IT_OVERLAP" document-code="T2019-8">EU - Vietnam Investment Protection Agreement (2019)</relation>
+    <relation type="IT_OVERLAP" document-code="T2016-10">Canada - EU CETA (2016)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-113">EC - Kyrgyzstan Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T1994-104">EC - Ukraine Partnership and Cooperation Agreement (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T1989-43">Fourth Lom&#xE9; Convention (1989)</relation>
+    <relation type="IT_OVERLAP" document-code="T2002-60">Algeria - EC Association Agreement (2002)</relation>
+    <relation type="IT_OVERLAP" document-code="T2008-9">Bosnia - EC Stabilization Agreement (2008)</relation>
+    <relation type="IT_OVERLAP" document-code="T2021">China - EU Comprehensive Agreement on Investment (2021)</relation>
+    <relation type="IT_OVERLAP" document-code="T2009-55">Eastern and Southern Africa States (ESA) - European Union EPA (2009)</relation>
+    <relation type="IT_OVERLAP" document-code="T1957">Consolidated version of the Treaty on the Functioning of the European Union (TFEU) (1957)</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-119">EC - Pakistan Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-129">EC - Georgia Cooperation Agreement (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T2015-23">EU - Kosovo Stabilisation and Association Agreement (2015)</relation>
+    <relation type="IT_OVERLAP" document-code="T2021-123">European Union - Organisation of African, Caribbean and Pacific States Partnership Agreement (2021)</relation>
+    <relation type="IT_OVERLAP" document-code="T1994-102">EC - Moldova PCA</relation>
+    <relation type="IT_OVERLAP" document-code="T1994-103">EC - Russia PCA (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-132">EC - Uzbekistan Cooperation Agreement (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T2004-58">EC - Tajikistan Partnership Agreement (2004)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-116">EC - Tunisia Association Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T2017-8">Armenia - EU Comprehensive and Enhanced Partnership Agreement (2017)</relation>
+    <relation type="IT_OVERLAP" document-code="T1992-71">EEC - Mongolia Trade Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T2008-27">C&#xF4;te d'Ivoire - EC EPA (2008)</relation>
+    <relation type="IT_OVERLAP" document-code="T2003-4">Andean Community - EC Political Dialogue and Co-operation Agreement (2003)</relation>
+    <relation type="IT_OVERLAP" document-code="T2002-71">EC - Lebanon Association Agreement (2002)</relation>
+    <relation type="IT_OVERLAP" document-code="T2012-8">Central America - EU Association Agreement (2012)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-32">Belarus - European Communities Cooperation Agreement (1995)</relation>
+    <relation type="IT_OVERLAP" document-code="T1999-84">EC - South Africa Cooperation Agreement (1999)</relation>
+    <relation type="IT_OVERLAP" document-code="T1980-20">EEC - Yugoslavia Cooperation Agreement (1980)</relation>
+    <relation type="IT_OVERLAP" document-code="T2006-1">Albania - EC Association Agreement (2006)</relation>
+    <relation type="IT_OVERLAP" document-code="T1979-14">Second Lom&#xE9; Convention (1979)</relation>
+    <relation type="IT_OVERLAP" document-code="T1992-23">Brazil - EC Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-112">EC - Kazakhstan Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T2000-14">Bangladesh - European Communities Cooperation Agreement (2000)</relation>
+    <relation type="IT_OVERLAP" document-code="T1992-70">EC - Macao Trade Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T2001-118">European Community - Overseas Countries and Territories Association</relation>
+    <relation type="IT_OVERLAP" document-code="T2014-26">EU - Georgia Association Agreement (2014)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-22">Azerbaijan - European Communities Partnership and Cooperation Agreement (1996)</relation>
+    <relation type="IT_OVERLAP" document-code="T1988-19">European Economic Community - Gulf Cooperation Council (GCC) Cooperation Agreement (1998)</relation>
+    <relation type="IT_OVERLAP" document-code="T2014-27">EU - Moldova Association Agreement (2014)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-114">EC - Mercosur Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T2007-47">EU - Montenegro Stabilisation and Association Agreement (2007)</relation>
+    <relation type="IT_OVERLAP" document-code="T1985-6">China - EC Trade and Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T2009-54">EU - SADC Interim Agreement (2009)</relation>
+    <relation type="IT_OVERLAP" document-code="T1980-21">EEC - ASEAN Contries Cooperation Agreement (1980)</relation>
+    <relation type="IT_OVERLAP" document-code="T2009-36">EU - Cameroon EPA (2009)</relation>
+    <relation type="IT_OVERLAP" document-code="T1995-115">EC - Nepal Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T1997-108">Cambodia - EC Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T2012-19">EU - Iraq Cooperation Agreement (2012)</relation>
+    <relation type="IT_OVERLAP" document-code="T1994-101">EC - Sri Lanka Cooperation Agreement</relation>
+    <relation type="IT_OVERLAP" document-code="T1992-58">Agreement Establishing the European Economic Area (EEA) (1992)</relation>
+    <relation type="IT_OVERLAP" document-code="T1996-131">EC - Morocco Association Agreement (1996)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agrement between the Belgo-Luxembourg Economic Union and the Republic of India concerning the Promotion and Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Belgo-Luxembourg Economic Union represented by the Government of the Kingdom of Belgium, acting both in its own name and in the name of the Government of the Grand-Duchy of Luxembourg, by virtue of existing agreements, the Government of the Region of Wallonia, the Government of the Region of Flanders, and the Government of the Region of Brussels-Capital, on the one hand, and the Government of the Republic of India, on the other hand, hereinafter referred to as the two "Contracting Parties";</p>
+      <p>Desiring to create conditions favourable for fostering greater investment by investors of one Party in the territory of the other Party;</p>
+      <p>Recognising that the encouragement and reciprocal protection under international agreement of such investment will be conducive to the stimulation of individual business initiative and will increase prosperity in both States;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>(a) "Companies" means</p>
+        <p>(i) In respect of the Belgo-Luxembourg Economic Union: any legal person constituted in accordance with the legislation of the Kingdom of Belgium or the Grand-Duchy of Luxembourg and having its registered office in the territory of the Kingdom of Belgium or the Grand-Duchy of Luxembourg;</p>
+        <p>(ii) In respect of India: Corporations, firms and associations incorporated or constituted or established under the law in force in any part of India;</p>
+        <p>(iii) In respect of both Contracting Parties: companies established in a third country in accordance with its laws in which at least fifty-one percent equity interest is owned by investors of one of the Contracting Parties;</p>
+        <p>(b) "investment" means any kind of assets and any contribution in cash, in kind or in services, invested or reinvested in any sector of economic activity, in accordance with the national laws of the Contracting Party in which the investment is made, and in particular,</p>
+        <p>(i) Movable and immovable property as well as other rights such as mortgages, liens, usufruct or pledges;</p>
+        <p>(ii) Shares in and stock and debentures of a cownany and any other similar forms of participation in a company, including minority ones;</p>
+        <p>(iii) Rights to money or to any performance under contract having a financial value;</p>
+        <p>(iv) Intellectual property rights in accordance with the relevant laws of the respective Contracting Party;</p>
+        <p>(v) Business concessions conferred by law or under contract, including concessions to search for, develop, exploit and extract oil, minerals or other natural resources;</p>
+        <p>(c) "investors" means any national or company of a Contracting Party;</p>
+        <p>(d) "nationals" means</p>
+        <p>(i) In respect of the Belgo-Luxembourg Economic Union: any natural person who, according to the legislation of the Kingdom of Belgium or the Grand-Duchy of Luxembourg is considered as a citizen of the Kingdom of Belgium or the Grand-Duchy of Luxembourg;</p>
+        <p>(ii) In respect of India: persons deriving their status as Indian nationals from the law in force in India;</p>
+        <p>(e) "returns" means the monetary amounts yielded by an investment such as profit, interest, capital gains, dividends, royalties and fees;</p>
+        <p>Changes in the legal form in which assets and capital have been invested or reinvested shall not affect their designation as "investments" for the purpose of this Agreement.</p>
+        <p>(f) "territory" means:</p>
+        <p>(i) In respect of the Belgo-Luxembourg Economic Union: the territory of the Kingdom of Belgium or the territory of the Grand-Duchy of Luxembourg as well as the maritime areas, i.e. the marine and underwater areas which extend beyond the territorial waters, of the States concerned and upon which the latter exercise, in accordance with international law, their sovereign rights and their jurisdiction for the purpose of exploring, exploiting and preserving natural resources.</p>
+        <p>(ii) In respect of India: the territory of the Republic of India including its territorial waters and the airspace above it and other maritime zones including the Exclusive Economic Zone and continental shelf over which the Republic of India has sovereignty, sovereign rights or exclusive jurisdiction in accordance with its laws in force, the 1982 United Nations Convention on the Law of the Sea and International Law.</p>
+      </div>
+      <div type="article" num="2" title="Scope of the Agreement">
+        <p>This Agreement shall apply to all investments made by investors of either Contracting Party in the territory of the other Contracting Party, accepted as such in accordance with its laws and regulations, whether made before or after the coming into force of this Agreement.</p>
+      </div>
+      <div type="article" num="3" title="Promotion and Protection of Investment">
+        <p>(1) Each Contracting Party shall encourage and create favourable conditions for investors of the other Contracting Party to make investments in its territory, and admit such investments in accordance with its laws and policy within the framework of its laws, and facilitate the fulfilment of procedural and technical requirements in relation to activities connected with an investment.</p>
+        <p>(2) Investments and returns of investors of each Contracting Party shall at all times be accorded fair and equitable treatment in the territory of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="4" title="National Treatment and Most-favoured-nation Treatment">
+        <p>(1) Each Contracting Party shall accord to investments of investors of the other Contracting Party national treatment or most-favoured-nation treatment, whichever is more favourable to the investor concerned.</p>
+        <p>(2) In addition, each Contracting Party shall accord to investors of the other Contracting Party, including in respect of returns on their investments most-favoured-nation treatment.</p>
+        <p>(3) The provisions of paragraphs (1) and (2) above shall not be construed so as to oblige one Contracting Party to extend to the investors of the other the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>(a) Any existing or future customs union, a free trade zone, a common market or similar international agreement to which it is or may become a party, or</p>
+        <p>(b) Any matter pertaining wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>(1) Investments of investors of either Contracting Party shall not be nationalised, expropriated or subjected to measures having effect equivalent to nationalisation or expropriation (hereinafter referred to as "expropriation") in the territory of the other Contracting Party except for a public purpose in accordance with law on a non-discriminatory basis and against fair and equitable compensation. Such compensation shall amount to the genuine value of the investment expropriated immediately before the expropriation or before the impending expropriation became public knowledge, whichever is the earlier, shall include interest at an appropriate commercial rate until the date of payment, shall be made without unreasonable delay, be effectively realized and be freely transferable.</p>
+        <p>(2) The investor affected shall have a right, under the law of the Contracting Party making the expropriation, to review, by a judicial or other independent authority of that Party, of his or its case and of the valuation of his or its investment in accordance with the principles set out in this paragraph. The Contracting Party making the expropriation shall make every endeavour to ensure that such review is carried out promptly.</p>
+        <p>(3) Where a Contracting Party expropriates the assets of a company which is incorporated or constituted under the law in force in any part of its own territory, and in which investors of the other Contracting Party own shares, it shall ensure that the provisions of paragraph (1) of this Article are applied to the extent necessary to ensure fair and equitable compensation in respect of their investment to such investors of the other Contracting Party who are owners of those shares.</p>
+      </div>
+      <div type="article" num="6" title="Compensation for Losses">
+        <p>Investors of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed conflict, a state of national emergency or civil disturbances in the territory of the latter Contracting Party shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which the latter Contracting Party accords to its own investors or to investors of any third State, whichever is more favourable to the investor concerned. Resulting payments shall be freely transferable.</p>
+      </div>
+      <div type="article" num="7" title="Transfer of Capital, Investment and Returns">
+        <p>1. Each Contracting Party shall with respect to investments in its territory by investors of the other Contracting Party allow the free transfer of:</p>
+        <p>(a) Capital and additional capital amounts used to establish, maintain and increase investments;</p>
+        <p>(b) Net operating profits including dividends and interest in proportion to their share-holding;</p>
+        <p>(c) Repayments of any loan, including interest thereon, relating to the investment;</p>
+        <p>(d) Payment of royalties and services fees relating to the investment;</p>
+        <p>(e) Proceeds from sales of their shares;</p>
+        <p>(f) Proceeds received by investors in case of sale or partial sale or liquidation;</p>
+        <p>(g) The earnings of citizens/nationals of one Contracting Party who work in connection with investment in the territory of the other Contracting Party.</p>
+        <p>2. Nothing in paragraph (1) of this Article shall affect the transfer of any compensation under Article 6 of this Agreement.</p>
+      </div>
+      <div type="article" num="8" title="Subrogation">
+        <p>Where one Contracting Party or its designated agency has guaranteed any indemnity against non-commercial risks in respect of an investment by any of its investors in the territory of the other Contracting Party and has made payment to such investors in respect of their claims under this Agreement, the other Contracting Party agrees that the first Contracting Party or its designated agency is entitled by virtue of subrogation to exercise the rights and assert the claims of those investors. The subrogated rights or claims shall not exceed the original rights or claims of such investors.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of Investment Disputes">
+        <p>(1) Any investment dispute between an investor of one Contracting Party and the other Contracting Party shall be notified in writing by either party to the dispute. The notification shall be accompanied by a sufficiently detailed memorandum.</p>
+        <p>As far as possible, the parties shall endeavour to settle the dispute through negotiations, if necessary by seeking expert advice from a third party or by conciliation.</p>
+        <p>(2) In the absence of an amicable settlement, by direct agreement between the parties to the dispute or by conciliation, within six months from the notification, the dispute shall be submitted, at the option of the investor, either to the competent judicial of arbitral bodies of the State where the investment was made, or to international arbitration. Once the investor has expressed his choice, that choice is binding and final.</p>
+        <p>(3) In case of international arbitration, the following procedure may be followed:</p>
+        <p>(i) If the State of the investor and the State where the investment was made are both parties to the Convention on the Settlement of Investment Disputes between States and Nationals of other States, 1965, and if both parties to the dispute consent in writing to submit the dispute to the International Centre for the Settlement of Investment Disputes, the dispute shall be referred to the Centre,</p>
+        <p>(ii) If both parties to the dispute so agree, to the Additional Facility Rules for the Administration of Conciliation, Arbitration and Fact-Finding Proceedings,</p>
+        <p>(iii) If the dispute is not referred to the forums in clauses (i) and (ii) above, it shall be referred to an ad hoc arbitral tribunal, set up according to the arbitration rules laid down by the United Nations Commission on International Trade Law (UNCITRAL). To that end, each Contracting Party agrees in advance and irrevocably to the settlement of any dispute by this type of ad hoc arbitration.</p>
+        <p>The UNCITRAL rules shall apply subject to the following provisions</p>
+        <p>(a) The appointing authority under Article 7 of the Rules shall be the President, the Vice-President or the next senior Judge of the International Court of Justice, who is not a national of either Contracting Party. The third arbitrator shall not be a national of either Contracting Party.Article 7 of the Rules shall be the President, the Vice-President or the next senior Judge of the International Court of Justice, who is not a national of either Contracting Party. The third arbitrator shall not be a national of either Contracting Party.</p>
+        <p>(b) The parties shall appoint their respective arbitrators within two months.</p>
+        <p>(c) The arbitral award shall be made in accordance with the provisions of this Agreement.</p>
+        <p>(d) The arbitral tribunal shall state the basis of its decision and give reasons upon the request of either party.</p>
+        <p>(4) At any stage of the arbitration proceedings or of the execution of an arbitral award, none of the Contracting Parties involved in a dispute shall be entitled to raise as an objection the fact that the investor who is the opposing party in the dispute has received compensation totally or partly covering his losses pursuant to an insurance policy or to the guarantee provided for in Article 8 of this Agreement.</p>
+        <p>(5) The arbitral awards shall be final and binding on the parties to the dispute. Each Contracting Party undertakes to execute the awards in accordance with its national legislation.</p>
+      </div>
+      <div type="article" num="10" title="Disputes between the Contracting Parties">
+        <p>(1) Disputes between the Contracting Parties concerning the interpretation or application of this Agreement should, as far as possible, be settled through negotiation.</p>
+        <p>(2) If a dispute between the Contracting Parties cannot thus be settled within six months from the time the dispute arose, it shall upon the request of either Contracting Party be submitted to an arbitral tribunal.</p>
+        <p>(3) Such an arbitral tribunal shall be constituted for each individual case in the following way. Within two months of the receipt of the request for arbitration, each Contracting Party shall appoint one member of the tribunal. Those two members shall then select a national of a third State who an approval by the two Contracting Parties shall be appointed Chairman of the tribunal. The Chairman shall be appointed within two months from the date of appointment of the other two members.</p>
+        <p>(4) If within the periods specified in paragraph (3) of this Agreement the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments. If the President is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he too is prevented from discharging the said function, the Member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>(5) The arbitral tribunal shall reach its decision by a majority of votes. Such decisions shall be binding on both Contracting Parties. Each Contracting Party shall bear the cost of its own member of the tribunal and of its representation in the arbitral proceedings; the cost of the Chairman and the remaining costs shall be borne in equal parts by the Contracting Parties. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two Contracting Parties, and this award shall be binding on both Contracting Parties. The tribunal shall determine its own procedure.</p>
+      </div>
+      <div type="article" num="11" title="Entry and Sojourn of Personnel">
+        <p>A Contracting Party shall, in accordance to its laws and policy relating to the entry and sojourn of non-citizens, permit key personnel and personnel with special technical skills (including personnel for training) employed by investors of the other Contracting Party, to enter and stay for a required period in its territory for the purpose of engaging in activities connected with the establishment and the operation of the investments.</p>
+      </div>
+      <div type="article" num="12" title="Applicable Laws">
+        <p>(1) Except as otherwise provided in this Agreement, all investments shall be governed by the laws in force in the territory of the Contracting Party in which such investments are made.</p>
+        <p>(2) Nothing in this Agreement shall prevent either Contracting Party from applying prohibitions or restrictions to the extent necessary for the protection of its essential security interests or for the prevention of diseases and pests.</p>
+      </div>
+      <div type="article" num="13" title="Application of other Rules">
+        <p>If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to the present Agreement contain rules, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided for by the present Agreement, such rules shall to the extent that they are more favourable prevail over the present Agreement.</p>
+      </div>
+      <div type="article" num="14" title="Other Commitments">
+        <p>Each Contracting Party shall observe any obligation it may have entered into with regard to an investment of an investor of the other Contracting Party. In relation to such obligations, dispute resolution under article 9 shall however only be applicable in the absence of normal local judicial remedies being available.</p>
+      </div>
+      <div type="article" num="15" title="Entry Into Force">
+        <p>This Agreement shall be subject to ratification and shall enter into force on the date of exchange of Instruments of Ratification.</p>
+      </div>
+      <div type="article" num="16" title="Duration and Termination">
+        <p>(1) This Agreement shall remain in force for a period often years and thereafter it shall be deemed to have been automatically extended unless either Contracting Party gives to the other Contracting Party a written notice of its intention to terminate the Agreement. The Agreement shall stand terminated one year from the date on receipt of such written notice.</p>
+        <p>(2) Notwithstanding termination of this Agreement pursuant to paragraph (1) of this Article, the Agreement shall continue to be effective for a further period of fifteen years from the date of its termination in respect of investments made or acquired before the date oftermination of this Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the undersigned,' duly authorised thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done at New Delhi on this the 31st day of October, 1997 in two originals each in the Dutch, French, English and Hindi languages, all texts being equally authoritative. The text in the English language shall prevail in case of difference of interpretation.</p>
+      <p>For the Belgo-Luxembourg Economic Union: For the Government of the Kingdom of Belgium acting both in its own name and in the name of the Government of the Grand-Duchy of Luxembourg:</p>
+      <p>For the Government of the Region of Wallonia:</p>
+      <p>For the Government of the Region of Flanders:</p>
+      <p>For the Government of the Region of Brussels-Capital: Prime MinisterJ. L. Dehaene</p>
+      <p>For the Government of Republic of India: Minister of Finance Chidambaram</p>
+    </conclusion>
+  </main>
+</treaty>

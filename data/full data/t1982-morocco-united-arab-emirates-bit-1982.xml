@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Morocco - United Arab Emirates BIT (1982)</name>
+    <code>T1982</code>
+    <partyisocode n="0">ARE</partyisocode>
+    <partyisocode n="1">MAR</partyisocode>
+    <date_signed>1982-06-16</date_signed>
+    <date_into_force/>
+    <date_terminated>2002-04-01</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>2607</docreference>
+    <comments>UNCTAD has wrong text: New agreement signed on 3 February 1999. http://arbitration.org/sites/default/files/bit/morocco_united_arab_emirates_arabic.pdf</comments>
+    <source>www.emploi.gov.ma/</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T1999-161">Morocco - United Arab Emirates BIT (1999)</relation>
+  </meta>
+  <main/>
+</treaty>

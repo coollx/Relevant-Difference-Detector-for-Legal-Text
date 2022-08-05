@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Cuba - Guyana BIT (1999)</name>
+    <code>T1999-50</code>
+    <partyisocode n="0">CUB</partyisocode>
+    <partyisocode n="1">GUY</partyisocode>
+    <date_signed>1999-10-22</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>1123</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CUB,GUY}_1999-10-22.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main/>
+</treaty>

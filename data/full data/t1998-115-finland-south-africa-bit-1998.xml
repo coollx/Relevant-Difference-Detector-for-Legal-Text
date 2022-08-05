@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Finland - South Africa BIT (1998)</name>
+    <code>T1998-115</code>
+    <partyisocode n="0">FIN</partyisocode>
+    <partyisocode n="1">ZAF</partyisocode>
+    <date_signed>1998-09-14</date_signed>
+    <date_into_force>1999-10-03</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1539</docreference>
+    <comments/>
+    <source>https://www.finlex.fi/</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{FIN,ZAF}_1998-09-14.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF FINLAND AND THE GOVERNMENT OF THE REPUBLIC OF SOUTH AFRICA ON THE PROMOTION AND RECIPROCAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Finland and the Government of the Republic of South Africa, hereinafter referred to as the "Contracting Parties";</p>
+      <p>Desiring to create favourable conditions for increased investment by investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognising that the encouragement and reciprocal protection of such investments on the basis of an Agreement will be conducive to the stimulation of business initiatives and to increasing the economic prosperity of both States;</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>In this Agreement, unless the context otherwise indicates:</p>
+        <p>(1) "Investment" means every kind of asset, established or acquired by an investor of one Contracting Party in the territory of the other Contracting Party (hereinafter referred to as the "host Party"), in accordance with the laws of the other Contracting Party, and in particular, though not exclusively, includes -</p>
+        <p>(a) Movable and immovable property, as well as reinvested returns, and property rights such as mortgages, liens, pledges or leases;</p>
+        <p>(b) Shares and debentures of a company and any other form of participation in a company;</p>
+        <p>(c) Claims to money, or to any performance having economic value;</p>
+        <p>(d) Intellectual property rights, such as patents, copyrights, franchises, industrial designs, technical processes, know-how and goodwill;</p>
+        <p>(e) Rights or permits conferred by law or under contract, including concessions to search for, cultivate, extract or exploit natural resources.</p>
+        <p>(2) "Returns" means the amounts yielded by an investment and in particular, though not exclusively, includes profit, interest, capital gains, dividends, royalties and fees.</p>
+        <p>(3) "Investor" means -</p>
+        <p>(a) Any natural person deriving its status as a national of a Contracting Party from the laws of that Contracting Party, or</p>
+        <p>(b) Any legal person, corporation, firm or association incorporated or constituted under the laws of that Contracting Party.</p>
+        <p>(4) "Territory" means all the land and sea area, including the maritime zones over which the Contracting Party concerned exercises, in accordance with international law, sovereign rights or jurisdiction.</p>
+        <p>(5) Any alteration in the form in which assets are invested or reinvested does not affect their character as an investment.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>(1) Each Contracting Party shall in its territory encourage investments by investors of the other Contracting Party and create favourable conditions for such investments.</p>
+        <p>(2) Investments by investors of one Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy full protection and security in the territory of the host Party. The host Party shall in no way in its territory, by unreasonable or discriminatory measures, impair the management, maintenance, use, enjoyment or disposal of investments by investors of the other Contracting Party.</p>
+      </div>
+      <div type="article" num="3" title="Treatment of investments">
+        <p>(1) The host Party shall in its territory subject investments by investors of the other Contracting Party to treatment no less favourable than that which it accords to investments of its own investors or to investments of investors of any third State.</p>
+        <p>(2) The host Party shall in its territory subject investors of the other Contracting Party, as regards the management, use, enjoyment or disposal of their investments, to treatment no less favourable than that which it accords to its own investors or to investors of any third State.</p>
+      </div>
+      <div type="article" num="4" title="Compensation for losses">
+        <p>(1) An investor of one Contracting Party whose investments suffer losses owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection or riot in the territory of the host Party, shall be accorded by the host Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which the host Party accords to its own investors or to investors of any third State.</p>
+        <p>(2) Without prejudice to paragraph (1) of this Article, an investor of one Contracting Party whose investments, in any situations referred to in that paragraph, suffer losses in the territory of the host Party resulting from requisitioning or destruction by the forces or authorities of the host Party, and the loss was not caused in combat action or was not required by the necessity of the situation, shall be accorded by the host Party prompt, adequate and effective compensation.</p>
+      </div>
+      <div type="article" num="5" title="Expropriation">
+        <p>(1) Investments by investors of one Contracting Party in the territory of the host Party shall not be nationalised, expropriated or subjected to measures having the same effect (hereinafter referred to as "expropriation") except in the public interest on a non-discriminatory basis. The measures shall be carried out under due process of law and shall be accompanied by prompt, adequate and effective compensation.</p>
+        <p>(2) Such compensation shall amount to the fair market value of the investment expropriated at the time immediately before the expropriation or impending expropriation became public knowledge in such a way as to affect the value of the investment.</p>
+        <p>(3) The fair market value shall be calculated in a freely convertible currency on the basis of the prevailing market rate of exchange for that currency at the moment referred to in paragraph (2) of this Article. Compensation shall also include interest at London Interbank Offered Rate (Libor) from the date of expropriation until the date of payment.</p>
+      </div>
+      <div type="article" num="6" title="Free transfer">
+        <p>(1) The host Party shall allow investors of the other Contracting Party the free transfer of all payments into and out of its territory relating to an investment, including particularly -</p>
+        <p>(a) Establishing, maintaining or expanding investments;</p>
+        <p>(b) Payments under contract, repayment of loans, royalties and other payments resulting from licences, franchises, concession and other similar rights, as well as net earnings of expatriate personnel;</p>
+        <p>(c) Returns from investments;</p>
+        <p>(d) Proceeds from the sale or liquidation of an investment;</p>
+        <p>(e) Payments arising out of the settlement of disputes; and</p>
+        <p>(f) Compensation paid pursuant to Articles 4 and 5.</p>
+        <p>(2) Transfers shall be effected without delay and in a convertible currency. Transfers shall be made at the spot market rate of exchange applicable on the date of transfer.</p>
+      </div>
+      <div type="article" num="7" title="Exceptions">
+        <p>The provisions of this Agreement, relative to the granting of treatment no less favourable than that accorded to investors of either Contracting Party or of any third State, shall not be construed so as to oblige the host Party to extend to investors of the other Contracting Party the benefit of any treatment, preference or privilege resulting from -</p>
+        <p>(a) Any regional economic organisation or customs union of which the host Party is or may become a party;</p>
+        <p>(b) Any international agreement or arrangements relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation; or</p>
+        <p>(c) Any agreement or arrangement relating to special advantages accorded to development finance institutions with foreign participation and established for the exclusive purposes of development assistance through mainly nonprofit activities.</p>
+      </div>
+      <div type="article" num="8" title="Disputes between an investor and the host party">
+        <p>(1) Disputes between an investor of one Contracting Party and the host Party relating to an investment by an investor of the former Contracting Party in the territory of the host Party should be settled amicably.</p>
+        <p>(2) If such a dispute cannot thus be settled within a period of six months from the date at which either party to the dispute requested amicable settlement, the investor may submit the case either to -</p>
+        <p>(a) The International Centre for Settlement of Investment Disputes (ICSID), established pursuant to the Convention on the Settlement of Investment Disputes between States and Nationals of other States, opened for signature at Washington on 18 March 1965; or</p>
+        <p>(b) To an ad hoc arbitration tribunal, which unless otherwise agreed upon by the parties to the dispute, is to be established under the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).</p>
+        <p>(3) For the time being whilst the Republic of South Africa is not a party to the Convention referred to in sub-paragraph (a) of paragraph (2), the dispute may be settled under the rules governing the Additional Facility for the Administration of Proceedings by the Secretariat of ICSID.</p>
+        <p>(4) The award shall be final and binding for the parties to the dispute, and shall be executed according to national law.</p>
+      </div>
+      <div type="article" num="9" title="Disputes between contracting parties">
+        <p>(1) Disputes between the Contracting Parties concerning the application or interpretation of this Agreement shall, if possible, be settled through negotiations.</p>
+        <p>(2) If such a dispute cannot thus be settled within six months from the date at which either Contracting Party requested negotiations, either Contracting Party may by written notice to the other Contracting Party submit the matter to arbitration under this Article.</p>
+        <p>(3) The arbitration tribunal shall be constituted for each individual case. Each Contracting Party shall appoint one member. These two members shall then agree upon a national of a third State, to be appointed by the Contracting Parties as their Chairman. The members shall be appointed within two months and the Chairman within four months from the date of the receipt of the written notice under paragraph (2) of this Article.</p>
+        <p>(4) If the time limits referred to in paragraph (3) of this Article have not been complied with, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Contracting Party or if the President is otherwise prevented from discharging this task, the appointments shall be made by the most senior deputy of the President.</p>
+        <p>(5) The arbitration tribunal shall take its decisions by a majority of votes and determine its own procedures. The tribunal shall decide the dispute in accordance with this Agreement and applicable rules and principles of international law. The arbitral award shall be final and binding upon the Contracting Parties.</p>
+        <p>(6) The expenses of the tribunal, including the remuneration of its members, shall be borne in equal shares by the Contracting Parties. The tribunal may, however, at its discretion direct that a higher proportion of the costs shall be borne by one of the Contracting Parties.</p>
+      </div>
+      <div type="article" num="10" title="Subrogation">
+        <p>If a Contracting Party or its designated agency makes a payment to its own investor under a guarantee against noncommercial risks it has accorded in respect of an investment in the territory of the other Contracting Party, the host Party shall recognise the assignment, whether under the law or pursuant to a legal transaction to the former Contracting Party of all the rights and claims resulting from such an investment, and shall recognise that the former Contracting Party or its designated agency is entitled to exercise such rights and enforce such claims by virtue of subrogation, to the same extent as the original investor.</p>
+      </div>
+      <div type="article" num="11" title="Scope of the agreement">
+        <p>(1) If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to the present Agreement contain a regulation, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided for by the present Agreement, such regulation shall to the extent that it is more favourable, prevail over the present Agreement.</p>
+        <p>(2) This Agreement shall apply to all investments, whether made before or after its entry into force, but shall not apply to any dispute concerning an investment which arose, or any such claim concerning an investment which was settled, before its entry into force.</p>
+      </div>
+      <div type="article" num="12" title="Final clauses">
+        <p>(1) This Agreement shall enter into force on the thirtieth day after the day on which the Contracting Parties have notified each other that their constitutional requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>(2) This Agreement shall remain in force for a period of twenty years. Thereafter it shall remain in force for twelve months from the date on which either Contracting Party has in writing notified the other Contracting Party of its decision to terminate this Agreement.</p>
+        <p>(3) In respect of investments made prior to the date when the notice of termination of this Agreement becomes effective, the provisions of Articles 1 to 11 remain in force for a further period of twenty years from the date of notification referred to in paragraph (2) of this Article.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Helsinksi on 14th September 1998 in two originals in the English language.</p>
+      <p>For the Government of the Republic of Finland</p>
+      <p>For the Government of the Republic of South Africa</p>
+    </conclusion>
+    <attachments>
+      <p>PROTOCOL TO THE AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF FINLAND AND THE GOVERNMENT OF THE REPUBLIC OF SOUTH AFRICA ON THE PROMOTION AND RECIPROCAL PROTECTION OF INVESTMENTS</p>
+      <p>On the signing of the Agreement between the Government of the Republic of Finland and the Government of the Republic of South Africa on the Promotion and Reciprocal Protection of Investments, the undersigned representatives have, in addition, agreed on the following provisions, which shall constitute an integral part of the Agreement:</p>
+      <p>With reference to Article 6</p>
+      <p>It is confirmed that the provisions relating to transfers under Article 6 shall not be applicable to natural persons who are nationals of the Republic of Finland to the extent that such provisions are incompatible with the foreign exchange restrictions on foreign nationals with permanent residence and having immigrated to the Republic of South Africa, in force on the date of entry into force of the Agreement.</p>
+      <p>The exemptions to Article 6 provided for in terms of this Protocol shall automatically terminate for each restriction upon removal of such restriction.</p>
+      <p>Done at Helsinksi on 14th September 1998 in two originals in the English language.</p>
+      <p>For the Government of the Republic of Finland</p>
+      <p>For the Government of the Republic of South Africa</p>
+    </attachments>
+  </main>
+</treaty>

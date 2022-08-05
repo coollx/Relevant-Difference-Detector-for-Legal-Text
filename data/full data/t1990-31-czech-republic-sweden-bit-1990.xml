@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Czech Republic - Sweden BIT (1990)</name>
+    <code>T1990-31</code>
+    <partyisocode n="0">CZE</partyisocode>
+    <partyisocode n="1">SWE</partyisocode>
+    <date_signed>1990-11-13</date_signed>
+    <date_into_force>1991-09-23</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1233</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{CZE,SWE}_1990-11-13.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE CZECH AND SLOVAK FEDERAL REPUBLIC AND THE KINGDOM OF SWEDEN ON THE PROMOTION AND RECIPROCAL PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Czech and Slovak Federal Republic and the Kingdom of Sweden,</p>
+      <p>Acting in the spirit of the principles of the Final Act of the Conference on Security and Co-operation in Europe, signed in Helsinki on 1 August 1975;2</p>
+      <p>Desiring to intensify economic co-operation to the mutual benefit of both countries and to maintain fair and equitable conditions for investments by investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>Recognizing that the promotion and protection of such investments favour the expansion of the economic relations between the two Contracting Parties and stimulate investment initiatives,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>(1) The term "investment" shall comprise every kind of asset, invested by an investor of one Contracting Party in the territory of the other Contracting Party, provided that the investment has been made in accordance with the laws and regulations of the other Contracting Party, and shall include in particular:</p>
+        <p>(a) Movable and immovable property as well as any other property rights, such as mortgage, lien, pledge, and similar rights;a) Movable and immovable property as well as any other property rights, such as mortgage, lien, pledge, and similar rights;</p>
+        <p>(b) Shares and other kinds of interest in companies;b) Shares and other kinds of interest in companies;</p>
+        <p>(c) Title to money or any performance having an economic value;c) Title to money or any performance having an economic value;</p>
+        <p>(d) Industrial and intellectual property rights such as patents, technical processes, trade names and know-how, as well as good-will;d) Industrial and intellectual property rights such as patents, technical processes, trade names and know-how, as well as good-will;</p>
+        <p>(e) Business concessions, including concessions to search for, cultivate, extract or exploit natural resources.e) Business concessions, including concessions to search for, cultivate, extract or exploit natural resources.</p>
+        <p>(2) The term "investor" shall mean:</p>
+        <p>(a) Any natural person who is a national of a Contracting Party in accordance with its laws; and has the permission to invest in the territory of the other Contracting Party, provided such a permission is legally required.a) Any natural person who is a national of a Contracting Party in accordance with its laws; and has the permission to invest in the territory of the other Contracting Party, provided such a permission is legally required.</p>
+        <p>(b) Any legal person constituted under the law of one of the Contracting Parties, and having its seat in the territory of either Contracting Party, or in a third country with a predominant interest of an investor of either Contracting Party, in particular constituted by a majority of shares or votes. A legal entity may not invoke protection under this agreement if it invokes remedies available to it pursuant to another investment protection agreement, concluded with a third country.b) Any legal person constituted under the law of one of the Contracting Parties, and having its seat in the territory of either Contracting Party, or in a third country with a predominant interest of an investor of either Contracting Party, in particular constituted by a majority of shares or votes. A legal entity may not invoke protection under this agreement if it invokes remedies available to it pursuant to another investment protection agreement, concluded with a third country.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>(1) Each Contracting Party shall at all times ensure fair and equitable treatment of the investments by investors of the other Contracting Party and shall not impair the management, maintenance, use, enjoyment or disposal thereof by unreasonable measures.</p>
+        <p>(2) Each Contracting Party shall, subject to its general policy in the field of foreign investment, promote in its territory investments by investors of the other Contracting Party and shall admit such investments in accordance with its legislation.</p>
+        <p>(3) The investments made in accordance with the laws and regulations of the Contracting Party in whose territory they are undertaken, enjoy the full protection of this Agreement.</p>
+      </div>
+      <div type="article" num="3" title="Most-favoured-nation provisions">
+        <p>(1) Each Contracting Party shall apply to investments in its territory by investors of the other Contracting Party a treatment which is no less favourable than that accorded to investments by investors of third States.</p>
+        <p>(2) Notwithstanding the provisions of paragraph (1) of this Article, a Contracting Party, which has concluded a multilateral agreement regarding the formation of a customs union, a common market or a free-trade area, or a multilateral agreement on economic co-operation for mutual economic assistance, shall be free to grant more favourable treatment to investments by investors of the State or States which are also parties to the aforesaid agreements, or by investors of some of these States.</p>
+        <p>(3) Investors of either Contracting Party who suffer losses of their investments in the territory of the other Contracting Party due to war or other armed conflict, a state of national emergency, revolt, insurrection or riot shall be accorded, with respect to restitution, indemnification, compensation or other settlement, a treatment which is no less favourable than that accorded to investors of any third State. Resulting payments shall be freely transferable without delay.</p>
+        <p>(4) The provisions of paragraph (1) of this Article shall not be construed so as to oblige one Contracting Party to extend to investors of the other Contracting Party the benefit of any treatment, preference or privilege resulting from any international agreement, international arrangement or domestic legislation relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="4" title="Expropriation">
+        <p>(1) Neither Contracting Party shall take any measures depriving, directly or indirectly, an investor of the other Contracting Party of an investment, including the income from an investment as well as, in the event of liquidation, the proceeds from the liquidation, unless the following conditions are complied with:</p>
+        <p>(a) The measures are taken in the public interest and under due process of law;a) The measures are taken in the public interest and under due process of law;</p>
+        <p>(b) The measures are clear and not discriminatory; andb) The measures are clear and not discriminatory; and</p>
+        <p>(c) The measures are accompanied by provisions for the payment of prompt, adequate and effective compensation, which shall be transferable without delay in a freely convertible currency.c) The measures are accompanied by provisions for the payment of prompt, adequate and effective compensation, which shall be transferable without delay in a freely convertible currency.</p>
+        <p>(2) The provisions of paragraph (1) of this Article shall also apply to goods that under a leasing agreement are placed at the disposal of a lessee in the territory of one Contracting Party by a lessor being a national of the other Contracting Party or a legal person having its seat in the territory of that Contracting Party.</p>
+      </div>
+      <div type="article" num="5" title="Transfers">
+        <p>(1) Each Contracting Party shall allow the transfer in a freely convertible currency of:</p>
+        <p>(a) The income accruing from any investment by an investor of the other Contracting Party, including in particular, though not exclusively, capital gains, profit, interests, dividends, licenses, royalties or fees;a) The income accruing from any investment by an investor of the other Contracting Party, including in particular, though not exclusively, capital gains, profit, interests, dividends, licenses, royalties or fees;</p>
+        <p>(b) The proceeds from a total or partial liquidation of any investment by an investor of the other Contracting Party;b) The proceeds from a total or partial liquidation of any investment by an investor of the other Contracting Party;</p>
+        <p>(c) Funds in repayment of loans which both Contracting Parties have recognized as investment; andc) Funds in repayment of loans which both Contracting Parties have recognized as investment; and</p>
+        <p>(d) The earnings of individuals, not being its nationals, who are allowed to work in connection with an investment in its territory and other amounts appropriated for the coverage of expenses connected with the management of the investment.</p>
+        <p>(2) The Contracting Parties undertake to accord to transfers referred to in paragraph (1) of this Article a treatment no less favourable than that accorded to transfers originating from investments made by investors of any third State.</p>
+        <p>(3) The transfer shall be allowed without delay and, in any event, within a period of time not exceeding one month from the date on which the request for the transfer is made.</p>
+        <p>(4) Any transfer referred to in this Agreement shall be effected at the official exchange rate prevailing on the day the transfer is made.</p>
+      </div>
+      <div type="article" num="6" title="Subrogation">
+        <p>If the investments of an investor of the one Contracting Party are insured against non-commercial risks under a system established by law, any subrogation of the insurer or re-insurer into the rights of the said investor pursuant to the terms of such insurance shall be recognized by the other Contracting Party.</p>
+      </div>
+      <div type="article" num="7" title="Disputes between contracting parties">
+        <p>(1) Any dispute between the Contracting Parties concerning the interpretation or application of this Agreement shall, if possible, be settled amicably.</p>
+        <p>(2) If the dispute cannot thus be settled within six months, following the date on which such settlement was requested by either Contracting Party, it shall at the request of either Contracting Party be submitted to an arbitration tribunal.</p>
+        <p>(3) The arbitration tribunal shall be set up from case to case, each Contracting Party appointing one member. These two members shall then agree upon a national of a third State as their chairman, to be appointed by the two Contracting Parties. The members shall be appointed within two months, and the chairman within four months, from the date either Contracting Party has advised the other Contracting Party of its wish to submit the dispute to an arbitration tribunal.</p>
+        <p>(4) If the time limits referred to in paragraph (3) of this Article have not been complied with, either Contracting Party may, in the absence of any other relevant arrangement, invite the President of the International Court of Justice to make the necessary appointments.</p>
+        <p>(5) If the President of the International Court of Justice is prevented from discharging the function provided for in paragraph (4) of this Article or is a national of either Contracting Party, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is prevented from discharging the said function or is a national of either Contracting Party, the most senior member of the Court who is not incapacitated or a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>(6) The arbitration tribunal shall reach its decision by a majority of votes, the decision being final and binding on the Contracting Parties.</p>
+        <p>(7) Each Contracting Party shall bear the cost of the member appointed by that Contracting Party as well as the costs for its representation in the arbitration proceedings; the cost of the chairman as well as any other costs shall be borne in equal parts by the two Contracting Parties. The arbitration tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the Contracting Parties. In all other respects, the procedure of the arbitration tribunal shall be determined by the tribunal itself.</p>
+      </div>
+      <div type="article" num="8" title="Disputes between an investor and a contracting party">
+        <p>(1) Any dispute between one of the Contracting Parties and an investor of the other Contracting Party concerning the interpretation or application of this Agreement shall, if possible, be settled amicably.</p>
+        <p>(2) If the dispute cannot thus be settled within six months following the date on which the dispute has been raised by either party, it shall at the request of either party be submitted to arbitration for a definitive settlement.</p>
+        <p>(3) For the arbitration procedure shall be applied the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL), as adopted by the General Assembly on 15 December 1976.1Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL), as adopted by the General Assembly on 15 December 1976.1</p>
+      </div>
+      <div type="article" num="9" title="Application of national and international law">
+        <p>If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to the present Agreement contain a regulation, whether general or specific, entitling investments by investors of the other Contracting Party to a treatment more favourable than is provided for by the present Agreement, such a regulation shall to the extent that it is more favourable, prevail over the present Agreement.</p>
+      </div>
+      <div type="article" num="10" title="Application of the agreement">
+        <p>This Agreement shall apply to all investments, whether made before or after its entry into force, but shall not apply to any dispute concerning an investment which arose, or any claim concerning an investment which was settled before its entry into force.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, duration and termination">
+        <p>(1) This Agreement shall enter into force on the day the two Contracting Parties have notified each other that their constitutional requirements for the entry into force of this Agreement have been fulfilled.</p>
+        <p>(2) This Agreement shall remain in force for a period of twenty years. Thereafter it shall remain in force until the expiration of twelve months from the date that either Contracting Party in writing notifies the other Contracting Party of its decision to terminate this Agreement.</p>
+        <p>(3) In respect of investments made prior to the date when the notice of termination of this Agreement becomes effective, the provisions of Articles 1 to 10 shall remain in force for a further period of ten years from that date.Articles 1 to 10 shall remain in force for a further period of ten years from that date.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Prague on November 13, 1990, in duplicate in the Swedish, Czech and English languages, the three texts being equally authentic. In the case there is any divergence of interpretation of the provisions of this Agreement the English text shall, however, prevail.</p>
+      <p>For the Czech and Slovak Federal Republic:</p>
+      <p>[Signed &#x2014; Sign&#xE9;]1</p>
+      <p>For the Kingdom of Sweden:</p>
+      <p>[Signed &#x2014; Sign&#xE9;]2</p>
+    </conclusion>
+    <attachments>
+      <p>At the signing of the Agreement between the Czech and Slovak Federal Repub- lic and the Kingdom of Sweden on the Promotion and Reciprocal Protection of Investments, the following agreements were reached.</p>
+      <p>(1) From the date when both Contracting Parties have acceded to the Conven- tion on the Settlement of illvestment Disputes between States and Nationals of other States, signed in Washington on 18 March 1965,1 disputes according to Arti- cle 8 of the above-mentioned Agreement shall be treated in accordance with the provisions of the said Convention. The preceding procedure for settlement of dis- putes mentioned in Article 8, paragraphs (1) and (2) shall still apply.</p>
+      <p>(2) With reference to Article 2 of the said Agreement, the following provisions shall apply to investments of investors of one Contracting Party in the territory of the other Contracting Party.</p>
+      <p>(A) A Contracting Party shall not apply restrictions on purchases of raw ma- terials, components and units, auxiliary materials, energy and fuel, nor on means of production and operation of any kind related to an investment. ill connection with the procurement of such materials and services, the investor shall have the right to freely select the supplier on the most favourable terms available.</p>
+      <p>(B) ill connection with the transport of goods or personnel associated with an investment, the investor shall have the right to freely select the carrier. ill cases where permission is required for such transport, this shall be granted without regard to any possible quotas.</p>
+      <p>(C) Subject to the laws and regulations relating to the entry and sojourn of aliens, individuals working for an investor of one Contracting Party, as well as mem- bers of their household, shall be permitted to enter into, remain on and leave the territory of the other Contracting Party for the purpose of carrying out activities associated with investments in the territory of the latter Contracting Party.</p>
+      <p>(D) ill order to create favourable conditions for assessing the financial posi- tion and results of activities related to investments in the territory of one of the Contracting Parties, this Contracting Party shall - notwithstanding its own national requirements for bookkeeping and auditing - permit the investment to be subject also to bookkeeping and auditing according to standards which the investor is sub- jected to by his national requirements or according to internationally accepted stan- dards (e.g., illternational Accounting Standards (lAS) drawn up by the illternational Accounting Standards Committee (IASC)).</p>
+      <p>(3) With reference to Article 3 of the said Agreement the treatment granted to investments under the Commercial Agreements which the Kingdom of Sweden has concluded with the Ivory Coast on 27 August 1965,2 with Madagascar on 2 April 1966 3 and with Senegal on 24 February 1967 4 shall not be invoked as the basis of most-favoured-nation treatment under the said Article by Czechoslovak investors.</p>
+      <p>This Protocol constitutes an integrated part of the said Agreement.</p>
+      <p>DONE at Prague on November 13, 1990, in duplicate in the Swedish, Czech and English languages, the three texts being equally authentic. ill case there is any diver- gence of interpretation of the provisions of this Protocol the English text shall, however, prevail.</p>
+      <p>For the Czech and Slovak Federal Republic: [Signed - Signe1</p>
+      <p>For the Kingdom of Sweden: [Signed - Signe1</p>
+    </attachments>
+  </main>
+</treaty>

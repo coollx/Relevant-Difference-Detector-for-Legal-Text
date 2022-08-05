@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Botswana - Zimbabwe BIT (2011)</name>
+    <code>T2011-14</code>
+    <partyisocode n="0">BWA</partyisocode>
+    <partyisocode n="1">ZWE</partyisocode>
+    <date_signed>2011-03-21</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type/>
+    <docreference>642</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{BWA,ZWE}_2011-03-21.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2006-87">SADC Investment Protocol (2006)</relation>
+    <relation type="IT_REPLACING" document-code="T2003-26">Botswana - Zimbabwe BIT (2003)</relation>
+    <relation type="IT_REPLACING" document-code="T2003-26">Botswana - Zimbabwe BIT (2003)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2006-87">SADC Investment Protocol (2006)</relation>
+  </meta>
+  <main/>
+</treaty>

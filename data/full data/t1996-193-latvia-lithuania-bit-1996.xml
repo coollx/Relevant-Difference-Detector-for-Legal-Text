@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Latvia - Lithuania BIT (1996)</name>
+    <code>T1996-193</code>
+    <partyisocode n="0">LTU</partyisocode>
+    <partyisocode n="1">LVA</partyisocode>
+    <date_signed>1996-02-07</date_signed>
+    <date_into_force>1996-07-23</date_into_force>
+    <date_terminated>2021-09-04</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en,lt,lv</orig_language>
+    <termination_type>Terminated by consent</termination_type>
+    <comments/>
+    <source>http://m.likumi.lv/doc.php?id=207260, lrs.lt</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en,lt,lv</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Terminated by consent</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{LTU,LVA}_1996-02-07.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_OVERLAP" document-code="T2020-2">Agreement for the Termination of Bilateral Investment Treaties Between the Member States of the European Union (2020)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>
+        <b>Agreement between the Government of the </b>
+        <b>Republic of Latvia and the Government of </b>
+        <b>the Republic of Lithuania for the Promotion and Protection of Investments</b>
+      </p>
+    </title>
+    <preamble>
+      <p>The Government of the Republic of Latvia and the Government of the Republic of Lithuania, hereinafter referred to as the Contracting Parties,</p>
+      <p>- desiring to strengthen economic cooperation on mutually advantageous conditions,</p>
+      <p>- determined to establish favourable conditions for investment by investors of one Contracting Party in the territory of the other Contracting Party,</p>
+      <p>- recognizing that the promotion and reciprocal protection of such investments will be conducive to the stimulation of the individual business initiative and the flow of prosperity in both Contracting Parties,</p>
+      <p>have agreed as follows:</p>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>1. The term "investerent" shall mean every kind of asset, invested by an investor of one Contracting Party in the territory of the other Contracting Party, provided that the investment has been made in accordance with the laws and regulations of the other Contracting Party, and shall include in particular, though not exclusively:</p>
+        <p>a) movable and immovable property as well as any other property rights, such as mortgages, liens and pledges, and similar rights;</p>
+        <p>b) shares, bonds and other kinds of interest in companies;</p>
+        <p>c) claims to money which has been used to create an economic value or claims to any performance having an economic value;</p>
+        <p>d) copyrights, industrial property rights (such as patents, trade marks, industrial designs and models, trade names), know-how and goodwill;</p>
+        <p>e) any right to conduct economic activities conferred by state authorities, including concessions to search for, extract and exploit natural resources,</p>
+        <p>Any alteration of the form in which assets are invested shall not affect their character as investment, provided such an alteration is made in accordance with the host country's laws.</p>
+        <p>2. The term "investor" means:</p>
+        <p>a) in respect of Latvia:</p>
+        <p>(i) natural persons having the nationality of the Republic of Latvia, in accordance with its laws;</p>
+        <p>(i) legal persons, including companies, corporations, business associations and other organizations, which have a main office in the territory of the Republic of Latvia and are incorporated or constituted in accordance with the law of the Republic of Latvia;</p>
+        <p>b) in respect of the Republic of Lithuania:</p>
+        <p>(i) natural persons who are nationals of the Republic of Lithuania according to the laws of the Republic of Lithuania;</p>
+        <p>(ii) any entity constituted under the laws of the Republic of Lithuania and registered in the territory of the Republic of Lithuania in conformity with its laws and regulations.</p>
+        <p>3. The term "returns" means all amounts produced by an investment and in particular, though mot exclusively, includes profits, capital gains, interest, dividends and royalties.</p>
+        <p>Returns from investment and from re-investment shall enjoy the sam&#xE9; protection and treatment as investment.</p>
+        <p>4. The term "territory" means:</p>
+        <p>a) in respect of the Republic of Latvia: the territory of the Republic of Latvia, as well as maritime areas, including the sea bed and subsoil adjacent to the outer limit of the territorial sea of either of the above territories, over which the Republic of Latvia exercises, in accordance with international law, sovereign rights for the purpose of exploration and exploitation of natural resources of such areas;</p>
+        <p>b) in respect of the Republic of Lithuania: the territory of the Republic of Lithuania, including the territorial sea and any maritime or submarine area within which the Republic of Lithuania may exercise, in accordance with international law, rights for the purpose of exploration, exploitation and preservation of the sea-bed, sub-soil and natural resources.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and Admission of Investments">
+        <p>Each Contracting Party shall encourage investors of the other Contracting Party to make investments in its territory and shall admit such investments in accordance with its laws and regulations.</p>
+      </div>
+      <div type="article" num="3" title="Protection and Treatment of Investments">
+        <p>1. Each Contracting Party shall at all times ensure fair and equitable treatment of the investments made by investors of the other Contracting Party as well as their full security and protection in its territory.</p>
+        <p>Neither Contracting Party shall by arbitrary or discriminatory measures impair the management, maintenance, use, enjoyment or disposal of investments made by investors of the other Contracting Party.</p>
+        <p>2. Each Contracting Party, subject to its laws and international agreements, shall accord to the investments made by investors of the other Contracting Party treatment no less favourable than that accorded to the investments made by investors of any third State.</p>
+        <p>3. The provisions of this Article shall not be construed so as to oblige one Contracting Party to extend to the investors of the other Contracting Party the benefit of any treatment, preference or privilege extended to the investors of any third State by virtue of:</p>
+        <p>a) any existing or future customs union, common market, free trade area, economic union or other forms of regional economic co-operation;</p>
+        <p>b) any advantages accorded by now existing or future agreements relating to avoidance of double taxation or any other arrangement relating to taxation.</p>
+      </div>
+      <div type="article" num="4" title="Expropriation and Compensation">
+        <p>1. Neither Contracting Party shall expropriate, nationalize or take similar measures (hereinafter referred to as "expropriation") against investments of investors of the other Contracting Party in its territory, unless:</p>
+        <p>a) such expropriation is in the public interest and legal procedure is applied;</p>
+        <p>b) such expropriation is carried out without discrimination;</p>
+        <p>c) prompt, adequate and effective compensation is given,</p>
+        <p>2. The compensation mentioned in point (c) of the paragraph (1) of this Article shall be equivalent to the market value of the expropriated investments immediately before the expropriation occurred or the impending expropriation became public knowledge and shall be paid without undue delay. The compensation shall include interest calculated on the LIBOR basis from the date of expropriation. The compensation shall be effectively realizable and freely transferable.</p>
+        <p>3. Investors, whose assets are being expropriated, have a right to prompt review by the appropriate judicial or administrative authorities of the expropriating Contracting Party to determine whether such expropriation, and any compensation therefor can- forms to the principles of this Article and the laws of the expropriating Contracting Party.</p>
+        <p>4. Investors of one Contracting Party who suffer losses in respect of their investments in the territory of the other Contracting Party owing to war, a state of national emergency, insurrection, riot of other similar events, shall be accorded by the other Contracting Party, treatment no less favourable than that accorded to investors of any third State. Any resulting compensation shall be paid without undue delay and shall be freely transferable.</p>
+        <p>5. Investors referred to in Article 1, paragraph 2, point (c), may not raise claims under paragraphs of this Article if compensation has been paid pursuant to a similar provision in another Investment Protection Agreement concluded by the Contracting Party in the territory of which the investment has been made.</p>
+      </div>
+      <div type="article" num="5" title="Transfers">
+        <p>1. Each Contracting Party shall guarantee to investors of the other Contracting Party free transfer, without undue delay, in a freely convertible currency of payments in connection with an investment, in particular:</p>
+        <p>a) the capital and additional amounts for the maintenance or extension of the investment,</p>
+        <p>b) gains, profits, interest, dividends and other current income;</p>
+        <p>c) the proceeds from total or partial liquidation of the investment:</p>
+        <p>d) funds in repayment of loans regularly contracted and documented and directly related to the investment;</p>
+        <p>e) compensation provided for in Article 4;</p>
+        <p>f) the earnings of nationals of one Contracting Party who are allowed to work in connection with an investment in the territory of the other.</p>
+        <p>2. Transfers in a freely convertible currency shall be effected without undue delay in accordance with procedures established by the  Contracting Party in whose territory the investment was made.</p>
+        <p>3. The Contracting Parties undertake to accord to the transfers referred to in paragraphs 1 and 2 of this Article treatment as favourable as that accorded to transfers in connection with investments made by investors of any third State,</p>
+      </div>
+      <div type="article" num="6" title="Subrogation">
+        <p>1. If one Contracting Party or its designated Agency ("the first Contracting Party") makes a payment under an indemnity given in respect of an investment in the territory of the other Contracting Party, (&#x2018;the second Contracting Party") the second Contracting Party shall recognize:</p>
+        <p>a) the assignment to the first Contracting Party by law or by legal transaction of all the rights and claims of the party indemnified, and</p>
+        <p>b) that the first Contracting Party is entitled to exercise such rights and enforce such claims by virtue of subrogation, to the same extent as the party indemnified.</p>
+        <p>2. The first Contracting Party shall be entitled in all circumstances to the same treatment in respect of:</p>
+        <p>a) the rights and claims acquired by it by virtue of the assignment, and</p>
+        <p>b) any payments received in pursuance of those rights and claims, as the party indemnified was entitled to receive by virtue of this Agreement in respect of the investment concerned and its related returns.</p>
+      </div>
+      <div type="article" num="7" title="Disputes between One Contracting Party and an Investor of the other Contracting Party">
+        <p>1. Notice of a dispute concerning investment between one of the Parties and an investor of the other Party shall be given in writing. This shall include a detailed statement by the investor to the Contracting Party in whose territory the investment was made. The Parties shall, if possible, endeavour to settle their differences by means of a friendly agreement,</p>
+        <p>2. If such dispute cannot be settled amicably within six months from the date of the written notification provided in paragraph 1, the dispute, at the request of either party and at the choice of investor, shall be submitted to:</p>
+        <p>-an ad hoc court of arbitration, for arbitration in accordance with the Arbitration Rules issued in 1976 by the United Nations Commission on International Trade Law (UNCITRAL); or to</p>
+        <p>- the International Center for the Settlement of Investment Disputes (ICSID) established under the 1965 Convention on the Settlement of Investment Disputes Between States and Nationals of Other States, for arbitration under ICSID Rules of Procedure for Arbitration Proceedings if both of the Contracting Parties have acceded to the Convention.</p>
+        <p>3. The arbitral decisions shall be final and binding on both parties to the dispute. Each Contracting Party shall execute them in accordance with its laws and in accordance with the 1958 United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention), if the Contracting Parties are members of that Convention. The arbitration shall take place in a State that is a party to the New York Convention.</p>
+      </div>
+      <div type="article" num="8" title="Disputes between the Contracting Parties">
+        <p>1. Any dispute between the Contracting Parties concerning the interpretation or application of this Agreement shall, as far as possible, be settled through the diplomatic channels.</p>
+        <p>2. If the Contracting Parties cannot reach an agreement within six months after the beginning of the dispute between themselves, the latter shall, upon the request of either Contracting Party, be submitted to an Arbitral Tribunal.</p>
+        <p>3. Such an arbitral tribunal shall be constituted for each case in the following way. Within two months from the date on which either Contracting Party receives from the other Contracting Party a request for arbitration, each Contracting Party shall appoint one arbitrator. These two arbitrators shall together, within a further two month period, select a third arbitrator who is a national of a third State. The third arbitrator, once approved by the two Contracting Parties, shall serve as Chairman of the Arbitral Tribunal.</p>
+        <p>4, If the Arbitral Tribunal has not been constituted within the periods specified in paragraph 3 of this Article, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make any necessary appointments, If the President is a national of either Contracting Party, or is otherwise prevented from discharging this function, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is a national of either Contracting Party or if he (she) too is prevented from discharging the said function, the member of the International Court of Justice next in seniority who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>5. The Tribunal shall determine its procedure subject to the provisions of this Agreement and international law. The Tribunal shall reach its decisions by a majority of votes. The decisions of the Tribunal are final and binding upon each Contracting Party.</p>
+        <p>6. Each Contracting Party shall bear the costs of its own member of the Arbitral Tribunal and of its representation in the arbitration proceedings; the costs of the Chairman and remaining costs shall be borne in equal parts by the Contracting Parties. The Arbitral Tribunal may, however, decide that a higher proportion of costs shall be borne by one of the two Contracting Parties and such award shall be binding on both Contracting Parties.</p>
+      </div>
+      <div type="article" num="9" title="More Favourable Provisions">
+        <p>If the domestic law of either Contracting Party or obligations under international law, existing at present or established hereafter, entitle investments by investors of the other Contracting Party to treatment more favourable than that provided by this Agreement, such treatment shall prevail.</p>
+      </div>
+      <div type="article" num="10" title="Consultations and Exchange of Information">
+        <p>Upon request by either Contracting Party, the other Contracting Party shall agree promptly to hold consultations on the interpretation or application of this Agreement. Upon request by either Contracting Party, information shall be exchanged on the impact that the laws, regulations, decisions, administrative practices or procedures or policies of other Contracting Party may have on investments covered by this Agreement.</p>
+      </div>
+      <div type="article" num="11" title="Amendments">
+        <p>At the time of entry into force of this Agreement or at any time thereafter the provisions of this Agreement may be amended in such manner as may be agreed between the Contracting Parties. Such amendments shall enter into force when the Contracting Parties have notified each other that all necessary constitutional formalities for the entry into force have been completed.</p>
+      </div>
+      <div type="article" num="12" title="Entry Into Force, Duration and Termination">
+        <p>1. This Agreement shall enter into force on the date when the Contracting Parties have notified each other that all necessary constitutional formalities for its entry into force have been completed.</p>
+        <p>2. This Agreement shall remain in force for a period of fifteen (15) years. It shall continue to be in force thereafter until the expiration of twelve months from the date on which either Contracting Party shall have given written notice of termination to the other.</p>
+        <p>3. With respect to investments made prior to the effective date of termination of this Agreement, the provisions of Articles 1 through 11 shall remain in force for a further period of fifteen (15) years from such date.</p>
+      </div>
+    </preamble>
+    <conclusion>
+      <p>Done in duplicate at Vilnius on 7 February 1996, in the Latvian, Lithuanian and English languages, all texts being equally authentic. In case of divergences, the English text shall prevail.</p>
+      <p>For the Government of the Republic of Latvia</p>
+      <p>For the Government of the Republic of Lithuania</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Egypt - Uganda BIT (1995)</name>
+    <code>T1995-99</code>
+    <partyisocode n="0">EGY</partyisocode>
+    <partyisocode n="1">UGA</partyisocode>
+    <date_signed>1995-11-04</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>1414</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{EGY,UGA}_1995-11-04.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1981-11">OIC Investment Agreement (1981)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T2007-35">COMESA Investment Agreement (2007)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT FOR THE PROMOTlON AND PROTECTION OF INVESTMENTS BETWEEN THE ARAB REPUBLIC OF EGYPT AND THE REPUBLIC OF UGANDA</p>
+    </title>
+    <preamble>
+      <p>The Government of The Arab Republic of Egypt and The Government of The Republic of Uganda hereinafter referred to as the "Contracting Parties".</p>
+      <p>Desiring to create favourable conditions for greater economic co-operation between them, and in particular for investments by investors of one Contracting Party in the territory of the other Contracting Party.</p>
+      <p>Recognizing that the encouragement and reciprocal protection of such investments will be conducive to the stimulation of business initiatives and will increase prosperity in the territories of the Contracting Parties.</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>FOR THE PURPOSES OF THIS AGREEMENT:</p>
+        <p>1) The term "investment" shall comprise every kind of asset invested by a natural or juridical person including the Government of a Contracting Party, in the territory of the other Contracting Party in accordance with the laws and regulations of that Party.</p>
+        <p>2) Without restricting the generality of the foregoing the term "investment" shall include:</p>
+        <p>(a) Movable and immovable property as well as any other property rights in rem such as mortgages, guarantees, pledges, usufruct and similar rights;</p>
+        <p>(b) Shares, stocks and debentures, or other rights or interests in such companies;</p>
+        <p>(c) Claims to money, or to any performance having economic value associated with an investment;</p>
+        <p>(d) Intellectual property rights including copyrights, trademarks, patents, industrial designs, technical processes, knowhow, trade, juridical rights and good will; and.</p>
+        <p>(e) Any rights conferred by laws or under contract and any licences and permits granted pursuant to law, including the contract to search for, extract, cultivate and exploit natural resources. A change in the form in which assets are invested does not affect their character as investments.</p>
+        <p>2) The term "investor" shall mean any natural or juridical person, inciuding the Government of a Contracting Party who invests in the territory of the other Contracting Party.</p>
+        <p>a) "Natural person" means with respect to either Contracting Party a natural person holding the nationality of that Party in accordance with its laws.</p>
+        <p>b) "Juridical person" means, with respect to either Contracting Party, any entity established in accordance with, and recognized as a juridical person by its laws: such as public institutions; corporations: foundations, private companies; firms; establishments and organisations; and having permanent residence in the territory of one of the Contracting Party.</p>
+        <p>3) The term "returns" refers to income deriving from an investment in accordance with the definition contained above and includes, in particular, profits, dividends and interests.</p>
+        <p>4) The term "territory" designates the land territory, air space and territorial waters of each of the Contracting Parties, as well as the exclusive economic zone and the continental shelf that extends outside the limits of the territorial waters of each of the Parties, over which they have jurisdiction and sovereign rights pursuant to international law.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and protection of investments">
+        <p>1) Each Contracting Party shall encourage and create favourable conditions for investors of the other Contracting Party to invest in its territory, and subject to its right to exercise powers conferred by its laws, shall admit such investment,</p>
+        <p>2) Investments of investors of each Contracting Party shall at all times be accorded fair and equitable treatment and shall enjoy adequate protection and security in the territory of the other Contracting Party no less than that enjoyed by its nationals. Neither Contracting Party shall in any way impair by unreasonable or discriminatory measures the management, maintenance, use, enjoyment or disposal of investments in its territory of investors of the other Contracting Party.</p>
+        <p>3) The Contracting Parties may periodically consult between themselves concerning investment opportunities within the territory of each other in various sectors of the economy, to determine where investments may be most beneficial, in the interest of both Contracting Parties.</p>
+      </div>
+      <div type="article" num="3" title="Treatment of investment">
+        <p>1) Investments of investors of one Contracting Party in the territory of the other Contracting Party and also the returns therefrom shall receive treatment which is fair and equitable and not less favourable than that accorded in respect of the investments of investors of any third state.</p>
+        <p>2) Each Contracting Party shall in its territory accord to investors of the other Contracting Party as regards the management, use, enjoyment or disposal of their investments, treatment which is fair and equitable and not less favourable than that which is accorded to investors of any third state.</p>
+        <p>3) The treatment mentioned above shall not apply to any advantage or privilege accorded to investors of a third state by either Contracting Party based on the membership of that Party in a customs Union, Common Market, Free Trade Zone, economic-multilateral or international agreement, or based on an agreement concluded between that Party and a third state on Avoidance of Double Taxation or based on crossborder trade arrangement.</p>
+      </div>
+      <div type="article" num="4" title="Compensation for losses">
+        <p>Investors of one Contracting Party whose investments in the territory of the other Contracting Party suffer losses owing to war or other armed confilicts, revolution, a state of national emergency, revolt, insurrection or riot in the territory of the latter Contracting Party shall be accorded by the latter Contracting Party, as regards restitution, indemnification, compensation or other settlement, treatment no less favourable than that which the latter Contracting Party grants to investors of any third state. Any payment made under this Article shall be prompt, adequate, effective and freely transferable.</p>
+      </div>
+      <div type="article" num="5" title="Nationalization and expropriation">
+        <p>The nationalization, expropriation or any other measure of similar characteristics or effects that may be applied by the authorities of one Contracting Party against the investments in its own territory of investors of the other Contracting Party must be applied exclusively for reasons of public interest pursuant to the law, and shall in no case be discriminatory. The Contracting Party adopting such measures shall pay to the investor or his legal beneficiary adequate indemnity in convertible currency without unjustified delay.</p>
+      </div>
+      <div type="article" num="6" title="Transfer">
+        <p>1) With regard to the investments made in its territory, each Contracting Party shall grant to investors of the other Contracting Party the right to transfer freely the income deriving from and other payments related thereto, including particulary, but not exclusively, the following:</p>
+        <p>a) Investment returns, as defined, in Article (1);</p>
+        <p>b) The indemnities provided for under Articls4 and 5;</p>
+        <p>c) The proceeds of the sale or liquidation, in full or partial, of an investment;</p>
+        <p>d) The salaries, wages and other compensation received by the nationals of one Contracting Party who have obtained in the territory of the other Contracting Party the corresponding work permits in relation to investment, in accordance with existing laws and regulations.</p>
+        <p>2) Transfers shall be effected without delay in freely convertible foreign currencies subject to existing laws and regulations.</p>
+      </div>
+      <div type="article" num="7" title="Subrogation">
+        <p>In case one Contracting Party has granted any guarantee against non-commercial risks in respect of investments by its investor in the territory to such investor under the said guarantee, the other Contracting Party shall recognize the transfer of the right of such investor to the first mentioned Contracting Party, and the subrogation of that Contracting Party shall not exceed the original rights of such investors.</p>
+      </div>
+      <div type="article" num="8" title="Settlement of investment disputes">
+        <p>1) Any dispute which may arise between a Contracting Party and an investor of other Contracting Party, shall be notified in writing, including detailed informatin, by the investor to the host Party of the investment, and shall, if possible, be settled amicably.</p>
+        <p>2) If the dispute cannot be settled in this way within six months from the date of the written notification mentioned in paragraph (1), it may be submitted upon request of either Party to the dispute, either to:</p>
+        <p>a) The competent courts of the Contracting Party in whose territory the investment was made;</p>
+        <p>b) The International Center for the Settlement of Investment Disputes (ICSID) created by the Convention on the Settlement of Investment Disputes between States and Nationals of other States opened for signature in Washington D.C on 18 March 1965, once both Contracting Parties herein become member states thereof; or</p>
+        <p>c) The Ad-hoc Court of arbitration established under the Arbitration rules of Procedure of the United Nations Commission for International Trade Law.</p>
+        <p>3) The dispute shall be settled in accordance with:</p>
+        <p>a) The provisions of this agreement;</p>
+        <p>b) The National law of the Contracting Party in whose territory the investment was made; and</p>
+        <p>c) Principles of International Law.</p>
+        <p>4) The decisions shall be final and binding on the Parties to the dispute. Each Contracting Party shall execute them in accordance with its laws.</p>
+      </div>
+      <div type="article" num="9" title="Settlement of disputes between the contracting parties">
+        <p>1) Disputes between the Contracting Parties concerning the interpretation or application of this Agreement shall be settled through negotiations.</p>
+        <p>2) If the dispute cannot be so settled within six months from the start of the negotiation, it shall upon the request of either Contracting Party, be submitted to an arbitral tribunal, in accordance with the provisions of this article.</p>
+        <p>3) The Arbitral Tribunal shall be constituted in the following way:</p>
+        <p>4) If, within the periods specified in paragraph (3) of this Article, the necessary appointments have not been made, either Contracting Party may, in the absence of any other agreement, invite the president of the International Court of Justice to make any necessary appointments. If the president is a national of either Contracting Party or if he is otherwise prevented from discharging the said function, the Vice president shall be invited to make the necessary appointments. If the Vice president is a national of either Contracting Party or if he too is prevented from discharging the said function, the member of the International Court of Justice next in seniority, who is not a national of either Contracting Party shall be invited to make the necessary appointments.</p>
+        <p>5) The Arbitral Tribunal shall issue its decision on the basis of the rules contained in this Agreement and in other agreements in force between the Contracting Parties, as well as of the principles of International Law.</p>
+        <p>6) The Arbitral Tribunal shall determine its own procedure and shall reach its decision by a majority of votes. Such decision shall be final and binding on both Contracting Parties. Each Contracting Party shall bear the cost of its own arbitrator and its Counsel in the arbitral proceedings, The cost of the Chairman and the remaining costs shall be borne in equal parts by both Contracting Parties.</p>
+      </div>
+      <div type="article" num="10" title="Entry into force">
+        <p>The Agreement shall enter into force on the date of exchanging the instrument of ratification by both Contracting Parties.</p>
+      </div>
+      <div type="article" num="11" title="Duration and termination">
+        <p>This Agreement shall remain in force for a period of ten years, and shall continue in force thereafter for another similar period, or periods, unless terminated in writing by either Contracting party twelve months before its expiration.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness hereof, the undersigned, duly authorized thereto by their respective Governments, have signed this Agreement.</p>
+      <p>Done in Cairo, on 04/11/1995 in two original languages. Both texts being equally authentic. In case of divergence in interpretation the English text shall prevail.</p>
+      <p>FOR THE GOVERNMENT OF THE ARAB REPUBLIC OF EGYPT</p>
+      <p>DR. YOUSEF BOUTROS GHALI</p>
+      <p>Minister of State for International Cooperation</p>
+      <p>FOR THE GOVERNMENT OF THE REPUBLIC OF UGANDA</p>
+      <p>HON. RICHARD H.KAIJUKA (F.I.B.)</p>
+      <p>Minister of Trade and Industry</p>
+    </conclusion>
+  </main>
+</treaty>

@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>China - Switzerland BIT (1986)</name>
+    <code>T1986-5</code>
+    <partyisocode n="0">CHE</partyisocode>
+    <partyisocode n="1">CHN</partyisocode>
+    <date_signed>1986-11-12</date_signed>
+    <date_into_force>1987-03-18</date_into_force>
+    <date_terminated>2010-04-13</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">fr</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>977</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>fr</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{CHE,CHN}_1986-11-12.xml</IT_FILE_NAME_REFERENCE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T2009-29">China - Switzerland BIT (2009)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the Swiss Confederation and the Government of the People's Republic of China on the Reciprocal Promotion and Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the People's Republic of China and the Government of the Confederation of Switzerland,</p>
+      <p>Desiring enhance the economic cooperation between the two countries,</p>
+      <p>Aspiring to create favourable conditions for investors of One Contracting Party to make investments in the territory of the Other Contracting Party,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement:</p>
+        <p>(1) "Investments" means every kind of asset approved as investment by the Contracting party accepting such investment in its territory in accordance with its laws and regulations in force at the time of accepting such investment and in particular, though not exclusively, includes:</p>
+        <p>a. Movable and immovable property and any other property rights such as mortgages, pledges, usufructs and other similar right:</p>
+        <p>b. Shares and stock in companies and interests of other forms in such companies:</p>
+        <p>c. Claims and claims to any performance having a financial value;</p>
+        <p>d. Copyrights, industrial property rights, Know-how and good-will; or,</p>
+        <p>e. Concessions including concessions to search for, extract and exploit natural resources.</p>
+        <p>Any changes in the form in which assets are invested shall not affect their character as investments.</p>
+        <p>(2) "Investors" means</p>
+        <p>a. Physical persons having nationality of either Contracting Party:</p>
+        <p>b. Any economic entities or juridical persons established in accordance with the law of either Contracting party and having seats in the territory of such Contracting party, or any economic entities or juridical persons directly or indirectly controlled by the former economic entity or juridical person.</p>
+      </div>
+      <div type="article" num="2" title="Promotion and acceptance">
+        <p>One Contracting Party shall, with efforts, encourage investments of investors of the Other Contracting party in its territory and accept such investment in accordance with its law.</p>
+      </div>
+      <div type="article" num="3" title="Protection and approval">
+        <p>1. One Contracting party shall accord protection in its territory to the investment made by the investor of the Other Contracting party in accordance with the law, and the returns derived from such investment shall also enjoy similar protection as the investment.</p>
+        <p>2. Each Contracting Party shall, according to its domestic legislation and with sympathy, review the applications required for approval and permitting, for all activities of management, promotion, execution and necessary labour force associated with such investment.</p>
+      </div>
+      <div type="article" num="4" title="Treatment">
+        <p>1. Each Contracting party shall guarantee to investment of investors of the Other Contracting party fair and equitable treatment in its territory.</p>
+        <p>2. Either contracting party shall refrain from unfairly taking discriminatory measures or measures which may impair normal activities associated with execution or management of investments made by invertors of the Other Contracting party.</p>
+        <p>3. Each Contracting party shall, in its territory, assure investors of the Other contracting party with regard to their investments of the most favoured nation treatment.</p>
+        <p>4. The most, favoured nation treatment provided in paragraph 3 of this Article shall not apply to any advantages accorded to investments of investors of a third State by one Contracting party due top a member or associate member of free trade area, customs union or common market, neither to any advantages based on facilitating frontier or an agreement on the avoidance of double taxation.paragraph 3 of this Article shall not apply to any advantages accorded to investments of investors of a third State by one Contracting party due top a member or associate member of free trade area, customs union or common market, neither to any advantages based on facilitating frontier or an agreement on the avoidance of double taxation.</p>
+      </div>
+      <div type="article" num="5" title="Respect for obligations">
+        <p>Each Contracting party shall, at any time, assure investors of the Other contracting party with regard to investments of the respect for the obligations the former Contracting party has resumed.</p>
+      </div>
+      <div type="article" num="6" title="Transfer">
+        <p>Each contracting party shall permit investors of the Other Contracting party to transfer freely the following proceeds without undue delay, including:</p>
+        <p>(1) Profit, interest and other daily income;</p>
+        <p>(2) Payment provided under contract;</p>
+        <p>(3) Payment for management of an investment;</p>
+        <p>(4) Royalties derived from the rights in Article 1- (1) -d;Article 1- (1) -d;</p>
+        <p>(5) Additional capital needed to maintain or increase investment;</p>
+        <p>(6) Proceeds from the total or partial liquidation or sale of an investment including possiblely increased value.</p>
+      </div>
+      <div type="article" num="7" title="Deprivation and compensation">
+        <p>Neither contracting party shall subject investment in its territory of investors of the Other Contracting party to the measures except for public interests. Under nondiscrimination, in conformity with legal provision and against compensation shall be appropriate or tantamount to the value of an investment immediately before the measures of expropriation, nationalization and deprivation or other similar measures are taken or impending measures being to bring to bring about a result, The compensation shall be paid in a freely convertible currency without undue delay and be freely transferable between the two States of the Contracting parties.</p>
+      </div>
+      <div type="article" num="8" title="Investments prior this agreement">
+        <p>This Agreement shall also apply to either investments made by investors of the People's Republic of China in the territory of the Confederation of Switzerland in accordance with the legislation of the latter or investments made by investors of Switzerland in the territory of the people's Republic of China in accordance with the legislation of the Latter.</p>
+      </div>
+      <div type="article" num="9" title="More favourable treatment">
+        <p>If the present or future legislation of one Contracting party or international arrangements signed by one Contracting party provide more favourable treatment to investments of the Other Contracting party than that provided by this Agreement such treatment shall prevail.</p>
+      </div>
+      <div type="article" num="10" title="Subrogation">
+        <p>1. If one Contracting party provides final indemnity against non-commercial risk to its investor with regard to the investment made in the territory of the Other Contracting Party and makes a payment to such investor under indemnity, the Other Contracting party shall recognize acquirement of the rights and claims of such investor by the Former Contracting party by virtue of subrogation.</p>
+        <p>2. However, the rights or claims shall not exceed the original rights or claims of such investor by virtue of subrogation, neither prejudice all the original rights or claims of such investor Other Contracting Party has acquired.</p>
+      </div>
+      <div type="article" num="11" title="Arbitration between two contracting parties">
+        <p>1. Disputes between the Contracting Parties on the interpretation or application of the provisions of this Agreement shall be settled though diplomatic channel.</p>
+        <p>2. A dispute between the Contracting Parties, if not settled through amicable consultation within six months, may be submitted to an arbitral tribunal at the request of either Contracting Party.</p>
+        <p>3. Such an arbitral tribunal shall be constituted for each individual case. Each Contracting Party shall appoint one member of the tribunal, and these two members shall then select a national of a third State having diplomatic relations with the two Contracting Parties who shall be appointed Chairman of the tribunal by the two Contracting Parties.</p>
+        <p>4. Failing the appointment of member,(s) within two moths from the date on which one Contracting party gives a written notification of request for arbitration or no agreement is reached on the selection of a chairman of the tribunal by the two members within the months. Thereafter: of their appointments either Contracting party may invite the President of the International Court of Justice to make the necessary appointment. If the President is a national of either Contracting party or if he is otherwise prevented from discharging the said function the member of the Court next in seniority who is not a national of either Contracting Party shall be invited to make the appointment.</p>
+        <p>5. The tribunal shall reach its awards in accordance with the provisions of this Agreement, other agreements between the Contracting Parties and the general principles of international law.</p>
+        <p>6. The tribunal shall decided its own procedure.</p>
+        <p>7. The tribunal shall make its decision in a majority of votes. Its decision is final and shall be observed by the two Contracting Parties. The tribunal shall interprete its decision at the request of either Contracting Party.</p>
+        <p>8. Each Contacting Party shall bear the cost of its appointed member in the arbitral proceedings, the cost of the Chairman in performance of his function and the other costs shall be borne in equal parts by the two Contracting Parties.</p>
+      </div>
+      <div type="article" num="12" title="Arbitation between the contracting party and investor">
+        <p>1. If a dispute between one Contracting party and an investor of the Other Contracting Party cannot amicably be settled within six months the investor may submit the following dispute to international arbitration:</p>
+        <p>(1) A dispute on the matter of compensation mentioned in Article 7 of this Agreement:Article 7 of this Agreement:</p>
+        <p>(2) Any other dispute on the matter of this Agreement agreed by the two parties to the dispute for submission to international arbitration.</p>
+        <p>2. An international ambition to tribunal shall be constituted for each individual case. Each party shall appoint a member of the tribunal in the absence of any other arrangement within two months from the date on which a written notification for arbitration has been given by one party to the other and these two members shall arbitration has been given by one party to the other and these two members shall within two more months after. their appointments agree on an appointments of national of a third State having diplomatic relations with the two Contracting Parties as Chairman of the tribunal. If any member has not been appointed within the period specified above the President of the International Court of Justice shall be invited to make the appointment. If the President is a national of either Contracting Party oral he is otherwise prevented from discharging the said function, the member of the court next in seniority who is not a national of either Contracting Party shall be invited to make the appointment.</p>
+        <p>3. Each party to the dispute shall bear the coast of his appointed member of the tribunal. The cost of the Chairman and his remuneration in discharging his funtion shall be borne in equal parts by the two parties.</p>
+        <p>4. The tribunal shall work out its rules of procedure under the guidance of the Convention on the Settlement of investment Disputes between States and Nationals consideration of the provisions of this Agreement.Convention on the Settlement of investment Disputes between States and Nationals consideration of the provisions of this Agreement.</p>
+        <p>5. The tribunal shall make its decision by a majority of votes, and the decision is final and shall be observed.</p>
+      </div>
+      <div type="article" num="13" title="Annex">
+        <p>The protocol and exchange of notes attached to shall be an integral part of this Agreement.</p>
+      </div>
+      <div type="article" num="14" title="Entry into force, continuation and termination">
+        <p>1. This Agreement shall enter into force from the date on which the two Governments have informed each other of the accomplishment of the domestic legal procedure required for bringing into effect an international agreement.</p>
+        <p>2. The Agreement shall remain in force for a period ten years and continue to be in force for two more years and so forth in the absence of a written notification of termination by either Contracting Party to the other twelve months before its expiration.</p>
+        <p>3. The provisions from Article 1 to 13 shall continue to apply to investments made whilst the Agreement is in force after the date of the termination of the Agreement.Article 1 to 13 shall continue to apply to investments made whilst the Agreement is in force after the date of the termination of the Agreement.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done at Beijing on November 12, 1986, in two originals, each in the French and Chinese languages, both texts being equally authentic.</p>
+      <p>For the Government of the Swiss Confederation:</p>
+      <p>Pierre Aubert</p>
+      <p>For the Government of the People's Republic of China</p>
+      <p>Zheng Tuobin</p>
+    </conclusion>
+    <attachments>
+      <p>Protocol</p>
+      <p>In concluding the Agreement on the reciprocal promotion and protection of investments between the Government of the Swiss Confederation and the Government of the People's Republic of China, the plenipotentiaries who signed it have also agreed to the following provisions:</p>
+      <p>1. The term "investor" defined in Article 1, paragraph 2, letter b, of the Agreement does not apply to economic entities or legal persons incorporated in accordance with Chinese (Swiss) law by a Swiss (Chinese) investor in territory Chinese (Swiss). However, the Agreement protects investments made by a Swiss (Chinese) investor in Chinese (Swiss) territory in an economic entity or legal person constituted in accordance with Chinese (Swiss) law, as well as activities linked to the realization or the exploitation of these investments&#x200B;.</p>
+      <p>With regard to investments made by an economic entity or a legal person having its seat in a third State and controlled by a Swiss (Chinese) investor, the latter cannot assert a claim under Article 7 of the Agreement insofar as it has already been the subject of compensation under a dispossession provision contained in an investment promotion and protection agreement concluded by the People's Republic of China (Swiss Confederation) with this third state.</p>
+      <p>2. With regard to the reference to unjustifiably differentiated measures mentioned in Article 4, paragraph 2, of the Agreement, the Contracting Parties have agreed as follows: The Chinese Government will ensure that the treatment accorded to investments of investors is fair as a whole, although due to the differences in the economic and legal systems of the two countries and the development needs of the national economy of the People's Republic of China, Swiss investors cannot of their investments made in China, claim to benefit in all respects from treatment equal to that accorded to Chinese investors.</p>
+      <p>3. The normal activities, referred to in Article 4, paragraph 2, of the Agreement, relating to the making or exploitation of investments made by investors of a Contracting Party in the territory of the other Contracting Party are those which are provided for in the investment authorization documents or which otherwise comply with the law of the other Contracting Party.</p>
+      <p>4. The commitments mentioned in Article 5 of the Agreement designate, as far as the People's Republic of China is concerned, those assumed by the competent authorities of the People's Republic of China with regard to investments by Swiss investors in instruments such as investment authorization documents.</p>
+      <p>5. In the case of the People's Republic of China, the term "free transfer" provided for in Article 6 of the Agreement has the following meaning:</p>
+      <p>i) "Free transfer" will be effected in accordance with the rules on the control of foreign currencies in force at the time of signing the investment agreement from the foreign currency deposit accounts held by joint ventures or companies with foreign capital in which the investor participated.</p>
+      <p>ii) In the event that the aforementioned companies do not have sufficient foreign currency on their deposit account to make the transfer, the Chinese Government will make available to them the necessary convertible currencies against non-convertible currencies taking into account the choice of currency made by the investor, in the following cases:</p>
+      <p>a) Payments referred to in Article 6, letter a, of the Agreement provided that the companies have been expressly authorized by the competent authorities of the Chinese Government to sell their products and services against non-convertible currencies;</p>
+      <p>b) Are necessary in accordance with Article 6, letter b, of the Agreement provided that the Bank of China or another Chinese organization authorized by the National Exchange Control Administration has given a guarantee;</p>
+      <p>c) Payments according to Article 6, letter c, of the Agreement; insofar as they are payments not provided for in the investment agreement, they will be subject to the prior approval of the Competent Authority of the People's Republic of China;</p>
+      <p>d) Payments according to Article 6, letters d, e, f, of the Agreement.</p>
+      <p>iii) A transfer shall be deemed to have been made without undue delay when it has been completed, for the transfers mentioned in Article 6 of the Agreement, within 90 days from the time when the transfer request has been made. has been received by the competent authority; for transfers referred to in Articles 7 and 10 of the Agreement within 180 days from the time the request for transfer has been received by the competent authority.</p>
+      <p>Done at Beijing on November 12, 1986, in two originals, each in the French and Chinese languages, both texts being equally authentic.</p>
+      <p>For the Government of the Swiss Confederation:</p>
+      <p>Pierre Aubert</p>
+      <p>For the Government of the People's Republic of China</p>
+      <p>Zheng Tuobin</p>
+    </attachments>
+    <attachments>
+      <p>Exchange of letters of 12 November 1986</p>
+      <p>Beijing, November 12, 1986</p>
+      <p>Mr. Pierre Aubert, Federal Councillor</p>
+      <p>Head of the Federal Department of Foreign Affairs</p>
+      <p>Beijing</p>
+      <p>Dear Federal Councillor,</p>
+      <p>I have the honor to acknowledge receipt of your letter of today's date which reads as follows:</p>
+      <p>"I have the honor to refer to the Agreement signed today between the Government of the Swiss Confederation and the Government of the People's Republic of China concerning the reciprocal promotion and protection of investments and to inform you that the two Parties Contracting Parties have agreed as follows:</p>
+      <p>In the event of the two Contracting Parties becoming parties to the Washington Convention of 18 March 1965 for the Settlement of Investment Disputes between States and Nationals of Other States, they shall enter into negotiations with a view to concluding a further agreement on the categories of disputes likely to be submitted to conciliation or arbitration by the International Center for Settlement of Investment Disputes (ICSID) and on the manner of proceeding to such conciliation or arbitration. This arrangement, in the form of an Exchange of letters, will form an integral part of the Agreement. I should be grateful if you would confirm that the content of this letter reproduces exactly the agreement between the two Contracting Parties."</p>
+      <p>I have the honor to confirm to you hereby that your letter reproduces exactly the agreement reached between the two Contracting Parties.</p>
+      <p>Please accept, Sir, the assurance of my highest consideration.</p>
+      <p>For the Government of the People's Republic of China:</p>
+      <p>Zheng Tuobin</p>
+    </attachments>
+  </main>
+</treaty>

@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>China - Pakistan BIT (1989)</name>
+    <code>T1989-12</code>
+    <partyisocode n="0">CHN</partyisocode>
+    <partyisocode n="1">PAK</partyisocode>
+    <date_signed>1989-02-12</date_signed>
+    <date_into_force>1990-09-30</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type/>
+    <docreference>952</docreference>
+    <comments/>
+    <source>unctad</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{CHN,PAK}_1989-02-12.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T2006-35">China - Pakistan FTA</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE PEOPLE'S REPUBLIC OF CHINA AND THE GOVERNMENT OF THE ISLAMIC REPUBLIC OF PAKISTAN ON THE RECIPROCAL ENCOURAGEMENT AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the People's Republic of China and the Government of the Islamic Republic of Pakistan (hereinafter referred to as a Contracting Party),</p>
+      <p>Desiring to encourage, protect and create favourable conditions for investments by investors of one Contracting Party in the territory of the other Contracting Party based on the principles of mutual respect for sovereignty, equality and mutual benefit and for the purpose of the development of economic co-operation between both States,</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1">
+        <p>For the purposes of this Agreement,</p>
+        <p>(1) The term "investments" means every kind of asset made as investment in accordance with the laws and regulations of the Contracting Party accepting the investment in its territory, including mainly:</p>
+        <p>&#x2460; Movable and immovable property and other rights in rem;</p>
+        <p>&#x2461; Shares in companies or other forms of interest in such companies;</p>
+        <p>&#x2462; A claim to money or to any performance having an economic value;</p>
+        <p>&#x2463; Copyrights, industrial property rights, know-how and technical process;</p>
+        <p>&#x2464; Concessions conferred by law, including concessions to search for or exploit natural resources.</p>
+        <p>(2) The term "investors" means:</p>
+        <p>In respect of the People's Republic of China:</p>
+        <p>&#x2460; Natural persons who have nationality of the People's Republic of China;</p>
+        <p>&#x2461; Economic entities established in accordance with the laws of the People's Republic of China and domiciled in the territory of the People's Republic of China;</p>
+        <p>In respect of the Islamic Republic of Pakistan:</p>
+        <p>&#x2460; Physical persons who are deemed to be nationals of the Islamic Republic of Pakistan in accordance with its law;</p>
+        <p>&#x2461; Corporations, firms or associations incorporated or constituted under the law in force of the Islamic Republic of Pakistan in its territory.</p>
+        <p>(3) The term "returns" means the amounts yielded by an investment, including profits, dividends, interests, royalties and other legitimate income.</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting Party shall encourage investors of the other Contracting Party to commit investments in its territory, and admit such investments in accordance with its laws and regulations.</p>
+      </div>
+      <div type="article" num="3">
+        <p>(1) Investments and activities associated with investments of investors of either Contracting Party shall be accorded equitable treatment and shall enjoy protection in the territory of the other Contracting Party.</p>
+        <p>(2) The treatment and protection referred to in paragraph 1 of this Article shall not be less than that accorded to investments and activities associated with investments of investors of any third State.</p>
+        <p>(3) The treatment and protection as mentioned in Paragraph 1 and 2 of this Article shall not include any favourable treatment accorded by the other Contracting Party to investments of investors of a third State based on the other Contracting Party to investments of investors of a third state based on customs union, free trade zone, economic union, agreement relating to avoidance of double taxation and for facilitation of frontier trade.</p>
+      </div>
+      <div type="article" num="4">
+        <p>(1) Either Contracting Party may, for the security and public interest expropriate, nationalize or take similar measures (hereinafter referred to as expropriatory measures ) against investment assets of investors of the other Contracting Party in its territory, but the following conditions shall be complied with:</p>
+        <p>&#x2460; Under domestic legal procedure of the Contracting Party taking expropriatory measures;</p>
+        <p>&#x2461; Being non-discriminatory;</p>
+        <p>&#x2462; Being against compensation.</p>
+        <p>(2) The compensation mentioned in Paragraph 1 Item 3 of this Article shall be in accordance with the laws and regulations of the Contracting Party taking expropriatory measures in convertible currencies. The compensation shall be paid without unreasonable delay.</p>
+        <p>(3) If an investor considers the expropriation mentioned in Paragraph 1 of this Article incompatible with the laws of the Contracting Party taking the expropriatory measures, the competent court of the Contracting Party taking the expropriatory measures may, upon the request of the investors, review the said expropriation.</p>
+        <p>(4) Investors of one Contracting Party who suffer losses in respect of their investments in the territory of the other Contracting Party owning to war, a state of national emergency, insurrection, riot or other similar events, shall be accorded by the latter Contracting Party, if it takes relevant measures, treatment no less favourable than that accorded to investors of any third State.</p>
+      </div>
+      <div type="article" num="5">
+        <p>Each Contracting Party, within the framework permitted by its laws and regulations, guarantees that investors of the other Contracting Party transfer investment assets and their returns held in the territory of the one Contracting Party, including:</p>
+        <p>(1) Profits, dividends, interests and other legitimate income;</p>
+        <p>(2) Amounts from liquidation of investments;</p>
+        <p>(3) Repayments made pursuant to a loan agreement in connection with investments;</p>
+        <p>(4) Licence fees in item 4 of Paragraph 1 in Article 1;</p>
+        <p>(5) Payments of technical assistance or technical service fee, management fee;</p>
+        <p>(6) Payments in connection contracting projects;</p>
+        <p>(7) Normal earnings of nationals of the other Contracting Party who work in connection with an investment in the territory of the one Contracting Party.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The transfer mentioned in Article 4 and 5 of this Agreement shall be made at the official exchange rate of the Contracting Party accepting investment on the date</p>
+      </div>
+      <div type="article" num="7">
+        <p>If a Contracting party or its Agency makes a payment to an investor under a guarantee it has granted to an investment by its investor in the territory of the other Contracting Party, such investor to the former Contracting Party or its Agency and recognize the subrogation of the former Contracting Party to such right or claim. The subrogated right or claim shall not be greater than the original right or claim of the said investor.</p>
+      </div>
+      <div type="article" num="8">
+        <p>This Agreement shall apply to investments which are made after September 1, 1954 by investors of either Contracting Party in accordance with the laws and regulations of the other Contracting Party in the territory of the latter one.</p>
+      </div>
+      <div type="article" num="9">
+        <p>(1) Disputes between the Contracting Parties concerning the interpretation or application of this Agreement shall, as far as possible, be settled by consultation through the diplomatic channel.</p>
+        <p>(2) If a dispute cannot thus be settled within 6 months, it shall, upon the request of either Contracting Party, be submitted to an ad hoc arbitral tribunal.</p>
+        <p>(3) Such ad hoc tribunal comprises of 3 arbitrators. Within 2 months from the date on which either Contracting Party receives the written notice requesting for arbitration from the other Contracting Party each contracting Party shall appoint 1 arbitrator. Those 2 arbitrators shall, within 2 months after their appointments, together select a third arbitrator who is a national of a third State which has diplomatic relations with both Contracting Parties. The third arbitrator shall be appointed by the both Contracting Parties as Chairman of the arbitral tribunal.</p>
+        <p>(4) If the ad hoc arbitral tribunal has not been constituted within 4 months from the date of the receipt of the written notice for arbitration, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to appoint the arbitrator (s) who has or have not yet been appointed.</p>
+        <p>If the President is a national of either Contracting Party or is otherwise prevented from discharging the said function, the next most senior member of the International Court of Justice who is not a national of either Contracting Party shall be invited to make the necessary appointment (s).</p>
+        <p>(5) The ad hoc arbitral tribunal shall determine its own procedure. The tribunal shall reach its award in accordance with the laws of the Contracting Party accepting investment, the provisions of this Agreement and the principles of international law recognized by both Contracting Parties.</p>
+        <p>The tribunal shall reach its award by a majority of votes. Such award shall be final and binding on both Contracting Parties. The ad hoc arbitral tribunal shall upon the request of either Contracting Party, explain the basis of its award.</p>
+        <p>(6) Each Contracting Party shall bear the cost of its appointed arbitrator. The relevant costs of the Chairman and the ad hoc tribunal shall be borne in equal parts by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="10">
+        <p>If an investor challenges the amount of compensation for the expropriated investment assets, he may file complaint with the competent authority of the Contracting Party taking the expropriatory measures. If it is not solved within 1 year after the complaint is filed, the competent court of the Contracting Party taking the expropriatory measures or an international arbitral tribunal may, upon the request of the investor, review the amount of compensation.</p>
+      </div>
+      <div type="article" num="11">
+        <p>If a company which is owned or controlled by an investor of one Contracting Party in a third State has made investment in accordance with the laws and regulations of the other Contracting Party in the territory of the latter, the provisions of Article 4 of this Agreement shall apply to such investment only on the assumption that such third state is not entitled to exercise the right or abandons the right to request for compensation.</p>
+      </div>
+      <div type="article" num="12">
+        <p>If the treatment to be accorded by one Contracting Party in accordance with it laws and regulations to investments or activities associated with investments investors of the other Contracting Party is more favourable than the treatment provided for in this Agreement, the more favourable treatment shall be applicable</p>
+      </div>
+      <div type="article" num="13">
+        <p>(1) This Agreement shall enter into force 30 days after the date on which both Contracting Parties have notified each other that they have fulfilled their respective internal legal procedures, and shall remain in force for a period of 10 years.</p>
+        <p>(2) This Agreement shall continue in force if either Contracting Party fails to give a written notice to the other Contracting Party to terminate it 1 year before the expiration specified in paragraph 1 of this Article.paragraph 1 of this Article.</p>
+        <p>(3) After the expiration of the 10years period, either Contracting Party may at any time terminate this Agreement by giving at least 1 year's written notice to the other Contracting Party.</p>
+        <p>(4) With respect to investments made prior to the date of termination of this Agreement, the provisions of Article 1 to 12 shall continue to be effective for a further period of 10 years from such date of termination.Article 1 to 12 shall continue to be effective for a further period of 10 years from such date of termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in duplicate at Beijing on December 12, 1989 in the Chinese and English languages, both texts being equally authentic.</p>
+      <p>For the Government of the People's Republic of China</p>
+      <p>For the Government of the Islamic Republic of Pakistan</p>
+    </conclusion>
+  </main>
+</treaty>

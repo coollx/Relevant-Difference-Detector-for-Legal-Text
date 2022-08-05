@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>BLEU - Turkey BIT (1986)</name>
+    <code>T1986-4</code>
+    <partyisocode n="0">BLEU</partyisocode>
+    <partyisocode n="1">TUR</partyisocode>
+    <date_signed>1986-08-27</date_signed>
+    <date_into_force>1990-05-04</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en,fr,nl</orig_language>
+    <termination_type/>
+    <docreference>545</docreference>
+    <comments/>
+    <source>https://www.fdfa.be/en/agreement-between-the-belgo-luxemburg-economic-union-and-the-government-of-the-republic-of-turkey-on</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{BLEU,TUR}_1986-08-27.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en,fr,nl</IT_ORIGIN_LANGUAGE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1994-84">The Energy Charter Treaty (1994)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE BELGO-LUXEMBURG ECONOMIC UNION AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY ON THE RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>THE GOVERNMENT OF THE KINGDOM OF BELGIUM, acting in its own name and in the name of the Grand-Duchy of Luxemburg, by virtue of existing agreements,</p>
+      <p>And</p>
+      <p>THE GOVERNMENT OF THE REPUBLIC OF TURKEY,</p>
+      <p>(each a Contracting Party)</p>
+      <p>DESIRING to create favourable conditions for greater economic cooperation between them,</p>
+      <p>HAVE AGREED AS FOLLOWS:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this Agreement:</p>
+        <p>1. The term " nationals " means any natural person who, according to the laws of Belgium, Luxemburg or Turkey is a citizen of Belgium, Luxembourg or Turkey respectively.</p>
+        <p>2. The term " companies " means any juridical person lawfully constituted in accordance with the legislation of Belgium, Luxemburg or Turkey and having its seat in the territory of Belgium, Luxemburg or Turkey respectively.</p>
+        <p>3. The term " investments" means every direct or indirect contribution of capital and any other kind of assets, invested or reinvested in companies having an economic activity.</p>
+        <p>The following shall more particularly, though not exclusively, be considered as investments within the meaning of the present Agreement:</p>
+        <p>a) Movable and immovable property as well as any other rights in rem., such as mortgages, lien, pledge, usufruct and similar rights;</p>
+        <p>b) Shares, stocks, debentures and other kinds of interests in companies;</p>
+        <p>c) Title to money or to any performance having an economic value;</p>
+        <p>d) Copyrights, industrial property rights, technical processes, trade names and goodwill;</p>
+        <p>Business concessions conferred by law or under contract, including concessions to search for, extract or exploit natural resources.</p>
+        <p>Any alteration of the form in which capital and assets have been invested shall not affect their qualifying as "investments" within the meaning of the present Agreement.</p>
+      </div>
+      <div type="article" num="2" title="Promotion of investments">
+        <p>Each Contracting Party shall in its territory promote as far as possible the investments by nationals and companies of the other Contracting Party and admit such investments in accordance with its legislation.</p>
+      </div>
+      <div type="article" num="3:" title="Protection of investments">
+        <p>1. Either Contracting Party shall extend fair and equitable treatment in harmony with the principles of international law to investments made by nationals and companies of the other Contracting Party.</p>
+        <p>2. All investments, once made, shall enjoy continuous protection and security excluding all unjustified or discriminatory measures which would in practice hinder their management, maintenance, utilization, enjoyment or liquidation, except for measures required to maintain public order.</p>
+        <p>3. Treatment and protection referred to in paragraphs 1 and 2 shall be at least the same as those accorded by each Contracting Party to nationals and companies of the most favoured nation.</p>
+        <p>4. Treatment and protection referred to in paragraph 3 shall not be construed so as to oblige one Contracting Party to extend to the nationals or companies of the other Party the benefit of any privilege accorded to nationals or companies of any third State and resulting from its membership in or association with a custom union, a common market or a free trade area.</p>
+      </div>
+      <div type="article" num="4" title="Expropriation">
+        <p>1. Neither Contracting Party shall take any measure of expropriation or nationalization, or any other measures having the effect of dispossession, direct or indirect, of nationals or companies of the other Contracting Party of their investments except in the public interest and provided that these measures are taken under due process of law and that they are not discriminatory.</p>
+        <p>2. Any measure of dispossession which might be taken shall give rise to prompt, adequate and effective compensation in accordance with due process of law and the general principles of treatment provided for in Article 3. This treatment shall be applied to nationals or companies of either Contracting Party and their shares in whichever company established in the territory of the other Contracting Party.</p>
+        <p>3. Unless the national or company adversely affected proves otherwise, such compensation shall amount to the fair market value of the investment expropriated on the day the measure was taken or became known. The said compensation shall be effectively realizable and freely transferable to the country of origin of the national or company concerned and in the currency in which the investment was originally made or to any other country and in any freely convertible currency, mutually agreed to by the investor and the Contracting Party concerned.</p>
+      </div>
+      <div type="article" num="5" title="Transfers">
+        <p>1. Each Contracting Party shall permit the investors of the other Contracting Party the free transfer of:</p>
+        <p>a) Returns from investment, including profits, interests, capital gains, dividends or royalties;</p>
+        <p>b) Principal and interest payments arising under a loan agreement related to an investment;</p>
+        <p>c) Management, technical assistance, personnel or other fees;</p>
+        <p>d) Proceeds from the sale or liquidation of all or any part of an investment;</p>
+        <p>e) Compensation pursuant to Article 4.</p>
+        <p>2. Each Contracting Party shall issue the authorizations required to ensure that the transfer can be effected without unreasonable delay. Its implementation shall in no case be delayed beyond two months.</p>
+        <p>In exceptional financial or economic circumstances relating to foreign exchange and difficulties of balance of payments, a Contracting Party may ask for an additional delay not to exceed three years. 3. The treatment referred to in paragraphs 1 and 2 of this Article may not be less favourable than that accorded to the nationals or companies of the most favoured nation.</p>
+      </div>
+      <div type="article" num="6" title="Exchange rates">
+        <p>Transfers referred to in Articles 4 and 5 shall be made at the exchange rate prevailing on the date of transfer and pursuant to the exchange regulations in force.</p>
+      </div>
+      <div type="article" num="7" title="Insurance">
+        <p>If the investments of a national or company of one Contracting Party are insured against non-commercial risks under a system established by law any subrogation of the insurer in to the rights of the said national or company pursuant to the terms of such insurance shall be recognized by the other Contracting Party.</p>
+        <p>The insurer shall not be entitled to exercise any rights other than the rights which the investor would have been entitled to exercise. Disputes between a Contracting Party and an insurer shall be settled in accordance with the provisions of Article 9 of this Agreement.</p>
+      </div>
+      <div type="article" num="8" title="Other obligations">
+        <p>This Agreement shall not derogate from:</p>
+        <p>a) Laws and regulations, administrative practices or procedures, or administrative or adjudicatory decisions of either Contracting Party;</p>
+        <p>b) International legal obligations;</p>
+        <p>c) Obligations assumed by either Contracting Party,</p>
+        <p>Including those contained in an investment special agreement or an investment authorization, whose terms, in either case, result in a position entitling investment by nationals or companies of the other Contracting Party to treatment more favourable than that accorded by this Agreement in similar situations.</p>
+      </div>
+      <div type="article" num="9" title="Investment disputes between a contracting party and nationals or companies of the other contracting party">
+        <p>1. For the purposes of this Article, an investment dispute is defined as a dispute involving :</p>
+        <p>a) The interpretation or application of any investment authorization granted by a Contracting Party's foreign investment authority to a national or company of the other Contracting Party; or</p>
+        <p>b) A breach of any right conferred or created by this Agreement with respect to an investment.</p>
+        <p>2. In the event of an investment dispute between a Contracting Party and a national or company of the other Contracting Party, the parties to the dispute shall initially seek to resolve the dispute by consultations and negotiations in good faith.</p>
+        <p>If such consultations or negotiations are unsuccessful, the dispute may be settled through the use of non-binding, third party procedures upon which such national or company and the Contracting Party mutually agree. If the dispute cannot be resolved through the foregoing procedures the national or company concerned may choose to submit the dispute to the International Centre for the Settlement of Investment Disputes (ICSID) for settlement by arbitration, at any time after one year from the date upon which the dispute arose provided that the national or company concerned has not brought the dispute before the courts of justice of the Contracting Party that is a party to the dispute. 3.</p>
+        <p>a) Each Contracting Party hereby consents to the submission of any investment dispute to the ICSID for settlement by arbitration.</p>
+        <p>b) Arbitration of such disputes shall be done in accordance with the provisions of the Convention on the Settlement of Investment Disputes Between States and Nationals of other States, opened for signature at Washington on 18th March 1965, and the " Arbitration Rules " of the ICSID.</p>
+      </div>
+      <div type="article" num="10" title="Disputes as to interpretation or application between the contracting parties">
+        <p>1. The Contracting Parties shall seek in good faith and a spirit of cooperation a rapid and equitable solution to any dispute between them concerning the interpretation or application of this Agreement. In this regard, the Contracting Parties agree to engage in direct and meaningful negotiations to arrive at such solutions. If such negotiations are unsuccessful, the dispute may be submitted, upon the request of either Party, to an arbitral tribunal for binding decision in accordance with the applicable rules of international law.</p>
+        <p>2. Within two months of receipt of a request, each Party shall appoint an arbitrator. The two arbitrators shall select as Chairman a third arbitrator, who is a national of a third State. In the event either Party fails to appoint an arbitrator within the specified time, the other Party may request the President of the International Court of Justice to make the appointment. If the two arbitrators are unable to reach agreement, in the two months following their appointment on the choice of the third arbitrator, either Party may invite the President of the Court of Justice to make the necessary appointment.</p>
+        <p>3. The Tribunal shall have three months from the date of the selection of the Chairman in which to agree upon rules of procedure consistent with the provisions of this Agreement. In the absence of such agreement, the Tribunal shall request the President of the International Court of Justice to designate rules of procedure, taking into account generally recognized rules of international arbitral procedure.</p>
+        <p>4. If, in the cases provided for in the second and third paragraphs of this Article, the President of the International Court of Justice is prevented from discharging the said function or is a national of either Contracting Party, the Vice President shall be invited to make the necessary appointments. If the Vice President is prevented from discharging the said function or is a national of either Party the most senior member of the Court available who is not a national of either Party shall be invited to make the necessary appointments.</p>
+        <p>5. Upon a determination that the Party requesting arbitration has attempted to resolve the dispute through direct and meaningful negotiation, the Tribunal shall proceed to arbitrate the merits of the dispute.</p>
+        <p>6. The Tribunal shall reach its decision by a majority of votes. Such decision shall be binding on the Parties. Each Party shall bear the cost of its own member of the Tribunal and of its representation in the arbitral proceedings: the cost of the Chairman and the remaining costs shall be borne in equal parts by the Parties. The Tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the Parties, and this award shall be binding on the Parties.</p>
+        <p>7. This Article shall not be applicable to a dispute which has been submitted to and is still before the ICSID pursuant to Article 9 of this Agreement.</p>
+      </div>
+      <div type="article" num="11" title="Entry into force, duration and amendments">
+        <p>1. This Agreement shall be approved in accordance with the constitutional procedure in force in each Contracting State.</p>
+        <p>This Agreement shall enter into force one month after the date of the exchange of instruments of ratification for an initial period often years. It shall remain in force thereafter unless one of the Contracting Parties gives one year's written notice of termination through diplomatic channels.</p>
+        <p>2. This Agreement shall apply to investments existing at the time of entry into force as well as to investments made thereafter.</p>
+        <p>3. In case of termination this Agreement shall continue to be effective for investments made before the termination for a further period of 10 years.</p>
+        <p>4. This Agreement may be amended by written agreement between the Contracting Parties. Any amendment shall enter into force when each Contracting Party has notified the other that it has completed all internal requirements for entry into force of such amendment.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned representatives duly authorized thereto by their respective Governments have signed this Agreement.</p>
+      <p>DONE AT ANKARA, on August 27, 1986, in duplicate, in the English, French, Dutch and Turkish languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall serve as a primary reference.</p>
+      <p>For the Belgo-Luxemburg Economic Union:</p>
+      <p>For the Government of the Republic of Turkey:</p>
+    </conclusion>
+  </main>
+</treaty>

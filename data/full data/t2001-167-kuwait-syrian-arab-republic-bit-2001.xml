@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Kuwait - Syrian Arab Republic BIT (2001)</name>
+    <code>T2001-167</code>
+    <partyisocode n="0">KWT</partyisocode>
+    <partyisocode n="1">SYR</partyisocode>
+    <date_signed>2001-08-16</date_signed>
+    <date_into_force>2004-03-23</date_into_force>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">ar</orig_language>
+    <termination_type/>
+    <docreference>2318</docreference>
+    <comments>In force for Syria since 02-02-2002</comments>
+    <source>parliament.gov.sy</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>ar</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{KWT,SYR}_2001-08-16.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_COEXISTS_WITH" document-code="T1980-14">Unified Agreement for the Investment of Arab Capital in the Arab States (1980)</relation>
+    <relation type="IT_COEXISTS_WITH" document-code="T1970-2">Agreement on Investment and Free Movement of Arab Capital among Arab Countries (1970)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>Agreement between the Government of the Syrian Arab Republic and the State of Kuwait for the Mutual Promotion and Protection of Investments</p>
+    </title>
+    <preamble>
+      <p>The Government of the Syrian Arab Republic and the State of Kuwait, hereinafter referred to as the Contracting Parties,</p>
+      <p>Stemming from the national ties and brotherly bonds between the Syrian Arab Republic and the State of Kuwait, and desiring to cooperate based on common interests,</p>
+      <p>Believing in the importance of creating a suitable environment for investments between them based on providing trust and assurance to investors, providing beneficial investment opportunities to them and encouraging them to establish economic projects in the other country.</p>
+      <p>Have agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purpose of this agreement:</p>
+        <p>1. The term "Investments" means: all kinds of assets owned by an investor of a Contracting Party in the territory of the other Contracting Party, following the entry into force of this agreement and conditioned on the host Contracting Party accepting it as an investment as per the observed laws and regulations concerning the promotion of investments.</p>
+        <p>2. The term "Investment" includes, in particular and not exclusively:</p>
+        <p>a. Movable and immovable funds of investment projects covered under one of the investment laws observed in the host Contracting Party, as well as guarantees related to it such as mortgages, liens, and other mortgages.</p>
+        <p>b. Company shares, bonds, stocks, equity, and ownership shares in companies that are allowed to be traded in accordance with the observed laws and regulations in both countries.</p>
+        <p>c. Industrial and intellectual property rights, including copyrights, patents, trademarks, trade names, industrial designs, trade secrets, technical production processes, crafts know-how, and goodwill recognized by the laws of both Contracting Parties and which is used in a licensed investment project in accordance with their observed investment laws.</p>
+        <p>d. The term investment also applies to returns retained in the host country for the purpose of reinvestment.</p>
+        <p>3. The term "Investor" means:</p>
+        <p>a. Natural persons holding the nationality of one of the Contracting Parties in accordance with its laws, who engage in investment activities in the territory of the other Contracting Party, in accordance with its applicable laws and regulations.</p>
+        <p>b. Legal person (entities and units recognized as such personalities in accordance with the laws of the Contracting Party) including public, private and joint companies and institutions that engage in investment activities in the territory of the other Contracting Party.</p>
+        <p>c. Government authorities and institutions.</p>
+        <p>4. The term "Returns" means: net amounts yielded by an investment, in accordance with the applicable laws in the host country, including - in particular and not exclusively - profits, and share profits.</p>
+        <p>5. The term "Territory" means:</p>
+        <p>a. With regards to the Syrian Arab Republic:</p>
+        <p>The term Syrian means: the Syrian Arab Republic in a geographical sense, which means the land of the Syrian Arab Republic including the territorial sea, continental land, subsoil underneath, the airspace above it, and all the other areas lying outside the Syrian territorial waters over which Syria exercises its sovereignty right in accordance with international rights and national legislation for the purpose of extracting and investing natural, biological and mining resources and all other rights present in its water, land and under the seabed.</p>
+        <p>b. With regards to the State of Kuwait:</p>
+        <p>The territory of the State of Kuwait including any area beyond the territorial sea which, in accordance with international law, has been or may hereafter, in accordance with the law of the State of Kuwait, be designated as an area over which the State of Kuwait may exercise its sovereignty or jurisdiction rights.</p>
+      </div>
+      <div type="article" num="2" title="Promotion of Investments">
+        <p>1. Each Contracting Party shall encourage and provide favorable conditions to investors of the other Contracting Party to invest capital in its territory and shall accept such investments in accordance with its laws, regulations and national policies.</p>
+        <p>2. Each Contracting Party shall grant the necessary facilities and permits for the entrance, exit, residence and work of the investor and persons whose work is permanently or temporarily connected to the investment such as experts, administrative and technical staff and workers in, accordance with the applicable laws and regulations of the host country.</p>
+        <p>3. Each Contracting Party commits to providing fair and equitable treatment to investments of investors of the other Contracting Party. They also commit that the management, maintenance, use, transfer, enjoyment or assignment of the investments made by investors of the other Contracting Party in its territory, in addition to companies and projects in which the investments were made, shall not in any way be subject to special or legally unjustifiable measures.</p>
+        <p>4. Investments and returns employed by natural or legal persons in the other Contracting Party shall enjoy facilities, incentives and other forms of encouragement, including exemptions from tax and other fees stipulated by the investment laws and regulations observed in the host country of the investment. The license instrument for each of these investments shall determine the investment law to which it applies and the nature and composition of the project.</p>
+        <p>These investments and their returns shall benefit from the advantages stipulated in by the Unified Arab Investment Treaty, to which both Contracting Parties are parties and have ratified.</p>
+      </div>
+      <div type="article" num="3" title="Protection of Investments">
+        <p>Neither Contracting Party shall harm investments of the other Contracting Party, manage such investments, continue, renew, sell, or liquidate them through procedures that violate the observed laws and regulations, according to the following:</p>
+        <p>1. Investments of either Contracting Party or of their natural and legal persons shall not be subject, directly or indirectly, to nationalization, expropriation, or freezing in the territory of the other Contracting Party. In addition, investments shall not be subject to measures having the same effect as nationalization, expropriation, or restricting the use of the investment property and its returns, unless that is done for a public interest and for the public benefit of that country, in exchange for immediate, fair and non-discriminatory compensation in accordance with the applicable laws, and can be transferred in accordance with Article (4) of this agreement.</p>
+        <p>2. Subject to the provisions of Article 5 of this agreement, the investor shall have the right to object to any of these measures and will accordingly have the right to follow different legal and judicial procedures applicable in the host country.</p>
+        <p>3. The compensation shall be based on the fair market value of the investment, immediately prior to the expropriation decision is made, or as soon as the measure is made public. This value shall be based on the recognized principles of fair market value determination. In case the fair market value could not be determined, the compensation value shall be based on the equivalent principles while taking into consideration the investment capital, depreciation and Goodwill, in addition to similar matters.</p>
+        <p>4. Investors of either Contracting Party who suffer losses to their investments in the territory of the other Contracting Party due to war, armed conflict, revolt, a state of national emergency or insurrection shall be accorded, with respect to restitution, compensation for damage or other forms of compensation, treatment which is no less favorable than that accorded to its own investors, and shall have the right to transfer it abroad in accordance with Article 4 of this agreement.</p>
+      </div>
+      <div type="article" num="4" title="Repatriation of Capital and Returns">
+        <p>Each Contracting Party shall permit the repatriation of capital and returns invested in its territory abroad, in the same currency it was invested in or in any freely convertible currency, without delay, in accordance with the applicable investment laws and regulations, which includes for example:</p>
+        <p>1. Invested capital, including reinvested returns for the purpose of development and expansion which has been licensed by the relevant authorities in the host country.</p>
+        <p>2. Profits, dividends, interest, or other due returns from any investment made by an investor of the other Contracting Party in accordance with its applicable investment laws.</p>
+        <p>3. Proceeds from the full or partial liquidation of an investment made by investors of the other Contracting Party, in accordance with the assets listed in the investment promotion laws of each Contracting Party.</p>
+        <p>4. Repayment of loan installments and its interest obtained from abroad with the knowledge of the host country of the investment in foreign currencies, for the purpose of financing or expanding the investment.</p>
+        <p>5. Compensation provided for in Article 3 of this agreement and payments obtained from disputes related to the project.</p>
+      </div>
+      <div type="article" num="5" title="Settling of Investment Disputes between the Investor and the Host Country">
+        <p>Disputes related to various aspects of the investment, its related activities and returns of either Contracting Party or its nationals shall be settled through conciliation, arbitration, or by resorting to the Arab Investment Court, in accordance with Section 6 of the Unified Agreement for the Investment of Arab Capital in the Arab States and its annex approved by the Arab Economic and Social Council in its Resolution no. 841 dated 10/09/1980 made in its 29th session in Tunisia.</p>
+        <p>The investor shall have the right to resort to domestic courts in the host country of the investment in the following cases:</p>
+        <p>1. The parties disagree to resort to conciliation</p>
+        <p>2. The conciliator is unable to issue his report within the specified time</p>
+        <p>3. The parties fail to agree on the solutions suggested in the conciliator's report</p>
+        <p>4. The parties disagree to resort to arbitration</p>
+        <p>5. The arbitration authority fails to make a decision for any reason</p>
+      </div>
+      <div type="article" num="6" title="Subrogation">
+        <p>1. If an investment that is licensed to an investor of either Contracting Party is insured against non-commercial hazards, under a law-updated system and with the consent of the other Contracting Party, any subrogation of the guarantor as a result of the guarantee agreement shall be recognized by the other Contracting Party.</p>
+        <p>2. The guarantor shall not be authorized to exercise any rights other than those authorized to the investor.</p>
+        <p>3. Any dispute between a Contracting Party and such guarantor shall be settled in accordance with the provisions of Article 5 of this agreement.</p>
+      </div>
+      <div type="article" num="7" title="Application of other Rules and Special Commitments">
+        <p>Investments governed by this agreement may benefit from better provisions and advantages in other agreements to which both countries are parties, or those stipulated in the applicable domestic law of the host country.</p>
+      </div>
+      <div type="article" num="8" title="Dispute Settlement between the Contracting Parties">
+        <p>Any dispute between the Contracting Parties concerning the interpretation of the provisions of this agreement, in case it could not be resolved amicably within six months from the beginning of the dispute, shall be referred to an arbitration tribunal of three members, based on the request of either Contracting Party.</p>
+        <p>Each Contracting Party shall appoint an arbitrator, and these arbitrators shall appoint a chairman to the tribunal who shall be a national of a third country. If either Contracting Party does not appoint an arbitrator and does not give consideration to the other Contracting Party's invitation to make the appointment within two months, the appointment shall be made based on a request submitted by that Contracting Party to the Secretary-General of the League of Arab States.</p>
+        <p>If both arbitrators fail to agree on a chairman to the tribunal within two months from their appointment, the appointment shall be made based on a request submitted by either Contracting Party to the Secretary-General of the League of Arab States.</p>
+        <p>Subject to other provisions agreed upon between the Contracting Parties, the tribunal shall determine its legal procedures. Each Contracting Party shall bear the cost of its appointed arbitrator and the representation costs in the arbitral hearings. The cost of the chairman and the remaining costs shall be borne in equal parts by the Contracting Parties.</p>
+        <p>The tribunal's decisions shall be final and binding on each Contracting Party.</p>
+      </div>
+      <div type="article" num="9" title="Committee for the Follow-up on the Application of the Agreement">
+        <p>In order to enforce this agreement, a joint committee shall be established at the Ministers level or their representatives to promote and protect investments. Its responsibilities shall include:</p>
+        <p>1. Following-up on the implementation of the provisions of this agreement</p>
+        <p>2. Finding ways and methods leading to the promotion of investments between the Contracting Parties</p>
+        <p>3. Working on eliminating difficulties hindering the implementation of investments</p>
+        <p>4. Finding ways and methods for the establishment and financing of the joint project in both countries</p>
+        <p>5. Studying the suggestions referred to it through the relevant parties in the countries</p>
+        <p>6. Acting as a conciliator in investment disputes and working on settling them amicably</p>
+        <p>The joint committee shall convene periodically once a year in one of the countries, alternately and whenever necessary. It's decisions or recommendations shall not be enforceable unless the relevant parties in each of the countries exchange a notice of ratification on them.</p>
+      </div>
+      <div type="article" num="10" title="Entry Into Force">
+        <p>This Agreement shall enter into force (30) days from the date of the last notification of completion of the ratification procedures by the Contracting Parties.</p>
+      </div>
+      <div type="article" num="11" title="Duration and Termination">
+        <p>This Agreement shall remain in force for a period of ten years, and shall be automatically renewed for a similar period, unless either Contracting Party notifies the other Contracting Party in writing of its intention to terminate it a year before its expiration. Investments made before the end of this agreement shall remain subject to it for a period of twenty years from the date of its termination.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>In witness whereof the undersigned, duly authorized thereto by their respective Governments, have signed this Agreement</p>
+      <p>Done on Thursday 27 Jamadi Al Oula 1422 H, corresponding to 16 August 2001, in two originals in Arabic, both texts being equally authentic.</p>
+      <p>For the Government of the State of Kuwait </p>
+      <p>Dr. Youssif Hamad Al Ibrahim Minister of Finance, </p>
+      <p>Minister of Planning and Minister of State for Administrative Development</p>
+      <p>For the Government of the Syrian Arab Republic</p>
+      <p> Dr. Mohammed Al-Ammadi </p>
+      <p>Minister of Economy and Foreign Trade</p>
+    </conclusion>
+  </main>
+</treaty>

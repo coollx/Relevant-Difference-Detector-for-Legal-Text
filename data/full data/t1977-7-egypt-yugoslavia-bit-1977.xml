@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Egypt - Yugoslavia BIT (1977)</name>
+    <code>T1977-7</code>
+    <partyisocode n="0">EGY</partyisocode>
+    <partyisocode n="1">SRB</partyisocode>
+    <partyisocode n="2">YUG</partyisocode>
+    <date_signed>1977-06-03</date_signed>
+    <date_into_force>1979-03-20</date_into_force>
+    <date_terminated>2006-03-20</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">en</orig_language>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>1392</docreference>
+    <comments>Name on treaty is Yugoslavia</comments>
+    <source>http://bpp.uzzpro.gov.rs</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_FILE_NAME_REFERENCE>{EGY,SRB}_1977-06-03.xml</IT_FILE_NAME_REFERENCE>
+    <IT_ORIGIN_LANGUAGE>en</IT_ORIGIN_LANGUAGE>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <relation type="IT_REPLACED_BY" document-code="T2005-46">Egypt - Serbia BIT (2005)</relation>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE SOCIALIST&nbsp;FEDERAL REPUBLIC OF YUGOSLAVIA AND THE GOVERNMENT OF THE ARAB REPUBLIC OF&nbsp;EGYPT ON PROTECTION OF INVESTMENTS</p>
+    </title>
+    <preamble>
+      <p>The Government of the Socialist Federal Republic of Yugoslavia and the Government of the Arab Republic of Egypt,</p>
+      <p>Desiring to promote the existing economic cooperation between the two countries,</p>
+      <p>Having in view that reciprocal protection of investments against non-commercial risks shall encourage business initiative in respect of investments from one country in the territory of the other country,</p>
+      <p>Have agreed as follows</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="For the Purposes of this Agreement">
+        <p>a) The term "investments" shall mean in respect of :</p>
+        <p>- the Socialist Federal Republic of Yugoslavia, invested assets and other investor's assets derived in respect of invested assets in accordance with Yugoslav regulations, and</p>
+        <p>- the Arab Republic of Egypt, every kind of asset and in particular, though not exclusively, includes:</p>
+        <p>1) Movable and immovable property and any other property rights such as mortgages, liens or pledges,</p>
+        <p>2) Shares, stocks and debentures of companies or interests in the property of such companies,</p>
+        <p>3) Claims to money or to any performance under contract having a financial value,</p>
+        <p>4) Intellectual property rights and goodwill,</p>
+        <p>5) Business concessions conferred by law or under contract including concessions to search for, cultivate extract or exploit natural resources, and</p>
+        <p>6) Other investor's assets derived in respect of invested assets</p>
+        <p>b) The term "nationals" shall mean in respect of:</p>
+        <p>- the Socialist Federal Republic of Yugoslavia, physical persons having Yugoslav nationality in accordance with Yugoslav regulations, and</p>
+        <p>- the Arab Republic of Egypt, physical persons having citizenship of the Arab Republic of Egypt in accordance with Egyptian Law</p>
+        <p>c) The term "economic organisation" shall mean in respect of:</p>
+        <p>- the Socialist Federal Republic of Yugoslavia organisations of associated labour, and</p>
+        <p>- the Arab Republic of Egypt, any juridical person as well as any commercial, industrial or other company association or organisation, with or without legal personality having its seat in the territory of the Arabic Republic of Egypt and lawfully existing, whether or not its activities are directed to profit</p>
+        <p>d) The term "non-commercial risk" shall mean losses suffered by investments, owing to</p>
+        <p>- war or other armed conflict, revolution or political events, and</p>
+        <p>- nationalisation, expropriation or other government measures which may be assimilated to the nationalisation or expropriation</p>
+      </div>
+      <div type="article" num="2">
+        <p>Each Contracting Party shall accord to the investments of nationals and to the economic organisations of the other Contracting Party equal protection against non-commercial risks which it accords to investments of nationals and to economic organisations of any third state.</p>
+      </div>
+      <div type="article" num="3">
+        <p>Each Contracting Party undertakes obligation to pay off prompt and effective compensation to the nationals and to the economic organisation of the other Contracting Party the investments of which suffer loss in its territory owing to non-commercial risks.</p>
+      </div>
+      <div type="article" num="4">
+        <p>A Contracting Party shall not take any measures of depriving or restricting, directly or indirectly, the rights of nationals and of economic organisations of the other Contracting Party in respect of their investments, unless the measures are taken in the public interest which is complied with the rules of the Contracting Party and if those measures are not discriminatory.</p>
+        <p>The measure with which the right of nationals and of economic organisation of the other Contracting Party is deprived or restricted simultaneously determine and pay off the compensation.</p>
+      </div>
+      <div type="article" num="5">
+        <p>A Contracting Party and an organisation in particular, which in accordance with its national regulations, compensates its nationals and economic organisations for real loss suffered by their investments in the territory of the other Contracting Party owing to non-commercial risks, is entitled by virtue of subrogation to exercise the rights of these nationals or economic organisations.</p>
+      </div>
+      <div type="article" num="6">
+        <p>The compensations referred to in Articles 3 and 4 of this Agreement shall be payable in a convertible currency or can be through any other channel only in the case the both Parties agree upon it.</p>
+      </div>
+      <div type="article" num="7">
+        <p>The Contracting Parties shall authorise without undue restriction and delay, the transfer of resources paid as the compensation of the loss referred to in Articles 3 and 4 of this Agreement.</p>
+      </div>
+      <div type="article" num="8">
+        <p>Any dispute between a Contracting Party and nationals or economic organisations of the other Contracting Party concerning protection of investments against non-commercial risks, shall be submitted for settlement by the Contracting Parties to the International Centre for Settlement of Investment Disputes, if the national and the economic organisation in dispute so require.</p>
+      </div>
+      <div type="article" num="9">
+        <p>Any dispute between the Contracting Parties arising from the interpretation or application of this Agreement, which may not be settled through diplomatic channels within six months, shall be submitted on request of either Contracting Party to an arbitration consisted of three members Each Party shall appoint one arbiter, and so appointed arbiters shall mutually appoint for their Chairman the third arbiter who shall not be the national of either Contracting Party.</p>
+        <p>If one of the Contracting Parties does not appoint its arbiter and fails to do it within three months after the receipt of the request of the other Party to make this appointment, the other Party may invite the Chairman of the International Court of Justice to make the necessary appointment.</p>
+        <p>If the arbiters appointed by the Contracting Parties cannot agree on election of the third arbiter within three months after their appointment, each Contracting Party shall invite the Chairman of the International Court of Justice to make the necessary appointment.</p>
+        <p>If, in the cases referred to in paragraphs 2 and 3 of this Article, the Chairman of the International Court of Justice is prevented from discharging the said function or is a national of either Contracting Party, the Vice-Chairman of the Court may make the necessary appointment If the Vice-Chairman is prevented from discharging the said function or is a national of either Contracting Party the member of the Court next in seniority who is not a national of either Contracting Party shall make the necessary appointment.</p>
+      </div>
+      <div type="article" num="10">
+        <p>Arbitration referred to in Article 9 of this Agreement shall reach its decision by the majority of votes.</p>
+        <p>The decision of Arbitration shall be binding on both Parties.</p>
+        <p>Each Contracting Party shall bear the cost of its own member and of its representation in the arbitral proceeding, the cost of Chairman and the remaining costs will be borne in equal parts by the Contracting Parties.</p>
+        <p>Arbitration determines the procedure according to which the dispute will be discussed and settled.</p>
+      </div>
+      <div type="article" num="11">
+        <p>This Agreement shall be concluded for a period of ten years from the date of its entry into force and will remain in force after the expiration of this term unless terminated in writing by a Contracting Party a year in advance.</p>
+        <p>In case of the termination, the provisions of the Agreement shall apply on investments made while the Agreement was in force, but no longer than ten years after the termination of the Agreement.</p>
+      </div>
+      <div type="article" num="12">
+        <p>This Agreement shall enter into force on the date of exchange of Diplomatic Notes between the two Contracting Parties notifying each other that the Agreement has been approved in accordance with their respective constitutional procedures.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>Done in Belgrad, June 3rd, 1977, in two original copies in English language.</p>
+      <p>For the Government of the Socialist Federal Republic of Yugoslavia,</p>
+      <p>Radovan Pantovic, (s)</p>
+      <p>For the Government of the Arab Republic of Egypt,</p>
+      <p>Dr Hamed El Sayeh, (s)</p>
+    </conclusion>
+  </main>
+</treaty>

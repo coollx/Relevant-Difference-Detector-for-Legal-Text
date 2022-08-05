@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Austria - Iran, Islamic Republic of BIT (1999)</name>
+    <code>T1999-10</code>
+    <partyisocode n="0">AUT</partyisocode>
+    <partyisocode n="1">IRN</partyisocode>
+    <date_signed>1999-09-21</date_signed>
+    <date_into_force/>
+    <date_terminated>2004-07-11</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>247</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{AUT,IRN}_1999-09-21.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACED_BY" document-code="T2001-16">Austria - Iran, Islamic Republic of BIT (2001)</relation>
+  </meta>
+  <main/>
+</treaty>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Denmark - Russian Federation BIT (1990)</name>
+    <code>T1990-35</code>
+    <partyisocode n="0">DNK</partyisocode>
+    <partyisocode n="1">RUS</partyisocode>
+    <date_signed>1990-05-01</date_signed>
+    <date_into_force/>
+    <date_terminated>1996-08-26</date_terminated>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <termination_type>Replaced by new treaty</termination_type>
+    <docreference>1280</docreference>
+    <comments/>
+    <source/>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_TERMINATION_TYPE>Replaced by new treaty</IT_TERMINATION_TYPE>
+    <IT_FILE_NAME_REFERENCE>{DNK,RUS}_1990-05-01.xml</IT_FILE_NAME_REFERENCE>
+    <relation type="IT_REPLACED_BY" document-code="T1993-76">Denmark - Russian Federation BIT (1993)</relation>
+  </meta>
+  <main/>
+</treaty>

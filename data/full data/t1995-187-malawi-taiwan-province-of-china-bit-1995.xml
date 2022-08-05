@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY nbsp "&#160;">
+]>
+<treaty>
+  <meta>
+    <name>Malawi - Taiwan Province of China BIT (1995)</name>
+    <code>T1995-187</code>
+    <partyisocode n="0">MWI</partyisocode>
+    <partyisocode n="1">TWN</partyisocode>
+    <date_signed>1995-04-22</date_signed>
+    <date_into_force/>
+    <date_terminated/>
+    <type>WTI_TYPE_TREATY_BIT</type>
+    <orig_language n="1">zh</orig_language>
+    <termination_type/>
+    <docreference>2465</docreference>
+    <comments/>
+    <source>mofa.gov.tw</source>
+    <rev_date_into_force/>
+    <rev_date_signed/>
+    <side_date_into_force/>
+    <side_date_signed/>
+    <IT_ORIGIN_LANGUAGE>zh</IT_ORIGIN_LANGUAGE>
+    <IT_FILE_NAME_REFERENCE>{MWI,TWN}_1995-04-22.xml</IT_FILE_NAME_REFERENCE>
+  </meta>
+  <main>
+    <title>
+      <p>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF CHINA AND THE GOVERNMENT OF THE REPUBLIC OF MALAWI FOR INVESTMENT GUARANTY</p>
+    </title>
+    <preamble>
+      <p>PREAMBLE</p>
+      <p>The Government of the Republic of China and the Government of the Republic of Malawi (hereinafter referred to as the Contracting Parties);</p>
+      <p>AWARE of the prevailing investment climate in the Republic of Malawi (hereinafter referred to as the Host Country);</p>
+      <p>DESIRING to create conditions favourable for investors of the Republic of China to make investments in the territory of the Host Country for the purposes of promoting further economic development in the Host Country; and</p>
+      <p>RECOGNISING that extending protection to such investments will encourage the desire to invest and foster prosperity in both countries;</p>
+      <p>HAVE agreed as follows:</p>
+    </preamble>
+    <body>
+      <div type="article" num="1" title="Definitions">
+        <p>For the purposes of this Agreement, unless the context otherwise requires:</p>
+        <p>"Investor" means:</p>
+        <p>(a)  a national of the Republic of China;</p>
+        <p>(b)  a corporation or other juridical person constituted under the laws of the Republic of China, or</p>
+        <p>(c)  a foreign corporation whose majority shareholders are nationals of the Republic of China;</p>
+        <p>"Investment capital" includes:</p>
+        <p>(a)  cash in the form of foreign exchange brought into or remitted to the Host Country;</p>
+        <p>(b)  imports of machinery, equipment and raw materials for own use;</p>
+        <p>(c)  technical know-how and intellectual and industrial property rights; or</p>
+        <p>(d)  principal, net profit, interest or any other income derived from investment;</p>
+        <p>"Investment" means investment by an investor in the territory of the Host Country including:</p>
+        <p>(a)  the establishment of new enterprises or expansion of existing enterprises through increase of capital by undertaking capital investment individually or in joint venture or jointly with the Government, or natural or juridical persons of the Host Country;</p>
+        <p>(b)  the purchase of stocks or bonds of existing enterprises, or the extension of loans or cash, machinery, equipment or raw materials to existing enterprises;</p>
+        <p>(c)  the provision of technical know-how, or intellectual or industrial property rights for capital stock;</p>
+        <p>(d)  the provision of technical know-how, or intellectual or industrial property rights as a form of cooperation;</p>
+        <p>"Specific risk" means:</p>
+        <p>(a)  "Inconvertibility", namely, a situation where an investor is unable to transfer outside the Host Country its currency into freely usable currency due to foreign exchange controls attributable to the Host Country, including a failure of the Host Country to act within a reasonable time on an application for such a transfer, but docs not include the risk of devaluation or depreciation of currency;</p>
+        <p>(b)  "Expropriation, namely, the deprivation of rights to property either as such or by permanent transfer of the power of management and control, or administrative or legislative actions of the Host Country which causes the same material adverse effect to the property or operation of the investors as that of expropriation; or</p>
+        <p>(c)  damages resulting from war, revolution or insurrection.</p>
+      </div>
+      <div type="article" num="2" title="Approval of investment">
+        <p>1.  Every investment under this Agreement shall be approved by the Contracting Parties.</p>
+        <p>2.  Where the Government of the Host Country, its agency or instrumentality enters into an investment contract with an investor, the investment shall, unless expressly otherwise provided, be deemed to have been approved by the Host Country.</p>
+      </div>
+      <div type="article" num="3" title="National and mfn treatment">
+        <p>1.  The Host Country shall not, within its territory, accord an investor treatment with respect to investments or investment capital less favourable than the treatment which is or may hereafter be accorded to natural or juridical persons of the Host Country or natural or juridical persons of a third country.</p>
+        <p>2.  The Host Country shall not, within its territory, accord an investor treatment with respect to the management, use, enjoyment or disposal of his investment less favourable than the treatment which is or hereafter may be accorded to natural or juridical persons of the Host Country or nationals or juridical persons of a third country.</p>
+        <p>3.  The provisions of this Agreement relative to the grant of treatment not less favourable than that accorded to investors or to any third country shall not be construed so as to oblige the Host Country to extend to investors the benefit of any treatment, preference or privilege resulting from:</p>
+        <p>(a)  any existing or future customs union or similar international agreement to which the Host Country is or may become a party, or</p>
+        <p>(b)  any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation.</p>
+      </div>
+      <div type="article" num="4" title="Investment guarantee">
+        <p>1.  The Host Country agrees that the Government of the Republic of China may guarantee an investment which has been approved under this Agreement.</p>
+        <p>2.  If a specific risk occurs, and if the Government of the Republic of China indemnifies the investor for the damages incurred, the Government of the Republic of China shall acquire all rights of the investor, and may assert all rights and claims which the investor may have asserted provided that the Government of the Republic of China shall assert no greater rights nor lesser obligations than those of the investor.</p>
+        <p>3.  The Host Country shall recognise the transfer to the Government of the Republic of China of any right or title to or interest in. assets, currencies, credits or other property rights, together with any claim or cause of action arising in connection with the provisions of this Agreement.</p>
+      </div>
+      <div type="article" num="5" title="Claimable damages">
+        <p>1.  In the event of the occurrence of a specific risk, and subject to the provisions of Article 4 of this Agreement, the Government of the Republic of China may recover from the Host Country as follows:</p>
+        <p>(a)  Inconvertibility, an investor may invoke the convertibility guaranty and transfer his blocked local currencies to the account of the Government of the Republic of China in the Host Country and request the Government of the Republic of China to compensate the investor for the damage resulting therefrom;</p>
+        <p>(b)  Expropriation, the Government of the Republic of China may request, after reimbursing the investor of the Republic of China for damages incurred, the Host Country to compensate the investor for such damages;</p>
+        <p>(c)  War, revolution or insurrection, the Government of the Republic of China may claim any restitution, indemnification, compensation or other settlement no less favourable than the Host Country could accord to its own natural or juridical persons, or natural or juridical persons of a third country in similar circumstances.</p>
+        <p>2.  Any compensation which the Government of the Republic of China may acquire pursuant to paragraph 1(b) of this Article, shall be equal to the fair market value at the time immediately preceding the occurence of the specific risk, and shall include interest accrued at a normal commercial rate up to the date of payment, and shall be made without delay.</p>
+        <p>3.  The Government of the Republic of China may opt to exchange any compensation under this Agreement into foreign currency or spend it for any lawful purpose, including to meet its expenditures in the territory of the Host Country.</p>
+      </div>
+      <div type="article" num="6" title="Settlement of claims and disputes">
+        <p>1.  Any claim against the Host Country, to which the Government of the Republic of China shall be entitled by virtue of the provisions of this Agreement shall be subject to direct negotiations between the Contracting Parties.</p>
+        <p>2.  Any dispute that may arise relating to the interpretation or application of the Agreement shall also be subject to direct negotiations between the Contracting Parties.</p>
+        <p>3.  In either case, if the Contracting Parties fail to reach agreement within six months, the matter shall be submitted, at the request of either Contracting Party, to arbitration.</p>
+        <p>4.  An Arbitral Tribunal shall be established for that purpose consisting of three arbitrators, one to be appointed by each Contracting Party and the third to be appointed by the two so appointed.</p>
+        <p>5. Each of the Contracting Parties shall appoint an arbitrator within a period of sixty (60) days from the date of receipt by either Contracting Party from the other of a notice through diplomatic channels requesting arbitration of the dispute by the Arbitral Tribunal and the third arbitrator shall be appointed within a further sixty (60) days. If either of the Contracting Parties fails to appoint an arbitrator within the period specified or if the third arbitrator is not appointed within the period specified the International Chamber of Commerce in Paris may be requested to appoint an arbitrator or arbitrators as the case requires.</p>
+        <p>6.  The third arbitrator appointed under paragraph 4 and the arbitrator or, if more than one are so appointed, at least one arbitrator appointed under paragraph 5, shall be a national of a third country and shall act as Chairman of the Arbitral Tribunal.</p>
+        <p>7.  The Arbitral Tribunal shall decide by majority vote and its decision shall be binding.</p>
+        <p>8.  The Arbitral Tribunal shall determine its own rules of procedure.</p>
+      </div>
+      <div type="article" num="7" title="Amendment">
+        <p>Any provision of this Agreement may be amended by mutual agreement between the Contracting Parties. Any such amendment shall be confirmed by an Exchange of Diplomatic Notes.</p>
+      </div>
+      <div type="article" num="8" title="Entry into force">
+        <p>Each Contracting Party shall notify the other in writing of the completion of the constitutional formalities required in its territory for the entry into force of the Agreement, and this Agreement shall enter into force on the date of the latter of the two notifications.</p>
+      </div>
+      <div type="article" num="9" title="Duration and termination">
+        <p>This Agreement shall remain in force for a period of ten years and shall thereafter continue in force until the expiration of twelve months from the date on which either Contracting Party shall have given written notice of termination to the other. However, with respect to investments made while this Agreement is in force, its provisions shall continue to be effective for a period of twenty years after the date of termination and without prejudice to the application thereafter of the rules of general international law.</p>
+      </div>
+    </body>
+    <conclusion>
+      <p>IN WITNESS WHEREOF, the undersigned, being duly authorized by their respective Governments, have signed this Agreement.</p>
+      <p>Done at Taipei, in duplicate, in the Chinese and English languages, both texts being equally authentic, on this twenty-second day of the fourth month of the Eighty-fourth year of the Republic of China, corresponding to the twenty-second day of April, 1995.</p>
+      <p>[Signed]</p>
+      <p>For the Government of the Republic of China</p>
+      <p>[Signed]</p>
+      <p>For the Government of the Republic of Malawi</p>
+    </conclusion>
+  </main>
+</treaty>
