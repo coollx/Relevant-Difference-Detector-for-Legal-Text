@@ -39,3 +39,8 @@ def correct_spellings(text):
             corrected_text.append(word)
     return " ".join(list(filter(None, corrected_text)))
         
+def iou(set1, set2):
+    '''
+    Calculate the intersection over union of two sets
+    '''
+    return len(set1.intersection(set2)) / len(set1.union(set2))
