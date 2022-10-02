@@ -59,7 +59,7 @@ def train(model, train_dataloader, val_dataloader, learning_rate, epochs):
                     total_acc_val += acc
             
             print(
-                f'Epochs: {epoch_num + 1} | Train Loss: {total_loss_train / len(train_dataloader): .3f} \
-                | Train Accuracy: {total_acc_train / len(train_dataloader): .3f} \
-                | Val Loss: {total_loss_val / len(val_dataloader): .3f} \
-                | Val Accuracy: {total_acc_val / len(val_dataloader): .3f}')
+                f'Epochs: {epoch_num + 1} | Train Loss: {total_loss_train / len(train_dataloader.dataset): .3f} \
+                | Train Accuracy: {total_acc_train / len(train_dataloader.dataset): .3f} \
+                | Val Loss: {total_loss_val / len(val_dataloader.dataset): .3f} \
+                | Val Accuracy: {total_acc_val / len(val_dataloader.dataset): .3f}')
