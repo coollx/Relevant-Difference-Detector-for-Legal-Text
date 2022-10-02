@@ -3,10 +3,10 @@ mpl.rcParams['figure.facecolor'] = 'white'
 import pandas as pd
 import torch
 import numpy as np
-from transformers import BertTokenizer
+from transformers import BertTokenizer, RobertaTokenizer
+from imblearn.under_sampling import RandomUnderSampler
 
-
-datapath = '../generated_data/similar_sentences.xlsx'
+datapath = '../generated_data/similar_sentences_large.xlsx'
 df = pd.read_excel(datapath)
 labels = {'RELEVANT': 0, 'STYLYSTIC': 1, 'IRRELEVANT': 2}
 
@@ -43,13 +43,20 @@ class Dataset(torch.utils.data.Dataset):
 
 def get_dataloader(df, batch_size=16, shuffle=True, tokenizer = 'bert-base-cased'):
 
-    if tokenizer == 'bert-base-cased':
-        tokenizer = BertTokenizer.from_pretrained('bert-base-cased')
-        max_len = 512
+    tokenizer = BertTokenizer.from_pretrained(tokenizer)
+    #tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
+    #if tokenizer in {'bert-base-cased', 'nlpaueb/legal-bert-base-uncased'}:
+    max_len = 512
+    
     
     np.random.seed(42)
     df_train, df_val, df_test = np.split(df.sample(frac=1, random_state=42), 
                                         [int(.8*len(df)), int(.9*len(df))])
+
+    rus = RandomUnderSampler(random_state=42)
+    df_train, _ = rus.fit_resample(df_train, df_train['label'])
+    print(df_train['label'].value_counts())
+    
 
     print('train:', len(df_train), 'val:', len(df_val), 'test:', len(df_test))
 
