@@ -43,8 +43,8 @@ class Dataset(torch.utils.data.Dataset):
 
 def get_dataloader(df, batch_size=16, shuffle=True, tokenizer = 'bert-base-cased'):
 
-    tokenizer = BertTokenizer.from_pretrained(tokenizer)
-    #tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
+    #tokenizer = BertTokenizer.from_pretrained(tokenizer)
+    tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
     #if tokenizer in {'bert-base-cased', 'nlpaueb/legal-bert-base-uncased'}:
     max_len = 512
     
